@@ -1,0 +1,154 @@
+{
+  "programs": [
+    {
+      "code": "IRAN",
+      "name": "Iran Sanctions",
+      "entry_count_sdn": 1287,
+      "entry_count_consolidated": 412,
+      "last_updated": "2026-03-03",
+      "weekly_added": 5,
+      "weekly_removed": 1,
+      "description": "Sanctions targeting Iran's nuclear proliferation, ballistic missile development, and support for terrorism, pursuant to multiple Executive Orders and the Iran Transactions and Sanctions Regulations."
+    },
+    {
+      "code": "RUSSIA-EO14024",
+      "name": "Russia Harmful Foreign Activities Sanctions",
+      "entry_count_sdn": 982,
+      "entry_count_consolidated": 347,
+      "last_updated": "2026-03-03",
+      "weekly_added": 8,
+      "weekly_removed": 0,
+      "description": "Sanctions related to Russia's harmful foreign activities including undermining democratic institutions, cyber-enabled activities, and the conflict in Ukraine, pursuant to E.O. 14024."
+    },
+    {
+      "code": "CUBA",
+      "name": "Cuba Sanctions",
+      "entry_count_sdn": 421,
+      "entry_count_consolidated": 89,
+      "last_updated": "2026-02-18",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "Comprehensive sanctions program targeting Cuba, administered under the Cuban Assets Control Regulations (CACR)."
+    },
+    {
+      "code": "DPRK",
+      "name": "North Korea Sanctions",
+      "entry_count_sdn": 534,
+      "entry_count_consolidated": 178,
+      "last_updated": "2026-03-03",
+      "weekly_added": 3,
+      "weekly_removed": 0,
+      "description": "Sanctions targeting North Korea's weapons of mass destruction and ballistic missile programs, illicit financial activities, and human rights abuses."
+    },
+    {
+      "code": "SDGT",
+      "name": "Specially Designated Global Terrorist",
+      "entry_count_sdn": 1643,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-03",
+      "weekly_added": 4,
+      "weekly_removed": 0,
+      "description": "Designations of foreign persons who have committed, or pose a significant risk of committing, acts of terrorism threatening U.S. national security."
+    },
+    {
+      "code": "SDNT",
+      "name": "Specially Designated Narcotics Trafficker",
+      "entry_count_sdn": 2174,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-03",
+      "weekly_added": 2,
+      "weekly_removed": 1,
+      "description": "Designations of significant foreign narcotics traffickers and their organizations under the Foreign Narcotics Kingpin Designation Act."
+    },
+    {
+      "code": "SYRIA",
+      "name": "Syria Sanctions",
+      "entry_count_sdn": 387,
+      "entry_count_consolidated": 134,
+      "last_updated": "2026-03-03",
+      "weekly_added": 0,
+      "weekly_removed": 1,
+      "description": "Sanctions targeting the Syrian regime and its supporters for human rights abuses, corruption, and destabilizing activities in the region."
+    },
+    {
+      "code": "VENEZUELA",
+      "name": "Venezuela Sanctions",
+      "entry_count_sdn": 214,
+      "entry_count_consolidated": 67,
+      "last_updated": "2026-03-03",
+      "weekly_added": 1,
+      "weekly_removed": 0,
+      "description": "Sanctions targeting the Maduro regime in Venezuela for undermining democratic processes, human rights abuses, and corruption."
+    },
+    {
+      "code": "CYBER2",
+      "name": "Malicious Cyber-Enabled Activities Sanctions",
+      "entry_count_sdn": 189,
+      "entry_count_consolidated": 42,
+      "last_updated": "2026-03-03",
+      "weekly_added": 3,
+      "weekly_removed": 0,
+      "description": "Sanctions targeting persons engaged in significant malicious cyber-enabled activities, including attacks on critical infrastructure and election interference."
+    },
+    {
+      "code": "GLOMAG",
+      "name": "Global Magnitsky Sanctions",
+      "entry_count_sdn": 376,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-02-24",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "Sanctions targeting perpetrators of serious human rights abuse and corruption worldwide under the Global Magnitsky Human Rights Accountability Act."
+    },
+    {
+      "code": "UKRAINE-EO13661",
+      "name": "Ukraine-Related Sanctions",
+      "entry_count_sdn": 612,
+      "entry_count_consolidated": 285,
+      "last_updated": "2026-02-24",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "Sanctions related to Russia's actions in Ukraine, targeting persons responsible for or complicit in actions undermining Ukraine's sovereignty."
+    },
+    {
+      "code": "TCO",
+      "name": "Transnational Criminal Organizations Sanctions",
+      "entry_count_sdn": 487,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-02-18",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "Sanctions targeting significant transnational criminal organizations and their members, facilitators, and supporters."
+    },
+    {
+      "code": "BALKANS",
+      "name": "Western Balkans Stabilization Sanctions",
+      "entry_count_sdn": 93,
+      "entry_count_consolidated": 28,
+      "last_updated": "2026-01-27",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "Sanctions targeting persons contributing to the destabilization of the Western Balkans region, including obstruction of the Dayton Accords."
+    },
+    {
+      "code": "YEMEN",
+      "name": "Yemen-Related Sanctions",
+      "entry_count_sdn": 142,
+      "entry_count_consolidated": 31,
+      "last_updated": "2026-02-10",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "Sanctions targeting those threatening the peace, security, or stability of Yemen, including Houthi-affiliated actors."
+    },
+    {
+      "code": "CMIC",
+      "name": "Chinese Military-Industrial Complex Sanctions",
+      "entry_count_sdn": 68,
+      "entry_count_consolidated": 247,
+      "last_updated": "2026-02-24",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "Sanctions addressing the threat posed by the military-industrial complex of the People's Republic of China, restricting U.S. investment in designated Chinese companies."
+    }
+  ]
+}

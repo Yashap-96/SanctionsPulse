@@ -1,0 +1,202 @@
+{
+  "IR": {
+    "country": "Iran",
+    "iso2": "IR",
+    "total": 1352,
+    "sdn": 1024,
+    "consolidated": 328,
+    "programs": ["IRAN", "SDGT", "CYBER2"],
+    "weekly_added": 5,
+    "weekly_removed": 1
+  },
+  "RU": {
+    "country": "Russia",
+    "iso2": "RU",
+    "total": 814,
+    "sdn": 587,
+    "consolidated": 227,
+    "programs": ["RUSSIA-EO14024", "UKRAINE-EO13661", "CYBER2"],
+    "weekly_added": 8,
+    "weekly_removed": 0
+  },
+  "CU": {
+    "country": "Cuba",
+    "iso2": "CU",
+    "total": 453,
+    "sdn": 381,
+    "consolidated": 72,
+    "programs": ["CUBA"],
+    "weekly_added": 0,
+    "weekly_removed": 0
+  },
+  "KP": {
+    "country": "North Korea",
+    "iso2": "KP",
+    "total": 512,
+    "sdn": 398,
+    "consolidated": 114,
+    "programs": ["DPRK", "CYBER2"],
+    "weekly_added": 3,
+    "weekly_removed": 0
+  },
+  "SY": {
+    "country": "Syria",
+    "iso2": "SY",
+    "total": 387,
+    "sdn": 294,
+    "consolidated": 93,
+    "programs": ["SYRIA", "SDGT"],
+    "weekly_added": 1,
+    "weekly_removed": 1
+  },
+  "VE": {
+    "country": "Venezuela",
+    "iso2": "VE",
+    "total": 231,
+    "sdn": 178,
+    "consolidated": 53,
+    "programs": ["VENEZUELA"],
+    "weekly_added": 1,
+    "weekly_removed": 0
+  },
+  "CN": {
+    "country": "China",
+    "iso2": "CN",
+    "total": 298,
+    "sdn": 61,
+    "consolidated": 237,
+    "programs": ["CMIC", "CYBER2", "DPRK"],
+    "weekly_added": 0,
+    "weekly_removed": 0
+  },
+  "MM": {
+    "country": "Myanmar",
+    "iso2": "MM",
+    "total": 143,
+    "sdn": 112,
+    "consolidated": 31,
+    "programs": ["GLOMAG", "BURMA"],
+    "weekly_added": 0,
+    "weekly_removed": 0
+  },
+  "BY": {
+    "country": "Belarus",
+    "iso2": "BY",
+    "total": 127,
+    "sdn": 89,
+    "consolidated": 38,
+    "programs": ["BELARUS", "RUSSIA-EO14024"],
+    "weekly_added": 0,
+    "weekly_removed": 0
+  },
+  "UA": {
+    "country": "Ukraine",
+    "iso2": "UA",
+    "total": 186,
+    "sdn": 142,
+    "consolidated": 44,
+    "programs": ["UKRAINE-EO13661"],
+    "weekly_added": 0,
+    "weekly_removed": 0
+  },
+  "IQ": {
+    "country": "Iraq",
+    "iso2": "IQ",
+    "total": 174,
+    "sdn": 151,
+    "consolidated": 23,
+    "programs": ["IRAQ3", "SDGT"],
+    "weekly_added": 0,
+    "weekly_removed": 0
+  },
+  "AF": {
+    "country": "Afghanistan",
+    "iso2": "AF",
+    "total": 218,
+    "sdn": 197,
+    "consolidated": 21,
+    "programs": ["SDGT"],
+    "weekly_added": 0,
+    "weekly_removed": 0
+  },
+  "LB": {
+    "country": "Lebanon",
+    "iso2": "LB",
+    "total": 162,
+    "sdn": 143,
+    "consolidated": 19,
+    "programs": ["SDGT", "LEBANON"],
+    "weekly_added": 1,
+    "weekly_removed": 0
+  },
+  "YE": {
+    "country": "Yemen",
+    "iso2": "YE",
+    "total": 142,
+    "sdn": 118,
+    "consolidated": 24,
+    "programs": ["YEMEN", "SDGT"],
+    "weekly_added": 0,
+    "weekly_removed": 0
+  },
+  "SD": {
+    "country": "Sudan",
+    "iso2": "SD",
+    "total": 97,
+    "sdn": 78,
+    "consolidated": 19,
+    "programs": ["SUDAN"],
+    "weekly_added": 0,
+    "weekly_removed": 0
+  },
+  "NI": {
+    "country": "Nicaragua",
+    "iso2": "NI",
+    "total": 64,
+    "sdn": 52,
+    "consolidated": 12,
+    "programs": ["NICARAGUA"],
+    "weekly_added": 0,
+    "weekly_removed": 0
+  },
+  "HK": {
+    "country": "Hong Kong",
+    "iso2": "HK",
+    "total": 83,
+    "sdn": 34,
+    "consolidated": 49,
+    "programs": ["HKDEM", "CMIC"],
+    "weekly_added": 0,
+    "weekly_removed": 0
+  },
+  "ET": {
+    "country": "Ethiopia",
+    "iso2": "ET",
+    "total": 47,
+    "sdn": 38,
+    "consolidated": 9,
+    "programs": ["ETHIOPIA"],
+    "weekly_added": 0,
+    "weekly_removed": 0
+  },
+  "SO": {
+    "country": "Somalia",
+    "iso2": "SO",
+    "total": 72,
+    "sdn": 64,
+    "consolidated": 8,
+    "programs": ["SOMALIA", "SDGT"],
+    "weekly_added": 0,
+    "weekly_removed": 0
+  },
+  "LY": {
+    "country": "Libya",
+    "iso2": "LY",
+    "total": 58,
+    "sdn": 41,
+    "consolidated": 17,
+    "programs": ["LIBYA"],
+    "weekly_added": 0,
+    "weekly_removed": 0
+  }
+}

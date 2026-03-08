@@ -1,0 +1,329 @@
+{
+  "date": "2026-03-03",
+  "period": "2026-02-24 to 2026-03-03",
+  "summary": {
+    "added": 10,
+    "removed": 3,
+    "updated": 4
+  },
+  "additions": [
+    {
+      "uid": "OFAC-42891",
+      "name": "TEKNOINVEST LLC",
+      "entry_type": "Entity",
+      "programs": ["RUSSIA-EO14024"],
+      "countries": ["RU"],
+      "list_type": "SDN",
+      "addresses": [
+        {
+          "address": "12 Tverskaya Street, Bldg 3",
+          "city": "Moscow",
+          "country": "Russia",
+          "postal_code": "125009"
+        }
+      ],
+      "ids": [
+        { "type": "Registration Number", "value": "1027700132195" }
+      ],
+      "dob": null,
+      "nationalities": []
+    },
+    {
+      "uid": "OFAC-42892",
+      "name": "PETROV, Sergei Arkadyevich",
+      "entry_type": "Individual",
+      "programs": ["RUSSIA-EO14024"],
+      "countries": ["RU"],
+      "list_type": "SDN",
+      "addresses": [
+        {
+          "address": "Kutuzovsky Prospekt 26",
+          "city": "Moscow",
+          "country": "Russia",
+          "postal_code": "121151"
+        }
+      ],
+      "ids": [
+        { "type": "Passport", "value": "7210 483726" }
+      ],
+      "dob": "1974-06-12",
+      "nationalities": ["Russian"]
+    },
+    {
+      "uid": "OFAC-42893",
+      "name": "RAVAN PETROCHEMICAL COMPLEX",
+      "entry_type": "Entity",
+      "programs": ["IRAN"],
+      "countries": ["IR"],
+      "list_type": "SDN",
+      "addresses": [
+        {
+          "address": "Mahshahr Special Economic Zone",
+          "city": "Mahshahr",
+          "country": "Iran",
+          "postal_code": null
+        }
+      ],
+      "ids": [
+        { "type": "Commercial Registry Number", "value": "IR-2841-KHZ" }
+      ],
+      "dob": null,
+      "nationalities": []
+    },
+    {
+      "uid": "OFAC-42894",
+      "name": "MOHAMMADI, Alireza",
+      "entry_type": "Individual",
+      "programs": ["IRAN", "SDGT"],
+      "countries": ["IR"],
+      "list_type": "SDN",
+      "addresses": [
+        {
+          "address": "Vali-e-Asr Avenue",
+          "city": "Tehran",
+          "country": "Iran",
+          "postal_code": null
+        }
+      ],
+      "ids": [
+        { "type": "National ID No.", "value": "0071548293" }
+      ],
+      "dob": "1968-03-21",
+      "nationalities": ["Iranian"]
+    },
+    {
+      "uid": "OFAC-42895",
+      "name": "DARKSTREAM CYBER GROUP",
+      "entry_type": "Entity",
+      "programs": ["CYBER2"],
+      "countries": ["KP"],
+      "list_type": "SDN",
+      "addresses": [
+        {
+          "address": "Potonggang District",
+          "city": "Pyongyang",
+          "country": "North Korea",
+          "postal_code": null
+        }
+      ],
+      "ids": [],
+      "dob": null,
+      "nationalities": []
+    },
+    {
+      "uid": "OFAC-42896",
+      "name": "RI, Chol-hwan",
+      "entry_type": "Individual",
+      "programs": ["DPRK", "CYBER2"],
+      "countries": ["KP"],
+      "list_type": "SDN",
+      "addresses": [],
+      "ids": [
+        { "type": "Passport", "value": "PD 836291047" }
+      ],
+      "dob": "1985-11-03",
+      "nationalities": ["North Korean"]
+    },
+    {
+      "uid": "OFAC-42897",
+      "name": "VOLGA DEFENSE SYSTEMS JSC",
+      "entry_type": "Entity",
+      "programs": ["RUSSIA-EO14024"],
+      "countries": ["RU"],
+      "list_type": "SDN",
+      "addresses": [
+        {
+          "address": "Ulitsa Akademika Koroleva 15",
+          "city": "Nizhny Novgorod",
+          "country": "Russia",
+          "postal_code": "603950"
+        }
+      ],
+      "ids": [
+        { "type": "Registration Number", "value": "1025202830147" }
+      ],
+      "dob": null,
+      "nationalities": []
+    },
+    {
+      "uid": "OFAC-42898",
+      "name": "AL-FURAT GENERAL TRADING CO",
+      "entry_type": "Entity",
+      "programs": ["SDGT"],
+      "countries": ["SY", "LB"],
+      "list_type": "SDN",
+      "addresses": [
+        {
+          "address": "Al Hamra Street",
+          "city": "Damascus",
+          "country": "Syria",
+          "postal_code": null
+        },
+        {
+          "address": "Rue Verdun",
+          "city": "Beirut",
+          "country": "Lebanon",
+          "postal_code": null
+        }
+      ],
+      "ids": [
+        { "type": "Commercial Registry Number", "value": "SY-19238" }
+      ],
+      "dob": null,
+      "nationalities": []
+    },
+    {
+      "uid": "OFAC-42899",
+      "name": "KUZNETSOVA, Marina Vladimirovna",
+      "entry_type": "Individual",
+      "programs": ["RUSSIA-EO14024"],
+      "countries": ["RU"],
+      "list_type": "SDN",
+      "addresses": [
+        {
+          "address": "Rublyovskoye Shosse 28",
+          "city": "Moscow",
+          "country": "Russia",
+          "postal_code": "121609"
+        }
+      ],
+      "ids": [
+        { "type": "Passport", "value": "4615 892041" }
+      ],
+      "dob": "1981-09-17",
+      "nationalities": ["Russian"]
+    },
+    {
+      "uid": "OFAC-42900",
+      "name": "PARDIS ELECTRONICS MANUFACTURING",
+      "entry_type": "Entity",
+      "programs": ["IRAN"],
+      "countries": ["IR"],
+      "list_type": "Consolidated",
+      "addresses": [
+        {
+          "address": "Isfahan Science and Technology Town",
+          "city": "Isfahan",
+          "country": "Iran",
+          "postal_code": null
+        }
+      ],
+      "ids": [
+        { "type": "Commercial Registry Number", "value": "IR-7182-ISF" }
+      ],
+      "dob": null,
+      "nationalities": []
+    }
+  ],
+  "removals": [
+    {
+      "uid": "OFAC-31204",
+      "name": "CASPIAN ENERGY PARTNERS LTD",
+      "entry_type": "Entity",
+      "programs": ["IRAN"],
+      "countries": ["IR", "AE"],
+      "list_type": "SDN",
+      "removed_date": "2026-03-03",
+      "reason": "Delisted pursuant to settlement agreement"
+    },
+    {
+      "uid": "OFAC-28917",
+      "name": "TORRES GARCIA, Carlos Eduardo",
+      "entry_type": "Individual",
+      "programs": ["SDNT"],
+      "countries": ["CO"],
+      "list_type": "SDN",
+      "removed_date": "2026-03-03",
+      "reason": "Delisted - no longer meets designation criteria"
+    },
+    {
+      "uid": "OFAC-33651",
+      "name": "MERIDIAN SHIPPING SERVICES FZE",
+      "entry_type": "Entity",
+      "programs": ["SYRIA"],
+      "countries": ["AE", "SY"],
+      "list_type": "SDN",
+      "removed_date": "2026-03-03",
+      "reason": "Delisted pursuant to change in circumstances"
+    }
+  ],
+  "updates": [
+    {
+      "uid": "OFAC-19482",
+      "name": "MASHREQ INDUSTRIAL GROUP",
+      "entry_type": "Entity",
+      "programs": ["IRAN"],
+      "countries": ["IR"],
+      "list_type": "SDN",
+      "changes": [
+        {
+          "field": "addresses",
+          "action": "added",
+          "new_value": "Unit 14, Kish Free Zone, Kish Island, Iran"
+        },
+        {
+          "field": "ids",
+          "action": "added",
+          "new_value": { "type": "Commercial Registry Number", "value": "IR-4029-KSH" }
+        }
+      ]
+    },
+    {
+      "uid": "OFAC-24831",
+      "name": "SOROKIN, Dmitri Pavlovich",
+      "entry_type": "Individual",
+      "programs": ["RUSSIA-EO14024"],
+      "countries": ["RU"],
+      "list_type": "SDN",
+      "changes": [
+        {
+          "field": "programs",
+          "action": "added",
+          "new_value": "CYBER2"
+        },
+        {
+          "field": "addresses",
+          "action": "updated",
+          "old_value": "Leninsky Prospekt 47, Moscow, Russia",
+          "new_value": "Prospekt Mira 101, Moscow, Russia"
+        }
+      ]
+    },
+    {
+      "uid": "OFAC-37210",
+      "name": "GOLDEN BRIDGE IMPORT EXPORT CO",
+      "entry_type": "Entity",
+      "programs": ["DPRK"],
+      "countries": ["KP", "CN"],
+      "list_type": "SDN",
+      "changes": [
+        {
+          "field": "countries",
+          "action": "added",
+          "new_value": "MY"
+        },
+        {
+          "field": "addresses",
+          "action": "added",
+          "new_value": "23 Jalan Ampang, Kuala Lumpur, Malaysia"
+        }
+      ]
+    },
+    {
+      "uid": "OFAC-40115",
+      "name": "BANCO CONTINENTAL DE COMERCIO",
+      "entry_type": "Entity",
+      "programs": ["VENEZUELA"],
+      "countries": ["VE"],
+      "list_type": "SDN",
+      "changes": [
+        {
+          "field": "name",
+          "action": "updated",
+          "old_value": "BANCO CONTINENTAL DE COMERCIO C.A.",
+          "new_value": "BANCO CONTINENTAL DE COMERCIO"
+        }
+      ]
+    }
+  ]
+}
