@@ -71,13 +71,40 @@ export interface CountrySanctionData {
   weekly_removed: number;
 }
 
+export interface NotableEntity {
+  uid: string;
+  name: string;
+  programs: string[];
+  significance: string;
+}
+
+export interface RiskImplication {
+  level: "HIGH" | "MEDIUM" | "LOW";
+  area: string;
+  description: string;
+}
+
+export interface ProgramHighlight {
+  program: string;
+  weekly_added: number;
+  note: string;
+}
+
+export interface GeographicHotspot {
+  region: string;
+  countries: string[];
+  activity: string;
+  trend: string;
+}
+
 export interface AISummary {
   date: string;
+  period: string;
   executive_summary: string;
-  notable_entities: string[];
-  risk_implications: string[];
-  program_highlights: string[];
-  geographic_hotspots: string[];
+  notable_entities: NotableEntity[];
+  risk_implications: RiskImplication[];
+  program_highlights: ProgramHighlight[];
+  geographic_hotspots: GeographicHotspot[];
   compliance_recommendations: string[];
 }
 

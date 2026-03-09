@@ -29,9 +29,9 @@
 
 | Layer | Technology | Rationale |
 |-------|-----------|-----------|
-| **Frontend** | React 18 + TypeScript | Component-based, strong typing, large ecosystem |
-| **Build** | Vite 5 | Fast HMR, tree-shaking, native TS support |
-| **Styling** | Tailwind CSS 3 | Utility-first, dark mode built-in, rapid prototyping |
+| **Frontend** | React 19 + TypeScript | Component-based, strong typing, large ecosystem |
+| **Build** | Vite 7 | Fast HMR, tree-shaking, native TS support |
+| **Styling** | Tailwind CSS 4 | Utility-first, CSS-based config (no tailwind.config.ts), `@import "tailwindcss"` in index.css |
 | **Map** | MapLibre GL JS | Free, open-source Mapbox fork, vector tiles, WebGL |
 | **Charts** | Recharts | React-native charting, composable, lightweight |
 | **AI Summaries** | Groq API (llama-3.3-70b-versatile) | Fastest inference, best quality for structured analysis |
@@ -188,25 +188,22 @@ SanctionsPulse/
 ├── CLAUDE.md                    # This file
 ├── README.md                    # Project readme with screenshots
 ├── LICENSE                      # MIT License
-├── package.json                 # React + Vite + dependencies
+├── package.json                 # React 19 + Vite 7 + dependencies
 ├── tsconfig.json
-├── vite.config.ts
-├── tailwind.config.ts
-├── vercel.json                  # Vercel deployment config + cron
+├── tsconfig.app.json
+├── tsconfig.node.json
+├── vite.config.ts               # Vite config + custom plugin to serve /data in dev
+├── vercel.json                  # Vercel deployment config + SPA rewrites
+├── eslint.config.js
 ├── .env.example                 # GROQ_API_KEY=your_key_here
 ├── .github/
 │   └── workflows/
 │       └── weekly-update.yml    # GitHub Actions cron (every Monday 09:00 UTC)
 │
-├── api/                         # Vercel Edge Functions (serverless)
-│   ├── proxy-ofac.ts            # Proxies OFAC SLS API (adds User-Agent header)
-│   ├── ai-summary.ts            # Calls Groq API for intelligence summaries
-│   └── sanctions-data.ts        # Serves JSON data from /data directory
-│
 ├── scripts/                     # Python data pipeline (runs in GitHub Actions)
 │   ├── requirements.txt         # lxml, requests, groq
 │   ├── fetch_lists.py           # Download SDN + Consolidated XML from OFAC SLS
-│   ├── parse_xml.py             # Parse Advanced XML → normalized JSON
+│   ├── parse_xml.py             # Parse Advanced XML → normalized JSON (lxml iterparse)
 │   ├── diff_snapshots.py        # Compare current vs previous snapshot → delta
 │   ├── generate_summary.py      # Call Groq API to summarize weekly changes
 │   ├── build_map_data.py        # Aggregate sanctions by country for map layer
@@ -214,89 +211,70 @@ SanctionsPulse/
 │   └── run_weekly.py            # Orchestrator: runs all above in sequence
 │
 ├── data/                        # Git-tracked JSON data (output of scripts/)
-│   ├── snapshots/
-│   │   ├── sdn_latest.json              # Current SDN snapshot (UID → entry summary)
-│   │   ├── consolidated_latest.json     # Current Consolidated snapshot
-│   │   ├── sdn_2026-03-03.json          # Historical snapshots (date-stamped)
-│   │   └── consolidated_2026-03-03.json
+│   ├── snapshots/               # (populated by pipeline — empty until first run)
 │   ├── diffs/
-│   │   ├── weekly_2026-03-10.json       # Weekly diff: {added: [], removed: [], updated: []}
-│   │   └── weekly_2026-03-03.json
+│   │   └── weekly_2026-03-03.json       # Weekly diff: {added: [], removed: [], updated: []}
 │   ├── summaries/
-│   │   ├── ai_summary_2026-03-10.json   # Groq-generated intelligence summary
-│   │   └── ai_summary_2026-03-03.json
+│   │   └── ai_summary_2026-03-03.json   # Groq-generated intelligence summary
 │   ├── map/
-│   │   ├── country_sanctions.json       # Aggregated: {country_iso: {sdn_count, cons_count, programs: []}}
-│   │   └── weekly_changes_geo.json      # This week's adds/removes with lat/lng
+│   │   └── country_sanctions.json       # {iso2: {country, total, sdn, consolidated, programs, weekly_*}}
 │   ├── programs/
-│   │   └── active_programs.json         # {program_code: {name, description, last_updated, entry_count}}
+│   │   └── active_programs.json         # {programs: [{code, name, description, entry_counts, ...}]}
 │   └── meta.json                        # {last_updated, sdn_total, consolidated_total, last_diff_date}
 │
 ├── public/
-│   ├── favicon.svg
-│   ├── countries.geojson         # World country boundaries for choropleth
-│   └── og-image.png             # Social sharing image
+│   ├── favicon.svg              # Lightning bolt icon (green #22c55e)
+│   └── countries.geojson        # Natural Earth 258 countries (ISO3166-1-Alpha-2 property)
 │
 ├── src/
-│   ├── main.tsx                 # React entry point
-│   ├── App.tsx                  # Root component with layout
-│   ├── index.css                # Tailwind imports + global dark theme
+│   ├── main.tsx                 # React 19 entry point (createRoot + StrictMode)
+│   ├── App.tsx                  # BrowserRouter + layout (Header/Sidebar/Footer) + Routes
+│   ├── index.css                # Tailwind v4 (@import "tailwindcss") + CSS vars + dark theme
 │   │
 │   ├── components/
 │   │   ├── layout/
-│   │   │   ├── Header.tsx           # "SANCTIONSPULSE" + version + last updated + live indicator
-│   │   │   ├── Sidebar.tsx          # Navigation: Dashboard, Map, Programs, Intelligence
-│   │   │   └── Footer.tsx           # Credits, OFAC disclaimer, GitHub link
+│   │   │   ├── Header.tsx           # "SANCTIONSPULSE" monospace + Zap icon + pulsing LIVE dot + meta stats
+│   │   │   ├── Sidebar.tsx          # Vertical nav with NavLink active states, mobile-collapsible
+│   │   │   └── Footer.tsx           # OFAC disclaimer, GitHub link
 │   │   │
 │   │   ├── dashboard/
-│   │   │   ├── StatsCards.tsx        # Total SDN / Total Consolidated / Weekly Adds / Weekly Removes
-│   │   │   ├── WeeklyDiffTable.tsx   # Table of this week's additions/removals with entity details
-│   │   │   ├── ProgramsPanel.tsx     # Active Sanctions Programs list with last-updated dates
-│   │   │   ├── TimelineChart.tsx     # Recharts area chart: sanctions count over time
-│   │   │   └── RecentActions.tsx     # Feed of latest OFAC actions (scraped or manual)
+│   │   │   ├── StatsCards.tsx        # 4 glassmorphism cards (SDN/Consolidated/Adds/Removes)
+│   │   │   ├── WeeklyDiffTable.tsx   # Tabbed table (Additions/Removals/Updates) with color-coded rows
+│   │   │   ├── ProgramsPanel.tsx     # Top 12 programs grid sorted by entry count
+│   │   │   └── TimelineChart.tsx     # Recharts area chart (placeholder — needs historical data)
 │   │   │
 │   │   ├── map/
-│   │   │   ├── SanctionsMap.tsx      # MapLibre GL container
-│   │   │   ├── ChoroplethLayer.tsx   # Country fill colored by total sanction intensity
-│   │   │   ├── BubbleLayer.tsx       # Bubble markers for weekly changes (sized by count)
-│   │   │   ├── MapLegend.tsx         # Legend: color scale + bubble size key
-│   │   │   ├── MapControls.tsx       # Layer toggles (SDN/Consolidated, by program)
-│   │   │   └── CountryPopup.tsx      # Click popup: country name, sanction count, programs, entities
+│   │   │   ├── SanctionsMap.tsx      # MapLibre GL: choropleth + borders + bubbles + hover/click popups
+│   │   │   ├── MapLegend.tsx         # Floating legend: color scale + weekly change indicators
+│   │   │   └── MapControls.tsx       # Floating toggles: All / SDN Only / Consolidated Only
 │   │   │
 │   │   ├── intelligence/
-│   │   │   ├── AISummaryPanel.tsx    # Weekly AI intelligence summary display
-│   │   │   ├── IntelChat.tsx         # Interactive AI analyst chatbot (Groq-powered)
-│   │   │   └── RiskMatrix.tsx        # Visual risk matrix by program/region
+│   │   │   └── AISummaryPanel.tsx    # Full structured summary: exec brief, entities, risks, hotspots, recs
 │   │   │
 │   │   └── common/
 │   │       ├── LoadingSpinner.tsx
-│   │       ├── Badge.tsx             # Program badge with color coding
-│   │       ├── DataTable.tsx         # Reusable sortable/filterable table
-│   │       └── Tooltip.tsx
+│   │       └── Badge.tsx             # Program badge with auto-coloring from PROGRAM_COLORS
 │   │
 │   ├── hooks/
-│   │   ├── useSanctionsData.ts      # Fetch and cache /data/*.json
-│   │   ├── useMapData.ts            # Process data for MapLibre layers
-│   │   └── useAISummary.ts          # Fetch AI summary (from Vercel Edge or static JSON)
+│   │   ├── useSanctionsData.ts      # Fetches meta + programs + latest weekly diff
+│   │   ├── useMapData.ts            # Fetches country_sanctions.json → Record<iso2, CountrySanctionData>
+│   │   └── useAISummary.ts          # Fetches AI summary by date (auto-resolves from meta if no date)
 │   │
 │   ├── lib/
-│   │   ├── types.ts                 # TypeScript interfaces for all data models
-│   │   ├── constants.ts             # Program colors, map config, API URLs
-│   │   ├── utils.ts                 # Formatting, date helpers, country code lookups
-│   │   └── mapStyles.ts             # MapLibre style spec (dark theme base map)
+│   │   ├── types.ts                 # All TypeScript interfaces (see Types section below)
+│   │   ├── constants.ts             # PROGRAM_COLORS, MAP_CONFIG, API_URLS
+│   │   ├── utils.ts                 # formatNumber, formatDate, getProgramColor, classNames
+│   │   └── mapStyles.ts             # DARK_BASEMAP, choroplethPaint, bubblePaint expressions
 │   │
 │   └── pages/
-│       ├── DashboardPage.tsx        # Main dashboard view (default)
-│       ├── MapPage.tsx              # Full-screen map view
-│       ├── ProgramsPage.tsx         # Detailed programs view
-│       └── IntelligencePage.tsx     # AI intelligence center
+│       ├── DashboardPage.tsx        # Main dashboard: StatsCards + WeeklyDiffTable + Timeline + Programs
+│       ├── MapPage.tsx              # Full-bleed MapLibre map with legend + controls overlay
+│       ├── ProgramsPage.tsx         # Searchable/sortable grid of all 45 OFAC sanctions programs
+│       └── IntelligencePage.tsx     # AI intelligence center with AISummaryPanel
 │
-└── tests/
+└── tests/                           # (placeholder — not yet implemented)
     ├── scripts/
-    │   ├── test_parse_xml.py        # Unit tests for XML parsing
-    │   └── test_diff_snapshots.py   # Unit tests for diffing logic
     └── components/
-        └── StatsCards.test.tsx       # React component tests
 ```
 
 ---
@@ -618,6 +596,36 @@ SanctionsPulse/
 3. **SEO / OG tags**: Meta tags, social sharing image
 4. **README.md**: Screenshots, setup guide, architecture diagram, contribution guide
 5. **Tests**: Python unit tests for parsing/diffing, React component tests
+
+---
+
+## Implementation Status
+
+### Completed
+- **Phase 1** ✅ — Project scaffold (React 19 + Vite 7 + Tailwind v4), Python data pipeline (7 scripts), dashboard layout with StatsCards, WeeklyDiffTable, ProgramsPanel, TimelineChart placeholder
+- **Phase 2** ✅ — Weekly diff engine: tabbed diff table with Additions/Removals/Updates, color-coded rows, program badges
+- **Phase 3** ✅ — Programs page: full searchable/sortable explorer with 45 active OFAC sanctions programs, program cards with SDN/Consolidated proportion bars
+- **Phase 4** ✅ — Interactive map: MapLibre GL choropleth + bubble overlay, hover tooltips, click popups, filter controls (All/SDN/Consolidated), floating legend
+
+### Implementation Deviations from Original Plan
+- **Tailwind v4** (not v3): Uses CSS-based config (`@import "tailwindcss"` in index.css, `@theme` block for custom properties). No `tailwind.config.ts` file.
+- **React 19 + Vite 7** (not React 18 + Vite 5): Latest versions used.
+- **Map components consolidated**: Choropleth, bubble, and popup logic are all inside `SanctionsMap.tsx` (no separate ChoroplethLayer.tsx, BubbleLayer.tsx, CountryPopup.tsx). This is simpler since MapLibre is imperative.
+- **GeoJSON property**: Country ISO2 code is in `ISO3166-1-Alpha-2` property (not `ISO_A2`).
+- **Programs data format**: `{ programs: [...] }` array format, not `Record<code, program>`. The `useSanctionsData` hook transforms it to a Record.
+- **AISummary types**: Uses structured objects (NotableEntity, RiskImplication, ProgramHighlight, GeographicHotspot), not simple strings.
+- **useAISummary hook**: Accepts optional `diffDate` param; auto-fetches meta.json to resolve the date if not provided.
+- **Vite dev server**: Custom plugin in `vite.config.ts` serves the `/data` directory as static JSON during development (Vite only serves `public/` by default).
+- **Data served from /data**: In dev mode, a Vite middleware plugin serves files from the project-root `data/` directory. In production (Vercel), the `data/` directory needs to be copied to `dist/data/` or served via API routes.
+
+### Not Yet Implemented
+- **Phase 5**: AI Intelligence chat (IntelChat.tsx) — interactive Groq-powered chatbot
+- **Phase 5**: RiskMatrix.tsx — visual risk matrix by program/region
+- **Phase 6**: GitHub Actions pipeline (workflow file exists, but Python scripts not tested against live OFAC data yet)
+- **Phase 7**: Vercel Edge Functions (api/proxy-ofac.ts, api/ai-summary.ts, api/sanctions-data.ts)
+- **Phase 8**: Tests, responsive polish, OG image, README screenshots
+- **Dashboard**: RecentActions.tsx feed, DataTable.tsx reusable component, Tooltip.tsx
+- **Dashboard**: TimelineChart needs historical snapshot data to display real trends
 
 ---
 

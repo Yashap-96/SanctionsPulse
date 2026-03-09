@@ -8,7 +8,7 @@ interface AISummaryState {
   error: string | null;
 }
 
-export function useAISummary(): AISummaryState {
+export function useAISummary(diffDate?: string): AISummaryState {
   const [state, setState] = useState<AISummaryState>({
     summary: null,
     loading: true,
@@ -20,7 +20,24 @@ export function useAISummary(): AISummaryState {
 
     async function fetchData() {
       try {
-        const res = await fetch(`${API_URLS.summaries}latest.json`);
+        let date = diffDate;
+
+        // If no date provided, fetch meta to get last_diff_date
+        if (!date) {
+          const metaRes = await fetch("/data/meta.json");
+          if (metaRes.ok) {
+            const meta = await metaRes.json();
+            date = meta.last_diff_date;
+          }
+        }
+
+        if (!date) {
+          throw new Error("Could not determine summary date");
+        }
+
+        const res = await fetch(
+          `${API_URLS.summaries}ai_summary_${date}.json`
+        );
         if (!res.ok) throw new Error("Failed to fetch AI summary");
 
         const summary: AISummary = await res.json();
@@ -43,7 +60,7 @@ export function useAISummary(): AISummaryState {
     return () => {
       cancelled = true;
     };
-  }, []);
+  }, [diffDate]);
 
   return state;
 }

@@ -1,19 +1,48 @@
-import { Globe } from "lucide-react";
+import { useState } from "react";
+import { useMapData } from "../hooks/useMapData";
+import { SanctionsMap } from "../components/map/SanctionsMap";
+import { MapLegend } from "../components/map/MapLegend";
+import { MapControls, type MapFilter } from "../components/map/MapControls";
+import { LoadingSpinner } from "../components/common/LoadingSpinner";
 
 export function MapPage() {
-  return (
-    <div className="flex flex-col items-center justify-center py-20 animate-fade-in">
-      <div className="glass-card p-10 text-center max-w-lg">
-        <Globe className="h-16 w-16 text-[#3b82f6] mx-auto mb-4" />
-        <h1 className="text-2xl font-bold font-[family-name:var(--font-mono)] mb-3">
-          Interactive Sanctions Map
-        </h1>
-        <p className="text-white/40 text-sm">
-          Map visualization coming in Phase 4. This view will feature an
-          interactive choropleth map showing global sanctions density, with
-          country-level drill-down and real-time change indicators.
-        </p>
+  const { countryData, loading, error } = useMapData();
+  const [activeFilter, setActiveFilter] = useState<MapFilter>("all");
+
+  if (loading) {
+    return <LoadingSpinner />;
+  }
+
+  if (error || !countryData) {
+    return (
+      <div className="flex items-center justify-center py-20">
+        <div className="glass-card p-6 text-center">
+          <p className="text-red-400 text-sm">
+            {error ?? "Failed to load map data"}
+          </p>
+        </div>
       </div>
+    );
+  }
+
+  // Apply filter to country data
+  const filteredData = Object.fromEntries(
+    Object.entries(countryData).map(([iso2, data]) => {
+      if (activeFilter === "sdn") {
+        return [iso2, { ...data, total: data.sdn }];
+      }
+      if (activeFilter === "consolidated") {
+        return [iso2, { ...data, total: data.consolidated }];
+      }
+      return [iso2, data];
+    })
+  );
+
+  return (
+    <div className="-m-6 relative" style={{ height: "calc(100vh - 64px)" }}>
+      <SanctionsMap key={activeFilter} countryData={filteredData} />
+      <MapLegend />
+      <MapControls activeFilter={activeFilter} onFilterChange={setActiveFilter} />
     </div>
   );
 }
