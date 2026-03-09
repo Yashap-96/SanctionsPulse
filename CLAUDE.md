@@ -87,59 +87,73 @@ headers = {
 | Delta Files | Browse via SLS UI | Incremental changes (OFAC's own format) |
 | XML Schema (XSD) | `{BASE}/ADVANCED_XML.xsd` | Validate XML structure |
 
-### XML Data Model (Advanced Format — Use This)
+### XML Data Model (Advanced Format — Cross-Reference Structure)
 
-The Advanced XML format (`SDN_ADVANCED.XML` and `CONS_ADVANCED.XML`) uses the OFAC Advanced Sanctions Data Model. Key structure:
+The Advanced XML uses a **cross-reference architecture** where data is split across top-level sections linked by IDs. This is NOT a simple nested structure.
 
 ```xml
-<Sanctions xmlns="https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/ADVANCED_XML">
-  <ReferenceData>
-    <!-- Lookup tables for country codes, ID types, sanction programs, etc. -->
-    <SanctionsProgram ID="1" Name="CUBA" />
-    <Country ID="64" Name="Cuba" ISO2="CU" />
-    ...
-  </ReferenceData>
-  <Entries>
-    <Entry ID="12345">  <!-- This is the UID -->
-      <GeneralInfo>
-        <EntryType>Entity</EntryType>  <!-- Entity | Individual | Vessel | Aircraft -->
-        <SanctionsProgramsList>
-          <SanctionsProgram ID="1" />
-        </SanctionsProgramsList>
-      </GeneralInfo>
-      <NamesList>
-        <Name>
-          <LastName>ACME CORP</LastName>
-          <!-- Or FirstName/LastName for individuals -->
-        </Name>
-      </NamesList>
-      <AddressList>
-        <Address>
-          <Country ID="64" />
-          <City>Havana</City>
-        </Address>
-      </AddressList>
-      <IDList>
-        <ID>
-          <IDType>Passport</IDType>
-          <IDNumber>A12345678</IDNumber>
-          <IDCountry ID="64" />
-        </ID>
-      </IDList>
-      <DateOfBirthList>...</DateOfBirthList>
-      <NationalityList>...</NationalityList>
-    </Entry>
-    ...
-  </Entries>
+<Sanctions xmlns="...ADVANCED_XML">
+  <ReferenceValueSets>
+    <CountryValues>
+      <Country ID="11073">Cuba</Country>        <!-- No ISO2 — name only -->
+    </CountryValues>
+    <SanctionsProgramValues>
+      <SanctionsProgram ID="202">CUBA</SanctionsProgram>
+    </SanctionsProgramValues>
+  </ReferenceValueSets>
+
+  <Locations>                                     <!-- Separate top-level section -->
+    <Location ID="25">
+      <LocationCountry CountryID="11073"/>        <!-- Links to CountryValues -->
+    </Location>
+  </Locations>
+
+  <DistinctParties>                               <!-- Entries live here -->
+    <DistinctParty FixedRef="36">                 <!-- FixedRef = UID -->
+      <Profile ID="36" PartySubTypeID="3">        <!-- 3=Entity, 4=Individual -->
+        <Identity>
+          <Alias Primary="true">
+            <DocumentedName>
+              <DocumentedNamePart>
+                <NamePartValue>AEROCARIBBEAN AIRLINES</NamePartValue>
+              </DocumentedNamePart>
+            </DocumentedName>
+          </Alias>
+        </Identity>
+        <Feature>
+          <FeatureVersion>
+            <VersionLocation LocationID="25"/>    <!-- Links to Locations -->
+          </FeatureVersion>
+        </Feature>
+      </Profile>
+    </DistinctParty>
+  </DistinctParties>
+
+  <SanctionsEntries>                              <!-- Programs linked here, NOT in DistinctParty -->
+    <SanctionsEntry ProfileID="36">               <!-- Links to Profile ID -->
+      <SanctionsMeasure SanctionsTypeID="1">      <!-- TypeID=1 means Program -->
+        <Comment>CUBA</Comment>                   <!-- Program name in Comment tag -->
+      </SanctionsMeasure>
+    </SanctionsEntry>
+  </SanctionsEntries>
 </Sanctions>
 ```
 
+### Cross-Reference Resolution (parse_xml.py)
+The parser must build 4 lookup tables before parsing entries:
+1. **CountryValues** → ID to country name (then map to ISO2 via `COUNTRY_TO_ISO2` dict)
+2. **Locations** → LocationID to ISO2 (via CountryID → CountryValues)
+3. **SanctionsEntries** → ProfileID to list of program names (via SanctionsMeasure Comments)
+4. **DistinctParties** → VersionLocation/@LocationID to resolve countries
+
+**Important**: Country names have NO ISO2 codes in the XML. `parse_xml.py` contains a hardcoded `COUNTRY_TO_ISO2` mapping for all 185 OFAC country names including special entries like "Region: Gaza" → "PS".
+
 ### Key Fields for Our Dashboard
-- **UID** (`Entry/@ID`): Unique identifier — used for diffing additions/removals
-- **EntryType**: Entity, Individual, Vessel, Aircraft — for classification
-- **SanctionsProgram**: Links to program code (CUBA, IRAN, SDGT, UKRAINE-EO13661, etc.)
-- **Country** (from Address or Nationality): For geo-mapping
-- **Name**: Primary display field
+- **UID** (`DistinctParty/@FixedRef`): Unique identifier — used for diffing
+- **EntryType**: Derived from `Profile/@PartySubTypeID` (3=Entity, 4=Individual, 2=Vessel, 5=Aircraft)
+- **Programs**: Resolved from `SanctionsEntries` via ProfileID cross-reference
+- **Countries**: Resolved from `Locations` via VersionLocation cross-reference
+- **Name**: Primary alias (`Alias[@Primary="true"]`) DocumentedNamePart values
 - **ListType**: SDN vs Consolidated (determined by which file the entry comes from)
 
 ### Active Sanctions Programs (as of 2026)
@@ -173,11 +187,8 @@ These are the major OFAC sanctions programs. The `SanctionsProgram` field in the
 - **WMD** / **NPWMD** — Weapons of Mass Destruction / Non-Proliferation
 
 ### Country-to-ISO Mapping for Map
-The XML provides country IDs that must be resolved against the `ReferenceData/Country` section. Extract a mapping like:
-```json
-{ "64": {"name": "Cuba", "iso2": "CU"}, "98": {"name": "Iran", "iso2": "IR"}, ... }
-```
-MapLibre needs ISO 3166-1 alpha-2 codes for choropleth layers matching GeoJSON country boundaries.
+The XML provides country **names** only (no ISO2 codes). The mapping is hardcoded in `scripts/parse_xml.py` as `COUNTRY_TO_ISO2` dict covering all 185 OFAC country names → ISO 3166-1 Alpha-2 codes. Special mappings include: "Burma" → "MM", "Korea, North" → "KP", "Bahamas, The" → "BS", "Region: Gaza" → "PS", "Kosovo" → "XK".
+MapLibre matches countries via the `ISO3166-1-Alpha-2` property in `public/countries.geojson`.
 
 ---
 
@@ -249,10 +260,12 @@ SanctionsPulse/
 │   │   │   └── MapControls.tsx       # Floating toggles: All / SDN Only / Consolidated Only
 │   │   │
 │   │   ├── intelligence/
-│   │   │   └── AISummaryPanel.tsx    # Full structured summary: exec brief, entities, risks, hotspots, recs
+│   │   │   ├── AISummaryPanel.tsx    # Full structured summary: exec brief, entities, risks, hotspots, recs
+│   │   │   └── IntelChat.tsx         # Interactive AI chat with rate limit display + conversation limits
 │   │   │
 │   │   └── common/
 │   │       ├── LoadingSpinner.tsx
+│   │       ├── ErrorBoundary.tsx     # React error boundary with fallback UI
 │   │       └── Badge.tsx             # Program badge with auto-coloring from PROGRAM_COLORS
 │   │
 │   ├── hooks/
@@ -269,8 +282,9 @@ SanctionsPulse/
 │   └── pages/
 │       ├── DashboardPage.tsx        # Main dashboard: StatsCards + WeeklyDiffTable + Timeline + Programs
 │       ├── MapPage.tsx              # Full-bleed MapLibre map with legend + controls overlay
-│       ├── ProgramsPage.tsx         # Searchable/sortable grid of all 45 OFAC sanctions programs
-│       └── IntelligencePage.tsx     # AI intelligence center with AISummaryPanel
+│       ├── ProgramsPage.tsx         # Searchable/sortable grid of all 75 live OFAC sanctions programs
+│       ├── IntelligencePage.tsx     # AI intelligence center: summary panel + chat (always shows chat)
+│       └── NotFoundPage.tsx         # 404 page with navigation back to dashboard
 │
 └── tests/                           # (placeholder — not yet implemented)
     ├── scripts/
@@ -492,71 +506,41 @@ SanctionsPulse/
      workflow_dispatch:        # Manual trigger for testing
 
    permissions:
-     contents: write          # Needed to commit data back to repo
+     contents: write
 
    jobs:
-     update-sanctions:
+     update:
        runs-on: ubuntu-latest
        steps:
          - uses: actions/checkout@v4
-
-         - name: Set up Python
-           uses: actions/setup-python@v5
+         - uses: actions/setup-python@v5
            with:
              python-version: '3.11'
-
-         - name: Install dependencies
-           run: pip install -r scripts/requirements.txt
-
-         - name: Run weekly update pipeline
+         - run: pip install -r scripts/requirements.txt
+         - name: Run weekly pipeline
            env:
              GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-           run: python scripts/run_weekly.py
-
-         - name: Commit and push data
+           working-directory: scripts      # Important: scripts use relative imports
+           run: python run_weekly.py
+         - name: Commit and push
            run: |
-             git config user.name "SanctionsPulse Bot"
-             git config user.email "bot@sanctionspulse.app"
-             git add data/
-             git diff --staged --quiet || git commit -m "chore: weekly sanctions update $(date +%Y-%m-%d)"
+             git config user.name "github-actions[bot]"
+             git config user.email "github-actions[bot]@users.noreply.github.com"
+             git add data/meta.json data/diffs/ data/map/ data/programs/ data/summaries/
+             git diff --cached --quiet || git commit -m "chore: weekly sanctions data update $(date -u +%Y-%m-%d)"
              git push
    ```
 
-2. **Why GitHub Actions over Vercel Cron**:
-   - GitHub Actions: 2000 free minutes/month, can run Python scripts, commits back to repo
-   - Vercel Cron: Limited to Edge Functions (JS/TS only), can't commit to repo
-   - **Use GitHub Actions for the data pipeline, Vercel for serving the dashboard**
+2. **Important**: `run_weekly.py` must run from the `scripts/` directory because it uses relative imports (`from fetch_lists import ...`, not `from scripts.fetch_lists import ...`).
 
-3. **`scripts/run_weekly.py`** orchestrator:
-   ```python
-   def main():
-       print("Step 1: Fetching OFAC lists...")
-       fetch_lists.download_all()
-
-       print("Step 2: Parsing XML to JSON...")
-       current_sdn = parse_xml.parse("downloads/SDN_ADVANCED.XML", list_type="SDN")
-       current_cons = parse_xml.parse("downloads/CONS_ADVANCED.XML", list_type="CONSOLIDATED")
-
-       print("Step 3: Computing weekly diff...")
-       diff = diff_snapshots.compute_diff(current_sdn, current_cons)
-
-       print("Step 4: Generating AI summary...")
-       if diff["summary"]["added"] > 0 or diff["summary"]["removed"] > 0:
-           generate_summary.summarize(diff)
-       else:
-           print("No changes detected, skipping AI summary.")
-
-       print("Step 5: Building map data...")
-       build_map_data.aggregate(current_sdn, current_cons)
-
-       print("Step 6: Building program data...")
-       build_program_data.extract(current_sdn, current_cons, diff)
-
-       print("Step 7: Updating metadata...")
-       update_meta(current_sdn, current_cons, diff)
-
-       print("Weekly update complete!")
-   ```
+3. **Pipeline steps** (7 total):
+   1. Download OFAC XML files (~117MB SDN + ~4MB Consolidated)
+   2. Rotate previous snapshots (`*_latest.json` → `*_previous.json`)
+   3. Parse XML → JSON (builds cross-reference lookups, extracts entries)
+   4. Compute diff (UID-based comparison)
+   5. Generate AI summary (Groq API, skipped if no `GROQ_API_KEY`)
+   6. Build map data (country aggregation with weekly diff overlay)
+   7. Build program data (entry counts per program with weekly diff overlay)
 
 ### Phase 7: Vercel Deployment (Week 5-6)
 **Goal**: Deploy to Vercel with Edge Functions.
@@ -604,11 +588,13 @@ SanctionsPulse/
 ### Completed
 - **Phase 1** ✅ — Project scaffold (React 19 + Vite 7 + Tailwind v4), Python data pipeline (7 scripts), dashboard layout with StatsCards, WeeklyDiffTable, ProgramsPanel, TimelineChart placeholder
 - **Phase 2** ✅ — Weekly diff engine: tabbed diff table with Additions/Removals/Updates, color-coded rows, program badges
-- **Phase 3** ✅ — Programs page: full searchable/sortable explorer with 45 active OFAC sanctions programs, program cards with SDN/Consolidated proportion bars
+- **Phase 3** ✅ — Programs page: full searchable/sortable explorer with 75 live OFAC sanctions programs, program cards with SDN/Consolidated proportion bars
 - **Phase 4** ✅ — Interactive map: MapLibre GL choropleth + bubble overlay, hover tooltips, click popups, filter controls (All/SDN/Consolidated), floating legend
-- **Phase 5** ✅ — AI Intelligence chat (IntelChat.tsx) — interactive Groq-powered chatbot; RiskMatrix.tsx — visual risk matrix by program/region
-- **Phase 7** ✅ — Vercel Edge Functions (api/proxy-ofac.ts, api/ai-summary.ts, api/sanctions-data.ts)
-- **Phase 8 (partial)** ✅ — Responsive polish, error handling, README documentation
+- **Phase 5** ✅ — AI Intelligence Center: AISummaryPanel (structured weekly briefing) + IntelChat (interactive Groq-powered chatbot with rate limiting)
+- **Phase 6** ✅ — Python pipeline tested against live OFAC data (18,707 SDN entries, 442 Consolidated, 75 programs, 178 countries). GitHub Actions workflow corrected and ready.
+- **Phase 7** ✅ — Vercel Edge Functions (api/proxy-ofac.ts, api/ai-summary.ts with rate limiting, api/sanctions-data.ts)
+- **Phase 8** ✅ — Responsive polish, error handling, ErrorBoundary, 404 page, comprehensive README
+- **Deployment** ✅ — Live at https://sanctionspulse.vercel.app, GitHub repo at https://github.com/Yashap-96/SanctionsPulse
 
 ### Implementation Deviations from Original Plan
 - **Tailwind v4** (not v3): Uses CSS-based config (`@import "tailwindcss"` in index.css, `@theme` block for custom properties). No `tailwind.config.ts` file.
@@ -618,14 +604,28 @@ SanctionsPulse/
 - **Programs data format**: `{ programs: [...] }` array format, not `Record<code, program>`. The `useSanctionsData` hook transforms it to a Record.
 - **AISummary types**: Uses structured objects (NotableEntity, RiskImplication, ProgramHighlight, GeographicHotspot), not simple strings.
 - **useAISummary hook**: Accepts optional `diffDate` param; auto-fetches meta.json to resolve the date if not provided.
-- **Vite dev server**: Custom plugin in `vite.config.ts` serves the `/data` directory as static JSON during development (Vite only serves `public/` by default).
-- **Data served from /data**: In dev mode, a Vite middleware plugin serves files from the project-root `data/` directory. In production (Vercel), the `data/` directory needs to be copied to `dist/data/` or served via API routes.
+- **Vite dev server**: Custom plugin in `vite.config.ts` serves the `/data` directory as static JSON during development (Vite only serves `public/` by default). Also proxies `/api/ai-summary` to Groq API in dev mode.
+- **Data served from /data**: In dev mode, a Vite middleware plugin serves files from the project-root `data/` directory. In production, the `closeBundle` hook copies `data/` to `dist/data/`. Vercel rewrites `/data/*` to the `api/sanctions-data` function.
+- **XML parsing uses cross-references**: The original plan assumed nested XML structure. Real OFAC XML uses cross-references between `ReferenceValueSets`, `Locations`, `DistinctParties`, and `SanctionsEntries`. Parser builds 4 lookup tables before entry extraction.
+- **Country names, not ISO2 codes**: OFAC XML contains country names only. A hardcoded `COUNTRY_TO_ISO2` dict in `parse_xml.py` maps all 185 names to ISO2.
+- **SDN file is ~117MB** (not 50MB as originally estimated). Consolidated is ~4MB.
+- **RecentActions removed**: Was redundant with WeeklyDiffTable. Removed from DashboardPage.
+- **IntelligencePage always shows chat**: Even when AI summary JSON is unavailable, the chat interface is rendered so users can still interact.
+
+### API Security (Production)
+- **Rate limiting**: 10 requests per IP per hour on `/api/ai-summary`
+- **Message cap**: 500 chars max per user message
+- **Conversation cap**: 10 messages max per session
+- **Context truncation**: Context fields capped at 1000 chars
+- **Response tokens**: Capped at 1024 per response
+- **Topic restriction**: System prompt rejects off-topic questions
+- **GROQ_API_KEY**: Server-side only (Vercel env var), never exposed to browser
 
 ### Not Yet Implemented
-- **Phase 6**: GitHub Actions pipeline (workflow file exists, but Python scripts not tested against live OFAC data yet)
-- **Phase 8 (remaining)**: Tests, OG image, README screenshots
-- **Dashboard**: RecentActions.tsx feed, DataTable.tsx reusable component, Tooltip.tsx
-- **Dashboard**: TimelineChart needs historical snapshot data to display real trends
+- **Tests**: Python unit tests for parsing/diffing, React component tests (test directories exist but are empty)
+- **TimelineChart**: Placeholder — needs historical snapshot data to show real trends (will auto-populate as weekly pipeline runs)
+- **OG Image**: Social sharing preview image for SEO
+- **Code splitting**: Vite warns about 1.6MB JS bundle — could add dynamic imports for map/intelligence pages
 
 ---
 
@@ -765,36 +765,27 @@ font-family: 'Inter', -apple-system, sans-serif;
 ## Key Implementation Details
 
 ### XML Parsing Strategy
-The OFAC Advanced XML files are large (SDN: ~50MB, Consolidated: ~15MB). Use streaming/iterative parsing:
+The OFAC Advanced XML files are large (SDN: ~117MB, Consolidated: ~4MB). The parser loads the full tree (needed for cross-reference resolution) and builds 4 lookup tables:
 
 ```python
-# scripts/parse_xml.py — use lxml iterparse for memory efficiency
+# scripts/parse_xml.py — actual implementation approach
 from lxml import etree
 
-def parse_advanced_xml(filepath: str, list_type: str) -> list[dict]:
-    entries = []
-    ns = "https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/ADVANCED_XML"
+def parse(filepath, list_type):
+    tree = etree.parse(filepath)
+    # Build lookups from cross-referenced sections
+    country_id_to_iso2, location_id_to_iso2, profile_programs, _ = _build_lookups(tree)
+    # Parse DistinctParties using lookups
+    for dp in tree.getroot().find(_tag("DistinctParties")):
+        entry = _parse_distinct_party(dp, location_id_to_iso2, profile_programs, list_type)
+        # entry has: uid, name, entry_type, programs, countries, list_type, dob
 
-    # First pass: build reference data lookup
-    ref_data = extract_reference_data(filepath, ns)
-
-    # Second pass: parse entries
-    context = etree.iterparse(filepath, events=("end",), tag=f"{{{ns}}}Entry")
-    for event, elem in context:
-        entry = {
-            "uid": int(elem.get("ID")),
-            "name": extract_primary_name(elem, ns),
-            "entry_type": get_text(elem, f".//{{{ns}}}EntryType"),
-            "programs": extract_programs(elem, ns, ref_data),
-            "countries": extract_countries(elem, ns, ref_data),
-            "list_type": list_type,
-            # ... additional fields
-        }
-        entries.append(entry)
-        elem.clear()  # Free memory
-        while elem.getprevious() is not None:
-            del elem.getparent()[0]
-    return entries
+# Lookup chain:
+# CountryValues (ID→name) → COUNTRY_TO_ISO2 (name→ISO2) → country_id_to_iso2
+# Locations (ID→CountryID) + country_id_to_iso2 → location_id_to_iso2
+# SanctionsEntries (ProfileID→SanctionsMeasure[TypeID=1]/Comment) → profile_programs
+# DistinctParty → VersionLocation/@LocationID → location_id_to_iso2 → countries
+# DistinctParty → Profile/@ID → profile_programs → programs
 ```
 
 ### Diffing Algorithm
@@ -1032,14 +1023,19 @@ cd scripts && python -m pytest tests/  # Run Python tests
   > "SanctionsPulse is an independent open-source project for educational purposes. It is not affiliated with, endorsed by, or a substitute for the U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC). For official sanctions data and compliance, visit ofac.treasury.gov."
 
 ### Performance Considerations
-- SDN list has ~15,000+ entries — don't render all in a single table. Use virtualization (react-window) or pagination.
-- Country GeoJSON is ~2MB — lazy load after initial render
-- Map layers: start with choropleth only, load bubbles after initial paint
+- SDN list has ~18,700+ entries — WeeklyDiffTable only shows the weekly diff (not the full list)
+- Country GeoJSON is ~14MB (258 countries) — loaded at map page mount
+- JS bundle is ~1.6MB (could benefit from code splitting via dynamic imports for map/intelligence pages)
 - JSON data files: split by concern (meta, map, programs, diffs) to enable parallel fetching
+- XML parsing loads full tree into memory (~117MB SDN file) — requires adequate RAM in CI
 
 ### Security
-- Never expose `GROQ_API_KEY` in frontend code
-- OFAC SLS API is public but rate-limit respectfully (max 1 request per file per day for automation)
+- **GROQ_API_KEY**: Server-side only — stored as Vercel env var, proxied via Edge Function, never in frontend code
+- **AI Chat rate limiting** (`api/ai-summary.ts`): 10 requests per IP per hour, 500 char message cap, 10 message conversation cap, 1024 max response tokens, off-topic rejection in system prompt
+- **OFAC API**: Public but rate-limit respectfully (max 1 request per file per day for automation)
+- **Path traversal protection**: `api/sanctions-data.ts` validates file paths, only allows `.json` files within `data/` directory
+- **`.vercelignore`**: Excludes `data/snapshots/` and `scripts/downloads/` from deployment (large files)
+- **`.gitignore`**: Excludes `.env`, `data/snapshots/`, `scripts/downloads/`, `.vercel/`
 - All data is public government data — no PII concerns with the sanctions list itself
 
 ### Git Hygiene for /data
@@ -1053,6 +1049,9 @@ cd scripts && python -m pytest tests/  # Run Python tests
 
 | Resource | URL |
 |----------|-----|
+| **Live App** | https://sanctionspulse.vercel.app |
+| **GitHub Repo** | https://github.com/Yashap-96/SanctionsPulse |
+| **Vercel Dashboard** | https://vercel.com/yashap-96s-projects/sanctionspulse |
 | OFAC SLS Main | https://sanctionslist.ofac.treas.gov/ |
 | OFAC SLS API Base | https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/ |
 | OFAC Recent Actions | https://ofac.treasury.gov/recent-actions/sanctions-list-updates |
