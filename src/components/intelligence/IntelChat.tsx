@@ -67,11 +67,20 @@ export function IntelChat({ meta }: IntelChatProps) {
         body: JSON.stringify({ messages: apiMessages }),
       });
 
+      const data = await res.json();
+
       if (!res.ok) {
-        throw new Error(`Request failed with status ${res.status}`);
+        const errorMsg =
+          res.status === 503
+            ? "AI chat is not configured. Set GROQ_API_KEY in your .env file and restart the dev server to enable this feature."
+            : `API error (${res.status}): ${data?.message ?? data?.error ?? "Unknown error"}`;
+        setMessages((prev) => [
+          ...prev,
+          { role: "assistant", content: errorMsg },
+        ]);
+        return;
       }
 
-      const data = await res.json();
       const assistantContent =
         data?.choices?.[0]?.message?.content ??
         data?.message?.content ??

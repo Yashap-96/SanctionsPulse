@@ -112,7 +112,7 @@ export default async function handler(req: Request) {
       body: JSON.stringify({
         model: MODEL,
         messages,
-        stream: true,
+        stream: false,
         temperature: 0.7,
         max_tokens: 2048,
       }),
@@ -133,14 +133,13 @@ export default async function handler(req: Request) {
       );
     }
 
-    // Stream the response back to the client
-    return new Response(groqResponse.body, {
+    const data = await groqResponse.json();
+    return new Response(JSON.stringify(data), {
       status: 200,
       headers: {
         ...CORS_HEADERS,
-        'Content-Type': 'text/event-stream',
+        'Content-Type': 'application/json',
         'Cache-Control': 'no-cache',
-        Connection: 'keep-alive',
       },
     });
   } catch (err) {
