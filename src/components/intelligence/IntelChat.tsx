@@ -18,12 +18,18 @@ const INITIAL_MESSAGE: ChatMessage = {
     "I'm your OFAC sanctions intelligence analyst. Ask me about this week's sanctions changes, program activity, risk implications, or compliance recommendations.",
 };
 
+const MAX_CONVERSATION_MESSAGES = 10;
+
 export function IntelChat({ meta }: IntelChatProps) {
   const [messages, setMessages] = useState<ChatMessage[]>([INITIAL_MESSAGE]);
   const [input, setInput] = useState("");
   const [isLoading, setIsLoading] = useState(false);
+  const [rateLimitInfo, setRateLimitInfo] = useState<string | null>(null);
   const messagesEndRef = useRef<HTMLDivElement>(null);
   const inputRef = useRef<HTMLInputElement>(null);
+
+  const userMessageCount = messages.filter((m) => m.role === "user").length;
+  const isConversationFull = userMessageCount >= MAX_CONVERSATION_MESSAGES / 2; // 5 user messages = 10 total with responses
 
   useEffect(() => {
     messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
@@ -69,11 +75,24 @@ export function IntelChat({ meta }: IntelChatProps) {
 
       const data = await res.json();
 
+      // Track rate limit info from response headers
+      const remaining = res.headers.get("X-RateLimit-Remaining");
+      if (remaining !== null) {
+        const rem = parseInt(remaining, 10);
+        if (rem <= 3) {
+          setRateLimitInfo(`${rem} queries remaining this hour`);
+        } else {
+          setRateLimitInfo(null);
+        }
+      }
+
       if (!res.ok) {
         const errorMsg =
           res.status === 503
             ? "AI chat is not configured. Set GROQ_API_KEY in your .env file and restart the dev server to enable this feature."
-            : `API error (${res.status}): ${data?.message ?? data?.error ?? "Unknown error"}`;
+            : res.status === 429
+              ? (data?.message ?? "Rate limit exceeded. Please try again later.")
+              : `API error (${res.status}): ${data?.message ?? data?.error ?? "Unknown error"}`;
         setMessages((prev) => [
           ...prev,
           { role: "assistant", content: errorMsg },
@@ -161,6 +180,26 @@ export function IntelChat({ meta }: IntelChatProps) {
         <div ref={messagesEndRef} />
       </div>
 
+      {/* Status bar */}
+      {(rateLimitInfo || isConversationFull) && (
+        <div className="flex-shrink-0 border-t border-white/10 px-4 py-2 flex items-center justify-between text-xs text-white/40">
+          <span>
+            {isConversationFull
+              ? "Conversation limit reached."
+              : rateLimitInfo}
+          </span>
+          <button
+            onClick={() => {
+              setMessages([INITIAL_MESSAGE]);
+              setRateLimitInfo(null);
+            }}
+            className="text-[#06b6d4]/70 hover:text-[#06b6d4] transition-colors"
+          >
+            New chat
+          </button>
+        </div>
+      )}
+
       {/* Input form */}
       <form
         onSubmit={handleSubmit}
@@ -171,13 +210,14 @@ export function IntelChat({ meta }: IntelChatProps) {
           type="text"
           value={input}
           onChange={(e) => setInput(e.target.value)}
-          placeholder="Ask about sanctions activity..."
-          disabled={isLoading}
+          placeholder={isConversationFull ? "Start a new chat to continue..." : "Ask about sanctions activity..."}
+          disabled={isLoading || isConversationFull}
+          maxLength={500}
           className="flex-1 bg-white/5 border border-white/10 rounded-lg px-4 py-2.5 text-sm text-white placeholder-white/30 focus:outline-none focus:border-[#06b6d4]/50 focus:ring-1 focus:ring-[#06b6d4]/30 transition-colors disabled:opacity-50"
         />
         <button
           type="submit"
-          disabled={isLoading || !input.trim()}
+          disabled={isLoading || !input.trim() || isConversationFull}
           className="flex-shrink-0 bg-[#06b6d4]/20 hover:bg-[#06b6d4]/30 text-[#06b6d4] rounded-lg px-3 py-2.5 transition-colors disabled:opacity-30 disabled:cursor-not-allowed"
         >
           <Send className="h-4 w-4" />
