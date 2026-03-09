@@ -12,7 +12,7 @@ export function Footer() {
         </p>
         <div className="flex items-center gap-3">
           <a
-            href="https://github.com"
+            href="https://github.com/Yashap-96/SanctionsPulse"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-1.5 text-white/40 hover:text-white/70 transition-colors"

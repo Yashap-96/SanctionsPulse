@@ -51,7 +51,7 @@ export default async function handler(req: Request) {
     const response = await fetch(`${OFAC_BASE_URL}${file}`, {
       headers: {
         'User-Agent':
-          'SanctionsPulse/1.0 (https://github.com/sanctionspulse/SanctionsPulse)',
+          'SanctionsPulse/1.0 (https://github.com/Yashap-96/SanctionsPulse)',
       },
     });
 

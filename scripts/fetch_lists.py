@@ -5,7 +5,7 @@ import requests
 
 BASE_URL = "https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/"
 HEADERS = {
-    "User-Agent": "SanctionsPulse/1.0 (https://github.com/sanctionspulse/SanctionsPulse)"
+    "User-Agent": "SanctionsPulse/1.0 (https://github.com/Yashap-96/SanctionsPulse)"
 }
 
 PROJECT_ROOT = pathlib.Path(__file__).resolve().parent.parent
