@@ -33,7 +33,7 @@ def run():
     # Step 1: Download
     print("[1/7] Downloading OFAC lists ...")
     try:
-        from scripts.fetch_lists import download_all
+        from fetch_lists import download_all
         download_all()
         print()
     except Exception as e:
@@ -50,7 +50,7 @@ def run():
     # Step 3: Parse XML
     print("[3/7] Parsing XML files ...")
     try:
-        from scripts.parse_xml import parse_and_save
+        from parse_xml import parse_and_save
         sdn_entries, cons_entries = parse_and_save()
         print()
     except Exception as e:
@@ -59,7 +59,7 @@ def run():
     # Step 4: Compute diff
     print("[4/7] Computing diff ...")
     try:
-        from scripts.diff_snapshots import diff_and_save
+        from diff_snapshots import diff_and_save
         diff = diff_and_save(diff_date=today)
         print()
     except Exception as e:
@@ -68,7 +68,7 @@ def run():
     # Step 5: Generate AI summary
     print("[5/7] Generating AI summary ...")
     try:
-        from scripts.generate_summary import generate_and_save
+        from generate_summary import generate_and_save
         summary = generate_and_save(diff=diff, summary_date=today)
         print()
     except Exception as e:
@@ -77,7 +77,7 @@ def run():
     # Step 6: Build map data
     print("[6/7] Building map data ...")
     try:
-        from scripts.build_map_data import aggregate_and_save
+        from build_map_data import aggregate_and_save
         aggregate_and_save(sdn_entries=sdn_entries, cons_entries=cons_entries, diff=diff)
         print()
     except Exception as e:
@@ -86,8 +86,8 @@ def run():
     # Step 7: Build program data
     print("[7/7] Building program data ...")
     try:
-        from scripts.build_program_data import extract_and_save
-        extract_and_save(sdn_entries=sdn_entries, cons_entries=cons_entries)
+        from build_program_data import extract_and_save
+        extract_and_save(sdn_entries=sdn_entries, cons_entries=cons_entries, diff=diff)
         print()
     except Exception as e:
         print(f"  ERROR in build_program_data: {e}\n")
@@ -97,7 +97,7 @@ def run():
     meta = {
         "sdn_total": len(sdn_entries),
         "consolidated_total": len(cons_entries),
-        "last_updated": today,
+        "last_updated": f"{today}T09:00:00Z",
         "last_diff_date": today if diff else None,
         "last_diff_summary": diff.get("summary") if diff else None,
     }

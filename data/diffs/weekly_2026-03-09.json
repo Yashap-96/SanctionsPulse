@@ -1,0 +1,44 @@
+{
+  "date": "2026-03-09",
+  "period": "weekly",
+  "summary": {
+    "added": 1,
+    "removed": 0,
+    "updated": 1
+  },
+  "additions": [
+    {
+      "uid": 57109,
+      "name": "Sudanese Muslim Brotherhood",
+      "entry_type": "Entity",
+      "programs": [
+        "FTO",
+        "SDGT"
+      ],
+      "countries": [
+        "SD"
+      ],
+      "list_type": "SDN",
+      "dob": null
+    }
+  ],
+  "removals": [],
+  "updates": [
+    {
+      "uid": 55423,
+      "name": "AL-BARAA BIN MALIK BRIGADE",
+      "changes": {
+        "programs": {
+          "old": [
+            "SUDAN-EO14098"
+          ],
+          "new": [
+            "SUDAN-EO14098",
+            "FTO",
+            "SDGT"
+          ]
+        }
+      }
+    }
+  ]
+}

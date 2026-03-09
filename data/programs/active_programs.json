@@ -1,454 +1,754 @@
 {
   "programs": [
     {
+      "code": "RUSSIA-EO14024",
+      "name": "Russia harmful foreign activities",
+      "entry_count_sdn": 6410,
+      "entry_count_consolidated": 93,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "Russia harmful foreign activities"
+    },
+    {
       "code": "SDGT",
       "name": "Specially Designated Global Terrorist",
-      "entry_count_sdn": 1643,
-      "entry_count_consolidated": 0,
-      "last_updated": "2026-03-03",
-      "weekly_added": 4,
+      "entry_count_sdn": 3048,
+      "entry_count_consolidated": 2,
+      "last_updated": "2026-03-09",
+      "weekly_added": 1,
       "weekly_removed": 0,
-      "description": "Designations of foreign persons who have committed, or pose a significant risk of committing, acts of terrorism threatening U.S. national security, foreign policy, or the economy."
+      "description": "Specially Designated Global Terrorist"
+    },
+    {
+      "code": "IFSR",
+      "name": "Iranian financial sanctions regulations",
+      "entry_count_sdn": 1468,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "Iranian financial sanctions regulations"
+    },
+    {
+      "code": "SDNTK",
+      "name": "Narcotics kingpin",
+      "entry_count_sdn": 1420,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "Narcotics kingpin"
+    },
+    {
+      "code": "NPWMD",
+      "name": "Non-proliferation of WMD",
+      "entry_count_sdn": 1139,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "Non-proliferation of WMD"
+    },
+    {
+      "code": "UKRAINE-EO13662",
+      "name": "Ukraine-related financial and energy sectors",
+      "entry_count_sdn": 534,
+      "entry_count_consolidated": 286,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "Ukraine-related financial and energy sectors"
+    },
+    {
+      "code": "GLOMAG",
+      "name": "Global Magnitsky human rights accountability",
+      "entry_count_sdn": 744,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "Global Magnitsky human rights accountability"
+    },
+    {
+      "code": "IRAN",
+      "name": "Iran-related sanctions",
+      "entry_count_sdn": 669,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "Iran-related sanctions"
+    },
+    {
+      "code": "IRAN-EO13902",
+      "name": "IRAN-EO13902",
+      "entry_count_sdn": 604,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "IRAN-EO13902 sanctions program"
+    },
+    {
+      "code": "ILLICIT-DRUGS-EO14059",
+      "name": "International illicit drug trade",
+      "entry_count_sdn": 589,
+      "entry_count_consolidated": 1,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "International illicit drug trade"
+    },
+    {
+      "code": "IRAN-EO13846",
+      "name": "Iran reimposition of certain sanctions",
+      "entry_count_sdn": 445,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "Iran reimposition of certain sanctions"
+    },
+    {
+      "code": "TCO",
+      "name": "Transnational criminal organizations",
+      "entry_count_sdn": 386,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "Transnational criminal organizations"
+    },
+    {
+      "code": "IRGC",
+      "name": "Islamic Revolutionary Guard Corps",
+      "entry_count_sdn": 282,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "Islamic Revolutionary Guard Corps"
+    },
+    {
+      "code": "CYBER2",
+      "name": "Malicious cyber-enabled activities",
+      "entry_count_sdn": 266,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "Malicious cyber-enabled activities"
+    },
+    {
+      "code": "IRAN-HR",
+      "name": "Iran human rights abuses",
+      "entry_count_sdn": 222,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "Iran human rights abuses"
+    },
+    {
+      "code": "UKRAINE-EO13661",
+      "name": "Ukraine-related military and defense",
+      "entry_count_sdn": 196,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "Ukraine-related military and defense"
+    },
+    {
+      "code": "IRAQ2",
+      "name": "Iraq-related sanctions",
+      "entry_count_sdn": 190,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "Iraq-related sanctions"
+    },
+    {
+      "code": "DPRK4",
+      "name": "North Korea maximum pressure",
+      "entry_count_sdn": 190,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "North Korea maximum pressure"
+    },
+    {
+      "code": "BELARUS-EO14038",
+      "name": "BELARUS-EO14038",
+      "entry_count_sdn": 190,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "BELARUS-EO14038 sanctions program"
+    },
+    {
+      "code": "VENEZUELA-EO13850",
+      "name": "VENEZUELA-EO13850",
+      "entry_count_sdn": 177,
+      "entry_count_consolidated": 2,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "VENEZUELA-EO13850 sanctions program"
+    },
+    {
+      "code": "PAARSSR-EO13894",
+      "name": "PAARSSR-EO13894",
+      "entry_count_sdn": 174,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "PAARSSR-EO13894 sanctions program"
+    },
+    {
+      "code": "VENEZUELA",
+      "name": "Venezuela / Maduro regime sanctions",
+      "entry_count_sdn": 168,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "Venezuela / Maduro regime sanctions"
+    },
+    {
+      "code": "BALKANS",
+      "name": "Western Balkans stabilization",
+      "entry_count_sdn": 164,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "Western Balkans stabilization"
     },
     {
       "code": "SDNT",
       "name": "Specially Designated Narcotics Trafficker",
-      "entry_count_sdn": 2174,
+      "entry_count_sdn": 162,
       "entry_count_consolidated": 0,
-      "last_updated": "2026-03-03",
-      "weekly_added": 2,
-      "weekly_removed": 1,
-      "description": "Designations of significant foreign narcotics traffickers and their organizations under the Foreign Narcotics Kingpin Designation Act and Narcotics Trafficking Sanctions Regulations."
-    },
-    {
-      "code": "IRAN",
-      "name": "Iran Sanctions",
-      "entry_count_sdn": 1287,
-      "entry_count_consolidated": 412,
-      "last_updated": "2026-03-03",
-      "weekly_added": 5,
-      "weekly_removed": 1,
-      "description": "Comprehensive sanctions targeting Iran's nuclear proliferation, ballistic missile development, support for terrorism, and human rights abuses, pursuant to multiple Executive Orders and the Iranian Transactions and Sanctions Regulations."
-    },
-    {
-      "code": "RUSSIA-EO14024",
-      "name": "Russia Harmful Foreign Activities Sanctions",
-      "entry_count_sdn": 982,
-      "entry_count_consolidated": 347,
-      "last_updated": "2026-03-03",
-      "weekly_added": 8,
-      "weekly_removed": 0,
-      "description": "Sanctions related to Russia's harmful foreign activities including undermining democratic institutions, cyber-enabled activities, transnational corruption, and the conflict in Ukraine, pursuant to E.O. 14024."
-    },
-    {
-      "code": "UKRAINE-EO13660",
-      "name": "Ukraine-Related Sanctions (E.O. 13660)",
-      "entry_count_sdn": 187,
-      "entry_count_consolidated": 72,
-      "last_updated": "2026-02-10",
+      "last_updated": "2026-03-09",
       "weekly_added": 0,
       "weekly_removed": 0,
-      "description": "Sanctions targeting persons responsible for or complicit in actions or policies that threaten the peace, security, stability, sovereignty, or territorial integrity of Ukraine."
-    },
-    {
-      "code": "UKRAINE-EO13661",
-      "name": "Ukraine-Related Sanctions (E.O. 13661)",
-      "entry_count_sdn": 612,
-      "entry_count_consolidated": 285,
-      "last_updated": "2026-02-24",
-      "weekly_added": 0,
-      "weekly_removed": 0,
-      "description": "Sanctions targeting persons operating in sectors of the Russian Federation economy including financial services, energy, metals and mining, engineering, and defense, in connection with the Ukraine crisis."
-    },
-    {
-      "code": "UKRAINE-EO13662",
-      "name": "Ukraine-Related Sanctions (E.O. 13662)",
-      "entry_count_sdn": 245,
-      "entry_count_consolidated": 118,
-      "last_updated": "2026-02-24",
-      "weekly_added": 0,
-      "weekly_removed": 0,
-      "description": "Sectoral sanctions targeting Russia's financial services, energy, metals and mining, engineering, and defense sectors in response to Russia's actions in Ukraine."
-    },
-    {
-      "code": "SSI",
-      "name": "Sectoral Sanctions Identifications List",
-      "entry_count_sdn": 0,
-      "entry_count_consolidated": 423,
-      "last_updated": "2026-02-24",
-      "weekly_added": 0,
-      "weekly_removed": 0,
-      "description": "Entities subject to sectoral sanctions under E.O. 13662, restricting certain transactions in the financial, energy, and defense sectors of Russia."
-    },
-    {
-      "code": "DPRK",
-      "name": "North Korea Sanctions",
-      "entry_count_sdn": 534,
-      "entry_count_consolidated": 178,
-      "last_updated": "2026-03-03",
-      "weekly_added": 3,
-      "weekly_removed": 0,
-      "description": "Sanctions targeting North Korea's weapons of mass destruction and ballistic missile programs, illicit financial activities, human rights abuses, and sanctions evasion networks."
-    },
-    {
-      "code": "DPRK2",
-      "name": "North Korea Sanctions (E.O. 13722)",
-      "entry_count_sdn": 112,
-      "entry_count_consolidated": 45,
-      "last_updated": "2026-02-18",
-      "weekly_added": 0,
-      "weekly_removed": 0,
-      "description": "Additional sanctions on North Korea targeting trade in minerals, metals, transportation, and financial services that generate revenue for the DPRK regime."
+      "description": "Specially Designated Narcotics Trafficker"
     },
     {
       "code": "DPRK3",
-      "name": "North Korea Sanctions (E.O. 13810)",
-      "entry_count_sdn": 87,
-      "entry_count_consolidated": 34,
-      "last_updated": "2026-01-27",
+      "name": "North Korea additional sanctions",
+      "entry_count_sdn": 160,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
       "weekly_added": 0,
       "weekly_removed": 0,
-      "description": "Expanded North Korea sanctions targeting persons facilitating DPRK trade, including shipping and financial networks, and blocking property of persons involved in certain industries."
+      "description": "North Korea additional sanctions"
     },
     {
-      "code": "DPRK4",
-      "name": "North Korea Sanctions (E.O. 13551)",
-      "entry_count_sdn": 63,
-      "entry_count_consolidated": 21,
-      "last_updated": "2026-01-13",
+      "code": "BURMA-EO14014",
+      "name": "BURMA-EO14014",
+      "entry_count_sdn": 154,
+      "entry_count_consolidated": 1,
+      "last_updated": "2026-03-09",
       "weekly_added": 0,
       "weekly_removed": 0,
-      "description": "Sanctions targeting North Korean arms trafficking, luxury goods procurement, illicit financial activities, and money laundering under E.O. 13551."
+      "description": "BURMA-EO14014 sanctions program"
     },
     {
-      "code": "CUBA",
-      "name": "Cuba Sanctions",
-      "entry_count_sdn": 421,
-      "entry_count_consolidated": 89,
-      "last_updated": "2026-02-18",
+      "code": "UKRAINE-EO13660",
+      "name": "Ukraine-related destabilizing activities",
+      "entry_count_sdn": 154,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
       "weekly_added": 0,
       "weekly_removed": 0,
-      "description": "Comprehensive sanctions program targeting Cuba, administered under the Cuban Assets Control Regulations (CACR), restricting trade, financial transactions, and travel."
+      "description": "Ukraine-related destabilizing activities"
     },
     {
-      "code": "SYRIA",
-      "name": "Syria Sanctions",
-      "entry_count_sdn": 387,
-      "entry_count_consolidated": 134,
-      "last_updated": "2026-03-03",
+      "code": "DPRK2",
+      "name": "North Korea WMD proliferation",
+      "entry_count_sdn": 124,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
       "weekly_added": 0,
-      "weekly_removed": 1,
-      "description": "Sanctions targeting the Syrian regime and its supporters for human rights abuses, corruption, destabilizing activities, and use of chemical weapons against civilians."
+      "weekly_removed": 0,
+      "description": "North Korea WMD proliferation"
     },
     {
-      "code": "VENEZUELA",
-      "name": "Venezuela Sanctions",
-      "entry_count_sdn": 214,
-      "entry_count_consolidated": 67,
-      "last_updated": "2026-03-03",
+      "code": "IRAN-EO13876",
+      "name": "Iran financial sector sanctions",
+      "entry_count_sdn": 113,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "Iran financial sector sanctions"
+    },
+    {
+      "code": "ELECTION-EO13848",
+      "name": "Election interference sanctions",
+      "entry_count_sdn": 111,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "Election interference sanctions"
+    },
+    {
+      "code": "UKRAINE-EO13685",
+      "name": "Crimea region of Ukraine",
+      "entry_count_sdn": 101,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "Crimea region of Ukraine"
+    },
+    {
+      "code": "FTO",
+      "name": "Foreign Terrorist Organization",
+      "entry_count_sdn": 98,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
       "weekly_added": 1,
       "weekly_removed": 0,
-      "description": "Sanctions targeting the Maduro regime in Venezuela for undermining democratic processes, human rights abuses, corruption, and restrictions on the state oil company PdVSA."
+      "description": "Foreign Terrorist Organization"
     },
     {
-      "code": "TCO",
-      "name": "Transnational Criminal Organizations Sanctions",
-      "entry_count_sdn": 487,
+      "code": "DRCONGO",
+      "name": "Democratic Republic of the Congo",
+      "entry_count_sdn": 91,
       "entry_count_consolidated": 0,
-      "last_updated": "2026-02-18",
+      "last_updated": "2026-03-09",
       "weekly_added": 0,
       "weekly_removed": 0,
-      "description": "Sanctions targeting significant transnational criminal organizations and their members, facilitators, and supporters under E.O. 13581."
+      "description": "Democratic Republic of the Congo"
     },
     {
-      "code": "CYBER2",
-      "name": "Malicious Cyber-Enabled Activities Sanctions",
-      "entry_count_sdn": 189,
-      "entry_count_consolidated": 42,
-      "last_updated": "2026-03-03",
-      "weekly_added": 3,
-      "weekly_removed": 0,
-      "description": "Sanctions targeting persons engaged in significant malicious cyber-enabled activities, including attacks on critical infrastructure, election interference, and ransomware operations."
-    },
-    {
-      "code": "GLOMAG",
-      "name": "Global Magnitsky Sanctions",
-      "entry_count_sdn": 376,
-      "entry_count_consolidated": 0,
-      "last_updated": "2026-02-24",
+      "code": "CAATSA - RUSSIA",
+      "name": "CAATSA - RUSSIA",
+      "entry_count_sdn": 81,
+      "entry_count_consolidated": 1,
+      "last_updated": "2026-03-09",
       "weekly_added": 0,
       "weekly_removed": 0,
-      "description": "Sanctions targeting perpetrators of serious human rights abuse and corruption worldwide under the Global Magnitsky Human Rights Accountability Act (E.O. 13818)."
-    },
-    {
-      "code": "BALKANS",
-      "name": "Western Balkans Stabilization Sanctions",
-      "entry_count_sdn": 93,
-      "entry_count_consolidated": 28,
-      "last_updated": "2026-01-27",
-      "weekly_added": 0,
-      "weekly_removed": 0,
-      "description": "Sanctions targeting persons contributing to the destabilization of the Western Balkans region, including obstruction of the Dayton Accords and Ohrid Framework Agreement."
-    },
-    {
-      "code": "YEMEN",
-      "name": "Yemen-Related Sanctions",
-      "entry_count_sdn": 142,
-      "entry_count_consolidated": 31,
-      "last_updated": "2026-02-10",
-      "weekly_added": 0,
-      "weekly_removed": 0,
-      "description": "Sanctions targeting those threatening the peace, security, or stability of Yemen, including Houthi-affiliated actors and those obstructing the political process."
-    },
-    {
-      "code": "MYANMAR",
-      "name": "Burma Sanctions",
-      "entry_count_sdn": 178,
-      "entry_count_consolidated": 52,
-      "last_updated": "2026-02-18",
-      "weekly_added": 0,
-      "weekly_removed": 0,
-      "description": "Sanctions targeting the military regime in Burma (Myanmar), persons undermining democratic institutions, and those responsible for human rights abuses including the Rohingya crisis."
-    },
-    {
-      "code": "ETHIOPIA",
-      "name": "Ethiopia Sanctions",
-      "entry_count_sdn": 47,
-      "entry_count_consolidated": 12,
-      "last_updated": "2026-01-13",
-      "weekly_added": 0,
-      "weekly_removed": 0,
-      "description": "Sanctions addressing the crisis in northern Ethiopia, targeting persons responsible for or complicit in actions that have contributed to the humanitarian crisis and conflict."
-    },
-    {
-      "code": "NICARAGUA",
-      "name": "Nicaragua Sanctions",
-      "entry_count_sdn": 67,
-      "entry_count_consolidated": 18,
-      "last_updated": "2026-02-10",
-      "weekly_added": 0,
-      "weekly_removed": 0,
-      "description": "Sanctions targeting the Ortega-Murillo regime and persons responsible for undermining democratic institutions, human rights abuses, and corruption in Nicaragua."
-    },
-    {
-      "code": "HONGKONG-EO13936",
-      "name": "Hong Kong Normalization Sanctions",
-      "entry_count_sdn": 42,
-      "entry_count_consolidated": 15,
-      "last_updated": "2025-12-15",
-      "weekly_added": 0,
-      "weekly_removed": 0,
-      "description": "Sanctions in response to actions by the PRC to undermine Hong Kong's autonomy, targeting persons involved in developing, adopting, or implementing the Hong Kong National Security Law."
-    },
-    {
-      "code": "CMIC",
-      "name": "Chinese Military-Industrial Complex Sanctions",
-      "entry_count_sdn": 68,
-      "entry_count_consolidated": 247,
-      "last_updated": "2026-02-24",
-      "weekly_added": 0,
-      "weekly_removed": 0,
-      "description": "Sanctions addressing the threat posed by the military-industrial complex of the People's Republic of China, restricting U.S. persons from investing in designated Chinese defense and surveillance technology companies."
-    },
-    {
-      "code": "NS-CMIC",
-      "name": "Non-SDN Chinese Military-Industrial Complex List",
-      "entry_count_sdn": 0,
-      "entry_count_consolidated": 189,
-      "last_updated": "2026-02-24",
-      "weekly_added": 0,
-      "weekly_removed": 0,
-      "description": "Non-SDN list of Chinese military-industrial complex companies subject to investment restrictions for U.S. persons under E.O. 13959 as amended by E.O. 14032."
-    },
-    {
-      "code": "CAPTA",
-      "name": "Correspondent Account / Payable-Through Account Sanctions",
-      "entry_count_sdn": 0,
-      "entry_count_consolidated": 34,
-      "last_updated": "2026-01-13",
-      "weekly_added": 0,
-      "weekly_removed": 0,
-      "description": "List of foreign financial institutions subject to correspondent or payable-through account sanctions, requiring U.S. banks to impose strict conditions or prohibitions on accounts."
-    },
-    {
-      "code": "FSE",
-      "name": "Foreign Sanctions Evaders List",
-      "entry_count_sdn": 0,
-      "entry_count_consolidated": 87,
-      "last_updated": "2026-01-27",
-      "weekly_added": 0,
-      "weekly_removed": 0,
-      "description": "Designations of foreign persons who have violated, attempted to violate, or facilitated the evasion of U.S. sanctions against Iran and Syria."
-    },
-    {
-      "code": "NS-MBS",
-      "name": "Non-SDN Menu-Based Sanctions List",
-      "entry_count_sdn": 0,
-      "entry_count_consolidated": 156,
-      "last_updated": "2026-02-10",
-      "weekly_added": 0,
-      "weekly_removed": 0,
-      "description": "Non-SDN list of persons subject to menu-based sanctions under various authorities, where one or more sanctions from a defined menu may be imposed."
+      "description": "CAATSA - RUSSIA sanctions program"
     },
     {
       "code": "NS-PLC",
-      "name": "Palestinian Legislative Council List",
+      "name": "NS-PLC",
+      "entry_count_sdn": 2,
+      "entry_count_consolidated": 78,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "NS-PLC sanctions program"
+    },
+    {
+      "code": "CUBA",
+      "name": "Cuba comprehensive sanctions",
+      "entry_count_sdn": 77,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "Cuba comprehensive sanctions"
+    },
+    {
+      "code": "BELARUS",
+      "name": "BELARUS",
+      "entry_count_sdn": 73,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "BELARUS sanctions program"
+    },
+    {
+      "code": "DPRK",
+      "name": "North Korea weapons of mass destruction",
+      "entry_count_sdn": 69,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "North Korea weapons of mass destruction"
+    },
+    {
+      "code": "CMIC-EO13959",
+      "name": "CMIC-EO13959",
       "entry_count_sdn": 0,
-      "entry_count_consolidated": 12,
-      "last_updated": "2025-11-24",
+      "entry_count_consolidated": 68,
+      "last_updated": "2026-03-09",
       "weekly_added": 0,
       "weekly_removed": 0,
-      "description": "List of members of the Palestinian Legislative Council who are not combatants but are subject to certain sanctions restrictions under E.O. 13224 as amended."
+      "description": "CMIC-EO13959 sanctions program"
     },
     {
-      "code": "IFSR",
-      "name": "Iranian Financial Sanctions Regulations",
-      "entry_count_sdn": 156,
-      "entry_count_consolidated": 89,
-      "last_updated": "2026-02-18",
+      "code": "VENEZUELA-EO13884",
+      "name": "VENEZUELA-EO13884",
+      "entry_count_sdn": 67,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
       "weekly_added": 0,
       "weekly_removed": 0,
-      "description": "Sanctions targeting Iranian financial institutions and persons facilitating financial transactions for the Government of Iran, Iranian banks, and designated persons."
+      "description": "VENEZUELA-EO13884 sanctions program"
     },
     {
-      "code": "IRGC",
-      "name": "Islamic Revolutionary Guard Corps Sanctions",
-      "entry_count_sdn": 234,
-      "entry_count_consolidated": 67,
-      "last_updated": "2026-02-18",
+      "code": "NICARAGUA",
+      "name": "Nicaragua-related sanctions",
+      "entry_count_sdn": 66,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
       "weekly_added": 0,
       "weekly_removed": 0,
-      "description": "Sanctions targeting Iran's Islamic Revolutionary Guard Corps and its officials, agents, affiliates, and supporters for terrorism, proliferation, and human rights abuses."
+      "description": "Nicaragua-related sanctions"
     },
     {
-      "code": "WMD",
-      "name": "Weapons of Mass Destruction Sanctions",
-      "entry_count_sdn": 198,
-      "entry_count_consolidated": 56,
-      "last_updated": "2026-02-10",
+      "code": "MAGNIT",
+      "name": "Sergei Magnitsky rule of law accountability",
+      "entry_count_sdn": 64,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
       "weekly_added": 0,
       "weekly_removed": 0,
-      "description": "Sanctions targeting proliferators of weapons of mass destruction and their delivery systems, as well as persons who support or facilitate such proliferation activities."
+      "description": "Sergei Magnitsky rule of law accountability"
     },
     {
-      "code": "NPWMD",
-      "name": "Non-Proliferation of WMD Sanctions",
-      "entry_count_sdn": 124,
-      "entry_count_consolidated": 43,
-      "last_updated": "2026-01-27",
+      "code": "CYBER4",
+      "name": "CYBER4",
+      "entry_count_sdn": 59,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
       "weekly_added": 0,
       "weekly_removed": 0,
-      "description": "Sanctions targeting persons involved in the proliferation of weapons of mass destruction or delivery systems under E.O. 13382, aimed at preventing WMD proliferation financing."
+      "description": "CYBER4 sanctions program"
     },
     {
-      "code": "IRAQ",
-      "name": "Iraq-Related Sanctions",
-      "entry_count_sdn": 98,
-      "entry_count_consolidated": 27,
-      "last_updated": "2026-01-13",
+      "code": "LIBYA3",
+      "name": "LIBYA3",
+      "entry_count_sdn": 51,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
       "weekly_added": 0,
       "weekly_removed": 0,
-      "description": "Sanctions related to the stabilization of Iraq, targeting persons who threaten the peace or stability of Iraq, or the Government of Iraq, or undermine its reconstruction."
+      "description": "LIBYA3 sanctions program"
     },
     {
-      "code": "LEBANON",
-      "name": "Lebanon-Related Sanctions",
-      "entry_count_sdn": 76,
-      "entry_count_consolidated": 18,
-      "last_updated": "2026-01-27",
+      "code": "IRAN-EO13871",
+      "name": "Iran metals, mining, textiles, and other sectors",
+      "entry_count_sdn": 51,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
       "weekly_added": 0,
       "weekly_removed": 0,
-      "description": "Sanctions targeting persons undermining the sovereignty of Lebanon or its democratic institutions and processes, including Hizballah-related designations."
+      "description": "Iran metals, mining, textiles, and other sectors"
     },
     {
-      "code": "LIBYA",
-      "name": "Libya Sanctions",
-      "entry_count_sdn": 54,
-      "entry_count_consolidated": 22,
-      "last_updated": "2025-12-15",
+      "code": "HK-EO13936",
+      "name": "HK-EO13936",
+      "entry_count_sdn": 48,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
       "weekly_added": 0,
       "weekly_removed": 0,
-      "description": "Sanctions targeting persons threatening the peace, security, or stability of Libya, including those exploiting the conflict for personal gain and obstructing the political process."
+      "description": "HK-EO13936 sanctions program"
+    },
+    {
+      "code": "SUDAN-EO14098",
+      "name": "SUDAN-EO14098",
+      "entry_count_sdn": 44,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "SUDAN-EO14098 sanctions program"
+    },
+    {
+      "code": "IRAN-TRA",
+      "name": "Iran Transactions and Sanctions Regulations",
+      "entry_count_sdn": 31,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "Iran Transactions and Sanctions Regulations"
+    },
+    {
+      "code": "IRAN-CON-ARMS-EO",
+      "name": "IRAN-CON-ARMS-EO",
+      "entry_count_sdn": 29,
+      "entry_count_consolidated": 1,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "IRAN-CON-ARMS-EO sanctions program"
     },
     {
       "code": "SOMALIA",
-      "name": "Somalia Sanctions",
-      "entry_count_sdn": 68,
-      "entry_count_consolidated": 14,
-      "last_updated": "2026-01-13",
+      "name": "Somalia sanctions",
+      "entry_count_sdn": 30,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
       "weekly_added": 0,
       "weekly_removed": 0,
-      "description": "Sanctions targeting persons contributing to the conflict in Somalia, including Al-Shabaab and persons obstructing humanitarian aid delivery or violating the arms embargo."
-    },
-    {
-      "code": "SUDAN",
-      "name": "Sudan and Darfur Sanctions",
-      "entry_count_sdn": 89,
-      "entry_count_consolidated": 31,
-      "last_updated": "2026-02-10",
-      "weekly_added": 0,
-      "weekly_removed": 0,
-      "description": "Sanctions targeting persons responsible for the conflict in Darfur, those threatening peace in Sudan, and persons involved in human rights abuses and arms trafficking."
-    },
-    {
-      "code": "ZIMBABWE",
-      "name": "Zimbabwe Sanctions",
-      "entry_count_sdn": 36,
-      "entry_count_consolidated": 8,
-      "last_updated": "2025-12-15",
-      "weekly_added": 0,
-      "weekly_removed": 0,
-      "description": "Sanctions targeting persons undermining democratic processes or institutions in Zimbabwe, engaging in human rights abuses, and facilitating corruption."
-    },
-    {
-      "code": "MALI",
-      "name": "Mali-Related Sanctions",
-      "entry_count_sdn": 28,
-      "entry_count_consolidated": 6,
-      "last_updated": "2025-12-15",
-      "weekly_added": 0,
-      "weekly_removed": 0,
-      "description": "Sanctions targeting persons threatening the peace, security, or stability of Mali, including those obstructing the political process and violating human rights."
+      "description": "Somalia sanctions"
     },
     {
       "code": "CAR",
-      "name": "Central African Republic Sanctions",
-      "entry_count_sdn": 22,
-      "entry_count_consolidated": 4,
-      "last_updated": "2025-11-24",
+      "name": "Central African Republic",
+      "entry_count_sdn": 29,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
       "weekly_added": 0,
       "weekly_removed": 0,
-      "description": "Sanctions targeting persons contributing to the conflict in the Central African Republic, including armed groups and those violating the arms embargo."
+      "description": "Central African Republic"
     },
     {
-      "code": "DRC",
-      "name": "Democratic Republic of the Congo Sanctions",
-      "entry_count_sdn": 58,
-      "entry_count_consolidated": 12,
-      "last_updated": "2026-01-13",
+      "code": "PEESA-EO14039",
+      "name": "PEESA-EO14039",
+      "entry_count_sdn": 27,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
       "weekly_added": 0,
       "weekly_removed": 0,
-      "description": "Sanctions targeting persons contributing to the conflict in the eastern DRC, including armed groups, those violating the arms embargo, and persons committing human rights abuses."
+      "description": "PEESA-EO14039 sanctions program"
     },
     {
-      "code": "BURUNDI",
-      "name": "Burundi Sanctions",
-      "entry_count_sdn": 14,
-      "entry_count_consolidated": 3,
-      "last_updated": "2025-11-24",
+      "code": "IFCA",
+      "name": "IFCA",
+      "entry_count_sdn": 26,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
       "weekly_added": 0,
       "weekly_removed": 0,
-      "description": "Sanctions targeting persons contributing to the situation in Burundi, including violence against civilians and undermining democratic processes."
+      "description": "IFCA sanctions program"
     },
     {
-      "code": "SOUTH-SUDAN",
-      "name": "South Sudan Sanctions",
-      "entry_count_sdn": 34,
-      "entry_count_consolidated": 8,
-      "last_updated": "2025-12-15",
+      "code": "SOUTH SUDAN",
+      "name": "SOUTH SUDAN",
+      "entry_count_sdn": 24,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
       "weekly_added": 0,
       "weekly_removed": 0,
-      "description": "Sanctions targeting persons contributing to the conflict in South Sudan, threatening the peace and stability of the country, and obstructing the peace process."
+      "description": "SOUTH SUDAN sanctions program"
+    },
+    {
+      "code": "BALKANS-EO14033",
+      "name": "BALKANS-EO14033",
+      "entry_count_sdn": 24,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "BALKANS-EO14033 sanctions program"
+    },
+    {
+      "code": "LIBYA2",
+      "name": "Libya-related sanctions",
+      "entry_count_sdn": 20,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "Libya-related sanctions"
+    },
+    {
+      "code": "CAATSA - IRAN",
+      "name": "CAATSA - IRAN",
+      "entry_count_sdn": 20,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "CAATSA - IRAN sanctions program"
+    },
+    {
+      "code": "HOSTAGES-EO14078",
+      "name": "HOSTAGES-EO14078",
+      "entry_count_sdn": 18,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "HOSTAGES-EO14078 sanctions program"
+    },
+    {
+      "code": "HRIT-IR",
+      "name": "Human rights abuses (Iran)",
+      "entry_count_sdn": 16,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "Human rights abuses (Iran)"
+    },
+    {
+      "code": "LEBANON",
+      "name": "Lebanon-related sanctions",
+      "entry_count_sdn": 16,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "Lebanon-related sanctions"
+    },
+    {
+      "code": "ICC-EO14203",
+      "name": "ICC-EO14203",
+      "entry_count_sdn": 15,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "ICC-EO14203 sanctions program"
+    },
+    {
+      "code": "IRAQ3",
+      "name": "IRAQ3",
+      "entry_count_sdn": 13,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "IRAQ3 sanctions program"
+    },
+    {
+      "code": "YEMEN",
+      "name": "Yemen-related sanctions",
+      "entry_count_sdn": 10,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "Yemen-related sanctions"
+    },
+    {
+      "code": "CYBER3",
+      "name": "CYBER3",
+      "entry_count_sdn": 9,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "CYBER3 sanctions program"
+    },
+    {
+      "code": "DARFUR",
+      "name": "Darfur region of Sudan",
+      "entry_count_sdn": 8,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "Darfur region of Sudan"
+    },
+    {
+      "code": "RUSSIA-EO14065",
+      "name": "RUSSIA-EO14065",
+      "entry_count_sdn": 8,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "RUSSIA-EO14065 sanctions program"
+    },
+    {
+      "code": "NICARAGUA-NHRAA",
+      "name": "NICARAGUA-NHRAA",
+      "entry_count_sdn": 8,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "NICARAGUA-NHRAA sanctions program"
+    },
+    {
+      "code": "ETHIOPIA-EO14046",
+      "name": "ETHIOPIA-EO14046",
+      "entry_count_sdn": 6,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "ETHIOPIA-EO14046 sanctions program"
+    },
+    {
+      "code": "MALI-EO13882",
+      "name": "MALI-EO13882",
+      "entry_count_sdn": 5,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "MALI-EO13882 sanctions program"
+    },
+    {
+      "code": "PAIPA",
+      "name": "PAIPA",
+      "entry_count_sdn": 3,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "PAIPA sanctions program"
+    },
+    {
+      "code": "SSIDES",
+      "name": "SSIDES",
+      "entry_count_sdn": 2,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "SSIDES sanctions program"
+    },
+    {
+      "code": "DPRK-NKSPEA",
+      "name": "DPRK-NKSPEA",
+      "entry_count_sdn": 2,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "DPRK-NKSPEA sanctions program"
+    },
+    {
+      "code": "HRIT-SY",
+      "name": "Human rights abuses (Syria)",
+      "entry_count_sdn": 1,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "Human rights abuses (Syria)"
+    },
+    {
+      "code": "UHRPA",
+      "name": "UHRPA",
+      "entry_count_sdn": 1,
+      "entry_count_consolidated": 0,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "UHRPA sanctions program"
+    },
+    {
+      "code": "561-Related",
+      "name": "561-Related",
+      "entry_count_sdn": 0,
+      "entry_count_consolidated": 1,
+      "last_updated": "2026-03-09",
+      "weekly_added": 0,
+      "weekly_removed": 0,
+      "description": "561-Related sanctions program"
     }
   ]
 }
