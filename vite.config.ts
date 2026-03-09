@@ -4,6 +4,19 @@ import path from 'path'
 import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 
+function copyDirRecursive(src: string, dest: string) {
+  fs.mkdirSync(dest, { recursive: true })
+  for (const entry of fs.readdirSync(src, { withFileTypes: true })) {
+    const srcPath = path.join(src, entry.name)
+    const destPath = path.join(dest, entry.name)
+    if (entry.isDirectory()) {
+      copyDirRecursive(srcPath, destPath)
+    } else {
+      fs.copyFileSync(srcPath, destPath)
+    }
+  }
+}
+
 export default defineConfig({
   plugins: [
     react(),
@@ -20,6 +33,14 @@ export default defineConfig({
             next()
           }
         })
+      },
+      closeBundle() {
+        const srcDir = path.resolve('data')
+        const destDir = path.resolve('dist', 'data')
+        if (fs.existsSync(srcDir)) {
+          copyDirRecursive(srcDir, destDir)
+          console.log('Copied data/ to dist/data/')
+        }
       },
     },
   ],

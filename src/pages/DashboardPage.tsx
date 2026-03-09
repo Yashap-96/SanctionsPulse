@@ -3,6 +3,7 @@ import { StatsCards } from "../components/dashboard/StatsCards";
 import { WeeklyDiffTable } from "../components/dashboard/WeeklyDiffTable";
 import { ProgramsPanel } from "../components/dashboard/ProgramsPanel";
 import { TimelineChart } from "../components/dashboard/TimelineChart";
+import { RecentActions } from "../components/dashboard/RecentActions";
 import { LoadingSpinner } from "../components/common/LoadingSpinner";
 
 export function DashboardPage() {
@@ -30,7 +31,8 @@ export function DashboardPage() {
         <div className="xl:col-span-2">
           <WeeklyDiffTable diff={weeklyDiff} />
         </div>
-        <div>
+        <div className="space-y-6">
+          <RecentActions diff={weeklyDiff} />
           <TimelineChart />
         </div>
       </div>

@@ -1,8 +1,9 @@
-import { Brain, AlertCircle } from "lucide-react";
+import { Brain, AlertCircle, MessageSquare } from "lucide-react";
 import { useSanctionsData } from "../hooks/useSanctionsData";
 import { useAISummary } from "../hooks/useAISummary";
 import { LoadingSpinner } from "../components/common/LoadingSpinner";
 import { AISummaryPanel } from "../components/intelligence/AISummaryPanel";
+import { IntelChat } from "../components/intelligence/IntelChat";
 
 export function IntelligencePage() {
   const { meta } = useSanctionsData();
@@ -51,6 +52,16 @@ export function IntelligencePage() {
       </div>
 
       <AISummaryPanel summary={summary} />
+
+      {/* Intelligence Analyst Chat */}
+      <div className="flex items-center gap-3">
+        <MessageSquare className="h-6 w-6 text-[#a855f7]" />
+        <h2 className="text-xl font-bold font-[family-name:var(--font-mono)]">
+          Intelligence Analyst
+        </h2>
+      </div>
+
+      <IntelChat meta={meta} />
     </div>
   );
 }
