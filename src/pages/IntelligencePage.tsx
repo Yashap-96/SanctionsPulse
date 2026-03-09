@@ -13,29 +13,6 @@ export function IntelligencePage() {
     return <LoadingSpinner />;
   }
 
-  if (error || !summary) {
-    return (
-      <div className="space-y-6 animate-fade-in">
-        <div className="flex items-center gap-3">
-          <Brain className="h-7 w-7 text-[#06b6d4]" />
-          <div>
-            <h1 className="text-2xl font-bold font-[family-name:var(--font-mono)]">
-              Intelligence Center
-            </h1>
-          </div>
-        </div>
-        <div className="glass-card p-10 text-center max-w-lg mx-auto">
-          <AlertCircle className="h-10 w-10 text-white/20 mx-auto mb-3" />
-          <p className="text-white/40 text-sm">
-            {error
-              ? `Error loading intelligence data: ${error}`
-              : "AI intelligence summaries are generated weekly following OFAC list updates. Check back after the next update cycle."}
-          </p>
-        </div>
-      </div>
-    );
-  }
-
   return (
     <div className="space-y-6 animate-fade-in">
       {/* Header */}
@@ -45,15 +22,31 @@ export function IntelligencePage() {
           <h1 className="text-2xl font-bold font-[family-name:var(--font-mono)]">
             Intelligence Center
           </h1>
-          <p className="text-white/40 text-sm">
-            AI-generated analysis for {summary.period}
-          </p>
+          {summary && (
+            <p className="text-white/40 text-sm">
+              AI-generated analysis for {summary.period}
+            </p>
+          )}
         </div>
       </div>
 
-      <AISummaryPanel summary={summary} />
+      {/* Summary Panel or Placeholder */}
+      {loading ? (
+        <LoadingSpinner />
+      ) : summary ? (
+        <AISummaryPanel summary={summary} />
+      ) : (
+        <div className="glass-card p-8 text-center">
+          <AlertCircle className="h-8 w-8 text-white/20 mx-auto mb-3" />
+          <p className="text-white/40 text-sm">
+            {error
+              ? "Weekly intelligence summary is being generated. Use the chat below to ask questions in the meantime."
+              : "AI intelligence summaries are generated weekly following OFAC list updates."}
+          </p>
+        </div>
+      )}
 
-      {/* Intelligence Analyst Chat */}
+      {/* Intelligence Analyst Chat — always shown */}
       <div className="flex items-center gap-3">
         <MessageSquare className="h-6 w-6 text-[#a855f7]" />
         <h2 className="text-xl font-bold font-[family-name:var(--font-mono)]">
