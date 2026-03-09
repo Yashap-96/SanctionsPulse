@@ -104,7 +104,8 @@ export function ProgramsPage() {
           <select
             value={sort}
             onChange={(e) => setSort(e.target.value as SortOption)}
-            className="bg-white/5 border border-white/10 rounded-lg pl-10 pr-8 py-2.5 text-sm text-white appearance-none cursor-pointer focus:outline-none focus:border-[#a855f7]/50 transition-colors"
+            className="bg-[#111] border border-white/10 rounded-lg pl-10 pr-8 py-2.5 text-sm text-white appearance-none cursor-pointer focus:outline-none focus:border-[#a855f7]/50 transition-colors"
+            style={{ colorScheme: 'dark' }}
           >
             <option value="entries">Most Entries</option>
             <option value="recent">Most Recent</option>

@@ -606,6 +606,9 @@ SanctionsPulse/
 - **Phase 2** ✅ — Weekly diff engine: tabbed diff table with Additions/Removals/Updates, color-coded rows, program badges
 - **Phase 3** ✅ — Programs page: full searchable/sortable explorer with 45 active OFAC sanctions programs, program cards with SDN/Consolidated proportion bars
 - **Phase 4** ✅ — Interactive map: MapLibre GL choropleth + bubble overlay, hover tooltips, click popups, filter controls (All/SDN/Consolidated), floating legend
+- **Phase 5** ✅ — AI Intelligence chat (IntelChat.tsx) — interactive Groq-powered chatbot; RiskMatrix.tsx — visual risk matrix by program/region
+- **Phase 7** ✅ — Vercel Edge Functions (api/proxy-ofac.ts, api/ai-summary.ts, api/sanctions-data.ts)
+- **Phase 8 (partial)** ✅ — Responsive polish, error handling, README documentation
 
 ### Implementation Deviations from Original Plan
 - **Tailwind v4** (not v3): Uses CSS-based config (`@import "tailwindcss"` in index.css, `@theme` block for custom properties). No `tailwind.config.ts` file.
@@ -619,11 +622,8 @@ SanctionsPulse/
 - **Data served from /data**: In dev mode, a Vite middleware plugin serves files from the project-root `data/` directory. In production (Vercel), the `data/` directory needs to be copied to `dist/data/` or served via API routes.
 
 ### Not Yet Implemented
-- **Phase 5**: AI Intelligence chat (IntelChat.tsx) — interactive Groq-powered chatbot
-- **Phase 5**: RiskMatrix.tsx — visual risk matrix by program/region
 - **Phase 6**: GitHub Actions pipeline (workflow file exists, but Python scripts not tested against live OFAC data yet)
-- **Phase 7**: Vercel Edge Functions (api/proxy-ofac.ts, api/ai-summary.ts, api/sanctions-data.ts)
-- **Phase 8**: Tests, responsive polish, OG image, README screenshots
+- **Phase 8 (remaining)**: Tests, OG image, README screenshots
 - **Dashboard**: RecentActions.tsx feed, DataTable.tsx reusable component, Tooltip.tsx
 - **Dashboard**: TimelineChart needs historical snapshot data to display real trends
 

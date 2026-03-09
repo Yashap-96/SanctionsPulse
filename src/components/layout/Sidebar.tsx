@@ -41,7 +41,7 @@ export function Sidebar() {
       {/* Sidebar */}
       <nav
         className={classNames(
-          "fixed md:static z-40 top-0 left-0 h-full w-56 bg-[#0a0a0a] border-r border-white/10 pt-16 md:pt-4 px-3 transition-transform duration-200",
+          "fixed md:static z-40 top-[57px] left-0 h-[calc(100vh-57px)] md:top-0 md:h-full w-56 bg-[#0a0a0a] border-r border-white/10 pt-4 px-3 transition-transform duration-200",
           mobileOpen ? "translate-x-0" : "-translate-x-full md:translate-x-0"
         )}
       >

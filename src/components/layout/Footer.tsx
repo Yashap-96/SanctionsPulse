@@ -2,7 +2,7 @@ import { Github } from "lucide-react";
 
 export function Footer() {
   return (
-    <footer className="border-t border-white/10 px-6 py-4 text-xs text-white/30">
+    <footer className="border-t border-white/10 px-4 sm:px-6 py-4 text-xs text-white/30">
       <div className="flex flex-col md:flex-row items-center justify-between gap-2">
         <p className="text-center md:text-left">
           <strong className="text-white/40">Disclaimer:</strong> This tool is

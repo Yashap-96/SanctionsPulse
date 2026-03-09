@@ -12,7 +12,7 @@ export function Header({ meta }: HeaderProps) {
       <div className="flex items-center justify-between px-6 py-3">
         <div className="flex items-center gap-3">
           <Zap className="h-6 w-6 text-[#22c55e]" />
-          <h1 className="text-xl font-bold tracking-wider font-[family-name:var(--font-mono)] uppercase">
+          <h1 className="text-lg sm:text-xl font-bold tracking-wider font-[family-name:var(--font-mono)] uppercase">
             SanctionsPulse
           </h1>
           <div className="flex items-center gap-2 ml-4 px-3 py-1 rounded-full bg-[#22c55e]/10 border border-[#22c55e]/30">
@@ -21,7 +21,7 @@ export function Header({ meta }: HeaderProps) {
               <span className="relative inline-flex rounded-full h-2.5 w-2.5 bg-[#22c55e]" />
             </span>
             <span className="text-xs font-semibold text-[#22c55e] tracking-wider uppercase">
-              Live
+              <span className="hidden sm:inline">Live</span>
             </span>
           </div>
         </div>

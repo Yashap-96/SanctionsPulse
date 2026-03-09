@@ -37,7 +37,7 @@ function EntryRow({ entry, action }: { entry: DiffEntry; action: TabKey }) {
   return (
     <tr className={classNames("border-b border-white/5 hover:bg-white/[0.02] border-l-2", borderColor)}>
       <td className="px-4 py-3 text-sm text-white/90 font-medium">{entry.name}</td>
-      <td className="px-4 py-3 text-sm text-white/50">{entry.entry_type}</td>
+      <td className="hidden md:table-cell px-4 py-3 text-sm text-white/50">{entry.entry_type}</td>
       <td className="px-4 py-3">
         <div className="flex flex-wrap gap-1">
           {entry.programs.slice(0, 3).map((p) => (
@@ -48,7 +48,7 @@ function EntryRow({ entry, action }: { entry: DiffEntry; action: TabKey }) {
           )}
         </div>
       </td>
-      <td className="px-4 py-3 text-sm text-white/50">
+      <td className="hidden md:table-cell px-4 py-3 text-sm text-white/50">
         {entry.countries.join(", ") || "\u2014"}
       </td>
       <td className="px-4 py-3">
@@ -116,9 +116,9 @@ export function WeeklyDiffTable({ diff }: WeeklyDiffTableProps) {
           <thead>
             <tr className="border-b border-white/10 text-left">
               <th className="px-4 py-2.5 text-xs font-medium text-white/40 uppercase tracking-wider">Name</th>
-              <th className="px-4 py-2.5 text-xs font-medium text-white/40 uppercase tracking-wider">Type</th>
+              <th className="hidden md:table-cell px-4 py-2.5 text-xs font-medium text-white/40 uppercase tracking-wider">Type</th>
               <th className="px-4 py-2.5 text-xs font-medium text-white/40 uppercase tracking-wider">Programs</th>
-              <th className="px-4 py-2.5 text-xs font-medium text-white/40 uppercase tracking-wider">Countries</th>
+              <th className="hidden md:table-cell px-4 py-2.5 text-xs font-medium text-white/40 uppercase tracking-wider">Countries</th>
               <th className="px-4 py-2.5 text-xs font-medium text-white/40 uppercase tracking-wider">Action</th>
             </tr>
           </thead>

@@ -26,7 +26,7 @@ function StatCard({ label, value, icon, accentColor }: StatCardProps) {
         </div>
       </div>
       <p
-        className="text-3xl font-bold font-[family-name:var(--font-mono)] tracking-tight"
+        className="text-2xl sm:text-3xl font-bold font-[family-name:var(--font-mono)] tracking-tight"
         style={{ color: accentColor }}
       >
         {formatNumber(value)}
