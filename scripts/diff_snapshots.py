@@ -2,7 +2,7 @@
 
 import json
 import pathlib
-from datetime import date
+from datetime import date, timedelta
 
 PROJECT_ROOT = pathlib.Path(__file__).resolve().parent.parent
 SNAPSHOT_DIR = PROJECT_ROOT / "data" / "snapshots"
@@ -65,9 +65,17 @@ def compute_diff(
                 "changes": changes,
             })
 
+    # Compute date range (current date minus 7 days)
+    try:
+        end_date = date.fromisoformat(diff_date)
+        start_date = end_date - timedelta(days=7)
+        period = f"{start_date.isoformat()} to {end_date.isoformat()}"
+    except (ValueError, TypeError):
+        period = "weekly"
+
     return {
         "date": diff_date,
-        "period": "weekly",
+        "period": period,
         "summary": {
             "added": len(additions),
             "removed": len(removals),

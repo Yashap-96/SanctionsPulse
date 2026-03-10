@@ -1,8 +1,28 @@
 import { useState } from "react";
 import { Plus, Minus, RefreshCw } from "lucide-react";
 import type { WeeklyDiff, DiffEntry } from "../../lib/types";
-import { classNames } from "../../lib/utils";
+import { classNames, formatDate } from "../../lib/utils";
 import { Badge } from "../common/Badge";
+
+function formatPeriod(period: string, diffDate?: string): string {
+  // If period contains a date range like "2026-03-02 to 2026-03-09"
+  const rangeMatch = period.match(/^(\d{4}-\d{2}-\d{2})\s+to\s+(\d{4}-\d{2}-\d{2})$/);
+  if (rangeMatch) {
+    return `${formatDate(rangeMatch[1])} — ${formatDate(rangeMatch[2])}`;
+  }
+  // Fallback: construct range from diff date if available
+  if (diffDate) {
+    try {
+      const end = new Date(diffDate);
+      const start = new Date(end);
+      start.setDate(start.getDate() - 7);
+      return `${formatDate(start.toISOString().slice(0, 10))} — ${formatDate(diffDate)}`;
+    } catch {
+      // ignore
+    }
+  }
+  return period;
+}
 
 interface WeeklyDiffTableProps {
   diff: WeeklyDiff | null;
@@ -79,7 +99,9 @@ export function WeeklyDiffTable({ diff }: WeeklyDiffTableProps) {
         <h2 className="text-lg font-semibold font-[family-name:var(--font-mono)]">
           Weekly Changes
         </h2>
-        <span className="text-xs text-white/40">{diff.period}</span>
+        <span className="text-xs text-white/40 font-[family-name:var(--font-mono)]">
+          {formatPeriod(diff.period, diff.date)}
+        </span>
       </div>
 
       {/* Tabs */}
