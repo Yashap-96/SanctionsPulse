@@ -54,22 +54,35 @@ function EntryRow({ entry, action }: { entry: DiffEntry; action: TabKey }) {
         ? "bg-[#ef4444]/10 text-[#ef4444]"
         : "bg-[#f59e0b]/10 text-[#f59e0b]";
 
+  const programs = entry.programs ?? [];
+  const countries = entry.countries ?? [];
+
   return (
     <tr className={classNames("border-b border-white/5 hover:bg-white/[0.02] border-l-2", borderColor)}>
       <td className="px-4 py-3 text-sm text-white/90 font-medium">{entry.name}</td>
-      <td className="hidden md:table-cell px-4 py-3 text-sm text-white/50">{entry.entry_type}</td>
+      <td className="hidden md:table-cell px-4 py-3 text-sm text-white/50">{entry.entry_type ?? "\u2014"}</td>
       <td className="px-4 py-3">
         <div className="flex flex-wrap gap-1">
-          {entry.programs.slice(0, 3).map((p) => (
-            <Badge key={p} code={p} size="sm" />
-          ))}
-          {entry.programs.length > 3 && (
-            <span className="text-xs text-white/30">+{entry.programs.length - 3}</span>
+          {programs.length > 0 ? (
+            <>
+              {programs.slice(0, 3).map((p) => (
+                <Badge key={p} code={p} size="sm" />
+              ))}
+              {programs.length > 3 && (
+                <span className="text-xs text-white/30">+{programs.length - 3}</span>
+              )}
+            </>
+          ) : entry.changes ? (
+            <span className="text-xs text-white/40 italic">
+              {Object.keys(entry.changes).join(", ")} changed
+            </span>
+          ) : (
+            <span className="text-xs text-white/30">{"\u2014"}</span>
           )}
         </div>
       </td>
       <td className="hidden md:table-cell px-4 py-3 text-sm text-white/50">
-        {entry.countries.join(", ") || "\u2014"}
+        {countries.join(", ") || "\u2014"}
       </td>
       <td className="px-4 py-3">
         <span className={classNames("text-xs font-medium px-2 py-1 rounded-full", actionBgColor)}>

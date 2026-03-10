@@ -33,10 +33,10 @@ export interface WeeklyDiffSummary {
 export interface DiffEntry {
   uid: string;
   name: string;
-  entry_type: "Entity" | "Individual" | "Vessel" | "Aircraft";
-  programs: string[];
-  countries: string[];
-  list_type: "SDN" | "CONSOLIDATED";
+  entry_type?: "Entity" | "Individual" | "Vessel" | "Aircraft";
+  programs?: string[];
+  countries?: string[];
+  list_type?: "SDN" | "CONSOLIDATED";
   changes?: Record<string, { old: string; new: string }>;
 }
 
