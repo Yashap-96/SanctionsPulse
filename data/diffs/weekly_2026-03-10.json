@@ -1,0 +1,52 @@
+{
+  "date": "2026-03-10",
+  "period": "2026-03-03 to 2026-03-10",
+  "summary": {
+    "added": 1,
+    "removed": 0,
+    "updated": 1
+  },
+  "additions": [
+    {
+      "uid": 57109,
+      "name": "Sudanese Muslim Brotherhood",
+      "entry_type": "Entity",
+      "programs": [
+        "FTO",
+        "SDGT"
+      ],
+      "countries": [
+        "SD"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0627\u0644\u062d\u0631\u0643\u0629 \u0627\u0644\u0627\u0633\u0644\u0627\u0645\u064a\u0629 \u0627\u0644\u0633\u0648\u062f\u0627\u0646\u064a\u0629",
+        "Muslim Brotherhood in Sudan",
+        "Sudanese Islamic Movement"
+      ],
+      "ids": [],
+      "crypto_wallets": []
+    }
+  ],
+  "removals": [],
+  "updates": [
+    {
+      "uid": 55423,
+      "name": "AL-BARAA BIN MALIK BRIGADE",
+      "changes": {
+        "programs": {
+          "old": [
+            "SUDAN-EO14098"
+          ],
+          "new": [
+            "SUDAN-EO14098",
+            "FTO",
+            "SDGT"
+          ]
+        }
+      }
+    }
+  ]
+}

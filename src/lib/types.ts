@@ -11,10 +11,15 @@ export interface IdentificationDoc {
   country: string | null;
 }
 
+export interface CryptoWallet {
+  currency: string;
+  address: string;
+}
+
 export interface SanctionEntry {
   uid: string;
   name: string;
-  entry_type: "Entity" | "Individual" | "Vessel" | "Aircraft";
+  entry_type: "Entity" | "Individual" | "Vessel" | "Aircraft" | "Unknown";
   programs: string[];
   countries: string[];
   list_type: "SDN" | "CONSOLIDATED";
@@ -22,6 +27,8 @@ export interface SanctionEntry {
   ids: IdentificationDoc[];
   dob: string | null;
   nationalities: string[];
+  aliases: string[];
+  crypto_wallets: CryptoWallet[];
 }
 
 export interface WeeklyDiffSummary {
@@ -33,7 +40,7 @@ export interface WeeklyDiffSummary {
 export interface DiffEntry {
   uid: string;
   name: string;
-  entry_type?: "Entity" | "Individual" | "Vessel" | "Aircraft";
+  entry_type?: "Entity" | "Individual" | "Vessel" | "Aircraft" | "Unknown";
   programs?: string[];
   countries?: string[];
   list_type?: "SDN" | "CONSOLIDATED";
