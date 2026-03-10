@@ -19,6 +19,7 @@ export const MAP_CONFIG = {
 };
 
 export const API_URLS = {
+  data: "/data/",
   meta: "/data/meta.json",
   diffs: "/data/diffs/",
   programs: "/data/programs/active_programs.json",

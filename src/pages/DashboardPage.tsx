@@ -1,6 +1,7 @@
 import { useSanctionsData } from "../hooks/useSanctionsData";
 import { InfoBanner } from "../components/dashboard/InfoBanner";
 import { StatsCards } from "../components/dashboard/StatsCards";
+import { DataOverview } from "../components/dashboard/DataOverview";
 import { WeeklyDiffTable } from "../components/dashboard/WeeklyDiffTable";
 import { ProgramsPanel } from "../components/dashboard/ProgramsPanel";
 import { TimelineChart } from "../components/dashboard/TimelineChart";
@@ -28,6 +29,7 @@ export function DashboardPage() {
     <div className="space-y-6">
       <InfoBanner />
       <StatsCards meta={meta} />
+      <DataOverview />
       <div className="grid grid-cols-1 xl:grid-cols-3 gap-6">
         <div className="xl:col-span-2">
           <WeeklyDiffTable diff={weeklyDiff} />

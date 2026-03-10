@@ -45,6 +45,11 @@ export interface DiffEntry {
   countries?: string[];
   list_type?: "SDN" | "CONSOLIDATED";
   changes?: Record<string, { old: string; new: string }>;
+  dob?: string | null;
+  nationalities?: string[];
+  aliases?: string[];
+  ids?: IdentificationDoc[];
+  crypto_wallets?: CryptoWallet[];
 }
 
 export interface WeeklyDiff {
