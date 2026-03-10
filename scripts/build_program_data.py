@@ -237,8 +237,8 @@ def extract(
                 "entry_count_sdn": 0,
                 "entry_count_consolidated": 0,
                 "last_updated": today,
-                "weekly_added": 0,
-                "weekly_removed": 0,
+                "daily_added": 0,
+                "daily_removed": 0,
                 "description": PROGRAM_DESCRIPTIONS.get(prog, f"{prog} sanctions program"),
             }
         return program_counts[prog]
@@ -251,9 +251,9 @@ def extract(
         for prog in entry.get("programs", []):
             _ensure(prog)["entry_count_consolidated"] += 1
 
-    # Overlay weekly diff counts if available
+    # Overlay daily diff counts if available
     if diff is None:
-        diff_path = DIFF_DIR / f"weekly_{today}.json"
+        diff_path = DIFF_DIR / f"daily_{today}.json"
         if diff_path.exists():
             with open(diff_path) as f:
                 diff = json.load(f)
@@ -261,10 +261,10 @@ def extract(
     if diff:
         for addition in diff.get("additions", []):
             for prog in addition.get("programs", []):
-                _ensure(prog)["weekly_added"] += 1
+                _ensure(prog)["daily_added"] += 1
         for removal in diff.get("removals", []):
             for prog in removal.get("programs", []):
-                _ensure(prog)["weekly_removed"] += 1
+                _ensure(prog)["daily_removed"] += 1
 
     # Sort descending by total count
     result = sorted(

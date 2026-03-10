@@ -34,10 +34,10 @@ export function MapLegend() {
           </div>
         </div>
 
-        {/* Weekly changes */}
+        {/* Daily changes */}
         <div>
           <div className="text-white/50 font-semibold mb-1.5 uppercase tracking-wider text-[10px]">
-            Weekly Changes
+            Daily Changes
           </div>
           <div className="space-y-1">
             <div className="flex items-center gap-2">

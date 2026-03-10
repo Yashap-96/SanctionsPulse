@@ -1,10 +1,10 @@
 import { useState, useEffect } from "react";
-import type { MetaData, WeeklyDiff, SanctionsProgram } from "../lib/types";
+import type { MetaData, DailyDiff, SanctionsProgram } from "../lib/types";
 import { API_URLS } from "../lib/constants";
 
 interface SanctionsDataState {
   meta: MetaData | null;
-  weeklyDiff: WeeklyDiff | null;
+  latestDiff: DailyDiff | null;
   programs: Record<string, SanctionsProgram> | null;
   loading: boolean;
   error: string | null;
@@ -13,7 +13,7 @@ interface SanctionsDataState {
 export function useSanctionsData(): SanctionsDataState {
   const [state, setState] = useState<SanctionsDataState>({
     meta: null,
-    weeklyDiff: null,
+    latestDiff: null,
     programs: null,
     loading: true,
     error: null,
@@ -43,20 +43,20 @@ export function useSanctionsData(): SanctionsDataState {
         }
 
         // Fetch the latest diff using the date from meta
-        let weeklyDiff: WeeklyDiff | null = null;
+        let latestDiff: DailyDiff | null = null;
         if (meta.last_diff_date) {
           const diffRes = await fetch(
-            `${API_URLS.diffs}weekly_${meta.last_diff_date}.json`
+            `${API_URLS.diffs}daily_${meta.last_diff_date}.json`
           );
           if (diffRes.ok) {
-            weeklyDiff = await diffRes.json();
+            latestDiff = await diffRes.json();
           }
         }
 
         if (!cancelled) {
           setState({
             meta,
-            weeklyDiff,
+            latestDiff,
             programs,
             loading: false,
             error: null,

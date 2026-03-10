@@ -18,7 +18,7 @@ export function TimelineChart({ data }: TimelineChartProps) {
           Activity Timeline
         </h2>
         <div className="flex items-center justify-center h-48 text-white/30 text-sm">
-          Timeline data will appear as weekly diffs accumulate
+          Timeline data will appear as daily diffs accumulate
         </div>
       </div>
     );

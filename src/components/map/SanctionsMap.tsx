@@ -88,18 +88,18 @@ export function SanctionsMap({ countryData }: SanctionsMapProps) {
             total: data?.total ?? 0,
             sdn: data?.sdn ?? 0,
             consolidated: data?.consolidated ?? 0,
-            weekly_added: data?.weekly_added ?? 0,
-            weekly_removed: data?.weekly_removed ?? 0,
+            daily_added: data?.daily_added ?? 0,
+            daily_removed: data?.daily_removed ?? 0,
             net_change: data
-              ? data.weekly_added - data.weekly_removed
+              ? data.daily_added - data.daily_removed
               : 0,
             has_sanctions: data ? data.total > 0 : false,
             programs: data?.programs?.join(", ") ?? "",
             country_name: data?.name ?? feature.properties?.name ?? "",
           };
 
-          // Build bubble features for countries with weekly changes
-          if (data && (data.weekly_added + data.weekly_removed > 0)) {
+          // Build bubble features for countries with daily changes
+          if (data && (data.daily_added + data.daily_removed > 0)) {
             const centroid = computeCentroid(feature.geometry);
             if (centroid) {
               bubbleFeatures.push({
@@ -224,9 +224,9 @@ export function SanctionsMap({ countryData }: SanctionsMapProps) {
           const sdn = Number(props.sdn ?? 0);
           const consolidated = Number(props.consolidated ?? 0);
           const programs = props.programs || "";
-          const weeklyAdded = Number(props.weekly_added ?? 0);
-          const weeklyRemoved = Number(props.weekly_removed ?? 0);
-          const netChange = weeklyAdded - weeklyRemoved;
+          const dailyAdded = Number(props.daily_added ?? 0);
+          const dailyRemoved = Number(props.daily_removed ?? 0);
+          const netChange = dailyAdded - dailyRemoved;
 
           const programsList = programs
             ? programs
@@ -260,10 +260,10 @@ export function SanctionsMap({ countryData }: SanctionsMapProps) {
                   <div style="text-align:right;">${consolidated.toLocaleString()}</div>
                 </div>
                 <div style="border-top: 1px solid rgba(255,255,255,0.1); padding-top: 6px; margin-bottom: 6px;">
-                  <span style="color:#9ca3af;">Weekly: </span>
-                  <span style="color:#22c55e;">+${weeklyAdded}</span>
+                  <span style="color:#9ca3af;">Daily: </span>
+                  <span style="color:#22c55e;">+${dailyAdded}</span>
                   <span style="color:#6b7280;"> / </span>
-                  <span style="color:#ef4444;">-${weeklyRemoved}</span>
+                  <span style="color:#ef4444;">-${dailyRemoved}</span>
                   <span style="color:#6b7280;"> = </span>
                   <span style="color:${changeColor};font-weight:600;">${changePrefix}${netChange}</span>
                 </div>

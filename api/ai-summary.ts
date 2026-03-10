@@ -54,7 +54,7 @@ const SYSTEM_PROMPT = `You are a sanctions intelligence analyst assistant for Sa
 - Provide context on sanctioned entities, including their significance and connections
 - Explain sanctions programs, legal authorities, and compliance implications
 - Help users understand the impact of sanctions changes on their compliance workflows
-- Summarize weekly and historical sanctions data trends
+- Summarize daily and historical sanctions data trends
 - Answer questions about SDN (Specially Designated Nationals) entries, their identifiers, and associated programs
 
 Always be precise with entity names, ID numbers, and dates. When discussing sanctions, reference the specific OFAC program (e.g., SDGT, IRAN, CYBER2) when applicable. If you are unsure about specific details, say so clearly rather than speculating.
@@ -77,7 +77,7 @@ interface RequestBody {
   context?: {
     currentData?: string;
     selectedEntity?: string;
-    weeklyDiff?: string;
+    latestDiff?: string;
   };
 }
 
@@ -185,9 +185,9 @@ export default async function handler(req: Request) {
           `Currently selected entity:\n${body.context.selectedEntity.slice(0, 500)}`
         );
       }
-      if (body.context.weeklyDiff) {
+      if (body.context.latestDiff) {
         contextParts.push(
-          `Recent weekly changes:\n${body.context.weeklyDiff.slice(0, 1000)}`
+          `Recent daily changes:\n${body.context.latestDiff.slice(0, 1000)}`
         );
       }
       if (contextParts.length > 0) {

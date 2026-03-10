@@ -40,8 +40,8 @@ def aggregate(
                 "sdn": 0,
                 "consolidated": 0,
                 "programs": [],
-                "weekly_added": 0,
-                "weekly_removed": 0,
+                "daily_added": 0,
+                "daily_removed": 0,
             }
         return country_data[code]
 
@@ -67,11 +67,11 @@ def aggregate(
                 if prog not in rec["programs"]:
                     rec["programs"].append(prog)
 
-    # Overlay weekly diff counts if available
+    # Overlay daily diff counts if available
     if diff is None:
         # Try to load the latest diff
         from datetime import date
-        diff_path = DIFF_DIR / f"weekly_{date.today().isoformat()}.json"
+        diff_path = DIFF_DIR / f"daily_{date.today().isoformat()}.json"
         if diff_path.exists():
             with open(diff_path) as f:
                 diff = json.load(f)
@@ -80,11 +80,11 @@ def aggregate(
         for addition in diff.get("additions", []):
             for code in addition.get("countries", []):
                 if code:
-                    _ensure(code)["weekly_added"] += 1
+                    _ensure(code)["daily_added"] += 1
         for removal in diff.get("removals", []):
             for code in removal.get("countries", []):
                 if code:
-                    _ensure(code)["weekly_removed"] += 1
+                    _ensure(code)["daily_removed"] += 1
 
     return country_data
 

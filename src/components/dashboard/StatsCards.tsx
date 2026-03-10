@@ -68,20 +68,20 @@ export function StatsCards({ meta }: StatsCardsProps) {
         "A combined list of non-SDN sanctions programs including the Sectoral Sanctions, Foreign Sanctions Evaders, Palestinian Legislative Council, and other specialized lists. Entries carry restrictions that vary by program but are generally less severe than the SDN list.",
     },
     {
-      label: "Weekly Additions",
+      label: "Daily Additions",
       value: meta.last_diff_summary.added,
       icon: <ArrowUpRight className="h-5 w-5 text-[#22c55e]" />,
       accentColor: "#22c55e",
       tooltip:
-        "New individuals, entities, vessels, or aircraft added to the OFAC sanctions lists during the most recent weekly update. Data is refreshed automatically every Monday at 09:00 UTC via the OFAC SLS API.",
+        "New individuals, entities, vessels, or aircraft added to the OFAC sanctions lists during the most recent daily update. Data is refreshed automatically every day at 9:00 AM ET via the OFAC SLS API.",
     },
     {
-      label: "Weekly Removals",
+      label: "Daily Removals",
       value: meta.last_diff_summary.removed,
       icon: <ArrowDownRight className="h-5 w-5 text-[#ef4444]" />,
       accentColor: "#ef4444",
       tooltip:
-        "Individuals, entities, vessels, or aircraft removed from the OFAC sanctions lists during the most recent weekly update. Removals may indicate lifted sanctions, delistings, or corrections. Updated every Monday at 09:00 UTC.",
+        "Individuals, entities, vessels, or aircraft removed from the OFAC sanctions lists during the most recent daily update. Removals may indicate lifted sanctions, delistings, or corrections. Updated every day at 9:00 AM ET.",
     },
   ];
 

@@ -31,7 +31,7 @@ export interface SanctionEntry {
   crypto_wallets: CryptoWallet[];
 }
 
-export interface WeeklyDiffSummary {
+export interface DiffSummary {
   added: number;
   removed: number;
   updated: number;
@@ -52,10 +52,10 @@ export interface DiffEntry {
   crypto_wallets?: CryptoWallet[];
 }
 
-export interface WeeklyDiff {
+export interface DailyDiff {
   date: string;
   period: string;
-  summary: WeeklyDiffSummary;
+  summary: DiffSummary;
   additions: DiffEntry[];
   removals: DiffEntry[];
   updates: DiffEntry[];
@@ -67,8 +67,8 @@ export interface SanctionsProgram {
   entry_count_sdn: number;
   entry_count_consolidated: number;
   last_updated: string;
-  weekly_added: number;
-  weekly_removed: number;
+  daily_added: number;
+  daily_removed: number;
   description: string;
 }
 
@@ -79,8 +79,8 @@ export interface CountrySanctionData {
   sdn: number;
   consolidated: number;
   programs: string[];
-  weekly_added: number;
-  weekly_removed: number;
+  daily_added: number;
+  daily_removed: number;
 }
 
 export interface NotableEntity {
@@ -98,7 +98,7 @@ export interface RiskImplication {
 
 export interface ProgramHighlight {
   program: string;
-  weekly_added: number;
+  daily_added: number;
   note: string;
 }
 
@@ -125,5 +125,5 @@ export interface MetaData {
   consolidated_total: number;
   last_updated: string;
   last_diff_date: string;
-  last_diff_summary: WeeklyDiffSummary;
+  last_diff_summary: DiffSummary;
 }

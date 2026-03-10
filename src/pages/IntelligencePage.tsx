@@ -40,8 +40,8 @@ export function IntelligencePage() {
           <AlertCircle className="h-8 w-8 text-white/20 mx-auto mb-3" />
           <p className="text-white/40 text-sm">
             {error
-              ? "Weekly intelligence summary is being generated. Use the chat below to ask questions in the meantime."
-              : "AI intelligence summaries are generated weekly following OFAC list updates."}
+              ? "Daily intelligence summary is being generated. Use the chat below to ask questions in the meantime."
+              : "AI intelligence summaries are generated daily following OFAC list updates."}
           </p>
         </div>
       )}

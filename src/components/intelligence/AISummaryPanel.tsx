@@ -187,7 +187,7 @@ function ProgramHighlightCard({ highlight }: { highlight: ProgramHighlight }) {
       <div className="flex items-center justify-between">
         <Badge code={highlight.program} size="md" />
         <span className="text-sm font-bold font-[family-name:var(--font-mono)] text-[#22c55e]">
-          +{highlight.weekly_added}
+          +{highlight.daily_added}
         </span>
       </div>
       <p className="text-xs text-white/50 leading-relaxed">{highlight.note}</p>

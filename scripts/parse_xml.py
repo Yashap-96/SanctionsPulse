@@ -142,17 +142,42 @@ def _build_lookups(tree: etree._ElementTree) -> dict:
                 if dtid and dtname:
                     doc_type_names[dtid] = dtname
 
-    # 4. Locations: LocationID → ISO2 (via CountryID)
+    # 4. Locations: LocationID → ISO2 (via CountryID) + address details
     location_id_to_iso2: dict[str, str] = {}
+    location_id_to_address: dict[str, dict] = {}
+    # LocPartTypeID mapping: 1451=ADDRESS1, 1452=ADDRESS2, 1453=ADDRESS3,
+    # 1454=CITY, 1455=STATE/PROVINCE, 1456=POSTAL CODE, 1450=REGION
+    loc_part_keys = {
+        "1451": "address1", "1452": "address2", "1453": "address3",
+        "1454": "city", "1455": "state", "1456": "postal_code", "1450": "region",
+    }
     locations_el = root.find(_tag("Locations"))
     if locations_el is not None:
         for loc in locations_el:
             loc_id = loc.get("ID")
             country_el = loc.find(_tag("LocationCountry"))
+            country_iso2 = ""
             if loc_id and country_el is not None:
                 cid = country_el.get("CountryID")
                 if cid and cid in country_id_to_iso2:
-                    location_id_to_iso2[loc_id] = country_id_to_iso2[cid]
+                    country_iso2 = country_id_to_iso2[cid]
+                    location_id_to_iso2[loc_id] = country_iso2
+
+            # Extract address parts
+            addr: dict[str, str] = {}
+            if loc_id:
+                for loc_part in loc.iter(_tag("LocationPart")):
+                    lpt_id = loc_part.get("LocPartTypeID", "")
+                    field = loc_part_keys.get(lpt_id)
+                    if field:
+                        for lpv in loc_part.iter(_tag("LocationPartValue")):
+                            val_el = lpv.find(_tag("Value"))
+                            if val_el is not None and val_el.text and val_el.text.strip():
+                                addr[field] = val_el.text.strip()
+                                break
+                if addr or country_iso2:
+                    addr["country"] = country_iso2
+                    location_id_to_address[loc_id] = addr
 
     # 5. SanctionsEntries: ProfileID → list of program names
     profile_programs: dict[str, list[str]] = {}
@@ -197,6 +222,7 @@ def _build_lookups(tree: etree._ElementTree) -> dict:
             identity_docs.setdefault(identity_id, []).append(doc_entry)
 
     print(f"  Lookups: {len(country_id_to_iso2)} countries, {len(location_id_to_iso2)} locations, "
+          f"{len(location_id_to_address)} addresses, "
           f"{len(profile_programs)} profile→programs, {len(doc_type_names)} doc types, "
           f"{len(identity_docs)} identities with docs")
 
@@ -204,6 +230,7 @@ def _build_lookups(tree: etree._ElementTree) -> dict:
         "country_id_to_iso2": country_id_to_iso2,
         "country_id_to_name": country_id_to_name,
         "location_id_to_iso2": location_id_to_iso2,
+        "location_id_to_address": location_id_to_address,
         "profile_programs": profile_programs,
         "program_id_to_name": program_id_to_name,
         "doc_type_names": doc_type_names,
@@ -218,6 +245,7 @@ def _parse_distinct_party(
 ) -> dict:
     """Parse a single DistinctParty element into a normalized dict."""
     location_id_to_iso2 = lookups["location_id_to_iso2"]
+    location_id_to_address = lookups["location_id_to_address"]
     profile_programs = lookups["profile_programs"]
     identity_docs = lookups["identity_docs"]
 
@@ -289,6 +317,18 @@ def _parse_distinct_party(
         loc_id = vl.get("LocationID")
         if loc_id and loc_id in location_id_to_iso2:
             countries.add(location_id_to_iso2[loc_id])
+
+    # --- Addresses (via VersionLocation → Location → LocationParts) ---
+    addresses: list[dict] = []
+    seen_loc_ids: set[str] = set()
+    for vl in dp.iter(_tag("VersionLocation")):
+        loc_id = vl.get("LocationID")
+        if loc_id and loc_id in location_id_to_address and loc_id not in seen_loc_ids:
+            seen_loc_ids.add(loc_id)
+            addr = location_id_to_address[loc_id]
+            # Only include if there's at least one address field beyond country
+            if any(k != "country" for k in addr):
+                addresses.append(addr)
 
     # --- Nationalities (via Feature with FeatureTypeID=10 or 11) ---
     nationalities: list[str] = []
@@ -362,6 +402,7 @@ def _parse_distinct_party(
         "aliases": aliases,
         "ids": ids,
         "crypto_wallets": crypto_wallets,
+        "addresses": addresses,
     }
     return entry
 
@@ -396,11 +437,14 @@ def parse(filepath: pathlib.Path, list_type: str) -> list[dict]:
     with_crypto = sum(1 for e in entries if e["crypto_wallets"])
     with_aliases = sum(1 for e in entries if e["aliases"])
     total_aliases = sum(len(e["aliases"]) for e in entries)
+    with_addresses = sum(1 for e in entries if e["addresses"])
+    total_addresses = sum(len(e["addresses"]) for e in entries)
 
     print(f"  Types: {dict(type_counts.most_common())}")
     print(f"  With programs: {with_programs}, With countries: {with_countries}")
     print(f"  With IDs: {with_ids}, With crypto wallets: {with_crypto}")
     print(f"  With aliases: {with_aliases} ({total_aliases} total alias names)")
+    print(f"  With addresses: {with_addresses} ({total_addresses} total addresses)")
 
     return entries
 

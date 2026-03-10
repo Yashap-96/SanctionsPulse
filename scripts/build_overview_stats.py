@@ -34,12 +34,15 @@ def build(
     total_crypto = sum(len(e.get("crypto_wallets", [])) for e in all_entries)
     with_aliases = sum(1 for e in all_entries if e.get("aliases"))
     total_aliases = sum(len(e.get("aliases", [])) for e in all_entries)
+    with_addresses = sum(1 for e in all_entries if e.get("addresses"))
+    total_addresses = sum(len(e.get("addresses", [])) for e in all_entries)
 
     return {
         "entry_types": dict(types.most_common()),
         "id_documents": {"entries": with_ids, "total": total_ids},
         "crypto_wallets": {"entries": with_crypto, "total": total_crypto},
         "aliases": {"entries": with_aliases, "total": total_aliases},
+        "addresses": {"entries": with_addresses, "total": total_addresses},
     }
 
 

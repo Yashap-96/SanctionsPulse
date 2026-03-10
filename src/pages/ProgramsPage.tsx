@@ -43,9 +43,9 @@ export function ProgramsPage() {
           );
         case "active":
           return (
-            b.weekly_added +
-            b.weekly_removed -
-            (a.weekly_added + a.weekly_removed)
+            b.daily_added +
+            b.daily_removed -
+            (a.daily_added + a.daily_removed)
           );
         default:
           return 0;
@@ -109,7 +109,7 @@ export function ProgramsPage() {
           >
             <option value="entries">Most Entries</option>
             <option value="recent">Most Recent</option>
-            <option value="active">Most Active This Week</option>
+            <option value="active">Most Active Today</option>
           </select>
         </div>
       </div>
@@ -193,23 +193,23 @@ function ProgramCard({ program }: { program: SanctionsProgram }) {
         <span>Consolidated {(100 - sdnPct).toFixed(0)}%</span>
       </div>
 
-      {/* Weekly Activity + Last Updated */}
+      {/* Daily Activity + Last Updated */}
       <div className="flex items-center justify-between pt-2 border-t border-white/5">
         <div className="flex items-center gap-3">
-          {program.weekly_added > 0 && (
+          {program.daily_added > 0 && (
             <span className="flex items-center gap-0.5 text-xs text-[#22c55e]">
               <TrendingUp className="h-3 w-3" />
-              +{program.weekly_added}
+              +{program.daily_added}
             </span>
           )}
-          {program.weekly_removed > 0 && (
+          {program.daily_removed > 0 && (
             <span className="flex items-center gap-0.5 text-xs text-[#ef4444]">
               <TrendingDown className="h-3 w-3" />
-              -{program.weekly_removed}
+              -{program.daily_removed}
             </span>
           )}
-          {program.weekly_added === 0 && program.weekly_removed === 0 && (
-            <span className="text-xs text-white/20">No weekly changes</span>
+          {program.daily_added === 0 && program.daily_removed === 0 && (
+            <span className="text-xs text-white/20">No daily changes</span>
           )}
         </div>
         <span className="text-[10px] text-white/25">

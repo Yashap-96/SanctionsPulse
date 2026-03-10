@@ -1,29 +1,19 @@
 import { useState } from "react";
 import { Plus, Minus, RefreshCw, ChevronDown, ChevronUp, Fingerprint, Bitcoin, Users, Calendar, Globe } from "lucide-react";
-import type { WeeklyDiff, DiffEntry } from "../../lib/types";
+import type { DailyDiff, DiffEntry } from "../../lib/types";
 import { classNames, formatDate } from "../../lib/utils";
 import { Badge } from "../common/Badge";
 
 function formatPeriod(period: string, diffDate?: string): string {
-  const rangeMatch = period.match(/^(\d{4}-\d{2}-\d{2})\s+to\s+(\d{4}-\d{2}-\d{2})$/);
-  if (rangeMatch) {
-    return `${formatDate(rangeMatch[1])} — ${formatDate(rangeMatch[2])}`;
-  }
-  if (diffDate) {
-    try {
-      const end = new Date(diffDate);
-      const start = new Date(end);
-      start.setDate(start.getDate() - 7);
-      return `${formatDate(start.toISOString().slice(0, 10))} — ${formatDate(diffDate)}`;
-    } catch {
-      // ignore
-    }
+  const dateStr = diffDate || period;
+  if (/^\d{4}-\d{2}-\d{2}$/.test(dateStr)) {
+    return formatDate(dateStr);
   }
   return period;
 }
 
-interface WeeklyDiffTableProps {
-  diff: WeeklyDiff | null;
+interface DiffTableProps {
+  diff: DailyDiff | null;
 }
 
 type TabKey = "additions" | "removals" | "updates";
@@ -274,13 +264,13 @@ function EntryRow({ entry, action }: { entry: DiffEntry; action: TabKey }) {
   );
 }
 
-export function WeeklyDiffTable({ diff }: WeeklyDiffTableProps) {
+export function DiffTable({ diff }: DiffTableProps) {
   const [activeTab, setActiveTab] = useState<TabKey>("additions");
 
   if (!diff) {
     return (
       <div className="glass-card p-6">
-        <p className="text-white/40 text-center">No weekly diff data available</p>
+        <p className="text-white/40 text-center">No diff data available</p>
       </div>
     );
   }
@@ -291,7 +281,7 @@ export function WeeklyDiffTable({ diff }: WeeklyDiffTableProps) {
     <div className="glass-card overflow-hidden animate-fade-in">
       <div className="flex items-center justify-between px-5 pt-5 pb-3">
         <h2 className="text-lg font-semibold font-[family-name:var(--font-mono)]">
-          Weekly Changes
+          Daily Changes
         </h2>
         <span className="text-xs text-white/40 font-[family-name:var(--font-mono)]">
           {formatPeriod(diff.period, diff.date)}
@@ -346,7 +336,7 @@ export function WeeklyDiffTable({ diff }: WeeklyDiffTableProps) {
             ) : (
               <tr>
                 <td colSpan={5} className="px-4 py-8 text-center text-white/30 text-sm">
-                  No {activeTab} this week
+                  No {activeTab} today
                 </td>
               </tr>
             )}

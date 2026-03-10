@@ -1,4 +1,4 @@
-"""Generate an AI intelligence summary from the weekly diff using the Groq API."""
+"""Generate an AI intelligence summary from the daily diff using the Groq API."""
 
 import json
 import os
@@ -12,11 +12,11 @@ SUMMARY_DIR = PROJECT_ROOT / "data" / "summaries"
 MODEL = "llama-3.3-70b-versatile"
 
 SYSTEM_PROMPT = """\
-You are a sanctions intelligence analyst. Given the weekly OFAC sanctions list \
+You are a sanctions intelligence analyst. Given the daily OFAC sanctions list \
 changes (additions, removals, and updates), produce a structured intelligence \
 briefing in valid JSON with these keys:
 
-- executive_summary (string): A 2-3 sentence high-level overview of the week's changes.
+- executive_summary (string): A 2-3 sentence high-level overview of the day's changes.
 - notable_entities (list of strings): Names of the most significant entities added, removed, or updated.
 - risk_implications (string): What these changes mean for compliance teams.
 - program_highlights (list of objects with "program" and "detail" keys): Key sanctions programs affected.
@@ -28,7 +28,7 @@ Respond ONLY with a valid JSON object. No markdown, no commentary.\
 
 
 def generate_summary(diff: dict, summary_date: str | None = None) -> dict | None:
-    """Call the Groq API to produce an AI summary of the weekly diff.
+    """Call the Groq API to produce an AI summary of the daily diff.
 
     Returns the parsed summary dict, or None if no API key is configured.
     """
@@ -52,7 +52,7 @@ def generate_summary(diff: dict, summary_date: str | None = None) -> dict | None
     }
 
     user_message = (
-        f"Here are the OFAC sanctions list changes for the week ending {summary_date}:\n\n"
+        f"Here are the OFAC sanctions list changes for {summary_date}:\n\n"
         f"{json.dumps(prompt_data, indent=2)}\n\n"
         "Produce the intelligence briefing JSON."
     )
@@ -93,7 +93,7 @@ def generate_and_save(diff: dict | None = None, summary_date: str | None = None)
     SUMMARY_DIR.mkdir(parents=True, exist_ok=True)
 
     if diff is None:
-        diff_path = DIFF_DIR / f"weekly_{summary_date}.json"
+        diff_path = DIFF_DIR / f"daily_{summary_date}.json"
         if not diff_path.exists():
             print(f"No diff file found at {diff_path}")
             return None

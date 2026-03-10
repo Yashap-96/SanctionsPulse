@@ -7,6 +7,7 @@ import {
   Fingerprint,
   Bitcoin,
   Users,
+  MapPin,
 } from "lucide-react";
 import { formatNumber } from "../../lib/utils";
 import { API_URLS } from "../../lib/constants";
@@ -16,6 +17,7 @@ interface OverviewStats {
   id_documents: { entries: number; total: number };
   crypto_wallets: { entries: number; total: number };
   aliases: { entries: number; total: number };
+  addresses: { entries: number; total: number };
 }
 
 const TYPE_CONFIG = [
@@ -26,6 +28,13 @@ const TYPE_CONFIG = [
 ];
 
 const DATA_CONFIG = [
+  {
+    key: "addresses" as const,
+    label: "Addresses",
+    sublabel: "Cities, states, postal codes",
+    icon: MapPin,
+    color: "#14b8a6",
+  },
   {
     key: "id_documents" as const,
     label: "ID Documents",
@@ -89,7 +98,7 @@ export function DataOverview() {
       </div>
 
       {/* Data categories */}
-      <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3">
         {DATA_CONFIG.map(({ key, label, sublabel, icon: Icon, color }) => {
           const data = stats[key];
           return (

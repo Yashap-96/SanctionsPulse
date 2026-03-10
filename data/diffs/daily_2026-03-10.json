@@ -1,6 +1,6 @@
 {
   "date": "2026-03-10",
-  "period": "2026-03-03 to 2026-03-10",
+  "period": "2026-03-10",
   "summary": {
     "added": 1,
     "removed": 0,
@@ -27,7 +27,8 @@
         "Sudanese Islamic Movement"
       ],
       "ids": [],
-      "crypto_wallets": []
+      "crypto_wallets": [],
+      "addresses": []
     }
   ],
   "removals": [],

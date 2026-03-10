@@ -26,7 +26,7 @@ export function ProgramsPanel({ programs }: ProgramsPanelProps) {
         {top.map((program) => {
           const color = getProgramColor(program.code);
           const total = program.entry_count_sdn + program.entry_count_consolidated;
-          const netChange = program.weekly_added - program.weekly_removed;
+          const netChange = program.daily_added - program.daily_removed;
 
           return (
             <div

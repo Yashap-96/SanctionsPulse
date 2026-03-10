@@ -9,8 +9,8 @@ interface RawCountryData {
   sdn: number;
   consolidated: number;
   programs: string[];
-  weekly_added: number;
-  weekly_removed: number;
+  daily_added: number;
+  daily_removed: number;
 }
 
 interface MapDataState {
@@ -45,8 +45,8 @@ export function useMapData(): MapDataState {
             sdn: entry.sdn,
             consolidated: entry.consolidated,
             programs: entry.programs,
-            weekly_added: entry.weekly_added,
-            weekly_removed: entry.weekly_removed,
+            daily_added: entry.daily_added,
+            daily_removed: entry.daily_removed,
           };
         }
 

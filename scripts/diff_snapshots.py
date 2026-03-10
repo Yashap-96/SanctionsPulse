@@ -1,4 +1,4 @@
-"""Compare current vs previous sanctions snapshots and produce a weekly diff."""
+"""Compare current vs previous sanctions snapshots and produce a daily diff."""
 
 import json
 import pathlib
@@ -65,13 +65,8 @@ def compute_diff(
                 "changes": changes,
             })
 
-    # Compute date range (current date minus 7 days)
-    try:
-        end_date = date.fromisoformat(diff_date)
-        start_date = end_date - timedelta(days=7)
-        period = f"{start_date.isoformat()} to {end_date.isoformat()}"
-    except (ValueError, TypeError):
-        period = "weekly"
+    # Period is just the diff date
+    period = diff_date or date.today().isoformat()
 
     return {
         "date": diff_date,
@@ -104,7 +99,7 @@ def diff_and_save(diff_date: str | None = None) -> dict:
 
     diff = compute_diff(current, previous, diff_date)
 
-    out_path = DIFF_DIR / f"weekly_{diff_date}.json"
+    out_path = DIFF_DIR / f"daily_{diff_date}.json"
     with open(out_path, "w") as f:
         json.dump(diff, f, indent=2)
     print(f"Diff saved to {out_path}")

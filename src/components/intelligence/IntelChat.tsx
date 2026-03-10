@@ -15,7 +15,7 @@ interface IntelChatProps {
 const INITIAL_MESSAGE: ChatMessage = {
   role: "assistant",
   content:
-    "I'm your OFAC sanctions intelligence analyst. Ask me about this week's sanctions changes, program activity, risk implications, or compliance recommendations.",
+    "I'm your OFAC sanctions intelligence analyst. Ask me about today's sanctions changes, program activity, risk implications, or compliance recommendations.",
 };
 
 const MAX_CONVERSATION_MESSAGES = 10;
@@ -40,7 +40,7 @@ export function IntelChat({ meta }: IntelChatProps) {
     const parts = [
       `Current OFAC database stats: ${formatNumber(meta.sdn_total)} SDN entries, ${formatNumber(meta.consolidated_total)} consolidated entries.`,
       `Last updated: ${meta.last_updated}. Last diff date: ${meta.last_diff_date}.`,
-      `Latest weekly diff summary: ${meta.last_diff_summary.added} added, ${meta.last_diff_summary.removed} removed, ${meta.last_diff_summary.updated} updated.`,
+      `Latest daily diff summary: ${meta.last_diff_summary.added} added, ${meta.last_diff_summary.removed} removed, ${meta.last_diff_summary.updated} updated.`,
     ];
     return parts.join(" ");
   }

@@ -1,4 +1,4 @@
-"""Orchestrator: run the full weekly SanctionsPulse data pipeline."""
+"""Orchestrator: run the full daily SanctionsPulse data pipeline."""
 
 import json
 import pathlib
@@ -23,7 +23,7 @@ def _rotate_snapshots():
 def run():
     """Execute the full pipeline with error handling for each step."""
     today = date.today().isoformat()
-    print(f"=== SanctionsPulse Weekly Pipeline ({today}) ===\n")
+    print(f"=== SanctionsPulse Daily Pipeline ({today}) ===\n")
 
     sdn_entries = []
     cons_entries = []
