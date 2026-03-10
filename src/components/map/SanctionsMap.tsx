@@ -59,6 +59,7 @@ export function SanctionsMap({ countryData }: SanctionsMapProps) {
       center: MAP_CONFIG.initialCenter,
       zoom: MAP_CONFIG.initialZoom,
       attributionControl: false,
+      renderWorldCopies: false,
     });
 
     map.addControl(new maplibregl.NavigationControl(), "top-left");

@@ -1,5 +1,5 @@
 import { useState, useMemo } from "react";
-import { Shield, Search, ArrowUpDown, Database, TrendingUp, TrendingDown } from "lucide-react";
+import { Shield, Search, ArrowUpDown, Database, TrendingUp, TrendingDown, Info } from "lucide-react";
 import { useSanctionsData } from "../hooks/useSanctionsData";
 import { LoadingSpinner } from "../components/common/LoadingSpinner";
 import { Badge } from "../components/common/Badge";
@@ -142,15 +142,21 @@ function ProgramCard({ program }: { program: SanctionsProgram }) {
       {/* Header */}
       <div className="flex items-start gap-3">
         <Badge code={program.code} size="md" />
-        <h3 className="text-sm font-semibold text-white/90 leading-tight flex-1 min-w-0">
-          {program.name}
-        </h3>
+        <div className="flex items-center gap-1.5 flex-1 min-w-0">
+          <h3 className="text-sm font-semibold text-white/90 leading-tight">
+            {program.name}
+          </h3>
+          {program.description && (
+            <div className="relative group shrink-0">
+              <Info className="h-3.5 w-3.5 text-white/25 cursor-default hover:text-white/50 transition-colors" />
+              <div className="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 w-64 px-3 py-2.5 rounded-lg bg-[#1a1a1a] border border-white/10 shadow-xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 z-50 pointer-events-none">
+                <p className="text-xs text-white/60 leading-relaxed">{program.description}</p>
+                <div className="absolute top-full left-1/2 -translate-x-1/2 -mt-px border-4 border-transparent border-t-[#1a1a1a]" />
+              </div>
+            </div>
+          )}
+        </div>
       </div>
-
-      {/* Description */}
-      <p className="text-white/40 text-xs leading-relaxed line-clamp-2">
-        {program.description}
-      </p>
 
       {/* Stats */}
       <div className="grid grid-cols-3 gap-3">
