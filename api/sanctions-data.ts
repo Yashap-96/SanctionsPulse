@@ -65,7 +65,7 @@ export default function handler(req: VercelRequest, res: VercelResponse) {
     res.setHeader('Content-Type', 'application/json');
     res.setHeader(
       'Cache-Control',
-      'public, max-age=300, s-maxage=3600'
+      'public, max-age=60, s-maxage=60'
     );
     res.status(200).send(data);
   } catch (err) {
