@@ -8,6 +8,8 @@ import {
   Bitcoin,
   Users,
   MapPin,
+  ChevronDown,
+  ChevronUp,
 } from "lucide-react";
 import { formatNumber } from "../../lib/utils";
 import { API_URLS } from "../../lib/constants";
@@ -60,6 +62,7 @@ const DATA_CONFIG = [
 
 export function DataOverview() {
   const [stats, setStats] = useState<OverviewStats | null>(null);
+  const [collapsed, setCollapsed] = useState(false);
 
   useEffect(() => {
     fetch(`${API_URLS.data}overview_stats.json`)
@@ -72,12 +75,24 @@ export function DataOverview() {
 
   return (
     <div className="glass-card p-5 animate-fade-in">
-      <h2 className="text-lg font-semibold font-[family-name:var(--font-mono)] mb-4">
-        Data Coverage
-      </h2>
+      <button
+        onClick={() => setCollapsed(!collapsed)}
+        className="flex items-center justify-between w-full"
+      >
+        <h2 className="text-lg font-semibold font-[family-name:var(--font-mono)]">
+          List Composition
+        </h2>
+        {collapsed ? (
+          <ChevronDown className="h-4 w-4 text-white/40" />
+        ) : (
+          <ChevronUp className="h-4 w-4 text-white/40" />
+        )}
+      </button>
 
+      {!collapsed && (
+        <>
       {/* Entry type breakdown */}
-      <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 mb-4">
+      <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 mb-4 mt-4">
         {TYPE_CONFIG.map(({ key, label, icon: Icon, color }) => (
           <div
             key={key}
@@ -133,6 +148,8 @@ export function DataOverview() {
           );
         })}
       </div>
+        </>
+      )}
     </div>
   );
 }

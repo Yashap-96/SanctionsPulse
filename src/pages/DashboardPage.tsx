@@ -3,6 +3,7 @@ import { InfoBanner } from "../components/dashboard/InfoBanner";
 import { StatsCards } from "../components/dashboard/StatsCards";
 import { DataOverview } from "../components/dashboard/DataOverview";
 import { DiffTable } from "../components/dashboard/WeeklyDiffTable";
+import { FullRegistry } from "../components/dashboard/FullRegistry";
 import { ProgramsPanel } from "../components/dashboard/ProgramsPanel";
 import { TimelineChart } from "../components/dashboard/TimelineChart";
 import { LoadingSpinner } from "../components/common/LoadingSpinner";
@@ -30,6 +31,9 @@ export function DashboardPage() {
       <InfoBanner />
       <StatsCards meta={meta} />
       <DataOverview />
+      {latestDiff && latestDiff.additions.length > 0 && (
+        <FullRegistry entries={latestDiff.additions} />
+      )}
       <div className="grid grid-cols-1 xl:grid-cols-3 gap-6">
         <div className="xl:col-span-2">
           <DiffTable diff={latestDiff} />
