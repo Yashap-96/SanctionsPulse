@@ -250,7 +250,10 @@ SanctionsPulse/
 │   │   │
 │   │   ├── dashboard/
 │   │   │   ├── StatsCards.tsx        # 4 glassmorphism cards (SDN/Consolidated/Adds/Removes)
-│   │   │   ├── WeeklyDiffTable.tsx   # Tabbed table (Additions/Removals/Updates) with color-coded rows
+│   │   │   ├── DataOverview.tsx      # "List Composition" — collapsible entry type + data category breakdown
+│   │   │   ├── FullRegistry.tsx      # Collapsible full sanctions registry: search, filters, pagination (50/page)
+│   │   │   ├── EntryRow.tsx          # Shared expandable row component (used by DiffTable + FullRegistry)
+│   │   │   ├── WeeklyDiffTable.tsx   # "Daily Changes" tabbed table (Additions/Removals/Updates)
 │   │   │   ├── ProgramsPanel.tsx     # Top 12 programs grid sorted by entry count
 │   │   │   └── TimelineChart.tsx     # Recharts area chart (placeholder — needs historical data)
 │   │   │
@@ -280,7 +283,7 @@ SanctionsPulse/
 │   │   └── mapStyles.ts             # DARK_BASEMAP, choroplethPaint, bubblePaint expressions
 │   │
 │   └── pages/
-│       ├── DashboardPage.tsx        # Main dashboard: StatsCards + WeeklyDiffTable + Timeline + Programs
+│       ├── DashboardPage.tsx        # Main dashboard: StatsCards + ListComposition + FullRegistry + DailyChanges + Programs
 │       ├── MapPage.tsx              # Full-bleed MapLibre map with legend + controls overlay
 │       ├── ProgramsPage.tsx         # Searchable/sortable grid of all 75 live OFAC sanctions programs
 │       ├── IntelligencePage.tsx     # AI intelligence center: summary panel + chat (always shows chat)
@@ -611,6 +614,15 @@ SanctionsPulse/
 - **SDN file is ~117MB** (not 50MB as originally estimated). Consolidated is ~4MB.
 - **RecentActions removed**: Was redundant with WeeklyDiffTable. Removed from DashboardPage.
 - **IntelligencePage always shows chat**: Even when AI summary JSON is unavailable, the chat interface is rendered so users can still interact.
+- **DataOverview renamed to "List Composition"**: Made collapsible with chevron toggle. Shows entry type breakdown + data categories.
+- **FullRegistry component**: Collapsible Full Sanctions Registry with search (name/program/country), filter dropdowns (entry type, list type, program, country), 50-per-page pagination. Currently feeds from `latestDiff.additions` — needs dedicated data source.
+- **EntryRow extracted**: Shared component used by both DiffTable and FullRegistry. Supports "registry" action variant showing SDN/Consolidated badge.
+- **ISO2_TO_COUNTRY mapping**: `src/lib/constants.ts` has full country name mapping for all 178 countries. Used in EntryRow and FullRegistry filter dropdown.
+- **Dashboard layout reordered**: InfoBanner → StatsCards → List Composition → Full Registry → Daily Changes + Timeline → Programs.
+- **Daily pipeline cadence**: Changed from weekly (Monday 09:00 UTC) to daily (13:00 UTC / 9 AM ET).
+- **GitHub Actions cache fix**: Split `actions/cache@v4` into `actions/cache/restore@v4` + `actions/cache/save@v4` to avoid double-save conflicts. Old caches deleted before saving.
+- **CDN cache TTL reduced**: `api/sanctions-data.ts` s-maxage changed from 3600s to 60s for faster post-deploy updates.
+- **Vercel does NOT auto-deploy**: Must run `vercel --prod --yes` manually after pushing.
 
 ### API Security (Production)
 - **Rate limiting**: 10 requests per IP per hour on `/api/ai-summary`
@@ -622,10 +634,11 @@ SanctionsPulse/
 - **GROQ_API_KEY**: Server-side only (Vercel env var), never exposed to browser
 
 ### Not Yet Implemented
+- **Full Registry data source**: Currently feeds from `latestDiff.additions` — needs own pipeline step (`data/registry/full_registry.json`) + frontend hook to show all entries independent of diff
 - **Tests**: Python unit tests for parsing/diffing, React component tests (test directories exist but are empty)
-- **TimelineChart**: Placeholder — needs historical snapshot data to show real trends (will auto-populate as weekly pipeline runs)
+- **TimelineChart**: Placeholder — needs historical snapshot data to show real trends (will auto-populate as daily pipeline runs)
 - **OG Image**: Social sharing preview image for SEO
-- **Code splitting**: Vite warns about 1.6MB JS bundle — could add dynamic imports for map/intelligence pages
+- **Code splitting**: Vite warns about 1.68MB JS bundle — could add dynamic imports for map/intelligence pages
 
 ---
 
