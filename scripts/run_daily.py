@@ -31,7 +31,7 @@ def run():
     summary = None
 
     # Step 1: Download
-    print("[1/8] Downloading OFAC lists ...")
+    print("[1/9] Downloading OFAC lists ...")
     try:
         from fetch_lists import download_all
         download_all()
@@ -40,7 +40,7 @@ def run():
         print(f"  ERROR in fetch_lists: {e}\n")
 
     # Step 2: Rotate previous snapshots
-    print("[2/8] Rotating snapshots ...")
+    print("[2/9] Rotating snapshots ...")
     try:
         _rotate_snapshots()
         print()
@@ -48,7 +48,7 @@ def run():
         print(f"  ERROR rotating snapshots: {e}\n")
 
     # Step 3: Parse XML
-    print("[3/8] Parsing XML files ...")
+    print("[3/9] Parsing XML files ...")
     try:
         from parse_xml import parse_and_save
         sdn_entries, cons_entries = parse_and_save()
@@ -57,7 +57,7 @@ def run():
         print(f"  ERROR in parse_xml: {e}\n")
 
     # Step 4: Compute diff
-    print("[4/8] Computing diff ...")
+    print("[4/9] Computing diff ...")
     try:
         from diff_snapshots import diff_and_save
         diff = diff_and_save(diff_date=today)
@@ -66,7 +66,7 @@ def run():
         print(f"  ERROR in diff_snapshots: {e}\n")
 
     # Step 5: Generate AI summary
-    print("[5/8] Generating AI summary ...")
+    print("[5/9] Generating AI summary ...")
     try:
         from generate_summary import generate_and_save
         summary = generate_and_save(diff=diff, summary_date=today)
@@ -75,7 +75,7 @@ def run():
         print(f"  ERROR in generate_summary: {e}\n")
 
     # Step 6: Build map data
-    print("[6/8] Building map data ...")
+    print("[6/9] Building map data ...")
     try:
         from build_map_data import aggregate_and_save
         aggregate_and_save(sdn_entries=sdn_entries, cons_entries=cons_entries, diff=diff)
@@ -84,7 +84,7 @@ def run():
         print(f"  ERROR in build_map_data: {e}\n")
 
     # Step 7: Build program data
-    print("[7/8] Building program data ...")
+    print("[7/9] Building program data ...")
     try:
         from build_program_data import extract_and_save
         extract_and_save(sdn_entries=sdn_entries, cons_entries=cons_entries, diff=diff)
@@ -93,13 +93,22 @@ def run():
         print(f"  ERROR in build_program_data: {e}\n")
 
     # Step 8: Build overview stats
-    print("[8/8] Building overview stats ...")
+    print("[8/9] Building overview stats ...")
     try:
         from build_overview_stats import build_and_save
         build_and_save(sdn_entries=sdn_entries, cons_entries=cons_entries)
         print()
     except Exception as e:
         print(f"  ERROR in build_overview_stats: {e}\n")
+
+    # Step 9: Build full registry
+    print("[9/9] Building full registry ...")
+    try:
+        from build_full_registry import build_and_save as build_registry
+        build_registry(sdn_entries=sdn_entries, cons_entries=cons_entries)
+        print()
+    except Exception as e:
+        print(f"  ERROR in build_full_registry: {e}\n")
 
     # Update meta.json
     print("Updating meta.json ...")

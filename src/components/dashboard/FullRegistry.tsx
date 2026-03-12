@@ -18,9 +18,10 @@ const PAGE_SIZE = 50;
 
 interface FullRegistryProps {
   entries: DiffEntry[];
+  loading?: boolean;
 }
 
-export function FullRegistry({ entries }: FullRegistryProps) {
+export function FullRegistry({ entries, loading }: FullRegistryProps) {
   const [collapsed, setCollapsed] = useState(true);
   const [search, setSearch] = useState("");
   const [entryType, setEntryType] = useState("All");
@@ -114,6 +115,12 @@ export function FullRegistry({ entries }: FullRegistryProps) {
 
       {!collapsed && (
         <>
+          {loading && (
+            <div className="px-5 py-8 text-center text-white/40 text-sm">
+              Loading registry data...
+            </div>
+          )}
+          {!loading && <>
           {/* Filters */}
           <div className="px-5 pb-4 space-y-3">
             {/* Search */}
@@ -269,6 +276,7 @@ export function FullRegistry({ entries }: FullRegistryProps) {
               </div>
             </div>
           )}
+          </>}
         </>
       )}
     </div>

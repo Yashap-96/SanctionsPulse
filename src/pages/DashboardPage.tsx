@@ -1,4 +1,5 @@
 import { useSanctionsData } from "../hooks/useSanctionsData";
+import { useRegistryData } from "../hooks/useRegistryData";
 import { InfoBanner } from "../components/dashboard/InfoBanner";
 import { StatsCards } from "../components/dashboard/StatsCards";
 import { DataOverview } from "../components/dashboard/DataOverview";
@@ -10,6 +11,7 @@ import { LoadingSpinner } from "../components/common/LoadingSpinner";
 
 export function DashboardPage() {
   const { meta, latestDiff, programs, loading, error } = useSanctionsData();
+  const registry = useRegistryData();
 
   if (loading) {
     return <LoadingSpinner />;
@@ -31,9 +33,10 @@ export function DashboardPage() {
       <InfoBanner />
       <StatsCards meta={meta} />
       <DataOverview />
-      {latestDiff && latestDiff.additions.length > 0 && (
-        <FullRegistry entries={latestDiff.additions} />
-      )}
+      <FullRegistry
+        entries={registry.entries}
+        loading={registry.loading}
+      />
       <div className="grid grid-cols-1 xl:grid-cols-3 gap-6">
         <div className="xl:col-span-2">
           <DiffTable diff={latestDiff} />

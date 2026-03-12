@@ -67,4 +67,5 @@ export const API_URLS = {
   programs: "/data/programs/active_programs.json",
   countrySanctions: "/data/map/country_sanctions.json",
   summaries: "/data/summaries/",
+  registry: "/data/registry/full_registry.json",
 };
