@@ -78,8 +78,8 @@
     "daily_removed": 0
   },
   "ES": {
-    "total": 48,
-    "sdn": 48,
+    "total": 49,
+    "sdn": 49,
     "consolidated": 0,
     "programs": [
       "CUBA",
@@ -91,9 +91,10 @@
       "TCO",
       "VENEZUELA-EO13850",
       "RUSSIA-EO14024",
-      "ILLICIT-DRUGS-EO14059"
+      "ILLICIT-DRUGS-EO14059",
+      "DPRK4"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "JP": {
@@ -406,8 +407,8 @@
     "daily_removed": 0
   },
   "KP": {
-    "total": 232,
-    "sdn": 232,
+    "total": 233,
+    "sdn": 233,
     "consolidated": 0,
     "programs": [
       "CUBA",
@@ -420,7 +421,7 @@
       "RUSSIA-EO14024",
       "CYBER4"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "NL": {
@@ -1053,8 +1054,8 @@
     "daily_removed": 0
   },
   "TR": {
-    "total": 351,
-    "sdn": 350,
+    "total": 354,
+    "sdn": 353,
     "consolidated": 1,
     "programs": [
       "SDGT",
@@ -1077,7 +1078,7 @@
       "IRAN-EO13902",
       "CAATSA - RUSSIA"
     ],
-    "daily_added": 0,
+    "daily_added": 3,
     "daily_removed": 0
   },
   "HR": {
@@ -1153,8 +1154,8 @@
     "daily_removed": 0
   },
   "ID": {
-    "total": 23,
-    "sdn": 23,
+    "total": 24,
+    "sdn": 24,
     "consolidated": 0,
     "programs": [
       "SDGT",
@@ -1164,7 +1165,7 @@
       "NPWMD",
       "IRAN-EO13846"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "ZW": {
@@ -1469,8 +1470,8 @@
     "daily_removed": 0
   },
   "HN": {
-    "total": 31,
-    "sdn": 31,
+    "total": 30,
+    "sdn": 30,
     "consolidated": 0,
     "programs": [
       "IRAQ2",
@@ -1480,7 +1481,7 @@
       "FTO"
     ],
     "daily_added": 0,
-    "daily_removed": 0
+    "daily_removed": 1
   },
   "TH": {
     "total": 71,
@@ -2363,8 +2364,8 @@
     "daily_removed": 0
   },
   "VN": {
-    "total": 17,
-    "sdn": 17,
+    "total": 22,
+    "sdn": 22,
     "consolidated": 0,
     "programs": [
       "NPWMD",
@@ -2377,7 +2378,7 @@
       "SDGT",
       "UKRAINE-EO13662"
     ],
-    "daily_added": 0,
+    "daily_added": 5,
     "daily_removed": 0
   },
   "AM": {
@@ -2441,15 +2442,16 @@
     "daily_removed": 0
   },
   "LA": {
-    "total": 6,
-    "sdn": 6,
+    "total": 7,
+    "sdn": 7,
     "consolidated": 0,
     "programs": [
       "TCO",
       "DPRK2",
-      "DPRK3"
+      "DPRK3",
+      "DPRK4"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "BF": {

@@ -1,24 +1,24 @@
 {
   "entry_types": {
-    "Entity": 9882,
-    "Individual": 7470,
+    "Entity": 9888,
+    "Individual": 7475,
     "Vessel": 1455,
     "Aircraft": 342
   },
   "id_documents": {
-    "entries": 13417,
-    "total": 22283
+    "entries": 13425,
+    "total": 22295
   },
   "crypto_wallets": {
-    "entries": 80,
-    "total": 767
+    "entries": 83,
+    "total": 788
   },
   "aliases": {
-    "entries": 12224,
-    "total": 31541
+    "entries": 12230,
+    "total": 31558
   },
   "addresses": {
-    "entries": 12614,
-    "total": 17991
+    "entries": 12623,
+    "total": 17993
   }
 }

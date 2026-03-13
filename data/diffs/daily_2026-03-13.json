@@ -1,0 +1,522 @@
+{
+  "date": "2026-03-13",
+  "period": "2026-03-13",
+  "summary": {
+    "added": 12,
+    "removed": 1,
+    "updated": 0
+  },
+  "additions": [
+    {
+      "uid": 57034,
+      "name": "Yun Song Guk",
+      "entry_type": "Individual",
+      "programs": [
+        "DPRK4"
+      ],
+      "countries": [
+        "LA"
+      ],
+      "list_type": "SDN",
+      "dob": "1969-07-27",
+      "nationalities": [],
+      "aliases": [
+        "Yun So'ng-kuk"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "180131469",
+          "country": "Korea, North"
+        }
+      ],
+      "crypto_wallets": [
+        {
+          "currency": "ETH",
+          "address": "0xb637f84b66876ebf609c2a4208905f9ddac9d075"
+        },
+        {
+          "currency": "ETH",
+          "address": "0x95584C303FCd48AF5c6B9873015f2AD0ca84EaE3"
+        }
+      ],
+      "addresses": [
+        {
+          "city": "Boten",
+          "country": "LA"
+        }
+      ]
+    },
+    {
+      "uid": 57035,
+      "name": "Hoang Minh Quang",
+      "entry_type": "Individual",
+      "programs": [
+        "DPRK4"
+      ],
+      "countries": [
+        "VN"
+      ],
+      "list_type": "SDN",
+      "dob": "1993-11-16",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "001093019421",
+          "country": "Vietnam"
+        }
+      ],
+      "crypto_wallets": [
+        {
+          "currency": "XBT",
+          "address": "bc1qyy5pt5cx3zth8xlj92lq5y87dh8xv3nwgs4ncq"
+        }
+      ],
+      "addresses": [
+        {
+          "city": "Hanoi",
+          "country": "VN"
+        }
+      ]
+    },
+    {
+      "uid": 57036,
+      "name": "Celestino Herrera York Louis",
+      "entry_type": "Individual",
+      "programs": [
+        "DPRK4"
+      ],
+      "countries": [
+        "ES"
+      ],
+      "list_type": "SDN",
+      "dob": "1996-11-07",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "XDB250498",
+          "country": "Spain"
+        },
+        {
+          "type": "Passport",
+          "number": "EM0642806",
+          "country": "Dominican Republic"
+        },
+        {
+          "type": "National ID No.",
+          "number": "24558183W",
+          "country": "Dominican Republic"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Barcelona",
+          "country": "ES"
+        }
+      ]
+    },
+    {
+      "uid": 57054,
+      "name": "Do Phi Khanh",
+      "entry_type": "Individual",
+      "programs": [
+        "NPWMD"
+      ],
+      "countries": [
+        "VN"
+      ],
+      "list_type": "SDN",
+      "dob": "1980-03-04",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "B7083978",
+          "country": "Vietnam"
+        },
+        {
+          "type": "National ID No.",
+          "number": "111534690",
+          "country": "Vietnam"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Hanoi",
+          "country": "VN"
+        }
+      ]
+    },
+    {
+      "uid": 57055,
+      "name": "Hoang Van Nguyen",
+      "entry_type": "Individual",
+      "programs": [
+        "NPWMD"
+      ],
+      "countries": [
+        "VN"
+      ],
+      "list_type": "SDN",
+      "dob": "1980-07-20",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "C7177903",
+          "country": "Vietnam"
+        },
+        {
+          "type": "National ID No.",
+          "number": "013564395",
+          "country": "Vietnam"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57056,
+      "name": "AMNOKGANG TECHNOLOGY DEVELOPMENT COMPANY",
+      "entry_type": "Entity",
+      "programs": [
+        "DPRK4"
+      ],
+      "countries": [
+        "KP"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\uc555\ub85d\uac15\uae30\uc220\uac1c\ubc1c\ud68c\uc0ac",
+        "\u9e2d\u7eff\u6c5f\u6280\u672f\u5f00\u53d1\u516c\u53f8",
+        "Korea Amnokgang Technology Development Company",
+        "\uc870\uc120\uc555\ub85d\uac15\uae30\uc220\uac1c\ubc1c\ud68c\uc0ac",
+        "Korea Aprokgang Technology Company",
+        "Yalu River Technology Development Company",
+        "Amnokgang Technology Development Corporation"
+      ],
+      "ids": [],
+      "crypto_wallets": [
+        {
+          "currency": "TRX",
+          "address": "TNrX2FwrHKoo4XACGkmSzqeK4pdnKYn6Z7"
+        },
+        {
+          "currency": "ETH",
+          "address": "0xcB74874f1e06Fcf80A306e06e5379A44B488bA2D"
+        },
+        {
+          "currency": "ETH",
+          "address": "0x0330070FD38Ec3bB94F58FA55D40368271E9e54A"
+        },
+        {
+          "currency": "ETH",
+          "address": "0x9Be599d7867f5E1a2D7Ec6dB9710dF2b98A15573"
+        },
+        {
+          "currency": "TRX",
+          "address": "TEEYCuGDyeNkuDj4u6GQRXxXo3Nh29r2vP"
+        },
+        {
+          "currency": "TRX",
+          "address": "TZB4NrX7k9ZsV6PRc1GigAztLL8WHpLvwP"
+        },
+        {
+          "currency": "TRX",
+          "address": "TDe2UNAvuUnTbbDo7518eMe3TXN5qJW8Ft"
+        }
+      ],
+      "addresses": [
+        {
+          "state": "South Hamgyong",
+          "country": "KP"
+        },
+        {
+          "address1": "Pothonggang District",
+          "city": "Pyongyang",
+          "country": "KP"
+        }
+      ]
+    },
+    {
+      "uid": 57057,
+      "name": "QUANGVIETDNBG INTERNATIONAL SERVICES COMPANY LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "DPRK4"
+      ],
+      "countries": [
+        "VN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Shopar International E-Trade Company Limited"
+      ],
+      "ids": [
+        {
+          "type": "Tax ID No.",
+          "number": "0110050211",
+          "country": "Vietnam"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "37C Alley 2/69 Hoang Liet Street",
+          "address2": "Hoang Liet Ward",
+          "city": "Hanoi",
+          "country": "VN"
+        }
+      ]
+    },
+    {
+      "uid": 57058,
+      "name": "Nguyen Quang Viet",
+      "entry_type": "Individual",
+      "programs": [
+        "DPRK4"
+      ],
+      "countries": [
+        "VN"
+      ],
+      "list_type": "SDN",
+      "dob": "1993-10-12",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "122094898",
+          "country": "Vietnam"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57125,
+      "name": "Komite Nasional Untuk Rakyat Palestina",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "ID"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "KNRP Indonesia",
+        "National Committee for the Palestinian People"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Jl. Jabir No. 11 B, Ragunan, Pasar Minggu",
+          "city": "Jakarta",
+          "postal_code": "12550",
+          "country": "ID"
+        }
+      ]
+    },
+    {
+      "uid": 57131,
+      "name": "Ghazi Destek Dernegi",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "TR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "GDD",
+        "Gazze Destek Organization"
+      ],
+      "ids": [
+        {
+          "type": "Registered Charity No.",
+          "number": "34-209-183",
+          "country": "Turkey"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Aksemsettin Mahallesi",
+          "address2": "Akdeniz Caddesi",
+          "address3": "Hakperest Sokak No: 16, Daire 18 Fatih",
+          "city": "Istanbul",
+          "country": "TR"
+        }
+      ]
+    },
+    {
+      "uid": 57133,
+      "name": "Palestinian White Hands Assistance and Solidarity Association",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "TR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Beyaz Eller Association",
+        "White Hands Charity",
+        "Beyaz Eller Yardimlasma ve Dayanisma Dernegi"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Ikitelli Osb",
+          "address2": "Giyim Sanatkarlar Kooperatifi",
+          "address3": "3 Ada A Blok No: 203, Basaksehir",
+          "city": "Istanbul",
+          "country": "TR"
+        }
+      ]
+    },
+    {
+      "uid": 57136,
+      "name": "Hayat Yolu",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "TR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0637\u0631\u064a\u0642 \u0627\u0644\u062d\u064a\u0627\u0629",
+        "Hayat Yolu Kalkinma Yardimlasma Egitim ve Kultur Dernegi",
+        "Hayat Yolu Association"
+      ],
+      "ids": [
+        {
+          "type": "Registered Charity No.",
+          "number": "34-207-158",
+          "country": "Turkey"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Cakmak, Sht.",
+          "address2": "Burak Kurtulus Cd.",
+          "address3": "No: 2, 34774, Umraniye",
+          "city": "Istanbul",
+          "country": "TR"
+        }
+      ]
+    }
+  ],
+  "removals": [
+    {
+      "uid": 13409,
+      "name": "LOBO Carlos Arnoldo",
+      "entry_type": "Individual",
+      "programs": [
+        "SDNTK"
+      ],
+      "countries": [
+        "HN"
+      ],
+      "list_type": "SDN",
+      "dob": "1974-05-28",
+      "nationalities": [],
+      "aliases": [
+        "NEGRO",
+        "EL NEGRO LOBO"
+      ],
+      "ids": [
+        {
+          "type": "Numero de Identidad",
+          "number": "0103-1975-00009",
+          "country": "Honduras"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Col Toronjal, 2da Etapa, Casa 2",
+          "city": "La Ceiba",
+          "state": "Atlantida",
+          "country": "HN"
+        },
+        {
+          "address1": "Col Toronjal, 2da Etapa, Casa 2, Numero 67",
+          "city": "La Ceiba",
+          "state": "Atlantida",
+          "country": "HN"
+        },
+        {
+          "address1": "Colonia El Toronjal, Cuarta Etapa, Bloque",
+          "city": "La Ceiba",
+          "state": "Atlantida",
+          "country": "HN"
+        },
+        {
+          "address1": "Hacienda La Rosita",
+          "city": "La Ceiba",
+          "state": "Atlantida",
+          "country": "HN"
+        },
+        {
+          "address1": "French Harbour",
+          "city": "Roatan",
+          "state": "Islas de La Bahia",
+          "country": "HN"
+        },
+        {
+          "address1": "Los Tangos",
+          "city": "Copan",
+          "country": "HN"
+        },
+        {
+          "address1": "Casa 67, Blq 02",
+          "city": "San Pedro Sula",
+          "state": "Cortes",
+          "country": "HN"
+        },
+        {
+          "address1": "Hacienda Aldea La Rosita",
+          "city": "Esparta",
+          "state": "Atlantida",
+          "country": "HN"
+        },
+        {
+          "address1": "Hacienda Satuye, Col. Satuye",
+          "city": "La Ceiba",
+          "state": "Atlantida",
+          "country": "HN"
+        }
+      ]
+    }
+  ],
+  "updates": []
+}
