@@ -94,7 +94,7 @@
       "ILLICIT-DRUGS-EO14059",
       "DPRK4"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "JP": {
@@ -348,8 +348,8 @@
     "daily_removed": 0
   },
   "RU": {
-    "total": 5493,
-    "sdn": 5236,
+    "total": 5492,
+    "sdn": 5235,
     "consolidated": 257,
     "programs": [
       "CUBA",
@@ -389,7 +389,7 @@
       "PAIPA"
     ],
     "daily_added": 0,
-    "daily_removed": 0
+    "daily_removed": 1
   },
   "BG": {
     "total": 92,
@@ -421,7 +421,7 @@
       "RUSSIA-EO14024",
       "CYBER4"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "NL": {
@@ -1078,7 +1078,7 @@
       "IRAN-EO13902",
       "CAATSA - RUSSIA"
     ],
-    "daily_added": 3,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "HR": {
@@ -1165,7 +1165,7 @@
       "NPWMD",
       "IRAN-EO13846"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "ZW": {
@@ -1481,7 +1481,7 @@
       "FTO"
     ],
     "daily_added": 0,
-    "daily_removed": 1
+    "daily_removed": 0
   },
   "TH": {
     "total": 71,
@@ -1714,8 +1714,8 @@
     "daily_removed": 0
   },
   "FI": {
-    "total": 20,
-    "sdn": 20,
+    "total": 15,
+    "sdn": 15,
     "consolidated": 0,
     "programs": [
       "SDGT",
@@ -1724,7 +1724,7 @@
       "RUSSIA-EO14024"
     ],
     "daily_added": 0,
-    "daily_removed": 0
+    "daily_removed": 5
   },
   "LK": {
     "total": 4,
@@ -2378,7 +2378,7 @@
       "SDGT",
       "UKRAINE-EO13662"
     ],
-    "daily_added": 5,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "AM": {
@@ -2451,7 +2451,7 @@
       "DPRK3",
       "DPRK4"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "BF": {

@@ -1,0 +1,223 @@
+{
+  "date": "2026-03-14",
+  "period": "2026-03-14",
+  "summary": {
+    "added": 0,
+    "removed": 6,
+    "updated": 0
+  },
+  "additions": [],
+  "removals": [
+    {
+      "uid": 27885,
+      "name": "Kovalevskij Nikita Gennadievitch",
+      "entry_type": "Individual",
+      "programs": [
+        "CYBER2"
+      ],
+      "countries": [
+        "FI"
+      ],
+      "list_type": "SDN",
+      "dob": "1978-11-21",
+      "nationalities": [],
+      "aliases": [
+        "Kovalevsky Nikita",
+        "Muravjov Nikita"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "FP4892455",
+          "country": "Finland"
+        },
+        {
+          "type": "National ID No.",
+          "number": "211178-2697",
+          "country": "Finland"
+        },
+        {
+          "type": "Passport",
+          "number": "53 1216997",
+          "country": "Russia"
+        },
+        {
+          "type": "Passport",
+          "number": "FP3994119",
+          "country": "Finland"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Leinelantie 1 B 49",
+          "city": "Vantaa",
+          "postal_code": "01340",
+          "country": "FI"
+        }
+      ]
+    },
+    {
+      "uid": 27886,
+      "name": "GCH Finland OY",
+      "entry_type": "Entity",
+      "programs": [
+        "CYBER2"
+      ],
+      "countries": [
+        "FI"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "25554771",
+          "country": "Finland"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Manttaalitie 5",
+          "city": "Vantaa",
+          "state": "Uusimaa",
+          "postal_code": "01530",
+          "country": "FI"
+        }
+      ]
+    },
+    {
+      "uid": 27887,
+      "name": "Unicum Trade OY",
+      "entry_type": "Entity",
+      "programs": [
+        "CYBER2"
+      ],
+      "countries": [
+        "FI"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "26733472",
+          "country": "Finland"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Manttaalitie 5",
+          "city": "Vantaa",
+          "state": "Uusimaa",
+          "postal_code": "01530",
+          "country": "FI"
+        }
+      ]
+    },
+    {
+      "uid": 27888,
+      "name": "ACEX OY",
+      "entry_type": "Entity",
+      "programs": [
+        "CYBER2"
+      ],
+      "countries": [
+        "FI"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "24549145",
+          "country": "Finland"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Manttaalitie 5",
+          "city": "Vantaa",
+          "state": "Uusimaa",
+          "postal_code": "01530",
+          "country": "FI"
+        }
+      ]
+    },
+    {
+      "uid": 29888,
+      "name": "Gaykovich Boris Aleksandrovich",
+      "entry_type": "Individual",
+      "programs": [
+        "CYBER2"
+      ],
+      "countries": [
+        "RU"
+      ],
+      "list_type": "SDN",
+      "dob": "1977-10-30",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "649039450",
+          "country": "Russia"
+        },
+        {
+          "type": "National ID No.",
+          "number": "4004990741",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "St. Petersburg",
+          "country": "RU"
+        }
+      ]
+    },
+    {
+      "uid": 35940,
+      "name": "Quantlog Oy",
+      "entry_type": "Entity",
+      "programs": [
+        "CYBER2"
+      ],
+      "countries": [
+        "FI"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Tax ID No.",
+          "number": "3160340-2",
+          "country": "Finland"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Kalevankatu 20",
+          "city": "Helsinki",
+          "postal_code": "00100",
+          "country": "FI"
+        }
+      ]
+    }
+  ],
+  "updates": []
+}
