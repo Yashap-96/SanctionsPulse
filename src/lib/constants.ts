@@ -68,4 +68,5 @@ export const API_URLS = {
   countrySanctions: "/data/map/country_sanctions.json",
   summaries: "/data/summaries/",
   registry: "/data/registry/full_registry.json",
+  timeline: "/data/timeline/activity_timeline.json",
 };

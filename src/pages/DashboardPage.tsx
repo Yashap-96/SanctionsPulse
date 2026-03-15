@@ -1,5 +1,6 @@
 import { useSanctionsData } from "../hooks/useSanctionsData";
 import { useRegistryData } from "../hooks/useRegistryData";
+import { useTimelineData } from "../hooks/useTimelineData";
 import { InfoBanner } from "../components/dashboard/InfoBanner";
 import { StatsCards } from "../components/dashboard/StatsCards";
 import { DataOverview } from "../components/dashboard/DataOverview";
@@ -12,6 +13,7 @@ import { LoadingSpinner } from "../components/common/LoadingSpinner";
 export function DashboardPage() {
   const { meta, latestDiff, programs, loading, error } = useSanctionsData();
   const registry = useRegistryData();
+  const { timeline, loading: timelineLoading } = useTimelineData();
 
   if (loading) {
     return <LoadingSpinner />;
@@ -42,7 +44,7 @@ export function DashboardPage() {
           <DiffTable diff={latestDiff} />
         </div>
         <div>
-          <TimelineChart />
+          <TimelineChart timeline={timeline} loading={timelineLoading} />
         </div>
       </div>
       <ProgramsPanel programs={programs} />
