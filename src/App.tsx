@@ -8,6 +8,7 @@ import { MapPage } from "./pages/MapPage";
 import { ProgramsPage } from "./pages/ProgramsPage";
 import { IntelligencePage } from "./pages/IntelligencePage";
 import { NotFoundPage } from "./pages/NotFoundPage";
+import { ScreeningPage } from "./pages/ScreeningPage";
 import { useSanctionsData } from "./hooks/useSanctionsData";
 
 function AppLayout() {
@@ -25,6 +26,7 @@ function AppLayout() {
               <Route path="/map" element={<MapPage />} />
               <Route path="/programs" element={<ProgramsPage />} />
               <Route path="/intelligence" element={<IntelligencePage />} />
+              <Route path="/screening" element={<ScreeningPage />} />
               <Route path="*" element={<NotFoundPage />} />
             </Routes>
           </ErrorBoundary>

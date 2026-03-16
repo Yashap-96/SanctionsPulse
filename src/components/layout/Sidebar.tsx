@@ -5,6 +5,7 @@ import {
   Globe,
   Shield,
   Brain,
+  ScanSearch,
   Menu,
   X,
 } from "lucide-react";
@@ -15,6 +16,7 @@ const NAV_ITEMS = [
   { to: "/map", label: "Map", icon: Globe },
   { to: "/programs", label: "Programs", icon: Shield },
   { to: "/intelligence", label: "Intelligence", icon: Brain },
+  { to: "/screening", label: "Screening", icon: ScanSearch },
 ];
 
 export function Sidebar() {

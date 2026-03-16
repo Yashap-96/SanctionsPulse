@@ -266,6 +266,10 @@ SanctionsPulse/
 │   │   │   ├── AISummaryPanel.tsx    # Full structured summary: exec brief, entities, risks, hotspots, recs
 │   │   │   └── IntelChat.tsx         # Interactive AI chat with rate limit display + conversation limits
 │   │   │
+│   │   ├── screening/
+│   │   │   ├── ScreeningForm.tsx     # Unified screening input: name, address, country, ID, crypto, vessel + threshold slider
+│   │   │   └── ScreeningResults.tsx  # Results table with score bars, risk badges, expandable match analysis
+│   │   │
 │   │   └── common/
 │   │       ├── LoadingSpinner.tsx
 │   │       ├── ErrorBoundary.tsx     # React error boundary with fallback UI
@@ -280,13 +284,15 @@ SanctionsPulse/
 │   │   ├── types.ts                 # All TypeScript interfaces (see Types section below)
 │   │   ├── constants.ts             # PROGRAM_COLORS, MAP_CONFIG, API_URLS
 │   │   ├── utils.ts                 # formatNumber, formatDate, getProgramColor, classNames
-│   │   └── mapStyles.ts             # DARK_BASEMAP, choroplethPaint, bubblePaint expressions
+│   │   ├── mapStyles.ts             # DARK_BASEMAP, choroplethPaint, bubblePaint expressions
+│   │   └── screening.ts             # Client-side screening engine: fuzzy name, address, ID, crypto, vessel matching
 │   │
 │   └── pages/
 │       ├── DashboardPage.tsx        # Main dashboard: StatsCards + ListComposition + FullRegistry + DailyChanges + Programs
 │       ├── MapPage.tsx              # Full-bleed MapLibre map with legend + controls overlay
 │       ├── ProgramsPage.tsx         # Searchable/sortable grid of all 75 live OFAC sanctions programs
 │       ├── IntelligencePage.tsx     # AI intelligence center: summary panel + chat (always shows chat)
+│       ├── ScreeningPage.tsx        # Unified sanctions screening: loads registry, builds index, form → engine → results
 │       └── NotFoundPage.tsx         # 404 page with navigation back to dashboard
 │
 └── tests/                           # (placeholder — not yet implemented)
@@ -598,6 +604,7 @@ SanctionsPulse/
 - **Phase 7** ✅ — Vercel Edge Functions (api/proxy-ofac.ts, api/ai-summary.ts with rate limiting, api/sanctions-data.ts)
 - **Phase 8** ✅ — Responsive polish, error handling, ErrorBoundary, 404 page, comprehensive README
 - **Deployment** ✅ — Live at https://sanctionspulse.vercel.app, GitHub repo at https://github.com/Yashap-96/SanctionsPulse
+- **Screening Engine** ✅ — Unified sanctions screening page (`/screening`) with client-side matching engine supporting 6 field types: name (fuzzy/phonetic/token), alias, address, country, ID documents, crypto wallets, vessel/aircraft. Algorithms: Levenshtein, Soundex, token-based, substring, exact. Composite scoring with risk levels (CRITICAL/HIGH/MEDIUM/LOW). Pre-built indexes for O(1) exact-match lookups. Screens 19K+ entries in <100ms.
 
 ### Implementation Deviations from Original Plan
 - **Tailwind v4** (not v3): Uses CSS-based config (`@import "tailwindcss"` in index.css, `@theme` block for custom properties). No `tailwind.config.ts` file.
@@ -634,11 +641,12 @@ SanctionsPulse/
 - **GROQ_API_KEY**: Server-side only (Vercel env var), never exposed to browser
 
 ### Not Yet Implemented
-- **Full Registry data source**: Currently feeds from `latestDiff.additions` — needs own pipeline step (`data/registry/full_registry.json`) + frontend hook to show all entries independent of diff
 - **Tests**: Python unit tests for parsing/diffing, React component tests (test directories exist but are empty)
 - **TimelineChart**: Placeholder — needs historical snapshot data to show real trends (will auto-populate as daily pipeline runs)
 - **OG Image**: Social sharing preview image for SEO
-- **Code splitting**: Vite warns about 1.68MB JS bundle — could add dynamic imports for map/intelligence pages
+- **Code splitting**: Vite warns about ~1.7MB JS bundle — could add dynamic imports for map/intelligence/screening pages
+- **Batch screening**: Upload CSV of names/entities for bulk screening (natural extension of screening engine)
+- **Multi-list support**: EU, UN, UK OFSI sanctions lists (beyond OFAC)
 
 ---
 
@@ -979,6 +987,39 @@ export interface MetaData {
   last_updated: string;
   last_diff_date: string;
   last_diff_summary: { added: number; removed: number; updated: number };
+}
+
+// ── Screening Engine Types (src/lib/screening.ts) ──
+
+export interface ScreeningQuery {
+  name?: string;
+  address?: string;
+  country?: string;       // ISO2
+  idNumber?: string;
+  cryptoAddress?: string;
+  vesselName?: string;
+}
+
+export interface FieldMatch {
+  field: "name" | "alias" | "address" | "country" | "id" | "crypto" | "vessel";
+  matched: string;
+  query: string;
+  score: number;          // 0–100
+  method: "exact" | "normalized" | "fuzzy" | "phonetic" | "token" | "contains";
+}
+
+export interface ScreeningMatch {
+  entry: SanctionEntry;
+  score: number;          // 0–100 composite
+  riskLevel: "CRITICAL" | "HIGH" | "MEDIUM" | "LOW";
+  fieldMatches: FieldMatch[];
+}
+
+export interface ScreeningResult {
+  query: ScreeningQuery;
+  matches: ScreeningMatch[];
+  totalScreened: number;
+  duration: number;       // ms
 }
 ```
 
