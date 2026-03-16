@@ -22,6 +22,19 @@ interface AISummaryPanelProps {
 }
 
 export function AISummaryPanel({ summary }: AISummaryPanelProps) {
+  // Groq sometimes returns strings instead of arrays — normalize defensively
+  const notableEntities = Array.isArray(summary.notable_entities) ? summary.notable_entities : [];
+  const riskImplications = Array.isArray(summary.risk_implications) ? summary.risk_implications : [];
+  const programHighlights = Array.isArray(summary.program_highlights) ? summary.program_highlights : [];
+  const geographicHotspots = Array.isArray(summary.geographic_hotspots) ? summary.geographic_hotspots : [];
+  const recommendations = Array.isArray(summary.compliance_recommendations) ? summary.compliance_recommendations : [];
+
+  // If a field was returned as a string, show it as a fallback paragraph
+  const riskFallback = typeof summary.risk_implications === "string" ? summary.risk_implications : null;
+  const entitiesFallback = typeof summary.notable_entities === "string" ? summary.notable_entities : null;
+  const programsFallback = typeof summary.program_highlights === "string" ? summary.program_highlights : null;
+  const hotspotsFallback = typeof summary.geographic_hotspots === "string" ? summary.geographic_hotspots : null;
+
   return (
     <div className="space-y-8">
       {/* Executive Summary */}
@@ -38,87 +51,113 @@ export function AISummaryPanel({ summary }: AISummaryPanelProps) {
       </div>
 
       {/* Notable Entities */}
-      <section>
-        <div className="flex items-center gap-2 mb-4">
-          <User className="h-5 w-5 text-[#f59e0b]" />
-          <h2 className="text-lg font-bold font-[family-name:var(--font-mono)] text-white/90">
-            Notable Entities
-          </h2>
-        </div>
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-4">
-          {summary.notable_entities.map((entity) => (
-            <NotableEntityCard key={entity.uid} entity={entity} />
-          ))}
-        </div>
-      </section>
+      {(notableEntities.length > 0 || entitiesFallback) && (
+        <section>
+          <div className="flex items-center gap-2 mb-4">
+            <User className="h-5 w-5 text-[#f59e0b]" />
+            <h2 className="text-lg font-bold font-[family-name:var(--font-mono)] text-white/90">
+              Notable Entities
+            </h2>
+          </div>
+          {entitiesFallback ? (
+            <div className="glass-card p-5 text-sm text-white/60 leading-relaxed whitespace-pre-line">{entitiesFallback}</div>
+          ) : (
+            <div className="grid grid-cols-1 lg:grid-cols-2 gap-4">
+              {notableEntities.map((entity, i) => (
+                <NotableEntityCard key={entity.uid ?? i} entity={entity} />
+              ))}
+            </div>
+          )}
+        </section>
+      )}
 
       {/* Risk Implications */}
-      <section>
-        <div className="flex items-center gap-2 mb-4">
-          <AlertTriangle className="h-5 w-5 text-[#ef4444]" />
-          <h2 className="text-lg font-bold font-[family-name:var(--font-mono)] text-white/90">
-            Risk Implications
-          </h2>
-        </div>
-        <div className="grid grid-cols-1 lg:grid-cols-3 gap-4">
-          {summary.risk_implications.map((risk) => (
-            <RiskCard key={risk.area} risk={risk} />
-          ))}
-        </div>
-      </section>
+      {(riskImplications.length > 0 || riskFallback) && (
+        <section>
+          <div className="flex items-center gap-2 mb-4">
+            <AlertTriangle className="h-5 w-5 text-[#ef4444]" />
+            <h2 className="text-lg font-bold font-[family-name:var(--font-mono)] text-white/90">
+              Risk Implications
+            </h2>
+          </div>
+          {riskFallback ? (
+            <div className="glass-card p-5 text-sm text-white/60 leading-relaxed whitespace-pre-line">{riskFallback}</div>
+          ) : (
+            <div className="grid grid-cols-1 lg:grid-cols-3 gap-4">
+              {riskImplications.map((risk, i) => (
+                <RiskCard key={risk.area ?? i} risk={risk} />
+              ))}
+            </div>
+          )}
+        </section>
+      )}
 
       {/* Program Highlights */}
-      <section>
-        <div className="flex items-center gap-2 mb-4">
-          <TrendingUp className="h-5 w-5 text-[#22c55e]" />
-          <h2 className="text-lg font-bold font-[family-name:var(--font-mono)] text-white/90">
-            Program Highlights
-          </h2>
-        </div>
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-          {summary.program_highlights.map((highlight) => (
-            <ProgramHighlightCard
-              key={highlight.program}
-              highlight={highlight}
-            />
-          ))}
-        </div>
-      </section>
+      {(programHighlights.length > 0 || programsFallback) && (
+        <section>
+          <div className="flex items-center gap-2 mb-4">
+            <TrendingUp className="h-5 w-5 text-[#22c55e]" />
+            <h2 className="text-lg font-bold font-[family-name:var(--font-mono)] text-white/90">
+              Program Highlights
+            </h2>
+          </div>
+          {programsFallback ? (
+            <div className="glass-card p-5 text-sm text-white/60 leading-relaxed whitespace-pre-line">{programsFallback}</div>
+          ) : (
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+              {programHighlights.map((highlight, i) => (
+                <ProgramHighlightCard
+                  key={highlight.program ?? i}
+                  highlight={highlight}
+                />
+              ))}
+            </div>
+          )}
+        </section>
+      )}
 
       {/* Geographic Hotspots */}
-      <section>
-        <div className="flex items-center gap-2 mb-4">
-          <Globe className="h-5 w-5 text-[#3b82f6]" />
-          <h2 className="text-lg font-bold font-[family-name:var(--font-mono)] text-white/90">
-            Geographic Hotspots
-          </h2>
-        </div>
-        <div className="grid grid-cols-1 lg:grid-cols-3 gap-4">
-          {summary.geographic_hotspots.map((hotspot) => (
-            <HotspotCard key={hotspot.region} hotspot={hotspot} />
-          ))}
-        </div>
-      </section>
+      {(geographicHotspots.length > 0 || hotspotsFallback) && (
+        <section>
+          <div className="flex items-center gap-2 mb-4">
+            <Globe className="h-5 w-5 text-[#3b82f6]" />
+            <h2 className="text-lg font-bold font-[family-name:var(--font-mono)] text-white/90">
+              Geographic Hotspots
+            </h2>
+          </div>
+          {hotspotsFallback ? (
+            <div className="glass-card p-5 text-sm text-white/60 leading-relaxed whitespace-pre-line">{hotspotsFallback}</div>
+          ) : (
+            <div className="grid grid-cols-1 lg:grid-cols-3 gap-4">
+              {geographicHotspots.map((hotspot, i) => (
+                <HotspotCard key={hotspot.region ?? i} hotspot={hotspot} />
+              ))}
+            </div>
+          )}
+        </section>
+      )}
 
       {/* Compliance Recommendations */}
-      <section>
-        <div className="flex items-center gap-2 mb-4">
-          <CheckSquare className="h-5 w-5 text-[#a855f7]" />
-          <h2 className="text-lg font-bold font-[family-name:var(--font-mono)] text-white/90">
-            Compliance Recommendations
-          </h2>
-        </div>
-        <div className="glass-card p-5 space-y-4">
-          {summary.compliance_recommendations.map((rec, i) => (
-            <div key={i} className="flex gap-3">
-              <div className="flex-shrink-0 w-6 h-6 rounded bg-[#a855f7]/10 text-[#a855f7] flex items-center justify-center text-xs font-bold font-[family-name:var(--font-mono)]">
-                {i + 1}
+      {recommendations.length > 0 && (
+        <section>
+          <div className="flex items-center gap-2 mb-4">
+            <CheckSquare className="h-5 w-5 text-[#a855f7]" />
+            <h2 className="text-lg font-bold font-[family-name:var(--font-mono)] text-white/90">
+              Compliance Recommendations
+            </h2>
+          </div>
+          <div className="glass-card p-5 space-y-4">
+            {recommendations.map((rec, i) => (
+              <div key={i} className="flex gap-3">
+                <div className="flex-shrink-0 w-6 h-6 rounded bg-[#a855f7]/10 text-[#a855f7] flex items-center justify-center text-xs font-bold font-[family-name:var(--font-mono)]">
+                  {i + 1}
+                </div>
+                <p className="text-sm text-white/60 leading-relaxed">{rec}</p>
               </div>
-              <p className="text-sm text-white/60 leading-relaxed">{rec}</p>
-            </div>
-          ))}
-        </div>
-      </section>
+            ))}
+          </div>
+        </section>
+      )}
     </div>
   );
 }
