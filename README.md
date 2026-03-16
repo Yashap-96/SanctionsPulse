@@ -1,6 +1,6 @@
 # SanctionsPulse
 
-**Real-time OFAC sanctions monitoring dashboard** — weekly diff tracking, interactive world map, and AI-powered intelligence summaries.
+**Real-time OFAC sanctions monitoring dashboard** — daily diff tracking, interactive world map, AI-powered intelligence summaries, and a unified sanctions screening engine.
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![React](https://img.shields.io/badge/React-19-61dafb.svg)](https://react.dev)
@@ -13,12 +13,13 @@
 
 ## What is SanctionsPulse?
 
-SanctionsPulse is an open-source, interactive dashboard that tracks weekly changes to the U.S. Treasury OFAC (Office of Foreign Assets Control) sanctions lists. It monitors both the **SDN (Specially Designated Nationals)** and **Consolidated** sanctions lists, providing:
+SanctionsPulse is an open-source, interactive dashboard that tracks daily changes to the U.S. Treasury OFAC (Office of Foreign Assets Control) sanctions lists. It monitors both the **SDN (Specially Designated Nationals)** and **Consolidated** sanctions lists, providing:
 
-- A real-time overview of sanctions activity
+- A real-time overview of **19,000+ sanctioned entities** across **178 countries** and **75 active programs**
 - Visual geospatial analysis via an interactive world map
-- AI-generated intelligence briefings for each week's changes
-- Detailed program-level breakdowns across all 45+ active OFAC sanctions programs
+- AI-generated intelligence briefings for daily changes
+- A **unified screening engine** for name, address, ID, crypto wallet, and vessel screening
+- Detailed program-level breakdowns across all active OFAC sanctions programs
 
 > **Disclaimer:** SanctionsPulse is an independent open-source project for **educational and research purposes only**. It is not affiliated with, endorsed by, or a substitute for the U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC). For official sanctions data and compliance, visit [ofac.treasury.gov](https://ofac.treasury.gov).
 
@@ -27,9 +28,23 @@ SanctionsPulse is an open-source, interactive dashboard that tracks weekly chang
 ## Features
 
 ### Dashboard
-- **Stats Overview** — Total SDN entries, Consolidated entries, weekly additions, and weekly removals at a glance
-- **Weekly Changes Table** — Tabbed view of additions, removals, and updates with color-coded rows, program badges, and entity details
-- **Programs Panel** — Top active sanctions programs sorted by entry count with weekly change indicators
+- **Stats Overview** — Total SDN entries, Consolidated entries, daily additions, and daily removals with info tooltips
+- **List Composition** — Collapsible breakdown of entry types (Entity, Individual, Vessel, Aircraft) and data categories (IDs, crypto wallets, aliases)
+- **Full Sanctions Registry** — Searchable, filterable registry of all 19,000+ entries with pagination (50/page), filters by entry type, list type, program, and country
+- **Daily Changes Table** — Tabbed view of additions, removals, and updates with color-coded rows, expandable detail rows (aliases, IDs, crypto wallets, DOB, nationalities)
+- **Activity Timeline** — 15-day rolling area chart showing daily additions, removals, and updates
+- **Programs Panel** — Top active sanctions programs sorted by entry count with daily change indicators
+
+### Sanctions Screening Engine
+- **Name Screening** — Fuzzy matching with Levenshtein distance, Soundex (phonetic), token-based (handles word reordering), and substring matching
+- **Alias Matching** — Screens against all known aliases for each entity
+- **Address & Country Screening** — Match against physical addresses and ISO2 country codes
+- **ID Document Screening** — Exact/partial match on passport numbers, tax IDs, registration numbers
+- **Crypto Wallet Screening** — Match against OFAC-listed BTC, ETH, USDT, and other wallet addresses
+- **Vessel/Aircraft Screening** — Fuzzy name match filtered to vessel and aircraft entry types
+- **Composite Scoring** — 0–100% match scores with risk levels (CRITICAL / HIGH / MEDIUM / LOW)
+- **Adjustable Threshold** — Slider to tune sensitivity from broad (30%) to strict (100%)
+- **Performance** — Screens 19,000+ entries in under 100ms client-side
 
 ### Interactive World Map
 - **Choropleth Layer** — Countries colored by sanctions density (purple-to-red gradient scale)
@@ -40,7 +55,7 @@ SanctionsPulse is an open-source, interactive dashboard that tracks weekly chang
 - **Color Scale Legend** — Reference guide for choropleth intensity
 
 ### Programs Explorer
-- **45 Active OFAC Programs** — Complete catalog of all active sanctions programs
+- **75 Active OFAC Programs** — Complete catalog of all active sanctions programs
 - **Search & Filter** — Find programs by name or code
 - **Sort Options** — By most entries, most recent activity, or most active this week
 - **Program Cards** — Code badge, description, SDN/Consolidated proportion bar, weekly activity, last updated date
@@ -55,10 +70,11 @@ SanctionsPulse is an open-source, interactive dashboard that tracks weekly chang
 - **Interactive Chat** — Ask questions about sanctions data, programs, and compliance implications (requires Groq API key)
 
 ### Data Pipeline
-- **Automated Weekly Updates** — GitHub Actions cron job fetches OFAC data every Monday at 09:00 UTC
-- **XML Parsing** — Memory-efficient streaming parser for 50MB+ OFAC Advanced XML files
+- **Automated Daily Updates** — GitHub Actions cron job fetches OFAC data every day at 13:00 UTC (9 AM ET)
+- **XML Parsing** — Full-tree parser with cross-reference resolution for 117MB+ OFAC Advanced XML files
 - **Snapshot Diffing** — UID-based comparison detecting additions, removals, and field-level updates
-- **AI Summary Generation** — Groq-powered analysis of weekly changes (optional)
+- **AI Summary Generation** — Groq-powered analysis of daily changes (optional)
+- **10-Step Pipeline** — Fetch → Rotate → Parse → Diff → AI Summary → Map Data → Program Data → Overview Stats → Full Registry → Timeline
 
 ---
 
@@ -82,8 +98,8 @@ SanctionsPulse is an open-source, interactive dashboard that tracks weekly chang
 ## Quick Start
 
 ### Prerequisites
-- Node.js 18+ and npm
-- Python 3.11+ (for data pipeline only)
+- **Node.js 18+** and npm (for the frontend)
+- **Python 3.11+** (only needed if you want to run the data pipeline to fetch fresh OFAC data)
 
 ### Installation
 
@@ -101,18 +117,30 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173) to view the dashboard.
 
-The app ships with sample data so it works immediately — no API keys or data pipeline setup required.
+The app ships with pre-fetched sanctions data so it works immediately — no API keys, no Python, and no data pipeline setup required for the dashboard, map, programs, and screening features.
 
-### Enable AI Chat (Optional)
+### Refresh OFAC Data (Optional)
 
-The interactive intelligence analyst chat requires a Groq API key:
+To fetch the latest sanctions data from OFAC yourself:
 
-1. Get a free API key at [console.groq.com/keys](https://console.groq.com/keys)
+```bash
+cd scripts
+pip install -r requirements.txt
+python run_daily.py
+```
+
+This downloads ~121MB of XML from OFAC, parses it, computes diffs, and builds all JSON data files. Requires ~1GB RAM for XML parsing.
+
+### Enable AI Features (Optional)
+
+The AI intelligence summaries and interactive chat require a free Groq API key:
+
+1. Get a key at [console.groq.com/keys](https://console.groq.com/keys)
 2. Create a `.env` file in the project root:
    ```bash
    GROQ_API_KEY=gsk_your_key_here
    ```
-3. Restart the dev server
+3. Restart the dev server — the Intelligence page will now show AI-generated summaries and the chat will be functional
 
 ---
 
@@ -123,22 +151,26 @@ SanctionsPulse/
 ├── src/
 │   ├── components/
 │   │   ├── layout/          # Header, Sidebar, Footer
-│   │   ├── dashboard/       # StatsCards, WeeklyDiffTable, ProgramsPanel, TimelineChart
+│   │   ├── dashboard/       # StatsCards, WeeklyDiffTable, ProgramsPanel, TimelineChart, FullRegistry, DataOverview
 │   │   ├── map/             # SanctionsMap, MapLegend, MapControls
 │   │   ├── intelligence/    # AISummaryPanel, IntelChat
+│   │   ├── screening/       # ScreeningForm, ScreeningResults
 │   │   └── common/          # Badge, LoadingSpinner, ErrorBoundary
-│   ├── pages/               # DashboardPage, MapPage, ProgramsPage, IntelligencePage
-│   ├── hooks/               # useSanctionsData, useMapData, useAISummary
-│   └── lib/                 # types, constants, utils, mapStyles
+│   ├── pages/               # DashboardPage, MapPage, ProgramsPage, IntelligencePage, ScreeningPage
+│   ├── hooks/               # useSanctionsData, useMapData, useAISummary, useRegistryData, useTimelineData
+│   └── lib/                 # types, constants, utils, mapStyles, screening
 │
 ├── scripts/                 # Python data pipeline
 │   ├── fetch_lists.py       # Download OFAC XML files
-│   ├── parse_xml.py         # Parse XML → JSON (lxml iterparse)
-│   ├── diff_snapshots.py    # Compare snapshots → weekly diff
+│   ├── parse_xml.py         # Parse XML → JSON (cross-reference resolution)
+│   ├── diff_snapshots.py    # Compare snapshots → daily diff
 │   ├── generate_summary.py  # AI summary via Groq API
 │   ├── build_map_data.py    # Aggregate by country for map
 │   ├── build_program_data.py# Extract program metadata
-│   └── run_weekly.py        # Orchestrator (runs all steps)
+│   ├── build_overview_stats.py # Entry type + data category stats
+│   ├── build_full_registry.py  # Combine SDN + Consolidated → full registry
+│   ├── build_timeline.py    # 15-day rolling activity timeline
+│   └── run_daily.py         # Orchestrator (runs all 10 steps)
 │
 ├── api/                     # Vercel Edge Functions
 │   ├── proxy-ofac.ts        # OFAC API proxy (adds User-Agent)
@@ -147,42 +179,47 @@ SanctionsPulse/
 │
 ├── data/                    # Git-tracked JSON data
 │   ├── meta.json            # Dashboard metadata
-│   ├── diffs/               # Weekly diff files
+│   ├── overview_stats.json  # Entry type + data category aggregations
+│   ├── diffs/               # Daily diff files
 │   ├── summaries/           # AI-generated intelligence summaries
 │   ├── map/                 # Country-level aggregations
 │   ├── programs/            # Sanctions program metadata
-│   └── snapshots/           # Full list snapshots (after pipeline run)
+│   ├── registry/            # Full combined registry (19,000+ entries)
+│   ├── timeline/            # 15-day rolling activity data
+│   └── snapshots/           # Full list snapshots (gitignored, large files)
 │
 ├── public/
 │   ├── countries.geojson    # 258-country Natural Earth boundaries
 │   └── favicon.svg          # Lightning bolt icon
 │
 └── .github/workflows/
-    └── weekly-update.yml    # Automated Monday 09:00 UTC pipeline
+    └── daily-update.yml     # Automated daily 13:00 UTC pipeline + Vercel deploy
 ```
 
 ---
 
 ## Data Pipeline
 
-The Python data pipeline runs weekly via GitHub Actions (or manually) to fetch and process OFAC sanctions data.
+The Python data pipeline runs daily via GitHub Actions (or manually) to fetch and process OFAC sanctions data.
 
 ### How It Works
 
 ```
-OFAC SLS API ──► fetch_lists.py ──► SDN_ADVANCED.XML + CONS_ADVANCED.XML
+OFAC SLS API ──► fetch_lists.py ──► SDN_ADVANCED.XML (~117MB) + CONS_ADVANCED.XML (~4MB)
                                            │
                                     parse_xml.py ──► data/snapshots/*_latest.json
                                            │
-                                    diff_snapshots.py ──► data/diffs/weekly_*.json
+                                    diff_snapshots.py ──► data/diffs/daily_*.json
                                            │
-                              ┌─────── generate_summary.py ──► data/summaries/ai_*.json
-                              │            │
-                              │     build_map_data.py ──► data/map/country_sanctions.json
-                              │            │
-                              │     build_program_data.py ──► data/programs/active_programs.json
-                              │            │
-                              └──── git commit + push (automated)
+                              generate_summary.py ──► data/summaries/ai_*.json (Groq AI)
+                                           │
+                              build_map_data.py ──► data/map/country_sanctions.json
+                              build_program_data.py ──► data/programs/active_programs.json
+                              build_overview_stats.py ──► data/overview_stats.json
+                              build_full_registry.py ──► data/registry/full_registry.json
+                              build_timeline.py ──► data/timeline/activity_timeline.json
+                                           │
+                              git commit + push + vercel deploy (automated)
 ```
 
 ### Running Manually
@@ -191,17 +228,22 @@ OFAC SLS API ──► fetch_lists.py ──► SDN_ADVANCED.XML + CONS_ADVANCED
 cd scripts
 pip install -r requirements.txt
 
-# Run the full pipeline
-python run_weekly.py
+# Run the full pipeline (all 10 steps)
+python run_daily.py
 
 # Or run individual steps
-python fetch_lists.py          # Download OFAC XML files
-python parse_xml.py            # Parse XML → JSON
-python diff_snapshots.py       # Compute weekly diff
-python generate_summary.py     # Generate AI summary (requires GROQ_API_KEY)
-python build_map_data.py       # Build map aggregations
-python build_program_data.py   # Build program metadata
+python fetch_lists.py            # Download OFAC XML files (~121MB total)
+python parse_xml.py              # Parse XML → JSON (cross-reference resolution)
+python diff_snapshots.py         # Compute daily diff
+python generate_summary.py       # Generate AI summary (requires GROQ_API_KEY env var)
+python build_map_data.py         # Build country aggregations for map
+python build_program_data.py     # Build program metadata
+python build_overview_stats.py   # Build entry type + data category stats
+python build_full_registry.py    # Combine SDN + Consolidated into full registry
+python build_timeline.py         # Build 15-day rolling activity timeline
 ```
+
+> **Note:** `fetch_lists.py` downloads ~121MB of XML files. The parse step loads the full XML tree into memory, so ensure you have at least 1GB of available RAM.
 
 ### OFAC Data Source
 
@@ -232,12 +274,16 @@ The `vercel.json` is pre-configured with:
 
 ### GitHub Actions
 
-The weekly update workflow (`.github/workflows/weekly-update.yml`) runs automatically every Monday at 09:00 UTC. To enable it:
+The daily update workflow (`.github/workflows/daily-update.yml`) runs automatically every day at 13:00 UTC (9 AM ET). To enable it:
 
-1. Add `GROQ_API_KEY` as a repository secret (Settings → Secrets → Actions)
-2. The workflow will fetch OFAC data, compute diffs, generate AI summaries, and commit results back to the repo
+1. Add these repository secrets (Settings → Secrets → Actions):
+   - `GROQ_API_KEY` — For AI summary generation
+   - `VERCEL_TOKEN` — For automatic Vercel deployment
+   - `VERCEL_ORG_ID` — Your Vercel org ID
+   - `VERCEL_PROJECT_ID` — Your Vercel project ID
+2. The workflow will fetch OFAC data, compute diffs, generate AI summaries, build all data files, commit to repo, and deploy to Vercel
 
-You can also trigger it manually via the **Actions** tab → **Weekly OFAC Sanctions Update** → **Run workflow**.
+You can also trigger it manually via the **Actions** tab → **Run workflow**.
 
 ---
 
@@ -281,20 +327,26 @@ Major sanctions programs have distinct colors for quick visual identification:
 
 ```bash
 # Development
-npm run dev              # Start dev server (http://localhost:5173)
-npm run build            # Production build
-npm run preview          # Preview production build
+npm run dev              # Start Vite dev server (http://localhost:5173)
+npm run build            # Production build (TypeScript check + Vite build + copy data/)
+npm run preview          # Preview production build locally
 npm run lint             # ESLint
 
-# Data Pipeline
-python scripts/run_weekly.py    # Full weekly update
+# Data Pipeline (run from scripts/ directory)
+cd scripts && pip install -r requirements.txt
+python run_daily.py              # Full daily pipeline (all 10 steps)
+python fetch_lists.py            # Download OFAC XML only
+python parse_xml.py              # Parse XML → JSON only
+
+# Deployment
+vercel --prod --yes              # Manual deploy to Vercel production
 ```
 
 ---
 
 ## OFAC Sanctions Programs Tracked
 
-SanctionsPulse monitors **45 active OFAC sanctions programs** including:
+SanctionsPulse monitors **75 active OFAC sanctions programs** including:
 
 - **IRAN** — Iran nuclear proliferation and terrorism support
 - **RUSSIA-EO14024** — Russia harmful foreign activities
