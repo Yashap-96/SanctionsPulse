@@ -348,8 +348,8 @@
     "daily_removed": 0
   },
   "RU": {
-    "total": 5492,
-    "sdn": 5235,
+    "total": 5490,
+    "sdn": 5233,
     "consolidated": 257,
     "programs": [
       "CUBA",
@@ -389,7 +389,7 @@
       "PAIPA"
     ],
     "daily_added": 0,
-    "daily_removed": 0
+    "daily_removed": 2
   },
   "BG": {
     "total": 92,
@@ -1054,8 +1054,8 @@
     "daily_removed": 0
   },
   "TR": {
-    "total": 354,
-    "sdn": 353,
+    "total": 351,
+    "sdn": 350,
     "consolidated": 1,
     "programs": [
       "SDGT",
@@ -1079,7 +1079,7 @@
       "CAATSA - RUSSIA"
     ],
     "daily_added": 0,
-    "daily_removed": 0
+    "daily_removed": 3
   },
   "HR": {
     "total": 5,
@@ -1336,8 +1336,8 @@
     "daily_removed": 0
   },
   "AE": {
-    "total": 667,
-    "sdn": 667,
+    "total": 666,
+    "sdn": 666,
     "consolidated": 0,
     "programs": [
       "IRAQ2",
@@ -1376,7 +1376,7 @@
       "CAATSA - RUSSIA"
     ],
     "daily_added": 0,
-    "daily_removed": 0
+    "daily_removed": 1
   },
   "DO": {
     "total": 26,
@@ -2631,8 +2631,8 @@
     "daily_removed": 0
   },
   "HU": {
-    "total": 11,
-    "sdn": 11,
+    "total": 10,
+    "sdn": 10,
     "consolidated": 0,
     "programs": [
       "BALKANS-EO14033",
@@ -2641,7 +2641,7 @@
       "CYBER2"
     ],
     "daily_added": 0,
-    "daily_removed": 0
+    "daily_removed": 1
   },
   "IM": {
     "total": 2,

@@ -1,0 +1,204 @@
+{
+  "date": "2026-03-19",
+  "period": "2026-03-19",
+  "summary": {
+    "added": 0,
+    "removed": 6,
+    "updated": 0
+  },
+  "additions": [],
+  "removals": [
+    {
+      "uid": 40662,
+      "name": "Tyurikova Evgeniya Sergeyevna",
+      "entry_type": "Individual",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "countries": [
+        "HU",
+        "RU"
+      ],
+      "list_type": "SDN",
+      "dob": "1975-09-25",
+      "nationalities": [],
+      "aliases": [
+        "Smirnova Evgeniya Sergeyevna",
+        "Dyatkova Evgeniya Sergeyevna",
+        "Tyurikova Yevgenia",
+        "\u0422\u044e\u0440\u0438\u043a\u043e\u0432\u0430 \u0415\u0432\u0433\u0435\u043d\u0438\u044f",
+        "Tyurikova Eugenia",
+        "Tyurikova Evgenia"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "762948132",
+          "country": "Russia"
+        },
+        {
+          "type": "Passport",
+          "number": "752900261",
+          "country": "Russia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Bolshaya Serpuhovskaya Street",
+          "city": "Moscow",
+          "postal_code": "115093",
+          "country": "RU"
+        }
+      ]
+    },
+    {
+      "uid": 45773,
+      "name": "TURKEN DIJITAL MATBAA TEKNOLOJILERI BILGISAYAR BILISIM KIRTASIYE FOTOGRAFCILIK SANAYI VE DIS TICARET LIMITED SIRKETI",
+      "entry_type": "Entity",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "countries": [
+        "TR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "0877025089900016",
+          "country": "Turkey"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Konutkent Mahallesi 3028 Cad. B Block Apt. No: 16 B/31",
+          "address2": "Cankaya",
+          "city": "Ankara",
+          "country": "TR"
+        }
+      ]
+    },
+    {
+      "uid": 45774,
+      "name": "Turken Berk",
+      "entry_type": "Individual",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "countries": [
+        "TR"
+      ],
+      "list_type": "SDN",
+      "dob": "1980-07-25",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "13420073134",
+          "country": "Turkey"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 45775,
+      "name": "BSB GRUP INTERNET VE YAPAY ZEKA TEKNOLOJILERI ANONIM SIRKETI",
+      "entry_type": "Entity",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "countries": [
+        "TR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "BSB Group"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "0187141297700001",
+          "country": "Turkey"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Alacaath Mah. 4841 Cad. A1 Blok No: 3a Ic Kapi No: 122",
+          "address2": "Cankaya",
+          "city": "Ankara",
+          "country": "TR"
+        }
+      ]
+    },
+    {
+      "uid": 45899,
+      "name": "Vorontsov Boris Gennadiyevich",
+      "entry_type": "Individual",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "countries": [
+        "RU"
+      ],
+      "list_type": "SDN",
+      "dob": "1978-02-16",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Moscow",
+          "country": "RU"
+        }
+      ]
+    },
+    {
+      "uid": 46578,
+      "name": "Futuris FZE",
+      "entry_type": "Entity",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "License",
+          "number": "14541",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Economic Register Number (CBLS)",
+          "number": "11613852",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "SAIF Office, P8-08-37",
+          "address2": "PO Box 122788",
+          "city": "Sharjah",
+          "country": "AE"
+        }
+      ]
+    }
+  ],
+  "updates": []
+}

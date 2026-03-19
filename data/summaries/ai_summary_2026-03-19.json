@@ -1,0 +1,38 @@
+{
+  "executive_summary": "On March 19, 2026, OFAC removed six entities from the SDN list, all of which were previously designated under the Russia-EO14024 program. The removed entities include individuals and companies from Russia, Turkey, and the United Arab Emirates. This update reflects a notable shift in the sanctions landscape, particularly with regards to Russia-related designations. The removal of these entities may impact compliance efforts and require updates to internal watchlists.",
+  "notable_entities": [
+    "Tyurikova Evgeniya Sergeyevna",
+    "TURKEN DIJITAL MATBAA TEKNOLOJILERI BILGISAYAR BILISIM KIRTASIYE FOTOGRAFCILIK SANAYI VE DIS TICARET LIMITED SIRKETI",
+    "Turken Berk",
+    "BSB GRUP INTERNET VE YAPAY ZEKA TEKNOLOJILERI ANONIM SIRKETI",
+    "Vorontsov Boris Gennadiyevich",
+    "Futuris FZE"
+  ],
+  "risk_implications": "The removal of these six entities from the SDN list may reduce the risk of inadvertently conducting business with sanctioned parties, but it also highlights the need for ongoing due diligence and monitoring of sanctions lists to ensure compliance. Compliance teams should review their internal watchlists and update their screening processes to reflect these changes.",
+  "program_highlights": [
+    {
+      "program": "RUSSIA-EO14024",
+      "detail": "All six removed entities were designated under this program, which targets certain Russian individuals and entities in response to the situation in Ukraine."
+    }
+  ],
+  "geographic_hotspots": [
+    {
+      "country": "Russia",
+      "detail": "Multiple removed entities have ties to Russia, including Tyurikova Evgeniya Sergeyevna and Vorontsov Boris Gennadiyevich."
+    },
+    {
+      "country": "Turkey",
+      "detail": "Several removed entities are based in Turkey, including TURKEN DIJITAL MATBAA TEKNOLOJILERI BILGISAYAR BILISIM KIRTASIYE FOTOGRAFCILIK SANAYI VE DIS TICARET LIMITED SIRKETI and BSB GRUP INTERNET VE YAPAY ZEKA TEKNOLOJILERI ANONIM SIRKETI."
+    },
+    {
+      "country": "United Arab Emirates",
+      "detail": "One removed entity, Futuris FZE, is based in the United Arab Emirates."
+    }
+  ],
+  "compliance_recommendations": [
+    "Review internal watchlists and update screening processes to reflect the removal of these six entities.",
+    "Conduct due diligence on customers and business partners to ensure they are not affiliated with removed entities.",
+    "Monitor sanctions lists for future updates and changes.",
+    "Update compliance policies and procedures to reflect the evolving sanctions landscape."
+  ]
+}
