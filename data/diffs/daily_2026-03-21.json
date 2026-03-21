@@ -1,0 +1,777 @@
+{
+  "date": "2026-03-21",
+  "period": "2026-03-21",
+  "summary": {
+    "added": 16,
+    "removed": 8,
+    "updated": 0
+  },
+  "additions": [
+    {
+      "uid": 57190,
+      "name": "Hamieh Alaa Hassan",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "LB"
+      ],
+      "list_type": "SDN",
+      "dob": "1980-01-25",
+      "nationalities": [],
+      "aliases": [
+        "\u0639\u0644\u0627\u0621 \u062d\u0633\u0646 \u062d\u0645\u064a\u0629"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "00003985449",
+          "country": "Lebanon"
+        },
+        {
+          "type": "Passport",
+          "number": "LR3049063",
+          "country": "Lebanon"
+        },
+        {
+          "type": "Passport",
+          "number": "OA110548",
+          "country": "Canada"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Zantout Street",
+          "address2": "Safi Darwich Building, 1st Floor",
+          "city": "Dawhet El Hoss",
+          "state": "Beirut",
+          "country": "LB"
+        },
+        {
+          "address1": "Southern Tariya",
+          "city": "Baalbek",
+          "country": "LB"
+        }
+      ]
+    },
+    {
+      "uid": 57191,
+      "name": "Tarshishi Hala Mohamad",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "LB"
+      ],
+      "list_type": "SDN",
+      "dob": "1983-02-26",
+      "nationalities": [],
+      "aliases": [
+        "\u062a\u0631\u0634\u064a\u0634\u064a \u0647\u0644\u0627 \u0645\u062d\u0645\u062f",
+        "Tarchichi Hala"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "LR2152231",
+          "country": "Lebanon"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57192,
+      "name": "Hamieh Daniel",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "LB",
+        "PL"
+      ],
+      "list_type": "SDN",
+      "dob": "2002-11-30",
+      "nationalities": [],
+      "aliases": [
+        "Hamie Daniel"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "ES7369838",
+          "country": "Poland"
+        },
+        {
+          "type": "National ID No.",
+          "number": "02313992539",
+          "country": "Poland"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Wojska Polskiego 23ABC",
+          "city": "Suwalki",
+          "state": "Podlaskie",
+          "postal_code": "16-400",
+          "country": "PL"
+        }
+      ]
+    },
+    {
+      "uid": 57193,
+      "name": "Hashem Bahaa Addin",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "LB"
+      ],
+      "list_type": "SDN",
+      "dob": "1982-11-18",
+      "nationalities": [],
+      "aliases": [
+        "\u0647\u0627\u0634\u0645 \u0628\u0647\u0627\u0621 \u0627\u0644\u062f\u064a\u0646"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "RE0151778",
+          "country": "Saint Kitts and Nevis"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57194,
+      "name": "Calllync Telekomunikacijske Storitve D.O.O.",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "SI"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration ID",
+          "number": "8996407000",
+          "country": "Slovenia"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "63055872",
+          "country": "Slovenia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Ulica XIV",
+          "address2": "Divizije 8",
+          "city": "Celje",
+          "postal_code": "3000",
+          "country": "SI"
+        }
+      ]
+    },
+    {
+      "uid": 57210,
+      "name": "Calllync Spolka Z Ograniczona Odpowiedzialnoscia",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "PL"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "CALLLYNC Sp\u00f3\u0142ka z ograniczon\u0105 odpowiedzialno\u015bci\u0105"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "5273086316",
+          "country": "Poland"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "0001070994",
+          "country": "Poland"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "30 824 Grzybowska",
+          "city": "Warsaw",
+          "postal_code": "00-863",
+          "country": "PL"
+        }
+      ]
+    },
+    {
+      "uid": 57211,
+      "name": "Calllync S.A.L. Offshore",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "LB"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "1809132",
+          "country": "Lebanon"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Sayyida Qudsaya St",
+          "address2": "Delis Center, Sixth Fl",
+          "city": "Ghobeiry",
+          "country": "LB"
+        }
+      ]
+    },
+    {
+      "uid": 57212,
+      "name": "Seven Seas SAL Offshore",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "LB"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "1806107",
+          "country": "Lebanon"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Second Floor, Airport Business Center",
+          "address2": "Airport Road",
+          "state": "Beirut",
+          "country": "LB"
+        }
+      ]
+    },
+    {
+      "uid": 57213,
+      "name": "Seven Seas Group S.A.R.L.",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "LB"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0645\u062c\u0645\u0648\u0639\u0629 \u0627\u0644\u0633\u0628\u0639\u0629 \u0628\u062d\u0627\u0631 \u0634.\u0645.\u0645."
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "2030681",
+          "country": "Lebanon"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Airport Business Center",
+          "city": "Bourj Barajneh",
+          "state": "Mount Lebanon",
+          "country": "LB"
+        }
+      ]
+    },
+    {
+      "uid": 57214,
+      "name": "Al Lakis Hamdan Ali",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "LB"
+      ],
+      "list_type": "SDN",
+      "dob": "1971-06-17",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "LR1871858",
+          "country": "Lebanon"
+        },
+        {
+          "type": "National ID No.",
+          "number": "000046505438",
+          "country": "Lebanon"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Kab Elias Main Road",
+          "address2": "Yaktine Building, 5th Floor",
+          "city": "Kab Elias",
+          "state": "Bekaa",
+          "postal_code": "009618",
+          "country": "LB"
+        }
+      ]
+    },
+    {
+      "uid": 57215,
+      "name": "Hamieh Muhammad Hasan",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "LB"
+      ],
+      "list_type": "SDN",
+      "dob": "1983-09-12",
+      "nationalities": [],
+      "aliases": [
+        "Hamiyyah Muhammad Hasan"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "LR3337699",
+          "country": "Lebanon"
+        },
+        {
+          "type": "National ID No.",
+          "number": "00003985448",
+          "country": "Lebanon"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57216,
+      "name": "Wehbe Mohamad Hasan",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "LB"
+      ],
+      "list_type": "SDN",
+      "dob": "1971-09-08",
+      "nationalities": [],
+      "aliases": [
+        "\u0648\u0647\u0628\u064a \u0645\u062d\u0645\u062f \u062d\u0633\u0646",
+        "Wahbi Mohamed Hassan"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "000034132689",
+          "country": "Lebanon"
+        },
+        {
+          "type": "Passport",
+          "number": "LR0921388",
+          "country": "Lebanon"
+        },
+        {
+          "type": "Passport",
+          "number": "LR2576480",
+          "country": "Lebanon"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Ras Beirut",
+          "country": "LB"
+        }
+      ]
+    },
+    {
+      "uid": 57226,
+      "name": "Fadel Raoof",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "QA"
+      ],
+      "list_type": "SDN",
+      "dob": "1981-12-20",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "LR2366895",
+          "country": "Lebanon"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Zone 55, Street 169, Building 85, Villa 3",
+          "city": "Doha",
+          "country": "QA"
+        }
+      ]
+    },
+    {
+      "uid": 57227,
+      "name": "Seven Seas for International Trading and Logistics",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "CA"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "BC1380982",
+          "country": "Canada"
+        },
+        {
+          "type": "Business Number",
+          "number": "700535701",
+          "country": "Canada"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "state": "British Columbia",
+          "country": "CA"
+        }
+      ]
+    },
+    {
+      "uid": 57228,
+      "name": "Boustany Maya",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "LB",
+        "QA"
+      ],
+      "list_type": "SDN",
+      "dob": "1981-09-09",
+      "nationalities": [],
+      "aliases": [
+        "\u0627\u0644\u0628\u0633\u062a\u0627\u0646\u064a \u0645\u0627\u064a\u0627",
+        "Al-Bustani Maya",
+        "Al-Bustani Maya Shadi",
+        "\u0627\u0644\u0628\u0633\u062a\u0627\u0646\u064a \u0645\u0627\u064a\u0627 \u0634\u0627\u062f\u064a"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "000043641387",
+          "country": "Lebanon"
+        },
+        {
+          "type": "Passport",
+          "number": "LR2067544",
+          "country": "Lebanon"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Al-Dabieh",
+          "state": "Mount Lebanon",
+          "country": "LB"
+        }
+      ]
+    },
+    {
+      "uid": 57229,
+      "name": "Salami Mohamad Jamil",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "LB"
+      ],
+      "list_type": "SDN",
+      "dob": "1982-05-17",
+      "nationalities": [],
+      "aliases": [
+        "Salami Mohamad"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "LR0109108",
+          "country": "Lebanon"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Amir Bachir Street",
+          "address2": "Azarieh Building",
+          "city": "Beirut",
+          "country": "LB"
+        }
+      ]
+    }
+  ],
+  "removals": [
+    {
+      "uid": 17110,
+      "name": "GASTELUM SERRANO Cesar",
+      "entry_type": "Individual",
+      "programs": [
+        "SDNTK"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1968-04-30",
+      "nationalities": [],
+      "aliases": [
+        "LA SENORA"
+      ],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "GASC680430HSLSRS07",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Culiacan",
+          "state": "Sinaloa",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 17112,
+      "name": "GASTELUM SERRANO Alfredo",
+      "entry_type": "Individual",
+      "programs": [
+        "SDNTK"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": "1971-08-20",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "GASA710820HSLSRL04",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 17113,
+      "name": "GASTELUM SERRANO Guadalupe Candelario",
+      "entry_type": "Individual",
+      "programs": [
+        "SDNTK"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": "1964-02-02",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "GASG640202HSLSRD01",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 39503,
+      "name": "Laszloczki Imre",
+      "entry_type": "Individual",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "countries": [
+        "HU"
+      ],
+      "list_type": "SDN",
+      "dob": "1961-09-26",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Budapest",
+          "country": "HU"
+        }
+      ]
+    },
+    {
+      "uid": 40487,
+      "name": "Piflaks Gilad",
+      "entry_type": "Individual",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "countries": [
+        "IL"
+      ],
+      "list_type": "SDN",
+      "dob": "1992-09-23",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 46507,
+      "name": "RELIABLE FREIGHT SERVICES FZCO",
+      "entry_type": "Entity",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "License",
+          "number": "4091",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Economic Register Number (CBLS)",
+          "number": "11607475",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Dubai Airport Freezone",
+          "address2": "Unit K03",
+          "address3": "PO Box 371935",
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 48758,
+      "name": "KORZHAVIN Yurii Anatolyevich",
+      "entry_type": "Individual",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "countries": [
+        "RU"
+      ],
+      "list_type": "SDN",
+      "dob": "1957-09-28",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Tax ID No.",
+          "number": "770702814195",
+          "country": "Russia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 48760,
+      "name": "KORZHAVINA Lidiya Germanovna",
+      "entry_type": "Individual",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "countries": [
+        "RU"
+      ],
+      "list_type": "SDN",
+      "dob": "1958-05-22",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Tax ID No.",
+          "number": "771405312885",
+          "country": "Russia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    }
+  ],
+  "updates": []
+}

@@ -135,8 +135,8 @@
     "daily_removed": 0
   },
   "MX": {
-    "total": 1088,
-    "sdn": 1088,
+    "total": 1087,
+    "sdn": 1087,
     "consolidated": 0,
     "programs": [
       "CUBA",
@@ -150,7 +150,7 @@
       "VENEZUELA-EO13850"
     ],
     "daily_added": 0,
-    "daily_removed": 0
+    "daily_removed": 1
   },
   "FR": {
     "total": 42,
@@ -234,8 +234,8 @@
     "daily_removed": 0
   },
   "CA": {
-    "total": 39,
-    "sdn": 39,
+    "total": 40,
+    "sdn": 40,
     "consolidated": 0,
     "programs": [
       "CUBA",
@@ -249,7 +249,7 @@
       "IRAN-HR",
       "FTO"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "CZ": {
@@ -348,8 +348,8 @@
     "daily_removed": 0
   },
   "RU": {
-    "total": 5490,
-    "sdn": 5233,
+    "total": 5488,
+    "sdn": 5231,
     "consolidated": 257,
     "programs": [
       "CUBA",
@@ -389,7 +389,7 @@
       "PAIPA"
     ],
     "daily_added": 0,
-    "daily_removed": 0
+    "daily_removed": 2
   },
   "BG": {
     "total": 92,
@@ -446,8 +446,8 @@
     "daily_removed": 0
   },
   "PL": {
-    "total": 10,
-    "sdn": 10,
+    "total": 12,
+    "sdn": 12,
     "consolidated": 0,
     "programs": [
       "CUBA",
@@ -455,9 +455,10 @@
       "UKRAINE-EO13660",
       "RUSSIA-EO14024",
       "ILLICIT-DRUGS-EO14059",
-      "TCO"
+      "TCO",
+      "SDGT"
     ],
-    "daily_added": 0,
+    "daily_added": 2,
     "daily_removed": 0
   },
   "LI": {
@@ -514,8 +515,8 @@
     "daily_removed": 0
   },
   "LB": {
-    "total": 331,
-    "sdn": 331,
+    "total": 343,
+    "sdn": 343,
     "consolidated": 0,
     "programs": [
       "SDGT",
@@ -535,7 +536,7 @@
       "LEBANON",
       "BELARUS-EO14038"
     ],
-    "daily_added": 0,
+    "daily_added": 12,
     "daily_removed": 0
   },
   "CO": {
@@ -1336,8 +1337,8 @@
     "daily_removed": 0
   },
   "AE": {
-    "total": 666,
-    "sdn": 666,
+    "total": 665,
+    "sdn": 665,
     "consolidated": 0,
     "programs": [
       "IRAQ2",
@@ -1376,7 +1377,7 @@
       "CAATSA - RUSSIA"
     ],
     "daily_added": 0,
-    "daily_removed": 0
+    "daily_removed": 1
   },
   "DO": {
     "total": 26,
@@ -1658,8 +1659,8 @@
     "daily_removed": 0
   },
   "QA": {
-    "total": 15,
-    "sdn": 15,
+    "total": 17,
+    "sdn": 17,
     "consolidated": 0,
     "programs": [
       "SDGT",
@@ -1669,7 +1670,7 @@
       "DPRK3",
       "RUSSIA-EO14024"
     ],
-    "daily_added": 0,
+    "daily_added": 2,
     "daily_removed": 0
   },
   "TM": {
@@ -2106,8 +2107,8 @@
     "daily_removed": 0
   },
   "IL": {
-    "total": 18,
-    "sdn": 18,
+    "total": 17,
+    "sdn": 17,
     "consolidated": 0,
     "programs": [
       "SDNTK",
@@ -2118,7 +2119,7 @@
       "RUSSIA-EO14024"
     ],
     "daily_added": 0,
-    "daily_removed": 0
+    "daily_removed": 1
   },
   "SN": {
     "total": 1,
@@ -2258,14 +2259,15 @@
     "daily_removed": 0
   },
   "SI": {
-    "total": 9,
-    "sdn": 9,
+    "total": 10,
+    "sdn": 10,
     "consolidated": 0,
     "programs": [
       "SDNTK",
-      "RUSSIA-EO14024"
+      "RUSSIA-EO14024",
+      "SDGT"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "KG": {
@@ -2631,8 +2633,8 @@
     "daily_removed": 0
   },
   "HU": {
-    "total": 10,
-    "sdn": 10,
+    "total": 9,
+    "sdn": 9,
     "consolidated": 0,
     "programs": [
       "BALKANS-EO14033",
@@ -2641,7 +2643,7 @@
       "CYBER2"
     ],
     "daily_added": 0,
-    "daily_removed": 0
+    "daily_removed": 1
   },
   "IM": {
     "total": 2,
