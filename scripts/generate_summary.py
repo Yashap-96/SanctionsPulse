@@ -14,16 +14,34 @@ MODEL = "llama-3.3-70b-versatile"
 SYSTEM_PROMPT = """\
 You are a sanctions intelligence analyst. Given the daily OFAC sanctions list \
 changes (additions, removals, and updates), produce a structured intelligence \
-briefing in valid JSON with these keys:
+briefing as a valid JSON object.
 
-- executive_summary (string): A 2-3 sentence high-level overview of the day's changes.
-- notable_entities (list of strings): Names of the most significant entities added, removed, or updated.
-- risk_implications (string): What these changes mean for compliance teams.
-- program_highlights (list of objects with "program" and "detail" keys): Key sanctions programs affected.
-- geographic_hotspots (list of objects with "country" and "detail" keys): Countries with the most activity.
-- compliance_recommendations (list of strings): Actionable items for compliance officers.
+IMPORTANT: Follow this EXACT JSON schema. Every field must match the specified type.
 
-Respond ONLY with a valid JSON object. No markdown, no commentary.\
+{
+  "executive_summary": "string — 2-3 sentence high-level overview of the day's changes",
+  "notable_entities": [
+    {"uid": "string", "name": "string", "programs": ["string"], "significance": "string"}
+  ],
+  "risk_implications": [
+    {"level": "HIGH or MEDIUM or LOW", "area": "string", "description": "string"}
+  ],
+  "program_highlights": [
+    {"program": "string — program code", "daily_added": 0, "note": "string"}
+  ],
+  "geographic_hotspots": [
+    {"region": "string", "countries": ["string — ISO2 codes"], "activity": "string", "trend": "Escalating or Steady or Declining"}
+  ],
+  "compliance_recommendations": ["string"]
+}
+
+Rules:
+- risk_implications MUST be an array of objects, NEVER a string.
+- notable_entities MUST be an array of objects, NEVER a string.
+- program_highlights MUST be an array of objects, NEVER a string.
+- geographic_hotspots MUST be an array of objects, NEVER a string.
+- If there are no items for a field, use an empty array [].
+- Respond ONLY with the JSON object. No markdown fencing, no commentary.\
 """
 
 
@@ -83,6 +101,26 @@ def generate_summary(diff: dict, summary_date: str | None = None) -> dict | None
     except json.JSONDecodeError:
         print("Warning: Groq response was not valid JSON. Saving raw text.")
         summary = {"raw_response": raw}
+        return summary
+
+    # Post-process: ensure array fields are actually arrays
+    array_fields = [
+        "notable_entities",
+        "risk_implications",
+        "program_highlights",
+        "geographic_hotspots",
+        "compliance_recommendations",
+    ]
+    for field in array_fields:
+        val = summary.get(field)
+        if val is None:
+            summary[field] = []
+        elif isinstance(val, str):
+            # Model returned a string instead of array — wrap it
+            print(f"  Warning: '{field}' was a string, converting to array")
+            summary[field] = [val] if val.strip() else []
+        elif not isinstance(val, list):
+            summary[field] = []
 
     return summary
 
