@@ -150,7 +150,7 @@
       "VENEZUELA-EO13850"
     ],
     "daily_added": 0,
-    "daily_removed": 1
+    "daily_removed": 0
   },
   "FR": {
     "total": 42,
@@ -249,7 +249,7 @@
       "IRAN-HR",
       "FTO"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "CZ": {
@@ -389,7 +389,7 @@
       "PAIPA"
     ],
     "daily_added": 0,
-    "daily_removed": 2
+    "daily_removed": 0
   },
   "BG": {
     "total": 92,
@@ -458,7 +458,7 @@
       "TCO",
       "SDGT"
     ],
-    "daily_added": 2,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "LI": {
@@ -536,7 +536,7 @@
       "LEBANON",
       "BELARUS-EO14038"
     ],
-    "daily_added": 12,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "CO": {
@@ -1377,7 +1377,7 @@
       "CAATSA - RUSSIA"
     ],
     "daily_added": 0,
-    "daily_removed": 1
+    "daily_removed": 0
   },
   "DO": {
     "total": 26,
@@ -1670,7 +1670,7 @@
       "DPRK3",
       "RUSSIA-EO14024"
     ],
-    "daily_added": 2,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "TM": {
@@ -2119,7 +2119,7 @@
       "RUSSIA-EO14024"
     ],
     "daily_added": 0,
-    "daily_removed": 1
+    "daily_removed": 0
   },
   "SN": {
     "total": 1,
@@ -2267,7 +2267,7 @@
       "RUSSIA-EO14024",
       "SDGT"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "KG": {
@@ -2643,7 +2643,7 @@
       "CYBER2"
     ],
     "daily_added": 0,
-    "daily_removed": 1
+    "daily_removed": 0
   },
   "IM": {
     "total": 2,
