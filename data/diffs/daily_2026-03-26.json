@@ -1,0 +1,137 @@
+{
+  "date": "2026-03-26",
+  "period": "2026-03-26",
+  "summary": {
+    "added": 0,
+    "removed": 3,
+    "updated": 0
+  },
+  "additions": [],
+  "removals": [
+    {
+      "uid": 32746,
+      "name": "Belaruskali OAO",
+      "entry_type": "Entity",
+      "programs": [
+        "BELARUS-EO14038"
+      ],
+      "countries": [
+        "BY"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u041e\u0410\u041e \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c\u043a\u0430\u043b\u0438\u0439",
+        "JSC Belaruskali",
+        "OJSC Belaruskali",
+        "Open Joint-Stock Company Belaruskali",
+        "Otkrytoye aktsionernoye obshchestvo Belaruskaliy",
+        "\u041e\u0442\u043a\u0440\u044b\u0442\u043e\u0435 \u0430\u043a\u0446\u0438\u043e\u043d\u0435\u0440\u043d\u043e\u0435 \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u043e \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c\u043a\u0430\u043b\u0438\u0439",
+        "AAT Belaruskaliy",
+        "\u0410\u0410\u0422 \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c\u043a\u0430\u043bi\u0439",
+        "Adkrytaye aktsyyanernaye tavarystva Belaruskaliy",
+        "\u0410\u0434\u043a\u0440\u044b\u0442\u0430\u0435 \u0430\u043a\u0446\u044b\u044f\u043d\u0435\u0440\u043d\u0430\u0435 \u0442\u0430\u0432\u0430\u0440\u044b\u0441\u0442\u0432\u0430 \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c\u043a\u0430\u043bi\u0439",
+        "OAO Belaruskaliy"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "600122610",
+          "country": "Belarus"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Korzh Str.",
+          "city": "Soligorsk",
+          "state": "Minsk Region",
+          "postal_code": "223710",
+          "country": "BY"
+        }
+      ]
+    },
+    {
+      "uid": 33372,
+      "name": "AGROROZKVIT LLC",
+      "entry_type": "Entity",
+      "programs": [
+        "BELARUS-EO14038"
+      ],
+      "countries": [
+        "UA"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u041e\u041e\u041e \u0410\u0433\u0440\u043e\u0440\u043e\u0437\u043a\u0432\u0438\u0442",
+        "Agrorozkvit TOV",
+        "Tovarystvo Z Obmezhenoyu Vidpovidalnistyu Agrorozkvit"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "406289726553",
+          "country": "Ukraine"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Bud. 44b Inshe Poverkh 2, vul. Evgena Konovaltsya Pechersky R-N",
+          "city": "Kyiv",
+          "postal_code": "01133",
+          "country": "UA"
+        }
+      ]
+    },
+    {
+      "uid": 33374,
+      "name": "OPEN JOINT STOCK COMPANY BELARUSIAN POTASH COMPANY",
+      "entry_type": "Entity",
+      "programs": [
+        "BELARUS-EO14038"
+      ],
+      "countries": [
+        "BY"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Otkrytoye aktsionernoye obshchestvo Belorusskaya kaliynaya kompaniya",
+        "\u041e\u0442\u043a\u0440\u044b\u0442\u043e\u0435 \u0430\u043a\u0446\u0438\u043e\u043d\u0435\u0440\u043d\u043e\u0435 \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u043e \u0411\u0435\u043b\u043e\u0440\u0443\u0441\u0441\u043a\u0430\u044f \u043a\u0430\u043b\u0438\u0439\u043d\u0430\u044f \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f",
+        "Adkrytaye aktsyyanernaye tavarystva Belaruskaya kaliynaya kampaniya",
+        "\u0410\u0434\u043a\u0440\u044b\u0442\u0430\u0435 \u0430\u043a\u0446\u044b\u044f\u043d\u0435\u0440\u043d\u0430\u0435 \u0442\u0430\u0432\u0430\u0440\u044b\u0441\u0442\u0432\u0430 \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u043a\u0430\u044f \u043a\u0430\u043b\u0456\u0439\u043d\u0430\u044f \u043a\u0430\u043c\u043f\u0430\u043d\u0456\u044f",
+        "Belarusian Potash Company",
+        "\u0411\u0435\u043b\u043e\u0440\u0443\u0441\u0441\u043a\u0430\u044f \u043a\u0430\u043b\u0438\u0439\u043d\u0430\u044f \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f",
+        "OJSC Belarusian Potash Company",
+        "OAO Belorusskaya kaliynaya kompaniya",
+        "\u041e\u0410\u041e \u0411\u0415\u041b\u041e\u0420\u0423\u0421\u0421\u041a\u0410\u042f \u041a\u0410\u041b\u0418\u0419\u041d\u0410\u042f \u041a\u041e\u041c\u041f\u0410\u041d\u0418\u042f",
+        "AAT Belaruskaya Kaliynaya Kampaniya",
+        "\u0410\u0410\u0422 \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u043a\u0430\u044f \u043a\u0430\u043b\u0456\u0439\u043d\u0430\u044f \u043a\u0430\u043c\u043f\u0430\u043d\u0456\u044f",
+        "JSC Belarusian Potash Company",
+        "Belorusskaya Kalinaya Kompaniya OAO"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "192050251",
+          "country": "Belarus"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Masherova Ave, Building 35, Room 644",
+          "city": "Minsk",
+          "postal_code": "220002",
+          "country": "BY"
+        }
+      ]
+    }
+  ],
+  "updates": []
+}

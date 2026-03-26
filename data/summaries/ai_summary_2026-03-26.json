@@ -1,0 +1,64 @@
+{
+  "executive_summary": "On March 26, 2026, OFAC removed three entities from the sanctions list. The removed entities, Belaruskali OAO, AGROROZKVIT LLC, and OPEN JOINT STOCK COMPANY BELARUSIAN POTASH COMPANY, were previously sanctioned under the BELARUS-EO14038 program. The removal of these entities may indicate a shift in US policy towards Belarus. The removals may also impact compliance efforts for companies doing business in the region.",
+  "notable_entities": [
+    {
+      "uid": "32746",
+      "name": "Belaruskali OAO",
+      "programs": [
+        "BELARUS-EO14038"
+      ],
+      "significance": "Removal from sanctions list may impact potash trade and US-Belarus relations"
+    },
+    {
+      "uid": "33372",
+      "name": "AGROROZKVIT LLC",
+      "programs": [
+        "BELARUS-EO14038"
+      ],
+      "significance": "Removal from sanctions list may affect agricultural trade and Ukraine-Belarus relations"
+    },
+    {
+      "uid": "33374",
+      "name": "OPEN JOINT STOCK COMPANY BELARUSIAN POTASH COMPANY",
+      "programs": [
+        "BELARUS-EO14038"
+      ],
+      "significance": "Removal from sanctions list may impact global potash market and Belarusian economy"
+    }
+  ],
+  "risk_implications": [
+    {
+      "level": "MEDIUM",
+      "area": "Compliance",
+      "description": "Companies doing business in Belarus or with Belarusian entities must review and update their compliance programs to reflect the removal of these entities from the sanctions list"
+    },
+    {
+      "level": "LOW",
+      "area": "Trade",
+      "description": "The removal of these entities from the sanctions list may lead to increased trade between the US and Belarus, but the impact is expected to be limited"
+    }
+  ],
+  "program_highlights": [
+    {
+      "program": "BELARUS-EO14038",
+      "daily_added": 0,
+      "note": "Three entities were removed from the program, indicating a potential shift in US policy towards Belarus"
+    }
+  ],
+  "geographic_hotspots": [
+    {
+      "region": "Eastern Europe",
+      "countries": [
+        "BY",
+        "UA"
+      ],
+      "activity": "Sanctions removals",
+      "trend": "Declining"
+    }
+  ],
+  "compliance_recommendations": [
+    "Review and update compliance programs to reflect changes to the sanctions list",
+    "Monitor US policy towards Belarus and potential future sanctions changes",
+    "Conduct due diligence on Belarusian entities and individuals to ensure compliance with remaining sanctions"
+  ]
+}

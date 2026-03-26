@@ -1558,8 +1558,8 @@
     "daily_removed": 0
   },
   "BY": {
-    "total": 263,
-    "sdn": 260,
+    "total": 261,
+    "sdn": 258,
     "consolidated": 3,
     "programs": [
       "BELARUS",
@@ -1572,7 +1572,7 @@
       "BELARUS-EO14038"
     ],
     "daily_added": 0,
-    "daily_removed": 0
+    "daily_removed": 2
   },
   "AN": {
     "total": 2,
@@ -1766,8 +1766,8 @@
     "daily_removed": 0
   },
   "UA": {
-    "total": 245,
-    "sdn": 242,
+    "total": 244,
+    "sdn": 241,
     "consolidated": 3,
     "programs": [
       "BELARUS",
@@ -1785,14 +1785,13 @@
       "VENEZUELA-EO13850",
       "CYBER2",
       "NPWMD",
-      "BELARUS-EO14038",
       "GLOMAG",
       "IRAN-EO13902",
       "SUDAN-EO14098",
       "IRAN-EO13846"
     ],
     "daily_added": 0,
-    "daily_removed": 0
+    "daily_removed": 1
   },
   "AW": {
     "total": 1,
