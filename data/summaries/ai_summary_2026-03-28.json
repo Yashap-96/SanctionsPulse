@@ -1,0 +1,85 @@
+{
+  "executive_summary": "On March 28, 2026, OFAC removed 4 entities from the sanctions list, including individuals and an entity associated with Ukraine and Russia. The removals are part of the GLOMAG and RUSSIA-EO14024 programs. No additions or updates were made to the list.",
+  "notable_entities": [
+    {
+      "uid": "34070",
+      "name": "Portnov Andriy Volodymyrovych",
+      "programs": [
+        "GLOMAG"
+      ],
+      "significance": "Removed from the SDN list"
+    },
+    {
+      "uid": "34071",
+      "name": "Andriy Portnov Fund",
+      "programs": [
+        "GLOMAG"
+      ],
+      "significance": "Removed from the SDN list"
+    },
+    {
+      "uid": "37007",
+      "name": "DMITRIEV Vladimir Aleksandrovich",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "significance": "Removed from the SDN list"
+    },
+    {
+      "uid": "40955",
+      "name": "Villa Frederic Pierre",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "significance": "Removed from the SDN list"
+    }
+  ],
+  "risk_implications": [
+    {
+      "level": "LOW",
+      "area": "Ukraine and Russia sanctions",
+      "description": "The removal of these entities may indicate a shift in US foreign policy or a decrease in the perceived threat posed by these individuals and entities"
+    },
+    {
+      "level": "MEDIUM",
+      "area": "Compliance and due diligence",
+      "description": "Companies should review their sanctions screening processes to ensure they are no longer flagging these removed entities"
+    }
+  ],
+  "program_highlights": [
+    {
+      "program": "GLOMAG",
+      "daily_added": 0,
+      "note": "2 entities removed from the program"
+    },
+    {
+      "program": "RUSSIA-EO14024",
+      "daily_added": 0,
+      "note": "2 entities removed from the program"
+    }
+  ],
+  "geographic_hotspots": [
+    {
+      "region": "Eastern Europe",
+      "countries": [
+        "UA",
+        "RU"
+      ],
+      "activity": "Sanctions removals",
+      "trend": "Declining"
+    },
+    {
+      "region": "Southern Europe",
+      "countries": [
+        "MT"
+      ],
+      "activity": "Sanctions removals",
+      "trend": "Steady"
+    }
+  ],
+  "compliance_recommendations": [
+    "Review sanctions screening processes to ensure removed entities are no longer flagged",
+    "Update internal watchlists to reflect changes to the OFAC sanctions list",
+    "Conduct due diligence on new and existing customers to ensure compliance with US sanctions regulations"
+  ]
+}
