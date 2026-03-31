@@ -1,0 +1,109 @@
+{
+  "executive_summary": "On March 31, 2026, OFAC removed 7 entities from the sanctions list, including individuals and vessels, primarily related to the SDNTK and RUSSIA-EO14024 programs. The removals affected entities in Mexico, Colombia, and Russia. No additions or updates were made to the list.",
+  "notable_entities": [
+    {
+      "uid": "12484",
+      "name": "RODRIGUEZ OLIVERA Luis",
+      "programs": [
+        "SDNTK"
+      ],
+      "significance": "Removed from the SDN list, previously designated for involvement in narcotics trafficking"
+    },
+    {
+      "uid": "12485",
+      "name": "RODRIGUEZ OLIVERA Esteban",
+      "programs": [
+        "SDNTK"
+      ],
+      "significance": "Removed from the SDN list, previously designated for involvement in narcotics trafficking"
+    },
+    {
+      "uid": "16462",
+      "name": "URDINOLA ALVAREZ Hector Mario",
+      "programs": [
+        "SDNTK"
+      ],
+      "significance": "Removed from the SDN list, previously designated for involvement in narcotics trafficking"
+    },
+    {
+      "uid": "16470",
+      "name": "JOYERIA MANUELLA H.M.",
+      "programs": [
+        "SDNTK"
+      ],
+      "significance": "Removed from the SDN list, previously designated for involvement in narcotics trafficking"
+    },
+    {
+      "uid": "34943",
+      "name": "Fesco Moneron",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "significance": "Removed from the SDN list, previously designated for involvement in Russian sanctions evasion"
+    },
+    {
+      "uid": "34944",
+      "name": "Fesco Magadan",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "significance": "Removed from the SDN list, previously designated for involvement in Russian sanctions evasion"
+    },
+    {
+      "uid": "36403",
+      "name": "Sv Nikolay",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "significance": "Removed from the SDN list, previously designated for involvement in Russian sanctions evasion"
+    }
+  ],
+  "risk_implications": [
+    {
+      "level": "LOW",
+      "area": "Narcotics trafficking",
+      "description": "The removal of several individuals and entities from the SDN list may indicate a shift in OFAC's focus or a decrease in their involvement in narcotics trafficking"
+    },
+    {
+      "level": "MEDIUM",
+      "area": "Russian sanctions evasion",
+      "description": "The removal of vessels from the SDN list may impact the effectiveness of sanctions against Russian entities, potentially allowing for increased evasion activities"
+    }
+  ],
+  "program_highlights": [
+    {
+      "program": "SDNTK",
+      "daily_added": 0,
+      "note": "7 entities were removed from the SDNTK program, primarily individuals and one entity"
+    },
+    {
+      "program": "RUSSIA-EO14024",
+      "daily_added": 0,
+      "note": "3 vessels were removed from the RUSSIA-EO14024 program, potentially impacting sanctions evasion efforts"
+    }
+  ],
+  "geographic_hotspots": [
+    {
+      "region": "Latin America",
+      "countries": [
+        "MX",
+        "CO"
+      ],
+      "activity": "Narcotics trafficking",
+      "trend": "Declining"
+    },
+    {
+      "region": "Eastern Europe",
+      "countries": [
+        "RU"
+      ],
+      "activity": "Sanctions evasion",
+      "trend": "Steady"
+    }
+  ],
+  "compliance_recommendations": [
+    "Review and update internal watchlists to reflect the removal of these entities",
+    "Conduct enhanced due diligence on transactions involving Mexico, Colombia, and Russia",
+    "Monitor for potential shifts in narcotics trafficking and sanctions evasion activities"
+  ]
+}

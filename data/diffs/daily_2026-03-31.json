@@ -1,0 +1,288 @@
+{
+  "date": "2026-03-31",
+  "period": "2026-03-31",
+  "summary": {
+    "added": 0,
+    "removed": 7,
+    "updated": 0
+  },
+  "additions": [],
+  "removals": [
+    {
+      "uid": 12484,
+      "name": "RODRIGUEZ OLIVERA Luis",
+      "entry_type": "Individual",
+      "programs": [
+        "SDNTK"
+      ],
+      "countries": [
+        "MX",
+        "US"
+      ],
+      "list_type": "SDN",
+      "dob": "1972-04-03",
+      "nationalities": [],
+      "aliases": [
+        "MORFAN RODRIGUEZ Luis Fernando",
+        "RODRIGUEZ MORFIN Luis",
+        "RODRIGUEZ OLIVERA Luis Fernando"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Plaza Pabellion",
+          "city": "Zapopan",
+          "state": "Jalisco",
+          "country": "MX"
+        },
+        {
+          "address1": "Colonia Providencia",
+          "address2": "Calle Quebec, Apt. 1127",
+          "city": "Guadalajara",
+          "state": "Jalisco",
+          "country": "MX"
+        },
+        {
+          "address1": "4179 Colonia Miravalle",
+          "city": "Guadalajara",
+          "state": "Jalisco",
+          "country": "MX"
+        },
+        {
+          "address1": "Sendero Las Acacias 92",
+          "city": "Guadalajara",
+          "state": "Jalisco",
+          "country": "MX"
+        },
+        {
+          "address1": "Vereda Del Canario 1",
+          "city": "Guadalajara",
+          "state": "Jalisco",
+          "country": "MX"
+        },
+        {
+          "address1": "Puerto de Hierro",
+          "city": "Zapopan",
+          "state": "Jalisco",
+          "country": "MX"
+        },
+        {
+          "city": "Fresno",
+          "state": "CA",
+          "country": "US"
+        }
+      ]
+    },
+    {
+      "uid": 12485,
+      "name": "RODRIGUEZ OLIVERA Esteban",
+      "entry_type": "Individual",
+      "programs": [
+        "SDNTK"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1964-12-19",
+      "nationalities": [],
+      "aliases": [
+        "RODRIGUEZ MORFIN Esteban",
+        "RODRIGUEZ LARIOS Esteban",
+        "VALENCIA Esteban",
+        "RODRIGUEZ JIMENEZ Esteban",
+        "MORFIN RODRIGUEZ Esteban"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "0801009914",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Ricardo Giradles 5107",
+          "address2": "Colonia Jardines de Universidad",
+          "city": "Guadalajara",
+          "country": "MX"
+        },
+        {
+          "address1": "Vereda del Canario 1",
+          "city": "Guadalajara",
+          "state": "Jalisco",
+          "country": "MX"
+        },
+        {
+          "address1": "Sendera las Acacias 92",
+          "city": "Guadalajara",
+          "state": "Jalisco",
+          "country": "MX"
+        },
+        {
+          "address1": "Ciudad Victoria",
+          "address2": "Allende Hwy",
+          "city": "Allende",
+          "state": "Guanajuato",
+          "country": "MX"
+        },
+        {
+          "address1": "Ocampo 49",
+          "city": "Tecalitlan",
+          "state": "Jalisco",
+          "country": "MX"
+        },
+        {
+          "address1": "Puerto de Hierro",
+          "city": "Zapopan",
+          "state": "Jalisco",
+          "country": "MX"
+        },
+        {
+          "city": "Mexico City",
+          "state": "Distrito Federal",
+          "country": "MX"
+        },
+        {
+          "address1": "Universidad",
+          "city": "Guadalajara",
+          "state": "Jalisco",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 16462,
+      "name": "URDINOLA ALVAREZ Hector Mario",
+      "entry_type": "Individual",
+      "programs": [
+        "SDNTK"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": "1982-08-26",
+      "nationalities": [],
+      "aliases": [
+        "CHICHO"
+      ],
+      "ids": [
+        {
+          "type": "Cedula No.",
+          "number": "16844641",
+          "country": "Colombia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 16470,
+      "name": "JOYERIA MANUELLA H.M.",
+      "entry_type": "Entity",
+      "programs": [
+        "SDNTK"
+      ],
+      "countries": [
+        "CO"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Matricula Mercantil No",
+          "number": "818178-2 (Cali)",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Carrera 50 #9B-20",
+          "city": "Cali",
+          "state": "Valle",
+          "country": "CO"
+        }
+      ]
+    },
+    {
+      "uid": 34943,
+      "name": "Fesco Moneron",
+      "entry_type": "Vessel",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0424\u0435\u0441\u043a\u043e \u041c\u043e\u043d\u0435\u0440\u043e\u043d"
+      ],
+      "ids": [
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 9277412",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 34944,
+      "name": "Fesco Magadan",
+      "entry_type": "Vessel",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0424\u0435\u0441\u043a\u043e \u041c\u0430\u0433\u0430\u0434\u0430\u043d"
+      ],
+      "ids": [
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 9287699",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 36403,
+      "name": "Sv Nikolay",
+      "entry_type": "Vessel",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "MMSI",
+          "number": "273215770",
+          "country": ""
+        },
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 9482926",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    }
+  ],
+  "updates": []
+}

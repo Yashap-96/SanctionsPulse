@@ -135,8 +135,8 @@
     "daily_removed": 0
   },
   "MX": {
-    "total": 1087,
-    "sdn": 1087,
+    "total": 1085,
+    "sdn": 1085,
     "consolidated": 0,
     "programs": [
       "CUBA",
@@ -150,7 +150,7 @@
       "VENEZUELA-EO13850"
     ],
     "daily_added": 0,
-    "daily_removed": 0
+    "daily_removed": 2
   },
   "FR": {
     "total": 42,
@@ -540,8 +540,8 @@
     "daily_removed": 0
   },
   "CO": {
-    "total": 383,
-    "sdn": 383,
+    "total": 382,
+    "sdn": 382,
     "consolidated": 0,
     "programs": [
       "SDNT",
@@ -554,7 +554,7 @@
       "SUDAN-EO14098"
     ],
     "daily_added": 0,
-    "daily_removed": 0
+    "daily_removed": 1
   },
   "SY": {
     "total": 305,
@@ -778,8 +778,8 @@
     "daily_removed": 0
   },
   "US": {
-    "total": 76,
-    "sdn": 75,
+    "total": 75,
+    "sdn": 74,
     "consolidated": 1,
     "programs": [
       "SDGT",
@@ -800,7 +800,7 @@
       "ILLICIT-DRUGS-EO14059"
     ],
     "daily_added": 0,
-    "daily_removed": 0
+    "daily_removed": 1
   },
   "ZA": {
     "total": 48,
