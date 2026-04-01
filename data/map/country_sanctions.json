@@ -150,7 +150,7 @@
       "VENEZUELA-EO13850"
     ],
     "daily_added": 0,
-    "daily_removed": 2
+    "daily_removed": 0
   },
   "FR": {
     "total": 42,
@@ -554,7 +554,7 @@
       "SUDAN-EO14098"
     ],
     "daily_added": 0,
-    "daily_removed": 1
+    "daily_removed": 0
   },
   "SY": {
     "total": 305,
@@ -800,7 +800,7 @@
       "ILLICIT-DRUGS-EO14059"
     ],
     "daily_added": 0,
-    "daily_removed": 1
+    "daily_removed": 0
   },
   "ZA": {
     "total": 48,
