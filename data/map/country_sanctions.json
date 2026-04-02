@@ -1314,8 +1314,8 @@
     "daily_removed": 0
   },
   "VE": {
-    "total": 254,
-    "sdn": 254,
+    "total": 253,
+    "sdn": 253,
     "consolidated": 0,
     "programs": [
       "SDGT",
@@ -1334,7 +1334,7 @@
       "ILLICIT-DRUGS-EO14059"
     ],
     "daily_added": 0,
-    "daily_removed": 0
+    "daily_removed": 1
   },
   "AE": {
     "total": 665,

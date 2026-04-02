@@ -1,0 +1,40 @@
+{
+  "executive_summary": "On April 2, 2026, OFAC removed one individual from the sanctions list. The individual, Rodriguez Gomez Delcy Eloina, was previously sanctioned under the Venezuela program. No additions or updates were made to the list. The removal may indicate a shift in US policy towards Venezuela.",
+  "notable_entities": [
+    {
+      "uid": "25077",
+      "name": "Rodriguez Gomez Delcy Eloina",
+      "programs": [
+        "VENEZUELA"
+      ],
+      "significance": "Removal from the SDN list may impact US policy towards Venezuela"
+    }
+  ],
+  "risk_implications": [
+    {
+      "level": "LOW",
+      "area": "Venezuela sanctions",
+      "description": "The removal of one individual from the list may have limited impact on overall risk, but could signal a change in US policy"
+    }
+  ],
+  "program_highlights": [
+    {
+      "program": "VENEZUELA",
+      "daily_added": 0,
+      "note": "One individual was removed from the program"
+    }
+  ],
+  "geographic_hotspots": [
+    {
+      "region": "South America",
+      "countries": [
+        "VE"
+      ],
+      "activity": "Sanctions removal",
+      "trend": "Declining"
+    }
+  ],
+  "compliance_recommendations": [
+    "Review and update internal watchlists to reflect the removal of Rodriguez Gomez Delcy Eloina from the SDN list"
+  ]
+}
