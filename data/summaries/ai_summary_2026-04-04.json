@@ -1,0 +1,41 @@
+{
+  "executive_summary": "On April 4, 2026, OFAC removed one individual from the SDN list. The removed individual, Mikhail Mikhaylovich Zadornov, was previously sanctioned under the RUSSIA-EO14024 program. This change may impact compliance efforts related to Russian sanctions.",
+  "notable_entities": [
+    {
+      "uid": "36396",
+      "name": "ZADORNOV Mikhail Mikhaylovich",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "significance": "Removal from SDN list"
+    }
+  ],
+  "risk_implications": [
+    {
+      "level": "LOW",
+      "area": "Russian sanctions compliance",
+      "description": "The removal of Mikhail Mikhaylovich Zadornov from the SDN list may reduce the risk of inadvertently doing business with a sanctioned individual, but entities should still exercise caution when dealing with Russian persons and entities."
+    }
+  ],
+  "program_highlights": [
+    {
+      "program": "RUSSIA-EO14024",
+      "daily_added": 0,
+      "note": "One individual was removed from the program"
+    }
+  ],
+  "geographic_hotspots": [
+    {
+      "region": "Eastern Europe",
+      "countries": [
+        "RU"
+      ],
+      "activity": "Sanctions removal",
+      "trend": "Declining"
+    }
+  ],
+  "compliance_recommendations": [
+    "Review and update internal watchlists to reflect the removal of Mikhail Mikhaylovich Zadornov from the SDN list",
+    "Continue to monitor OFAC updates and adjust compliance programs accordingly"
+  ]
+}

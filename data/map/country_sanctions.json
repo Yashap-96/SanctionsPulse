@@ -348,8 +348,8 @@
     "daily_removed": 0
   },
   "RU": {
-    "total": 5487,
-    "sdn": 5230,
+    "total": 5486,
+    "sdn": 5229,
     "consolidated": 257,
     "programs": [
       "CUBA",
@@ -389,7 +389,7 @@
       "PAIPA"
     ],
     "daily_added": 0,
-    "daily_removed": 0
+    "daily_removed": 1
   },
   "BG": {
     "total": 92,
