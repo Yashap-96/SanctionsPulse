@@ -1,0 +1,190 @@
+{
+  "date": "2026-04-14",
+  "period": "2026-04-14",
+  "summary": {
+    "added": 6,
+    "removed": 0,
+    "updated": 0
+  },
+  "additions": [
+    {
+      "uid": 57219,
+      "name": "Ramos Vazquez Jesus Reymundo",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1971-03-15",
+      "nationalities": [],
+      "aliases": [
+        "Ramos Raymundo"
+      ],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "RAVJ710315HTSMZS09",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Nuevo Laredo",
+          "state": "Tamaulipas",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 57220,
+      "name": "Islas Eduardo Valdez Javier",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1985-02-25",
+      "nationalities": [],
+      "aliases": [
+        "Crosty"
+      ],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "IAVE850225HTSSLD02",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Nuevo Laredo",
+          "state": "Tamaulipas",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 57222,
+      "name": "Penilla Rodriguez Juan Pablo",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1980-01-18",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "PERJ800118HDFNDN03",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57223,
+      "name": "Casino Centenario",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Nuevo Laredo",
+          "state": "Tamaulipas",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 57224,
+      "name": "COMERCIALIZADORA Y ARRENDADORA DE MEXICO, S.A. DE C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "N-2020067321",
+          "country": "Mexico"
+        },
+        {
+          "type": "RFC",
+          "number": "CAM970528IYA",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Ciudad Madero",
+          "state": "Tamaulipas",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 57225,
+      "name": "Diamante Casino",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tampico",
+          "state": "Tamaulipas",
+          "country": "MX"
+        }
+      ]
+    }
+  ],
+  "removals": [],
+  "updates": []
+}
