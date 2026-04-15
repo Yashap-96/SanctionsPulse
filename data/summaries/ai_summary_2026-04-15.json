@@ -1,0 +1,42 @@
+{
+  "executive_summary": "On April 15, 2026, OFAC removed one individual from the Venezuela sanctions program. Reinaldo Enrique Munoz Pedroza, a Venezuelan national, was delisted. This change may impact entities with ties to Venezuela. The removal suggests a potential shift in US policy towards Venezuela.",
+  "notable_entities": [
+    {
+      "uid": "29362",
+      "name": "Reinaldo Enrique Munoz Pedroza",
+      "programs": [
+        "VENEZUELA"
+      ],
+      "significance": "Removed from the Venezuela sanctions program"
+    }
+  ],
+  "risk_implications": [
+    {
+      "level": "LOW",
+      "area": "Venezuela sanctions compliance",
+      "description": "The removal of Reinaldo Enrique Munoz Pedroza may reduce the risk of inadvertently doing business with a sanctioned individual, but entities should still exercise caution when dealing with Venezuelan nationals and entities."
+    }
+  ],
+  "program_highlights": [
+    {
+      "program": "VENEZUELA",
+      "daily_added": 0,
+      "note": "One individual was removed from the program."
+    }
+  ],
+  "geographic_hotspots": [
+    {
+      "region": "South America",
+      "countries": [
+        "VE"
+      ],
+      "activity": "Sanctions removal",
+      "trend": "Declining"
+    }
+  ],
+  "compliance_recommendations": [
+    "Review and update internal watchlists to reflect the removal of Reinaldo Enrique Munoz Pedroza",
+    "Continue to exercise caution when dealing with Venezuelan nationals and entities",
+    "Monitor OFAC updates for potential future changes to the Venezuela sanctions program"
+  ]
+}

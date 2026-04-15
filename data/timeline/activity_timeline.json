@@ -1,17 +1,11 @@
 {
-  "period_start": "2026-03-31",
-  "period_end": "2026-04-14",
+  "period_start": "2026-04-01",
+  "period_end": "2026-04-15",
   "window_days": 15,
   "total_additions": 6,
-  "total_removals": 9,
+  "total_removals": 3,
   "total_updates": 0,
   "days": [
-    {
-      "date": "2026-03-31",
-      "additions": 0,
-      "removals": 7,
-      "updates": 0
-    },
     {
       "date": "2026-04-01",
       "additions": 0,
@@ -94,6 +88,12 @@
       "date": "2026-04-14",
       "additions": 6,
       "removals": 0,
+      "updates": 0
+    },
+    {
+      "date": "2026-04-15",
+      "additions": 0,
+      "removals": 1,
       "updates": 0
     }
   ]
