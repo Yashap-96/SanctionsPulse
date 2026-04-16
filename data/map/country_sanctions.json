@@ -14,8 +14,8 @@
     "daily_removed": 0
   },
   "GB": {
-    "total": 190,
-    "sdn": 190,
+    "total": 191,
+    "sdn": 191,
     "consolidated": 0,
     "programs": [
       "CUBA",
@@ -44,7 +44,7 @@
       "CAATSA - RUSSIA",
       "IRAN-EO13846"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "CH": {
@@ -425,8 +425,8 @@
     "daily_removed": 0
   },
   "NL": {
-    "total": 60,
-    "sdn": 58,
+    "total": 61,
+    "sdn": 59,
     "consolidated": 2,
     "programs": [
       "CUBA",
@@ -442,7 +442,7 @@
       "ICC-EO14203",
       "UKRAINE-EO13662"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "PL": {
@@ -985,8 +985,8 @@
     "daily_removed": 0
   },
   "IN": {
-    "total": 144,
-    "sdn": 140,
+    "total": 146,
+    "sdn": 142,
     "consolidated": 4,
     "programs": [
       "SDGT",
@@ -1003,7 +1003,7 @@
       "TCO",
       "NPWMD"
     ],
-    "daily_added": 0,
+    "daily_added": 2,
     "daily_removed": 0
   },
   "IQ": {
@@ -1055,8 +1055,8 @@
     "daily_removed": 0
   },
   "TR": {
-    "total": 351,
-    "sdn": 350,
+    "total": 352,
+    "sdn": 351,
     "consolidated": 1,
     "programs": [
       "SDGT",
@@ -1079,7 +1079,7 @@
       "IRAN-EO13902",
       "CAATSA - RUSSIA"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "HR": {
@@ -1334,11 +1334,11 @@
       "ILLICIT-DRUGS-EO14059"
     ],
     "daily_added": 0,
-    "daily_removed": 1
+    "daily_removed": 0
   },
   "AE": {
-    "total": 665,
-    "sdn": 665,
+    "total": 677,
+    "sdn": 677,
     "consolidated": 0,
     "programs": [
       "IRAQ2",
@@ -1376,7 +1376,7 @@
       "PAIPA",
       "CAATSA - RUSSIA"
     ],
-    "daily_added": 0,
+    "daily_added": 12,
     "daily_removed": 0
   },
   "DO": {
@@ -2218,8 +2218,8 @@
     "daily_removed": 0
   },
   "MH": {
-    "total": 121,
-    "sdn": 121,
+    "total": 126,
+    "sdn": 126,
     "consolidated": 0,
     "programs": [
       "IRAN",
@@ -2235,7 +2235,7 @@
       "UKRAINE-EO13662",
       "VENEZUELA-EO13850"
     ],
-    "daily_added": 0,
+    "daily_added": 5,
     "daily_removed": 0
   },
   "LR": {

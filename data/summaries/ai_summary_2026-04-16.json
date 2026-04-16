@@ -1,0 +1,82 @@
+{
+  "executive_summary": "The Office of Foreign Assets Control (OFAC) has added 29 new entities to the Specially Designated Nationals (SDN) list, primarily targeting individuals and entities involved in Iranian sanctions evasion. The additions include vessels, shipping companies, and individuals with ties to Iran, as well as entities operating in the United Arab Emirates and other countries. No entities were removed or updated on this day.",
+  "notable_entities": [
+    {
+      "uid": "56868",
+      "name": "Fleet Tanqo Private Limited",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "significance": "Added to the SDN list for allegedly supporting Iranian sanctions evasion"
+    },
+    {
+      "uid": "57077",
+      "name": "A.C.S. Global BV",
+      "programs": [
+        "SDGT"
+      ],
+      "significance": "Designated as a Specially Designated Global Terrorist (SDGT) for alleged involvement in terrorist activities"
+    },
+    {
+      "uid": "57023",
+      "name": "SHIPZA SHIPPING LIMITED",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "significance": "Added to the SDN list for allegedly supporting Iranian sanctions evasion"
+    }
+  ],
+  "risk_implications": [
+    {
+      "level": "HIGH",
+      "area": "Maritime shipping",
+      "description": "The addition of several vessels and shipping companies to the SDN list increases the risk of unintentional dealings with sanctioned entities in the maritime shipping sector"
+    },
+    {
+      "level": "MEDIUM",
+      "area": "International trade",
+      "description": "The designation of new entities under Iranian sanctions programs may impact trade relationships and require enhanced due diligence for companies operating in the region"
+    },
+    {
+      "level": "LOW",
+      "area": "Financial services",
+      "description": "The updates to the SDN list may require financial institutions to review and update their customer databases to ensure compliance with OFAC regulations"
+    }
+  ],
+  "program_highlights": [
+    {
+      "program": "IRAN-EO13902",
+      "daily_added": 26,
+      "note": "The majority of the new additions were made under the IRAN-EO13902 program, targeting entities involved in Iranian sanctions evasion"
+    },
+    {
+      "program": "SDGT",
+      "daily_added": 3,
+      "note": "A smaller number of entities were designated as Specially Designated Global Terrorists (SDGT) for alleged involvement in terrorist activities"
+    }
+  ],
+  "geographic_hotspots": [
+    {
+      "region": "Middle East",
+      "countries": [
+        "AE",
+        "IR"
+      ],
+      "activity": "Sanctions evasion and terrorist financing",
+      "trend": "Escalating"
+    },
+    {
+      "region": "South Asia",
+      "countries": [
+        "IN"
+      ],
+      "activity": "Maritime shipping and trade",
+      "trend": "Steady"
+    }
+  ],
+  "compliance_recommendations": [
+    "Conduct thorough due diligence on business partners and customers, particularly in high-risk sectors such as maritime shipping and international trade",
+    "Regularly review and update customer databases to ensure compliance with OFAC regulations",
+    "Implement effective sanctions screening and monitoring processes to detect and prevent transactions with sanctioned entities"
+  ]
+}
