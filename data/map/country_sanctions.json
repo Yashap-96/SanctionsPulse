@@ -44,7 +44,7 @@
       "CAATSA - RUSSIA",
       "IRAN-EO13846"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "CH": {
@@ -442,7 +442,7 @@
       "ICC-EO14203",
       "UKRAINE-EO13662"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "PL": {
@@ -895,8 +895,8 @@
     "daily_removed": 0
   },
   "CN": {
-    "total": 1143,
-    "sdn": 1072,
+    "total": 1144,
+    "sdn": 1073,
     "consolidated": 71,
     "programs": [
       "SDGT",
@@ -935,10 +935,11 @@
       "CYBER3",
       "DRCONGO",
       "VENEZUELA-EO13850",
+      "NICARAGUA",
       "561-Related",
       "CMIC-EO13959"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "ER": {
@@ -1003,7 +1004,7 @@
       "TCO",
       "NPWMD"
     ],
-    "daily_added": 2,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "IQ": {
@@ -1079,7 +1080,7 @@
       "IRAN-EO13902",
       "CAATSA - RUSSIA"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "HR": {
@@ -1376,7 +1377,7 @@
       "PAIPA",
       "CAATSA - RUSSIA"
     ],
-    "daily_added": 12,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "DO": {
@@ -2235,7 +2236,7 @@
       "UKRAINE-EO13662",
       "VENEZUELA-EO13850"
     ],
-    "daily_added": 5,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "LR": {
@@ -2395,8 +2396,8 @@
     "daily_removed": 0
   },
   "NI": {
-    "total": 67,
-    "sdn": 67,
+    "total": 81,
+    "sdn": 81,
     "consolidated": 0,
     "programs": [
       "SDNTK",
@@ -2405,7 +2406,7 @@
       "NICARAGUA-NHRAA",
       "TCO"
     ],
-    "daily_added": 0,
+    "daily_added": 14,
     "daily_removed": 0
   },
   "UY": {

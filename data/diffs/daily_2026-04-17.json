@@ -1,0 +1,468 @@
+{
+  "date": "2026-04-17",
+  "period": "2026-04-17",
+  "summary": {
+    "added": 14,
+    "removed": 0,
+    "updated": 0
+  },
+  "additions": [
+    {
+      "uid": 47202,
+      "name": "Exportadora de Metales Sociedad Anonima",
+      "entry_type": "Entity",
+      "programs": [
+        "NICARAGUA"
+      ],
+      "countries": [
+        "NI"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "EMSA"
+      ],
+      "ids": [
+        {
+          "type": "RUC #",
+          "number": "J0310000287228",
+          "country": "Nicaragua"
+        },
+        {
+          "type": "Public Registration Number",
+          "number": "MG00-22-003646",
+          "country": "Nicaragua"
+        },
+        {
+          "type": "Business Number",
+          "number": "MC-3CB18Z",
+          "country": "Nicaragua"
+        },
+        {
+          "type": "Business Number",
+          "number": "UAF-RSO-C-XII-423-2019",
+          "country": "Nicaragua"
+        },
+        {
+          "type": "License",
+          "number": "21821",
+          "country": "Nicaragua"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Planes de Altamira Primera Etapa Edificio #110",
+          "address2": "Costado Este del Centro Financiero Pellas",
+          "city": "Managua",
+          "country": "NI"
+        }
+      ]
+    },
+    {
+      "uid": 57070,
+      "name": "Bian Feiwu",
+      "entry_type": "Individual",
+      "programs": [
+        "NICARAGUA"
+      ],
+      "countries": [
+        "CN",
+        "NI"
+      ],
+      "list_type": "SDN",
+      "dob": "1971-01-01",
+      "nationalities": [],
+      "aliases": [
+        "\u535e \u98de\u6b66"
+      ],
+      "ids": [
+        {
+          "type": "Residency Number",
+          "number": "000126493",
+          "country": "Nicaragua"
+        },
+        {
+          "type": "Passport",
+          "number": "EE3584492",
+          "country": "China"
+        },
+        {
+          "type": "Residency Number",
+          "number": "000081565",
+          "country": "Nicaragua"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Managua",
+          "country": "NI"
+        },
+        {
+          "city": "Guangzhou",
+          "state": "Guangdong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 57079,
+      "name": "BERMUDEZ TAPIA Santiago Hernan",
+      "entry_type": "Individual",
+      "programs": [
+        "NICARAGUA"
+      ],
+      "countries": [
+        "NI"
+      ],
+      "list_type": "SDN",
+      "dob": "1970-03-17",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0011703700021R",
+          "country": "Nicaragua"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Managua",
+          "country": "NI"
+        }
+      ]
+    },
+    {
+      "uid": 57108,
+      "name": "SOBALVARRO Nelson Francisco",
+      "entry_type": "Individual",
+      "programs": [
+        "NICARAGUA"
+      ],
+      "countries": [
+        "NI"
+      ],
+      "list_type": "SDN",
+      "dob": "1976-11-22",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "2412211760007F",
+          "country": "Nicaragua"
+        },
+        {
+          "type": "Passport",
+          "number": "C03238305",
+          "country": "Nicaragua"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Managua",
+          "country": "NI"
+        }
+      ]
+    },
+    {
+      "uid": 57110,
+      "name": "Zhong Fu Development S.A.",
+      "entry_type": "Entity",
+      "programs": [
+        "NICARAGUA"
+      ],
+      "countries": [
+        "NI"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "MC-XFZRH1",
+          "country": "Nicaragua"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Managua",
+          "country": "NI"
+        }
+      ]
+    },
+    {
+      "uid": 57112,
+      "name": "Brother Metal S.A.",
+      "entry_type": "Entity",
+      "programs": [
+        "NICARAGUA"
+      ],
+      "countries": [
+        "NI"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "MC-XH6YJV",
+          "country": "Nicaragua"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Managua",
+          "country": "NI"
+        }
+      ]
+    },
+    {
+      "uid": 57113,
+      "name": "GRUPO MINERO XILOA S.A.",
+      "entry_type": "Entity",
+      "programs": [
+        "NICARAGUA"
+      ],
+      "countries": [
+        "NI"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "GRUMIXSA"
+      ],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "MC-XFBSJ5",
+          "country": "Nicaragua"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Managua",
+          "country": "NI"
+        }
+      ]
+    },
+    {
+      "uid": 57114,
+      "name": "NICARAGUA XINXIN LINZE MINERIA GROUP S.A.",
+      "entry_type": "Entity",
+      "programs": [
+        "NICARAGUA"
+      ],
+      "countries": [
+        "NI"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "MC-9AF3ECG",
+          "country": "Nicaragua"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Managua",
+          "country": "NI"
+        }
+      ]
+    },
+    {
+      "uid": 57115,
+      "name": "Thomas Metal S.A.",
+      "entry_type": "Entity",
+      "programs": [
+        "NICARAGUA"
+      ],
+      "countries": [
+        "NI"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "MC-XGU17P",
+          "country": "Nicaragua"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Managua",
+          "country": "NI"
+        }
+      ]
+    },
+    {
+      "uid": 57116,
+      "name": "Santa Rita Mining Company S.A.",
+      "entry_type": "Entity",
+      "programs": [
+        "NICARAGUA"
+      ],
+      "countries": [
+        "NI"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "MC-3CB247",
+          "country": "Nicaragua"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Managua",
+          "country": "NI"
+        }
+      ]
+    },
+    {
+      "uid": 57284,
+      "name": "Matus Tamariz Lester",
+      "entry_type": "Individual",
+      "programs": [
+        "NICARAGUA"
+      ],
+      "countries": [
+        "NI"
+      ],
+      "list_type": "SDN",
+      "dob": "1959-06-20",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "001-200659-0051K",
+          "country": "Nicaragua"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Managua",
+          "country": "NI"
+        }
+      ]
+    },
+    {
+      "uid": 57285,
+      "name": "Matus Buitrago Anibal Vladimir",
+      "entry_type": "Individual",
+      "programs": [
+        "NICARAGUA"
+      ],
+      "countries": [
+        "NI"
+      ],
+      "list_type": "SDN",
+      "dob": "1984-01-25",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "001-250184-0016P",
+          "country": "Nicaragua"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Managua",
+          "country": "NI"
+        }
+      ]
+    },
+    {
+      "uid": 57304,
+      "name": "Ortega Murillo Maurice Facundo",
+      "entry_type": "Individual",
+      "programs": [
+        "NICARAGUA"
+      ],
+      "countries": [
+        "NI"
+      ],
+      "list_type": "SDN",
+      "dob": "1985-07-01",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0010107850028J",
+          "country": "Nicaragua"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Managua",
+          "country": "NI"
+        }
+      ]
+    },
+    {
+      "uid": 57324,
+      "name": "Ortega Murillo Daniel Edmundo",
+      "entry_type": "Individual",
+      "programs": [
+        "NICARAGUA"
+      ],
+      "countries": [
+        "NI"
+      ],
+      "list_type": "SDN",
+      "dob": "1980-01-30",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0013001800039W",
+          "country": "Nicaragua"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Managua",
+          "country": "NI"
+        }
+      ]
+    }
+  ],
+  "removals": [],
+  "updates": []
+}

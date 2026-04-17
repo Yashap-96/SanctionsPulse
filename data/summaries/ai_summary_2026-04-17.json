@@ -1,0 +1,55 @@
+{
+  "executive_summary": "On April 17, 2026, OFAC added 14 new entities and individuals to the SDN list under the Nicaragua program. The additions include companies and individuals involved in various sectors, primarily in Nicaragua. This update highlights the ongoing efforts to target individuals and entities supporting the Nicaraguan government. The new designations may have significant implications for businesses and individuals with ties to these entities.",
+  "notable_entities": [
+    {
+      "uid": "47202",
+      "name": "Exportadora de Metales Sociedad Anonima",
+      "programs": [
+        "NICARAGUA"
+      ],
+      "significance": "Entity involved in the metals sector, added to the SDN list under the Nicaragua program"
+    },
+    {
+      "uid": "57070",
+      "name": "Bian Feiwu",
+      "programs": [
+        "NICARAGUA"
+      ],
+      "significance": "Individual added to the SDN list under the Nicaragua program, with ties to China and Nicaragua"
+    }
+  ],
+  "risk_implications": [
+    {
+      "level": "HIGH",
+      "area": "Compliance and Due Diligence",
+      "description": "The new designations may pose significant risks for businesses and individuals with ties to the added entities, requiring immediate review and update of compliance protocols"
+    },
+    {
+      "level": "MEDIUM",
+      "area": "Trade and Finance",
+      "description": "The additions may impact trade and financial transactions involving Nicaragua, requiring careful monitoring and adherence to sanctions regulations"
+    }
+  ],
+  "program_highlights": [
+    {
+      "program": "NICARAGUA",
+      "daily_added": 14,
+      "note": "The Nicaragua program saw a significant update with the addition of 14 new entities and individuals to the SDN list"
+    }
+  ],
+  "geographic_hotspots": [
+    {
+      "region": "Central America",
+      "countries": [
+        "NI"
+      ],
+      "activity": "Sanctions designations and updates",
+      "trend": "Escalating"
+    }
+  ],
+  "compliance_recommendations": [
+    "Review and update compliance protocols to reflect the new designations",
+    "Conduct thorough due diligence on business partners and transactions involving Nicaragua",
+    "Monitor trade and financial transactions for potential sanctions risks"
+  ]
+}
