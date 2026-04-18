@@ -540,8 +540,8 @@
     "daily_removed": 0
   },
   "CO": {
-    "total": 382,
-    "sdn": 382,
+    "total": 387,
+    "sdn": 387,
     "consolidated": 0,
     "programs": [
       "SDNT",
@@ -553,7 +553,7 @@
       "VENEZUELA-EO13850",
       "SUDAN-EO14098"
     ],
-    "daily_added": 0,
+    "daily_added": 5,
     "daily_removed": 0
   },
   "SY": {
@@ -939,7 +939,7 @@
       "561-Related",
       "CMIC-EO13959"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "ER": {
@@ -1008,8 +1008,8 @@
     "daily_removed": 0
   },
   "IQ": {
-    "total": 171,
-    "sdn": 171,
+    "total": 178,
+    "sdn": 178,
     "consolidated": 0,
     "programs": [
       "SDGT",
@@ -1024,7 +1024,7 @@
       "IRAN-EO13876",
       "BELARUS-EO14038"
     ],
-    "daily_added": 0,
+    "daily_added": 7,
     "daily_removed": 0
   },
   "RS": {
@@ -1338,8 +1338,8 @@
     "daily_removed": 0
   },
   "AE": {
-    "total": 677,
-    "sdn": 677,
+    "total": 678,
+    "sdn": 678,
     "consolidated": 0,
     "programs": [
       "IRAQ2",
@@ -1377,7 +1377,7 @@
       "PAIPA",
       "CAATSA - RUSSIA"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "DO": {
@@ -2406,7 +2406,7 @@
       "NICARAGUA-NHRAA",
       "TCO"
     ],
-    "daily_added": 14,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "UY": {

@@ -1,0 +1,377 @@
+{
+  "date": "2026-04-18",
+  "period": "2026-04-18",
+  "summary": {
+    "added": 12,
+    "removed": 0,
+    "updated": 0
+  },
+  "additions": [
+    {
+      "uid": 57365,
+      "name": "Fenix Human Resources S.A.S.",
+      "entry_type": "Entity",
+      "programs": [
+        "SUDAN-EO14098"
+      ],
+      "countries": [
+        "CO"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "HrFenix"
+      ],
+      "ids": [
+        {
+          "type": "NIT #",
+          "number": "9019295283",
+          "country": "Colombia"
+        },
+        {
+          "type": "Matricula Mercantil No",
+          "number": "03929145",
+          "country": "Colombia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Carrera 47 A No. 93-92",
+          "city": "Bogota",
+          "country": "CO"
+        }
+      ]
+    },
+    {
+      "uid": 57366,
+      "name": "Quijano Jose Libardo Torres",
+      "entry_type": "Individual",
+      "programs": [
+        "SUDAN-EO14098"
+      ],
+      "countries": [
+        "CO"
+      ],
+      "list_type": "SDN",
+      "dob": "1975-09-24",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Cedula No.",
+          "number": "74180772",
+          "country": "Colombia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57367,
+      "name": "Garcia Jose Oscar Batte",
+      "entry_type": "Individual",
+      "programs": [
+        "SUDAN-EO14098"
+      ],
+      "countries": [
+        "AE",
+        "CO"
+      ],
+      "list_type": "SDN",
+      "dob": "1963-02-25",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Cedula No.",
+          "number": "5934638",
+          "country": "Colombia"
+        },
+        {
+          "type": "Passport",
+          "number": "PE144026",
+          "country": "Colombia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Calle 64, No. 7-62, Apt 403",
+          "city": "Bogota",
+          "country": "CO"
+        },
+        {
+          "address1": "Al Fattan Marine Tower",
+          "address2": "Apt 3105",
+          "address3": "Jumeriah Beach Residence",
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 57368,
+      "name": "Global Qowa Al Basheria S.A.S.",
+      "entry_type": "Entity",
+      "programs": [
+        "SUDAN-EO14098"
+      ],
+      "countries": [
+        "CO"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Mi Futuro Global"
+      ],
+      "ids": [
+        {
+          "type": "NIT #",
+          "number": "9005343144",
+          "country": "Colombia"
+        },
+        {
+          "type": "Matricula Mercantil No",
+          "number": "02228829",
+          "country": "Colombia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Carrera 13 No. 49-15 Oficina 401",
+          "city": "Bogota",
+          "country": "CO"
+        }
+      ]
+    },
+    {
+      "uid": 57369,
+      "name": "Garcia Omar Fernando Batte",
+      "entry_type": "Individual",
+      "programs": [
+        "SUDAN-EO14098"
+      ],
+      "countries": [
+        "CO"
+      ],
+      "list_type": "SDN",
+      "dob": "1961-09-25",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Cedula No.",
+          "number": "5934268",
+          "country": "Colombia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Calle 64",
+          "address2": "No. 7-62",
+          "address3": "Apt 403",
+          "city": "Bogota",
+          "country": "CO"
+        }
+      ]
+    },
+    {
+      "uid": 57424,
+      "name": "ALMOHAMMED Radhwan Yousif Hameed",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "IQ"
+      ],
+      "list_type": "SDN",
+      "dob": "1970-11-23",
+      "nationalities": [],
+      "aliases": [
+        "al-Muhammad Ridwan Yusif Hamid",
+        "al-Tawil Abu Abdallah",
+        "Abdallah Hajji",
+        "al-Mohammed Radhwan Youssef Hameed",
+        "al-Mohammed Ridwan Youssef Hameed",
+        "Ghadir Abu",
+        "Tahir Abu"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "A18208609",
+          "country": "Iraq"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57425,
+      "name": "Jaythoom Husham Hashim",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "IQ"
+      ],
+      "list_type": "SDN",
+      "dob": "1969-08-25",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "A21616600",
+          "country": "Iraq"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57426,
+      "name": "HAMZAH Hasan Dheyab Hamzah",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "IQ"
+      ],
+      "list_type": "SDN",
+      "dob": "1977-02-25",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "B10398022",
+          "country": "Iraq"
+        },
+        {
+          "type": "Passport",
+          "number": "A11413285",
+          "country": "Iraq"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57427,
+      "name": "AL RAMMAHI Ammar Jasim Kadhim",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "IQ"
+      ],
+      "list_type": "SDN",
+      "dob": "1976-08-16",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "B29874786",
+          "country": "Iraq"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57428,
+      "name": "ALBAKHATRA Khalid Jameel Abed",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "IQ"
+      ],
+      "list_type": "SDN",
+      "dob": "1978-01-01",
+      "nationalities": [],
+      "aliases": [
+        "Bakhatri Khaled"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "A13438387",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57429,
+      "name": "MUKHAMIS Saeed Kadhim",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "IQ"
+      ],
+      "list_type": "SDN",
+      "dob": "1972-05-01",
+      "nationalities": [],
+      "aliases": [
+        "Mughamis Said Kazim",
+        "Mghames Sameer Kadem"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "G1364088",
+          "country": "Iraq"
+        },
+        {
+          "type": "National ID No.",
+          "number": "00668627",
+          "country": "Iraq"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57431,
+      "name": "Suwaed Safaa Adnan Jabbar",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "IQ"
+      ],
+      "list_type": "SDN",
+      "dob": "1972-05-01",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "A18386175",
+          "country": "Iraq"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    }
+  ],
+  "removals": [],
+  "updates": []
+}
