@@ -1,0 +1,448 @@
+{
+  "date": "2026-04-22",
+  "period": "2026-04-22",
+  "summary": {
+    "added": 14,
+    "removed": 0,
+    "updated": 0
+  },
+  "additions": [
+    {
+      "uid": 57384,
+      "name": "Balkhkanlu Kamal Sabah",
+      "entry_type": "Individual",
+      "programs": [
+        "NPWMD",
+        "IFSR"
+      ],
+      "countries": [
+        "IR",
+        "TR"
+      ],
+      "list_type": "SDN",
+      "dob": "1987-05-25",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "2830936841",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 57385,
+      "name": "Vahidi Mohammad",
+      "entry_type": "Individual",
+      "programs": [
+        "NPWMD",
+        "IFSR"
+      ],
+      "countries": [
+        "AE",
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "2001-10-15",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 57386,
+      "name": "Khalili Danial",
+      "entry_type": "Individual",
+      "programs": [
+        "NPWMD",
+        "IFSR"
+      ],
+      "countries": [
+        "AE",
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1994-11-18",
+      "nationalities": [],
+      "aliases": [
+        "Khalili Danyal"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "3550119267",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 57387,
+      "name": "Roknifard Hamidreza",
+      "entry_type": "Individual",
+      "programs": [
+        "NPWMD",
+        "IFSR"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1959-09-02",
+      "nationalities": [],
+      "aliases": [
+        "Roknifard Hamid Reza",
+        "Rukni Fard Hamid Rida"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "5489463562",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Shiraz",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 57388,
+      "name": "Roknifard Mostafa",
+      "entry_type": "Individual",
+      "programs": [
+        "NPWMD",
+        "IFSR"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1977-09-18",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "2291705083",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Bandar Abbas",
+          "state": "Hormozgan",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 57389,
+      "name": "Sepehr Kaveh Kish International Trading Company",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "SDGT"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "14000221667",
+          "country": "Iran"
+        },
+        {
+          "type": "Registration Number",
+          "number": "9946",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Unit 711, Floor 7, Sarina Market Complex, No. 0, Main Street, Khayyam Street, Kish District",
+          "address2": "Bandar Lengeh County",
+          "city": "Kish",
+          "state": "Hormozgan",
+          "postal_code": "7941897163",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 57391,
+      "name": "Emti Fiber Textile Import Export Trade Limited Company",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "NPWMD"
+      ],
+      "countries": [
+        "TR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Emti \u0130plik Tekstil \u0130thalat \u0130hracat Ticaret Limited \u015eirketi"
+      ],
+      "ids": [
+        {
+          "type": "Trade License No.",
+          "number": "488350-5",
+          "country": "Turkey"
+        },
+        {
+          "type": "Registration Number",
+          "number": "1483400-0",
+          "country": "Turkey"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Asik Veysel Neighborhood, Talatpasa Avenue, Orkide Residential Complex, B 17 No: 5A, Suite No: 01, Esenyurt",
+          "city": "Istanbul",
+          "country": "TR"
+        }
+      ]
+    },
+    {
+      "uid": 57393,
+      "name": "Saman Air Services Company",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT",
+        "IFSR"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Saman Air Services Private Joint Stock Company"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "10102855345",
+          "country": "Iran"
+        },
+        {
+          "type": "Registration Number",
+          "number": "244870",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Terminal 4, Mehrabad International Airport",
+          "state": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 57394,
+      "name": "Ataei Aghdam Gholam Abbas",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT",
+        "IFSR"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1954-06-08",
+      "nationalities": [],
+      "aliases": [
+        "Aqdam Gholamabbas Atai",
+        "Aghdam Gholamabbas Atayyi"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0044919417",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57395,
+      "name": "Hosseinzadeh Jamshid",
+      "entry_type": "Individual",
+      "programs": [
+        "IFSR",
+        "SDGT"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1965-03-21",
+      "nationalities": [],
+      "aliases": [
+        "Hosseinzadeh Jamshid Hussein",
+        "Zadeh Jamshid Hossein"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0035996153",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57396,
+      "name": "Mahdian Mohammad Hossein",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT",
+        "IFSR"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1984-09-21",
+      "nationalities": [],
+      "aliases": [
+        "Mahdian Mohammad Hosein"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0068511671",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57407,
+      "name": "EP-MTE",
+      "entry_type": "Aircraft",
+      "programs": [
+        "IFSR",
+        "NPWMD",
+        "SDGT"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57408,
+      "name": "EP-MTB",
+      "entry_type": "Aircraft",
+      "programs": [
+        "IFSR",
+        "NPWMD",
+        "SDGT"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57409,
+      "name": "Chabok FZCO",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "SDGT"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Chabok Aviation"
+      ],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "2579",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Chamber of Commerce Number",
+          "number": "316998",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Economic Register Number (CBLS)",
+          "number": "11447681",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Warehouse No. FZS1BM05, Jebel Ali Free Zone South Zone",
+          "city": "Dubai",
+          "country": "AE"
+        },
+        {
+          "address1": "P.O. Box 17737",
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    }
+  ],
+  "removals": [],
+  "updates": []
+}
