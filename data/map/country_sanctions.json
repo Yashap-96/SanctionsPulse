@@ -135,8 +135,8 @@
     "daily_removed": 0
   },
   "MX": {
-    "total": 1091,
-    "sdn": 1091,
+    "total": 1106,
+    "sdn": 1106,
     "consolidated": 0,
     "programs": [
       "CUBA",
@@ -149,7 +149,7 @@
       "GLOMAG",
       "VENEZUELA-EO13850"
     ],
-    "daily_added": 0,
+    "daily_added": 15,
     "daily_removed": 0
   },
   "FR": {
@@ -615,7 +615,7 @@
       "GLOMAG",
       "ILLICIT-DRUGS-EO14059"
     ],
-    "daily_added": 10,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "AF": {
@@ -778,8 +778,8 @@
     "daily_removed": 0
   },
   "US": {
-    "total": 75,
-    "sdn": 74,
+    "total": 76,
+    "sdn": 75,
     "consolidated": 1,
     "programs": [
       "SDGT",
@@ -799,7 +799,7 @@
       "RUSSIA-EO14024",
       "ILLICIT-DRUGS-EO14059"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "ZA": {
@@ -986,8 +986,8 @@
     "daily_removed": 0
   },
   "IN": {
-    "total": 146,
-    "sdn": 142,
+    "total": 150,
+    "sdn": 146,
     "consolidated": 4,
     "programs": [
       "SDGT",
@@ -1004,7 +1004,7 @@
       "TCO",
       "NPWMD"
     ],
-    "daily_added": 0,
+    "daily_added": 4,
     "daily_removed": 0
   },
   "IQ": {
@@ -1080,7 +1080,7 @@
       "IRAN-EO13902",
       "CAATSA - RUSSIA"
     ],
-    "daily_added": 2,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "HR": {
@@ -1377,7 +1377,7 @@
       "PAIPA",
       "CAATSA - RUSSIA"
     ],
-    "daily_added": 3,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "DO": {
@@ -1688,8 +1688,8 @@
     "daily_removed": 0
   },
   "GT": {
-    "total": 62,
-    "sdn": 62,
+    "total": 65,
+    "sdn": 65,
     "consolidated": 0,
     "programs": [
       "SDNTK",
@@ -1700,7 +1700,7 @@
       "GLOMAG",
       "ILLICIT-DRUGS-EO14059"
     ],
-    "daily_added": 0,
+    "daily_added": 3,
     "daily_removed": 0
   },
   "AU": {
@@ -1814,8 +1814,8 @@
     "daily_removed": 0
   },
   "KH": {
-    "total": 122,
-    "sdn": 122,
+    "total": 151,
+    "sdn": 151,
     "consolidated": 0,
     "programs": [
       "SDGT",
@@ -1823,7 +1823,7 @@
       "GLOMAG",
       "CYBER4"
     ],
-    "daily_added": 0,
+    "daily_added": 29,
     "daily_removed": 0
   },
   "XK": {

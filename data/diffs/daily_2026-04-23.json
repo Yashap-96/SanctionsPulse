@@ -1,0 +1,1820 @@
+{
+  "date": "2026-04-23",
+  "period": "2026-04-23",
+  "summary": {
+    "added": 52,
+    "removed": 0,
+    "updated": 0
+  },
+  "additions": [
+    {
+      "uid": 57181,
+      "name": "Rithy Raksmei",
+      "entry_type": "Individual",
+      "programs": [
+        "CYBER4"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": "1983-03-01",
+      "nationalities": [],
+      "aliases": [
+        "Oriya Ken",
+        "Xie Liguang"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Phu, 13, Boeng Kak Pir, Tuol Kouk",
+          "city": "Phnom Penh",
+          "postal_code": "12152",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 57182,
+      "name": "K99 Culture and Media Co Ltd",
+      "entry_type": "Entity",
+      "programs": [
+        "CYBER4"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "K99 Group",
+        "K99 Culture & Media Co Ltd"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "00049313",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Phum 1, Sangkat Bei, Mittakpheap",
+          "city": "Preah Sihanouk",
+          "postal_code": "18203",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 57183,
+      "name": "Xing Tian Di Co Ltd",
+      "entry_type": "Entity",
+      "programs": [
+        "CYBER4"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "00044138",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "B117-000044138",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Phum 6, Sangkat Buon, Mittakpheap",
+          "city": "Preah Sihanouk",
+          "postal_code": "18204",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 57184,
+      "name": "Nan Tian International Hotel Co Ltd",
+      "entry_type": "Entity",
+      "programs": [
+        "CYBER4"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Nan Hai International Hotel Co Ltd",
+        "Nan Hai Real Estate Development Co Ltd"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "00010451",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "B117-901636918",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Sangkat Bei, Mittakpheap",
+          "city": "Preah Sihanouk",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 57185,
+      "name": "Aik Paung",
+      "entry_type": "Individual",
+      "programs": [
+        "CYBER4"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": "1970-10-03",
+      "nationalities": [],
+      "aliases": [
+        "Ek Pong"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Phum 13, Boeng Kak Pir, Tuol Kouk",
+          "city": "Phnom Penh",
+          "postal_code": "12152",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 57186,
+      "name": "Sai Aung Linn",
+      "entry_type": "Individual",
+      "programs": [
+        "CYBER4"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": "1974-03-19",
+      "nationalities": [],
+      "aliases": [
+        "Sai Aung Lin"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Phum 13, Boeng Kak Pir, Tuol Kouk",
+          "city": "Phnom Penh",
+          "postal_code": "12152",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 57187,
+      "name": "Khemreah Co Ltd",
+      "entry_type": "Entity",
+      "programs": [
+        "CYBER4"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Khemarak Hotel"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "00067243",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "L001-902301242",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Business Registration Number",
+          "number": "1000252192",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Phum 6, Sangkat Buon, Mittakpheap",
+          "city": "Preah Sihanouk",
+          "postal_code": "18204",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 57188,
+      "name": "Aurum Co Ltd",
+      "entry_type": "Entity",
+      "programs": [
+        "CYBER4"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "00044550",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Phum 6, Sangkat Buon, Mittakpheap",
+          "city": "Preah Sihanouk",
+          "postal_code": "18204",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 57189,
+      "name": "Kaissa Travel Co Ltd",
+      "entry_type": "Entity",
+      "programs": [
+        "CYBER4"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "00071793",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Business Registration Number",
+          "number": "1000367454",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Phum 6, Sangkat Buon, Mittakpheap",
+          "city": "Preah Sihanouk",
+          "postal_code": "18204",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 57195,
+      "name": "Kok An",
+      "entry_type": "Individual",
+      "programs": [
+        "CYBER4"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": "1954-07-07",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "N00307450",
+          "country": "Cambodia"
+        },
+        {
+          "type": "National ID No.",
+          "number": "010283555",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "19 Group 62 Street 217, Veal Vong Quarter, Makara District",
+          "city": "Phnom Penh",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 57196,
+      "name": "Crown Resorts Co Ltd",
+      "entry_type": "Entity",
+      "programs": [
+        "CYBER4"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Golden Crown Casino",
+        "Crown Casino Kenting",
+        "Genting Crown Casino",
+        "Kenting Sky Hotel",
+        "Hi-So Hotel",
+        "Crown Casino Princess",
+        "Princess Crown Casino",
+        "Dreamworld Casino",
+        "King Casino",
+        "Crown Casino Chrey Thum",
+        "Crown Casino Bavet",
+        "Crown Casino Pailin"
+      ],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "Inv 838/03P",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "National Road No. 5, Kbal Spean Village, Sangkat Poipet",
+          "city": "Poipet City",
+          "state": "Banteay Meanchey",
+          "country": "KH"
+        },
+        {
+          "city": "Bavet",
+          "country": "KH"
+        },
+        {
+          "city": "Chrey Thum",
+          "country": "KH"
+        },
+        {
+          "city": "Pailin",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 57197,
+      "name": "Anco Brothers Co Ltd",
+      "entry_type": "Entity",
+      "programs": [
+        "CYBER4"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "00027801",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "L001-100048722",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Business Registration Number",
+          "number": "Co 0259KH/1993",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "No. 20, Street 217, Sang Kat Veal Vong, Khan 7 Makara",
+          "city": "Phnom Penh",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 57198,
+      "name": "Anco Water Supply Co Ltd",
+      "entry_type": "Entity",
+      "programs": [
+        "CYBER4"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "00030246",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "K004-100142680",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Business Registration Number",
+          "number": "Co 11652KH/2008",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Veal Vong, Prampi Makara",
+          "city": "Phnom Penh",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 57199,
+      "name": "Anco Specialized Bank Ltd",
+      "entry_type": "Entity",
+      "programs": [
+        "CYBER4"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "00013301",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "L001-100071023",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Business Registration Number",
+          "number": "Co 8323KH/2006",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Veal Vong, Prampi Makara",
+          "city": "Phnom Penh",
+          "country": "KH"
+        },
+        {
+          "city": "Poipet",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 57200,
+      "name": "A Wee Trading Co Ltd",
+      "entry_type": "Entity",
+      "programs": [
+        "CYBER4"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "00027521",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "K004-100161391",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Business Registration Number",
+          "number": "Co 12823KH/2008",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Veal Vong, Prampi Makara",
+          "city": "Phnom Penh",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 57201,
+      "name": "Khmer Electrical Power Co Ltd",
+      "entry_type": "Entity",
+      "programs": [
+        "CYBER4"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "00028498",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "L001-100082238",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Business Registration Number",
+          "number": "Inv 876KH/2004",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Veal Vong, Prampi Makara",
+          "city": "Phnom Penh",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 57202,
+      "name": "KEP Hydropower SVTK and MSRC Co Ltd",
+      "entry_type": "Entity",
+      "programs": [
+        "CYBER4"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "KEP HYDROPOWER SVTK & MSRC CO LTD"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "00072609",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Business Registration Number",
+          "number": "1000383023",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Kaoh Pao, Bak Khlang, Mondol Seima",
+          "city": "Koh Kong",
+          "postal_code": "9351",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 57203,
+      "name": "Mekong Potable Water Construction Import Export Co Ltd",
+      "entry_type": "Entity",
+      "programs": [
+        "CYBER4"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "MEPOWACIMEX"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "00050301",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "K007-150000553",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Business Registration Number",
+          "number": "Co 3750KH/1998",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Chrouy Ampil, Kbal Kaoh, Kien Svay",
+          "city": "Kandal",
+          "postal_code": "8555",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 57204,
+      "name": "855 Investment Corporation",
+      "entry_type": "Entity",
+      "programs": [
+        "CYBER4"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "00015076",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "K003-104012978",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Business Registration Number",
+          "number": "Co 0107KH/2013",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "105, 200, Boeng Reang, Doun Penh",
+          "city": "Phnom Penh",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 57232,
+      "name": "Ramirez Torres Jose de Jesus",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1977-11-30",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "RATJ771130HJCMRS09",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Zapopan",
+          "state": "Jalisco",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 57233,
+      "name": "Aduaeasy S. de R.L. de C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Logisticall, S. de R.L. de C.V."
+      ],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "18483",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Zamora",
+          "state": "Michoacan",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 57234,
+      "name": "CORPORATIVO Y ENLACE RAM S.A. DE C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "93309",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Guadalajara",
+          "state": "Jalisco",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 57235,
+      "name": "ENLACE FORWARDING MEXICO, S. DE R.L. DE C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "N-2016037775",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Guadalajara",
+          "state": "Jalisco",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 57236,
+      "name": "CARGO GLOBAL 3PS, S. DE R.L. DE C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "N-2019089668",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Guadalajara",
+          "state": "Jalisco",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 57237,
+      "name": "E-RAM GROUP LLC",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "US"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Tax ID No.",
+          "number": "384250775",
+          "country": "United States"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Miami",
+          "state": "FL",
+          "country": "US"
+        }
+      ]
+    },
+    {
+      "uid": 57238,
+      "name": "REYMA GLOBAL TRADING SA DE CV",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "R.F.C.",
+          "number": "RGT1707058Q9",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "state": "Mexico City",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 57239,
+      "name": "CENTRAL LOGISTICA DE SERVICIOS",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "GT"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "7a Avenida A",
+          "address2": "Zona 13",
+          "address3": "Colonia Aurora Reina",
+          "city": "Guatemala City",
+          "country": "GT"
+        }
+      ]
+    },
+    {
+      "uid": 57244,
+      "name": "Brilliancy Sihanoukville Investment and Development Co Ltd",
+      "entry_type": "Entity",
+      "programs": [
+        "CYBER4"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u94c2\u83b1\u5a31\u4e50\u57ce",
+        "Bolai Casino",
+        "Bolai Hotel and Casino",
+        "Brilliancy Casino",
+        "Bolai Entertainment City",
+        "Bolai International Hotel",
+        "\u94c2\u83b1\u56fd\u9645\u9152\u5e97",
+        "Platinum Lai International Group",
+        "Platinum Lai International Hotel",
+        "BRILLIANCY SIHANOUKVILLE INVESTMENT & DEVELOPMENT CO LTD"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "00035352",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "L001-901804427",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Phum 4, Sangkat Buon, Mittakpheap",
+          "city": "Preah Sihanouk",
+          "postal_code": "18204",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 57245,
+      "name": "Luo Hong",
+      "entry_type": "Individual",
+      "programs": [
+        "CYBER4"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": "1977-11-13",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "N01460820",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "22, St. 1007, Phnom Penh Thmei, Sensok",
+          "city": "Phnom Penh",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 57247,
+      "name": "Huan Hai Bo Lai International Investment Co Ltd",
+      "entry_type": "Entity",
+      "programs": [
+        "CYBER4"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Sea Ring Platinum Lai International Investment Company"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "00061169",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "L001-902200028",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Business Registration Number",
+          "number": "1000114089",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Phum 4, Sangkat Buon, Mittakpheap",
+          "city": "Preah Sihanouk",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 57248,
+      "name": "SSDD Construction Material Co Ltd",
+      "entry_type": "Entity",
+      "programs": [
+        "CYBER4"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "00054975",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Business Registration Number",
+          "number": "1000016811",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Phum Boeng Chhuk, Kiloumaetr Lekh Prammuoy, Ruessei Kaev",
+          "city": "Phnom Penh",
+          "postal_code": "12106",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 57249,
+      "name": "Xihu Resort Hotel Co Ltd",
+      "entry_type": "Entity",
+      "programs": [
+        "CYBER4"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Xi Hu International Hotel Co Ltd"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "00018382",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "L001-350003858",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Business Registration Number",
+          "number": "Inv 2883 KH 2013",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Phum 1, Sangkat Bei, Mittakpheap",
+          "city": "Preah Sihanouk",
+          "postal_code": "18203",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 57250,
+      "name": "Xiong Wei Investment Co Ltd",
+      "entry_type": "Entity",
+      "programs": [
+        "CYBER4"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "00055034",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "L001-902005494",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Business Registration Number",
+          "number": "1000019513",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Chak Angrae Kraom, Mean Chey",
+          "city": "Phnom Penh",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 57251,
+      "name": "Xiong Wei Real Estate Development Co Ltd",
+      "entry_type": "Entity",
+      "programs": [
+        "CYBER4"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "00024881",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "L001-901702580",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Phum 3, Sangkat Buon, Mittakpheap",
+          "city": "Preah Sihanouk",
+          "postal_code": "18204",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 57252,
+      "name": "Heng Feng Group Co Ltd",
+      "entry_type": "Entity",
+      "programs": [
+        "CYBER4"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "00063943",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "K002-902203362",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Business Registration Number",
+          "number": "1000173976",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "House No. 342, 15th floor, Monivong Boulevard, corner of Street No. 288, Village 4, Sangkat Boeung Keng Kang 1, Khan Boeung Keng Kang",
+          "city": "Phnom Penh",
+          "postal_code": "12302",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 57253,
+      "name": "Fung Yuet Resort Hotel Co Ltd",
+      "entry_type": "Entity",
+      "programs": [
+        "CYBER4"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "00042795",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "B117-901906734",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Phum 1, Sangkat Pir, Mittakpheap",
+          "city": "Preah Sihanouk",
+          "postal_code": "18202",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 57254,
+      "name": "Heng Feng Cambodia Bank plc",
+      "entry_type": "Entity",
+      "programs": [
+        "CYBER4"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "00063085",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "L001-902202251",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Business Registration Number",
+          "number": "2000153395",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Slot No. 342, Preah Monivong Boulevard, Corner of Street No. 288, Phum 4, Sangkat Boeng Keng Kang Ti Muoy, Khan Boeng Keng Kang",
+          "city": "Phnom Penh",
+          "country": "KH"
+        },
+        {
+          "address1": "Slot No. 2, National Assembly Street, Sangkat Tonle Basak, Khan Chamkar Mon",
+          "city": "Phnom Penh",
+          "country": "KH"
+        },
+        {
+          "address1": "Ekarach Street, Phum 3, Sangkat 4, Krong Preah Sihanouk",
+          "city": "Preah Sihanouk",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 57345,
+      "name": "Sutaria Satishkumar Hareshbhai",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "IN"
+      ],
+      "list_type": "SDN",
+      "dob": "1989-03-07",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "T2342443",
+          "country": "India"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Surat",
+          "state": "Gujarat",
+          "country": "IN"
+        }
+      ]
+    },
+    {
+      "uid": 57346,
+      "name": "Modi Yuktakumari Ashishkumar",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "IN"
+      ],
+      "list_type": "SDN",
+      "dob": "2000-04-23",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "T3861551",
+          "country": "India"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Surat",
+          "state": "Gujarat",
+          "country": "IN"
+        }
+      ]
+    },
+    {
+      "uid": 57347,
+      "name": "Rugerio Arriaga Maria Viridiana",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1988-11-17",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "RUAV881117MGTGRR03",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57348,
+      "name": "Barrientos Jaime Augusto Camaz",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "GT"
+      ],
+      "list_type": "SDN",
+      "dob": "1994-03-07",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "NIT #",
+          "number": "87457121",
+          "country": "Guatemala"
+        },
+        {
+          "type": "License",
+          "number": "2415491320101",
+          "country": "Guatemala"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Villa Canales",
+          "country": "GT"
+        }
+      ]
+    },
+    {
+      "uid": 57349,
+      "name": "Carrillo Karina Guadalupe Torres",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1991-04-28",
+      "nationalities": [],
+      "aliases": [
+        "Dora"
+      ],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "CATK910428MSLRRR08",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "state": "Sinaloa",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 57350,
+      "name": "Acosta Regulo Hernandez",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1988-07-21",
+      "nationalities": [],
+      "aliases": [
+        "Acosta Regulo Hernandez Gilberto",
+        "Tobolio"
+      ],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "AOHR880721HSLCRG06",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "state": "Sinaloa",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 57353,
+      "name": "Felix Ramiro Baltazar Heras",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1989-10-28",
+      "nationalities": [],
+      "aliases": [
+        "El Guero Reyna"
+      ],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "FEHR891028HSLLRM09",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "state": "Sinaloa",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 57354,
+      "name": "Reynoso Alejandro Jimenez",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1975-11-17",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "REJA751117HJCYML08",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Guadalajara",
+          "state": "Jalisco",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 57355,
+      "name": "Botanica 2000",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Guadalajara",
+          "state": "Jalisco",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 57356,
+      "name": "SR Chemicals and Pharmaceuticals",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "IN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Tax ID No.",
+          "number": "24ACSFS6682G1ZI",
+          "country": "India"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Surat",
+          "state": "Gujarat",
+          "country": "IN"
+        }
+      ]
+    },
+    {
+      "uid": 57357,
+      "name": "Agrat Chemicals and Pharmaceuticals",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "IN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Tax ID No.",
+          "number": "24ACAFA5723C1Z2",
+          "country": "India"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Surat",
+          "state": "Gujarat",
+          "country": "IN"
+        }
+      ]
+    },
+    {
+      "uid": 57358,
+      "name": "J and C Import",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "GT"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "J&C Imports",
+        "J and C Imports",
+        "J & C Import Jaime Augusto Barriento"
+      ],
+      "ids": [
+        {
+          "type": "NIT #",
+          "number": "87457121",
+          "country": "Guatemala"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Villa Canales",
+          "city": "Guatemala City",
+          "country": "GT"
+        }
+      ]
+    },
+    {
+      "uid": 57359,
+      "name": "Desarrollos Cartok S.A. de C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "N-2022058829",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Actopan",
+          "state": "Hidalgo",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 57360,
+      "name": "Comercializadora Grupo Carhern S.A. de C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "N-2021046563",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Cajeme",
+          "state": "Sonora",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 57361,
+      "name": "Quimica Soluciones y Logistica Integral Bajio, S.A. de C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "N-2025021846",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Leon",
+          "state": "Guanajuato",
+          "country": "MX"
+        }
+      ]
+    }
+  ],
+  "removals": [],
+  "updates": []
+}
