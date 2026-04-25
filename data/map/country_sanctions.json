@@ -110,8 +110,8 @@
     "daily_removed": 0
   },
   "PA": {
-    "total": 144,
-    "sdn": 144,
+    "total": 146,
+    "sdn": 146,
     "consolidated": 0,
     "programs": [
       "CUBA",
@@ -131,7 +131,7 @@
       "IRAN-EO13902",
       "SUDAN-EO14098"
     ],
-    "daily_added": 0,
+    "daily_added": 2,
     "daily_removed": 0
   },
   "MX": {
@@ -895,8 +895,8 @@
     "daily_removed": 0
   },
   "CN": {
-    "total": 1144,
-    "sdn": 1073,
+    "total": 1154,
+    "sdn": 1083,
     "consolidated": 71,
     "programs": [
       "SDGT",
@@ -939,7 +939,7 @@
       "561-Related",
       "CMIC-EO13959"
     ],
-    "daily_added": 0,
+    "daily_added": 10,
     "daily_removed": 0
   },
   "ER": {
@@ -1338,8 +1338,8 @@
     "daily_removed": 0
   },
   "AE": {
-    "total": 681,
-    "sdn": 681,
+    "total": 683,
+    "sdn": 683,
     "consolidated": 0,
     "programs": [
       "IRAQ2",
@@ -1377,7 +1377,7 @@
       "PAIPA",
       "CAATSA - RUSSIA"
     ],
-    "daily_added": 0,
+    "daily_added": 2,
     "daily_removed": 0
   },
   "DO": {
@@ -1408,8 +1408,8 @@
     "daily_removed": 0
   },
   "VG": {
-    "total": 50,
-    "sdn": 46,
+    "total": 51,
+    "sdn": 47,
     "consolidated": 4,
     "programs": [
       "SDNTK",
@@ -1429,7 +1429,7 @@
       "VENEZUELA-EO13850",
       "CMIC-EO13959"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "BR": {
@@ -1520,8 +1520,8 @@
     "daily_removed": 0
   },
   "KY": {
-    "total": 17,
-    "sdn": 14,
+    "total": 18,
+    "sdn": 15,
     "consolidated": 3,
     "programs": [
       "SDNT",
@@ -1531,7 +1531,7 @@
       "TCO",
       "CMIC-EO13959"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "VU": {
@@ -2219,8 +2219,8 @@
     "daily_removed": 0
   },
   "MH": {
-    "total": 126,
-    "sdn": 126,
+    "total": 130,
+    "sdn": 130,
     "consolidated": 0,
     "programs": [
       "IRAN",
@@ -2236,12 +2236,12 @@
       "UKRAINE-EO13662",
       "VENEZUELA-EO13850"
     ],
-    "daily_added": 0,
+    "daily_added": 4,
     "daily_removed": 0
   },
   "LR": {
-    "total": 48,
-    "sdn": 48,
+    "total": 49,
+    "sdn": 49,
     "consolidated": 0,
     "programs": [
       "IRAN",
@@ -2254,7 +2254,7 @@
       "UKRAINE-EO13662",
       "IFSR"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "SI": {
@@ -2365,8 +2365,8 @@
     "daily_removed": 0
   },
   "VN": {
-    "total": 22,
-    "sdn": 22,
+    "total": 23,
+    "sdn": 23,
     "consolidated": 0,
     "programs": [
       "NPWMD",
@@ -2377,9 +2377,10 @@
       "TCO",
       "IRAN-EO13846",
       "SDGT",
-      "UKRAINE-EO13662"
+      "UKRAINE-EO13662",
+      "IRAN-EO13902"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "AM": {
