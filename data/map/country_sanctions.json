@@ -14,8 +14,8 @@
     "daily_removed": 0
   },
   "GB": {
-    "total": 191,
-    "sdn": 191,
+    "total": 194,
+    "sdn": 194,
     "consolidated": 0,
     "programs": [
       "CUBA",
@@ -44,7 +44,7 @@
       "CAATSA - RUSSIA",
       "IRAN-EO13846"
     ],
-    "daily_added": 0,
+    "daily_added": 3,
     "daily_removed": 0
   },
   "CH": {
@@ -582,8 +582,8 @@
     "daily_removed": 0
   },
   "IR": {
-    "total": 1529,
-    "sdn": 1529,
+    "total": 1552,
+    "sdn": 1552,
     "consolidated": 0,
     "programs": [
       "IRAN",
@@ -615,7 +615,7 @@
       "GLOMAG",
       "ILLICIT-DRUGS-EO14059"
     ],
-    "daily_added": 0,
+    "daily_added": 23,
     "daily_removed": 0
   },
   "AF": {
@@ -895,8 +895,8 @@
     "daily_removed": 0
   },
   "CN": {
-    "total": 1154,
-    "sdn": 1083,
+    "total": 1162,
+    "sdn": 1091,
     "consolidated": 71,
     "programs": [
       "SDGT",
@@ -939,7 +939,7 @@
       "561-Related",
       "CMIC-EO13959"
     ],
-    "daily_added": 0,
+    "daily_added": 8,
     "daily_removed": 0
   },
   "ER": {
@@ -1056,8 +1056,8 @@
     "daily_removed": 0
   },
   "TR": {
-    "total": 354,
-    "sdn": 353,
+    "total": 355,
+    "sdn": 354,
     "consolidated": 1,
     "programs": [
       "SDGT",
@@ -1080,7 +1080,7 @@
       "IRAN-EO13902",
       "CAATSA - RUSSIA"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "HR": {
@@ -1338,8 +1338,8 @@
     "daily_removed": 0
   },
   "AE": {
-    "total": 683,
-    "sdn": 683,
+    "total": 684,
+    "sdn": 684,
     "consolidated": 0,
     "programs": [
       "IRAQ2",
@@ -1377,7 +1377,7 @@
       "PAIPA",
       "CAATSA - RUSSIA"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "DO": {

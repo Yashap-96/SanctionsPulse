@@ -1,0 +1,1212 @@
+{
+  "date": "2026-04-29",
+  "period": "2026-04-29",
+  "summary": {
+    "added": 35,
+    "removed": 0,
+    "updated": 0
+  },
+  "additions": [
+    {
+      "uid": 57129,
+      "name": "Shuqun LTD",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "13114202",
+          "country": "United Kingdom"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "L220 Beaconside Business Village",
+          "address2": "Stafford Enterprise Park",
+          "address3": "Weston Road",
+          "city": "Stafford",
+          "state": "Staffordshire",
+          "postal_code": "ST18 0BF",
+          "country": "GB"
+        }
+      ]
+    },
+    {
+      "uid": 57140,
+      "name": "Bakhshi Morteza Ali",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1984-02-12",
+      "nationalities": [],
+      "aliases": [
+        "\u0628\u062e\u0634\u06cc \u0645\u0631\u062a\u0636\u06cc \u0639\u0644\u06cc"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0064740102",
+          "country": "Iran"
+        },
+        {
+          "type": "Passport",
+          "number": "R60975255",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57141,
+      "name": "Qushchi Samad Vafayi",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1971-05-17",
+      "nationalities": [],
+      "aliases": [
+        "\u0642\u0648\u0634\u0686\u06cc \u0635\u0645\u062f \u0648\u0641\u0627\u06cc\u06cc"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0055513042",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57142,
+      "name": "Shashaeh Majid",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1981-04-12",
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0639\u0634\u0639\u0647 \u0645\u062c\u06cc\u062f"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0451421450",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57143,
+      "name": "Aku Tejarat Ravizh Kish Company",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0631\u06a9\u062a \u0622\u06a9\u0648 \u062a\u062c\u0627\u0631\u062a \u0631\u0627\u0648\u06cc\u0698 \u06a9\u06cc\u0634"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "14664",
+          "country": "Iran"
+        },
+        {
+          "type": "National ID No.",
+          "number": "14011768267",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Unit 471, Floor 3",
+          "address2": "No. 0, Commercial Center Complex, Central Market Alley",
+          "address3": "Ferdowsi Boulevard",
+          "city": "Kish City",
+          "state": "Hormozgan",
+          "postal_code": "7941894166",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 57145,
+      "name": "Kavousi Masoud",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1992-01-03",
+      "nationalities": [],
+      "aliases": [
+        "\u06a9\u0627\u0648\u0648\u0633\u06cc \u0645\u0633\u0639\u0648\u062f",
+        "Kavusi Masud"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0014240955",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57146,
+      "name": "Karmaniya Tejarat Asar Kish Company",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0631\u06a9\u062a \u06a9\u0627\u0631\u0645\u0627\u0646\u06cc\u0627 \u062a\u062c\u0627\u0631\u062a \u0639\u0635\u0631 \u06a9\u06cc\u0634"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "14008849042",
+          "country": "Iran"
+        },
+        {
+          "type": "Identification Number",
+          "number": "411664153955",
+          "country": "Iran"
+        },
+        {
+          "type": "Registration Number",
+          "number": "13965",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Kish Free Trade Zone",
+          "city": "Kish",
+          "state": "Hormozgan",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 57147,
+      "name": "Falahatkari Vahid",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1987-07-07",
+      "nationalities": [],
+      "aliases": [
+        "\u0641\u0644\u0627\u062d\u062a\u06a9\u0627\u0631\u06cc \u0648\u062d\u06cc\u062f",
+        "Kari Vahid Falahat"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0078263336",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57148,
+      "name": "Khavar Tejarat Arka Kish Company",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0631\u06a9\u062a \u062e\u0627\u0648\u0631 \u062a\u062c\u0627\u0631\u062a \u0622\u0631\u06a9\u0627 \u06a9\u06cc\u0634"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "14009960537",
+          "country": "Iran"
+        },
+        {
+          "type": "Registration Number",
+          "number": "14068",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Sahel Boulevard",
+          "address2": "Diplomat Commercial and Administrative Complex",
+          "address3": "3rd Floor, Unit 304",
+          "city": "Kish",
+          "state": "Hormozgan",
+          "postal_code": "7941895978",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 57149,
+      "name": "Moslehi Ehsan",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1982-06-14",
+      "nationalities": [],
+      "aliases": [
+        "\u0645\u0635\u0644\u062d\u06cc \u0627\u062d\u0633\u0627\u0646"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0067352472",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57150,
+      "name": "Nasab Ehsan Saidi",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1994-09-23",
+      "nationalities": [],
+      "aliases": [
+        "\u0646\u0633\u0628 \u0627\u062d\u0633\u0627\u0646 \u0633\u0639\u06cc\u062f\u06cc"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "1990560016",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57151,
+      "name": "Tadayyon Mahmud",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1961-07-25",
+      "nationalities": [],
+      "aliases": [
+        "\u062a\u062f\u06cc\u0646 \u0645\u062d\u0645\u0648\u062f"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0045067082",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57152,
+      "name": "Naghsh Simorgh Sahand LLC",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0631\u06a9\u062a \u0628\u0627 \u0645\u0633\u0626\u0648\u0644\u06cc\u062a \u0645\u062d\u062f\u0648\u062f \u0646\u0642\u0634 \u0633\u06cc\u0645\u0631\u063a \u0633\u0647\u0646\u062f"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "14008131728",
+          "country": "Iran"
+        },
+        {
+          "type": "Registration Number",
+          "number": "537416",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Derakhti Town, Shahid Mahmoud Fakhram-e-Ghodam Street",
+          "address2": "Sepehr Street, No. 34",
+          "address3": "Third Floor, Unit 5",
+          "city": "Tehran",
+          "postal_code": "1468943413",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 57153,
+      "name": "Ramazan Hamid Reza",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1982-02-19",
+      "nationalities": [],
+      "aliases": [
+        "\u0631\u0645\u0636\u0627\u0646 \u062d\u0645\u06cc\u062f \u0631\u0636\u0627"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0491779488",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57154,
+      "name": "Ghanbarian Abdolazim",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1969-07-23",
+      "nationalities": [],
+      "aliases": [
+        "\u0642\u0646\u0628\u0631\u06cc\u0627\u0646 \u0639\u0628\u062f\u0627\u0644\u0639\u0638\u06cc\u0645"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "2371885916",
+          "country": "Iran"
+        },
+        {
+          "type": "Passport",
+          "number": "F62564214",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 57155,
+      "name": "Rahbar Tejari Setareh Taban Kish Company",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0631\u0643\u062a \u0631\u0627\u0647\u0628\u0631 \u062a\u062c\u0627\u0631\u0649 \u0633\u062a\u0627\u0631\u0647 \u062a\u0627\u0628\u0627\u0646 \u0643\u064a\u0634"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "14008485664",
+          "country": "Iran"
+        },
+        {
+          "type": "Registration Number",
+          "number": "13882",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Bandar Lengeh County",
+          "address2": "Kish District, Bandargah, Persian Gulf Square",
+          "address3": "Pars Alley 29, No. 30, Ground Floor, Unit 3",
+          "city": "Kish",
+          "state": "Hormozgan",
+          "postal_code": "7941798316",
+          "country": "IR"
+        },
+        {
+          "address1": "Iran Boulevard, Southwest of the Port",
+          "address2": "Block 29, First Floor",
+          "address3": "Unit 3",
+          "city": "Kish",
+          "state": "Hormozgan",
+          "postal_code": "7941798316",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 57156,
+      "name": "Kahkoui Alireza",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1972-06-11",
+      "nationalities": [],
+      "aliases": [
+        "\u0643\u0627\u0647\u0643\u0648\u0626\u064a \u0639\u0644\u064a\u0631\u0636\u0627",
+        "Kahkouei Alireza"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0056982011",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 57157,
+      "name": "Hosseini Amir",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1963-07-10",
+      "nationalities": [],
+      "aliases": [
+        "\u062d\u0633\u064a\u0646\u0649 \u0627\u0645\u064a\u0631"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0049772619",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "state": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 57158,
+      "name": "Tejarat Sarir Afrooz Kish Company",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0631\u0643\u062a \u062a\u062c\u0627\u0631\u062a \u0633\u0631\u064a\u0631 \u0627\u0641\u0631\u0648\u0632 \u0643\u064a\u0634"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "14008081057",
+          "country": "Iran"
+        },
+        {
+          "type": "Business Registration Number",
+          "number": "13777",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Khaneh Gostar Administrative Services Building TS38, Siri Square, Pardis Street",
+          "address2": "No. 0, Ground Floor, Unit 5",
+          "address3": "Bandar Lengeh County",
+          "city": "Kish City",
+          "state": "Hormozgan",
+          "postal_code": "7941899877",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 57159,
+      "name": "Maleki Fahim",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR",
+        "TR"
+      ],
+      "list_type": "SDN",
+      "dob": "1974-07-10",
+      "nationalities": [],
+      "aliases": [
+        "\u0645\u0644\u0643\u064a \u0641\u0647\u064a\u0645",
+        "Ferhan Kaya"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0491477287",
+          "country": "Iran"
+        },
+        {
+          "type": "National ID No.",
+          "number": "55534731654",
+          "country": "Turkey"
+        },
+        {
+          "type": "Passport",
+          "number": "U31440834",
+          "country": "Turkey"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tehran",
+          "country": "IR"
+        },
+        {
+          "city": "Istanbul",
+          "country": "TR"
+        }
+      ]
+    },
+    {
+      "uid": 57160,
+      "name": "Anbardaran Maryam",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1968-09-16",
+      "nationalities": [],
+      "aliases": [
+        "\u0627\u0646\u0628\u0627\u0631\u062f\u0627\u0631\u0627\u0646 \u0645\u0631\u064a\u0645"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0054069483",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "state": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 57167,
+      "name": "Nooseb Trade Limited",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Besoon Trade Limited"
+      ],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "3190568",
+          "country": "Hong Kong"
+        },
+        {
+          "type": "Business Registration Number",
+          "number": "74424595",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Unit 811, Beverley Commercial Centre, 87-105",
+          "address2": "Chatham Road South",
+          "address3": "Kowloon",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 57168,
+      "name": "RQI Commodity HK Limited",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "3231907",
+          "country": "Hong Kong"
+        },
+        {
+          "type": "Business Registration Number",
+          "number": "74842660",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Flat 2304, 23/F, Ho King Commercial Centre 2-16",
+          "address2": "Fa Yuen Street",
+          "address3": "Kowloon",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 57169,
+      "name": "Gasolix International Corporation Limited",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "75224958",
+          "country": "Hong Kong"
+        },
+        {
+          "type": "Company Number",
+          "number": "3270003",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Room 602, 6/F",
+          "address2": "Kai Yue Commercial Building No. 2C, Argyle Street",
+          "address3": "Kowloon",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 57170,
+      "name": "Globenture Limited",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "75388986",
+          "country": "Hong Kong"
+        },
+        {
+          "type": "Company Number",
+          "number": "3286289",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "18/F, V Huen Building",
+          "address2": "138 Queen's Road",
+          "city": "Hong Kong",
+          "country": "CN"
+        },
+        {
+          "address1": "21/F, CMA Building",
+          "address2": "64 Connaught Road Central",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 57171,
+      "name": "Redwing Global Limited",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "3296631",
+          "country": "Hong Kong"
+        },
+        {
+          "type": "Business Registration Number",
+          "number": "75493363",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "18/F, V Huen Building",
+          "address2": "138 Queen's Road",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 57173,
+      "name": "Farab Soroush Afagh Qeshm Company",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0631\u06a9\u062a \u202b\u0641\u0627\u0631\u0627\u0628 \u0633\u0631\u0648\u0634 \u0622\u0641\u0627\u0642 \u0642\u0634\u0645\u202c"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "14008434276",
+          "country": "Iran"
+        },
+        {
+          "type": "Registration Number",
+          "number": "6493",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Unit 6, Floor 4, No. 0, Khordad Alley, Bustan Street, Bustan",
+          "city": "Qeshm",
+          "state": "Hormozgan",
+          "postal_code": "7951168962",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 57174,
+      "name": "FRATELLO CARBONE TRADING LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "71828340",
+          "country": "Hong Kong"
+        },
+        {
+          "type": "Company Number",
+          "number": "2938290",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Unit 1021 Beverley Commercial Centre",
+          "address2": "87-105 Chatham Road South",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 57175,
+      "name": "Emperador Janelyn Eusebio",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": "1984-06-04",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 57176,
+      "name": "Tai Lung Trading Limited",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u5927\u9686\u8cbf\u6613\u6709\u9650\u516c\u53f8"
+      ],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "76922812",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Unit 2A, 17/F, Glenealy Tower",
+          "address2": "No. 1, Glenealy, Central",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 57177,
+      "name": "Sanovo LTD",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "11648866",
+          "country": "United Kingdom"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "L220 Beaconside Business Village",
+          "address2": "Stafford Enterprise Park",
+          "address3": "Weston Road",
+          "city": "Stafford",
+          "state": "Staffordshire",
+          "postal_code": "ST18 0BF",
+          "country": "GB"
+        }
+      ]
+    },
+    {
+      "uid": 57178,
+      "name": "Hajibaba Sorayya Mehri",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1987-04-02",
+      "nationalities": [],
+      "aliases": [
+        "\u062d\u0627\u062c\u06cc \u0628\u0627\u0628\u0627 \u062b\u0631\u06cc\u0627 \u0645\u0647\u0631\u06cc",
+        "Baba Sorayya Mehri Hajji"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "2949879667",
+          "country": "Iran"
+        },
+        {
+          "type": "Passport",
+          "number": "A68688871",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57179,
+      "name": "Qianza LTD",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "14174361",
+          "country": "United Kingdom"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "L220 Beaconside Business Village",
+          "address2": "Stafford Enterprise Park",
+          "address3": "Weston Road",
+          "city": "Stafford",
+          "state": "Staffordshire",
+          "postal_code": "ST18 0BF",
+          "country": "GB"
+        }
+      ]
+    },
+    {
+      "uid": 57180,
+      "name": "Nix Energy Limited",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "75646530",
+          "country": "Hong Kong"
+        },
+        {
+          "type": "Company Number",
+          "number": "3311838",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Shop A/4, G/F, Wah Hoi Mansion",
+          "address2": "No. 254-280 Electric Road, North Point",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 57313,
+      "name": "Al Ghafur Seyyed Mohammed Mehdi",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1991-03-22",
+      "nationalities": [],
+      "aliases": [
+        "Al Ghafur Seyyed Mehdi",
+        "Al Sayyed Ghafur Sayyed Mehdi",
+        "\u0622\u0644\u0633\u06cc\u062f \u063a\u0641\u0648\u0631 \u0633\u06cc\u062f \u0645\u0647\u062f\u06cc"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0370465253",
+          "country": "Iran"
+        },
+        {
+          "type": "Passport",
+          "number": "RA126667",
+          "country": "Dominica"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    }
+  ],
+  "removals": [],
+  "updates": []
+}
