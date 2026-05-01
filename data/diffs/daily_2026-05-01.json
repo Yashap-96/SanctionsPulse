@@ -1,0 +1,36 @@
+{
+  "date": "2026-05-01",
+  "period": "2026-05-01",
+  "summary": {
+    "added": 1,
+    "removed": 0,
+    "updated": 0
+  },
+  "additions": [
+    {
+      "uid": 57505,
+      "name": "Kabila Joseph Kabange",
+      "entry_type": "Individual",
+      "programs": [
+        "DRCONGO"
+      ],
+      "countries": [
+        "CD"
+      ],
+      "list_type": "SDN",
+      "dob": "1971-06-04",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Goma",
+          "country": "CD"
+        }
+      ]
+    }
+  ],
+  "removals": [],
+  "updates": []
+}

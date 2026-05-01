@@ -1,0 +1,41 @@
+{
+  "executive_summary": "On May 1, 2026, OFAC added one individual to the SDN list under the DRCONGO program. Kabila Joseph Kabange, a resident of the Democratic Republic of the Congo, was designated due to his involvement in activities related to the program. This addition highlights the ongoing efforts to target individuals contributing to instability in the region.",
+  "notable_entities": [
+    {
+      "uid": "57505",
+      "name": "Kabila Joseph Kabange",
+      "programs": [
+        "DRCONGO"
+      ],
+      "significance": "Individual designated under the DRCONGO program for contributing to instability in the region"
+    }
+  ],
+  "risk_implications": [
+    {
+      "level": "MEDIUM",
+      "area": "Central Africa",
+      "description": "The designation of Kabila Joseph Kabange may indicate increased scrutiny of individuals involved in activities related to the DRCONGO program, potentially affecting businesses operating in the region"
+    }
+  ],
+  "program_highlights": [
+    {
+      "program": "DRCONGO",
+      "daily_added": 1,
+      "note": "One individual was added to the SDN list under this program"
+    }
+  ],
+  "geographic_hotspots": [
+    {
+      "region": "Central Africa",
+      "countries": [
+        "CD"
+      ],
+      "activity": "Sanctions designations",
+      "trend": "Escalating"
+    }
+  ],
+  "compliance_recommendations": [
+    "Screen for updated SDN list entries, particularly those related to the DRCONGO program",
+    "Review business relationships and transactions involving the Democratic Republic of the Congo"
+  ]
+}
