@@ -1,0 +1,83 @@
+{
+  "executive_summary": "On May 2, 2026, OFAC added 28 new entities to the SDN list, primarily targeting individuals and companies involved in Iranian sanctions evasion. The additions include entities from China, Iran, and the United Arab Emirates. The designations are part of the IRAN-EO13846 and IRAN-EO13902 programs, highlighting the ongoing efforts to disrupt Iranian illicit activities. The majority of the added entities are linked to Iran's petroleum and petrochemical industries, as well as exchange houses and trading companies.",
+  "notable_entities": [
+    {
+      "uid": "57464",
+      "name": "QINGDAO HAIYE OIL TERMINAL CO., LTD.",
+      "programs": [
+        "IRAN-EO13846"
+      ],
+      "significance": "Key player in Iran's petroleum industry"
+    },
+    {
+      "uid": "57488",
+      "name": "Nasser Ghasemi Rad and Associates Partnership Company",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "significance": "Involved in Iranian sanctions evasion"
+    },
+    {
+      "uid": "57519",
+      "name": "DECCAN STAR TRADING L.L.C",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "significance": "Linked to Iranian exchange houses and trading companies"
+    }
+  ],
+  "risk_implications": [
+    {
+      "level": "HIGH",
+      "area": "Petroleum and Petrochemical Industries",
+      "description": "The additions highlight the risk of doing business with Iranian entities, particularly in the petroleum and petrochemical sectors"
+    },
+    {
+      "level": "MEDIUM",
+      "area": "Exchange Houses and Trading Companies",
+      "description": "The designations underscore the risk of facilitating Iranian sanctions evasion through exchange houses and trading companies"
+    },
+    {
+      "level": "LOW",
+      "area": "General Trade and Commerce",
+      "description": "While the additions primarily target specific industries, they may have a broader impact on general trade and commerce with Iran"
+    }
+  ],
+  "program_highlights": [
+    {
+      "program": "IRAN-EO13846",
+      "daily_added": 4,
+      "note": "Targets entities involved in Iranian petroleum and petrochemical industries"
+    },
+    {
+      "program": "IRAN-EO13902",
+      "daily_added": 24,
+      "note": "Focuses on entities involved in Iranian sanctions evasion, including exchange houses and trading companies"
+    }
+  ],
+  "geographic_hotspots": [
+    {
+      "region": "Middle East",
+      "countries": [
+        "IR",
+        "AE"
+      ],
+      "activity": "Sanctions evasion and illicit trade",
+      "trend": "Escalating"
+    },
+    {
+      "region": "East Asia",
+      "countries": [
+        "CN",
+        "HK"
+      ],
+      "activity": "Trade and commerce with Iranian entities",
+      "trend": "Steady"
+    }
+  ],
+  "compliance_recommendations": [
+    "Conduct thorough due diligence on business partners and counterparties, particularly in high-risk industries",
+    "Monitor transactions and activities for potential links to Iranian sanctions evasion",
+    "Implement effective compliance programs to mitigate the risk of doing business with designated entities"
+  ]
+}
