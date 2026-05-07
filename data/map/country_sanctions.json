@@ -1,16 +1,17 @@
 {
   "CU": {
-    "total": 35,
-    "sdn": 35,
+    "total": 36,
+    "sdn": 36,
     "consolidated": 0,
     "programs": [
       "CUBA",
+      "CUBA-EO",
       "SDGT",
       "NPWMD",
       "VENEZUELA-EO13850",
       "GLOMAG"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "GB": {
@@ -1008,8 +1009,8 @@
     "daily_removed": 0
   },
   "IQ": {
-    "total": 178,
-    "sdn": 178,
+    "total": 186,
+    "sdn": 186,
     "consolidated": 0,
     "programs": [
       "SDGT",
@@ -1024,7 +1025,7 @@
       "IRAN-EO13876",
       "BELARUS-EO14038"
     ],
-    "daily_added": 0,
+    "daily_added": 8,
     "daily_removed": 0
   },
   "RS": {

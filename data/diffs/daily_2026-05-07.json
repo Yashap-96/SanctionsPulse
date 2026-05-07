@@ -1,0 +1,336 @@
+{
+  "date": "2026-05-07",
+  "period": "2026-05-07",
+  "summary": {
+    "added": 9,
+    "removed": 0,
+    "updated": 2
+  },
+  "additions": [
+    {
+      "uid": 57533,
+      "name": "Al-Behadili Mustafa Hashim Lazim",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "IQ"
+      ],
+      "list_type": "SDN",
+      "dob": "1980-08-21",
+      "nationalities": [],
+      "aliases": [
+        "\u0627\u0644\u0628\u0647\u0627\u062f\u0644\u064a \u0645\u0635\u0637\u0641\u0649 \u0647\u0627\u0634\u0645 \u0644\u0627\u0632\u0645",
+        "al-Bahadli Mustafa Hashim Lazem",
+        "Lazim Mustafa Hashem",
+        "Awn Sayyid",
+        "Lazm Mustafa Hashim",
+        "Al Bhadli Moustafa Hachem Lazem"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "B27823144",
+          "country": "Iraq"
+        },
+        {
+          "type": "Passport",
+          "number": "A14930721",
+          "country": "Iraq"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57534,
+      "name": "Gulf Energy Oil Services Limited",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "IQ"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0637\u0627\u0642\u0629 \u0627\u0644\u062e\u0644\u064a\u062c \u0644\u0644\u062e\u062f\u0645\u0627\u062a \u0627\u0644\u0646\u0641\u0637\u064a\u0629 \u0627\u0644\u0645\u062d\u062f\u0648\u062f\u0629"
+      ],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "73792",
+          "country": "Iraq"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Baghdad",
+          "country": "IQ"
+        }
+      ]
+    },
+    {
+      "uid": 57535,
+      "name": "Gulf General Contracting Limited",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "IQ"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "7249",
+          "country": "Iraq"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Baghdad",
+          "country": "IQ"
+        }
+      ]
+    },
+    {
+      "uid": 57536,
+      "name": "Gulf Energy for General Transport and Marine Services and Real Estate Consultancy LLC",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "IQ"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0637\u0627\u0642\u0629 \u0627\u0644\u062e\u0644\u064a\u062c \u0644\u0644\u0646\u0642\u0644 \u0627\u0644\u0639\u0627\u0645 \u0648\u0627\u0644\u062e\u062f\u0645\u0627\u062a \u0627\u0644\u0628\u062d\u0631\u064a\u0629 \u0648\u0627\u0644\u0627\u0633\u062a\u0634\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0642\u0627\u0631\u064a\u0629 \u0645\u062d\u062f\u0648\u062f\u0629 \u0627\u0644\u0645\u0633\u0624\u0648\u0644\u064a\u0629",
+        "Gulf Energy for General Transport, Marine Services and Real Estate Investments Company Ltd",
+        "Gulf Energy Company for General Transport, Marine Services & Real Estate Investments Ltd"
+      ],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "38676649",
+          "country": "Iraq"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Apartment 3, Building 2/56, Zukak 2",
+          "city": "Baghdad",
+          "state": "Baghdad Governate",
+          "country": "IQ"
+        },
+        {
+          "address1": "Berth 12, Khor Al Zubair Port",
+          "city": "Al Basrah",
+          "country": "IQ"
+        }
+      ]
+    },
+    {
+      "uid": 57537,
+      "name": "Iraq International Energy for the Import and Sale for Petroleum Products Limited",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "IQ"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0637\u0627\u0642\u0629 \u0627\u0644\u0639\u0631\u0627\u0642 \u0627\u0644\u062f\u0648\u0644\u064a\u0629 \u0644\u0627\u0633\u062a\u064a\u0631\u0627\u062f \u0648\u0628\u064a\u0639 \u0627\u0644\u0645\u0646\u062a\u0648\u062c\u0627\u062a \u0627\u0644\u0646\u0641\u0637\u064a\u0629 \u0627\u0644\u0645\u062d\u062f\u0648\u062f\u0629",
+        "Iraq Energy International for Importing and Selling Oil Products Company Ltd"
+      ],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "10365",
+          "country": "Iraq"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Mahala 211, Dar 22, Zukak 11, Harthiya",
+          "city": "Baghdad",
+          "country": "IQ"
+        }
+      ]
+    },
+    {
+      "uid": 57553,
+      "name": "Al-Bahadly Ali Maarij",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IQ"
+      ],
+      "list_type": "SDN",
+      "dob": "1966-07-01",
+      "nationalities": [],
+      "aliases": [
+        "\u0627\u0644\u0628\u0647\u0627\u062f\u0644\u064a \u0639\u0644\u064a \u0645\u0639\u0627\u0631\u062c",
+        "Al Behadili Ali Maarij Sewadig"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0041626",
+          "country": "Iraq"
+        },
+        {
+          "type": "Passport",
+          "number": "D1019788",
+          "country": "Iraq"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Baghdad",
+          "country": "IQ"
+        },
+        {
+          "city": "Alamara",
+          "country": "IQ"
+        }
+      ]
+    },
+    {
+      "uid": 57554,
+      "name": "Mohammed Issa Kadhim Al Shuwaili",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "IQ"
+      ],
+      "list_type": "SDN",
+      "dob": "1982-05-19",
+      "nationalities": [],
+      "aliases": [
+        "\u0645\u062d\u0645\u062f \u0639\u064a\u0633\u0649 \u0643\u0627\u0638\u0645 \u0627\u0644\u0634\u0648\u064a\u0644\u064a",
+        "Abu Maryam"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "B23828763",
+          "country": "Iraq"
+        },
+        {
+          "type": "Passport",
+          "number": "A12147355",
+          "country": "Iraq"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57555,
+      "name": "Maksus Ahmed Khudair Maksus",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "IQ"
+      ],
+      "list_type": "SDN",
+      "dob": "1970-10-06",
+      "nationalities": [],
+      "aliases": [
+        "al-Maksusi Ahmad Khudayr Maksus"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "A5885993",
+          "country": "Iraq"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57602,
+      "name": "Lastres Morera Ania Guillermina",
+      "entry_type": "Individual",
+      "programs": [
+        "CUBA-EO"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": "1962-08-19",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Marianao",
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    }
+  ],
+  "removals": [],
+  "updates": [
+    {
+      "uid": 3751,
+      "name": "MOA NICKEL SA",
+      "changes": {
+        "programs": {
+          "old": [
+            "CUBA"
+          ],
+          "new": [
+            "CUBA",
+            "CUBA-EO"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 30631,
+      "name": "Grupo de Administracion Empresarial S.A.",
+      "changes": {
+        "programs": {
+          "old": [
+            "CUBA"
+          ],
+          "new": [
+            "CUBA",
+            "CUBA-EO"
+          ]
+        }
+      }
+    }
+  ]
+}
