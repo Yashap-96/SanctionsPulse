@@ -5,7 +5,7 @@
     "consolidated": 0,
     "programs": [
       "CUBA",
-      "CUBA-EO",
+      "CUBA-EO14404",
       "SDGT",
       "NPWMD",
       "VENEZUELA-EO13850",
@@ -896,8 +896,8 @@
     "daily_removed": 0
   },
   "CN": {
-    "total": 1175,
-    "sdn": 1104,
+    "total": 1183,
+    "sdn": 1112,
     "consolidated": 71,
     "programs": [
       "SDGT",
@@ -928,6 +928,7 @@
       "ILLICIT-DRUGS-EO14059",
       "VENEZUELA",
       "UHRPA",
+      "IRAN-CON-ARMS-EO",
       "IRGC",
       "BELARUS-EO14038",
       "CYBER4",
@@ -940,7 +941,7 @@
       "561-Related",
       "CMIC-EO13959"
     ],
-    "daily_added": 0,
+    "daily_added": 8,
     "daily_removed": 0
   },
   "ER": {
@@ -1339,8 +1340,8 @@
     "daily_removed": 0
   },
   "AE": {
-    "total": 691,
-    "sdn": 691,
+    "total": 692,
+    "sdn": 692,
     "consolidated": 0,
     "programs": [
       "IRAQ2",
@@ -1378,7 +1379,7 @@
       "PAIPA",
       "CAATSA - RUSSIA"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "DO": {
@@ -1560,8 +1561,8 @@
     "daily_removed": 0
   },
   "BY": {
-    "total": 261,
-    "sdn": 258,
+    "total": 264,
+    "sdn": 261,
     "consolidated": 3,
     "programs": [
       "BELARUS",
@@ -1573,7 +1574,7 @@
       "SDGT",
       "BELARUS-EO14038"
     ],
-    "daily_added": 0,
+    "daily_added": 3,
     "daily_removed": 0
   },
   "AN": {

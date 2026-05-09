@@ -1,0 +1,568 @@
+{
+  "date": "2026-05-09",
+  "period": "2026-05-09",
+  "summary": {
+    "added": 12,
+    "removed": 1,
+    "updated": 5
+  },
+  "additions": [
+    {
+      "uid": 57556,
+      "name": "Hitex Insulation Ningbo Company Limited",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "NPWMD"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u5b81\u6ce2\u542b\u7279\u5821\u6e29\u6750\u6599\u6709\u9650\u516c\u53f8"
+      ],
+      "ids": [
+        {
+          "type": "Unified Social Credit Code (USCC)",
+          "number": "91330204561293923J",
+          "country": "China"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Room 803, No. 10, Lane 818, Qianhe South Road",
+          "address2": "Yinzhou District",
+          "city": "Ningbo",
+          "state": "Zhejiang",
+          "country": "CN"
+        },
+        {
+          "address1": "Room 903-904, Raymond Building, NSBD",
+          "city": "Ningbo",
+          "state": "Zhejiang",
+          "country": "CN"
+        },
+        {
+          "address1": "No. 108, Kaijia Road",
+          "address2": "Yaobei Industrial Zone",
+          "address3": "Yuyao",
+          "city": "Ningbo",
+          "state": "Zhejiang",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 57557,
+      "name": "Li Genping",
+      "entry_type": "Individual",
+      "programs": [
+        "IFSR",
+        "NPWMD"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": "1983-08-15",
+      "nationalities": [],
+      "aliases": [
+        "\u674e \u6839\u5e73"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "362524198308156510",
+          "country": "China"
+        },
+        {
+          "type": "Passport",
+          "number": "E10413641",
+          "country": "China"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Ningbo",
+          "state": "Zhejiang",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 57593,
+      "name": "MEENTROPY TECHNOLOGY HANGZHOU CO LTD",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-CON-ARMS-EO"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u89c5\u71b5\u79d1\u6280 \u676d\u5dde \u6709\u9650\u516c\u53f8",
+        "MizarVision"
+      ],
+      "ids": [
+        {
+          "type": "Unified Social Credit Code (USCC)",
+          "number": "91310115MA1K4Q0G00",
+          "country": "China"
+        },
+        {
+          "type": "Registration Number",
+          "number": "310141000638093",
+          "country": "China"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "No. 501, 2nd Street",
+          "address2": "Baiyang Street, 6-1103",
+          "city": "Hangzhou",
+          "state": "Zhejiang",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 57595,
+      "name": "HK Hesin Industry Co Limited",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "NPWMD"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u9999\u6e2f\u8d6b\u65b0\u5be6\u696d\u6709\u9650\u516c\u53f8"
+      ],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "79441310",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Room 1303, 13/F, Cheong Tai Building",
+          "address2": "No. 287-289 Reclamation Street",
+          "address3": "Kowloon",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 57596,
+      "name": "Armory Alliance LLC",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "NPWMD"
+      ],
+      "countries": [
+        "BY"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u041e\u041e\u041e \u0410\u0440\u043c\u043e\u0440\u0438 \u0410\u043b\u044c\u044f\u043d\u0441"
+      ],
+      "ids": [
+        {
+          "type": "Tax ID No.",
+          "number": "193596647",
+          "country": "Belarus"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Building 33, Section 14",
+          "address2": "13A, Tarkhanova St",
+          "city": "Minsk",
+          "postal_code": "220035",
+          "country": "BY"
+        }
+      ]
+    },
+    {
+      "uid": 57597,
+      "name": "AE International Trade Co Limited",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "NPWMD"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u827e\u5b9c\u570b\u969b\u8cbf\u6613\u6709\u9650\u516c\u53f8"
+      ],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "69032202",
+          "country": "Hong Kong"
+        },
+        {
+          "type": "Company Number",
+          "number": "2662172",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "19H, Maxgrand Plaza, No. 3 Tai Yau Street",
+          "address2": "San Po Kong",
+          "address3": "Kowloon",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 57598,
+      "name": "Elite Energy FZCO",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "NPWMD"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "License",
+          "number": "50320",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "BCB3 612, Sixth Floor",
+          "address2": "Business Cluster - Building 3",
+          "address3": "Dubai CommerCity",
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 57599,
+      "name": "Yushita Shanghai International Trade Co Limited",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "NPWMD"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u6631\u601d\u8fbe\u4e0a\u6d77\u56fd\u9645\u8d38\u6613\u6709\u9650\u516c\u53f8"
+      ],
+      "ids": [
+        {
+          "type": "Unified Social Credit Code (USCC)",
+          "number": "91310115586820144H",
+          "country": "China"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Unit 1004, 10th Floor",
+          "address2": "No. 698 Runchuan Road/No. 5788 Chuansha Road",
+          "address3": "Pudong New Area",
+          "city": "Shanghai",
+          "country": "CN"
+        },
+        {
+          "address1": "Room 1315, Block A, Greenland East Coast International Plaza",
+          "address2": "No. 581 Xiuchuan Road",
+          "address3": "Chuansha Town",
+          "city": "Shanghai",
+          "country": "CN"
+        },
+        {
+          "address1": "Unit 904, 9th Floor",
+          "address2": "No. 698 Runchuan Road/No. 5788 Chuansha Road",
+          "address3": "Pudong New Area",
+          "city": "Shanghai",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 57600,
+      "name": "Mustad Limited",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "NPWMD"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "77151111",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Rm 1506, 15/F, Cheung Fung Commercial Bldg.",
+          "address2": "21-25 Cheung Sha Wan Road, Sham Shui Po",
+          "address3": "Kowloon",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 57601,
+      "name": "The Earth Eye Co",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-CON-ARMS-EO"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Beijing Mumei Xingkong Technology Co Ltd",
+        "Beijing Mumei Starry Sky Technology Co Ltd"
+      ],
+      "ids": [
+        {
+          "type": "Unified Social Credit Code (USCC)",
+          "number": "91110105MA04H61R7D",
+          "country": "China"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "No. Jia 21-120",
+          "address2": "Beizhuanghu Village, Machikou Town",
+          "address3": "Changping District",
+          "city": "Beijing",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 57613,
+      "name": "Tolibov Mohammed Ali",
+      "entry_type": "Individual",
+      "programs": [
+        "IFSR",
+        "NPWMD"
+      ],
+      "countries": [
+        "BY"
+      ],
+      "list_type": "SDN",
+      "dob": "1982-01-17",
+      "nationalities": [],
+      "aliases": [
+        "Tolibov Muhamadali",
+        "Tolibov Mukhamadali Khaydarkhudzhaevich",
+        "\u0422\u041e\u041b\u0418\u0411\u041e\u0412 \u041c\u0443\u0445\u0430\u043c\u0430\u0434\u0430\u043b\u0438 \u0425\u0430\u0439\u0434\u0430\u0440\u0445\u0443\u0434\u0436\u0430\u0435\u0432\u0438\u0447"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "MR4193252",
+          "country": "Belarus"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57614,
+      "name": "Maleki Mohammadmahdi",
+      "entry_type": "Individual",
+      "programs": [
+        "IFSR",
+        "NPWMD"
+      ],
+      "countries": [
+        "BY"
+      ],
+      "list_type": "SDN",
+      "dob": "1995-04-26",
+      "nationalities": [],
+      "aliases": [
+        "Maleki Mohammad Mahdi"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "I67689026",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    }
+  ],
+  "removals": [
+    {
+      "uid": 51551,
+      "name": "Astra",
+      "entry_type": "Vessel",
+      "programs": [
+        "RUSSIA-EO14024",
+        "UKRAINE-EO13662"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 9273387",
+          "country": ""
+        },
+        {
+          "type": "MMSI",
+          "number": "574005470",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    }
+  ],
+  "updates": [
+    {
+      "uid": 3751,
+      "name": "MOA NICKEL SA",
+      "changes": {
+        "programs": {
+          "old": [
+            "CUBA",
+            "CUBA-EO"
+          ],
+          "new": [
+            "CUBA",
+            "CUBA-EO14404"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 13156,
+      "name": "MINISTRY OF DEFENCE EXPORT CENTER",
+      "changes": {
+        "name": {
+          "old": "MINISTRY OF DEFENSE LOGISTICS EXPORT",
+          "new": "MINISTRY OF DEFENCE EXPORT CENTER"
+        },
+        "programs": {
+          "old": [
+            "NPWMD",
+            "IFSR"
+          ],
+          "new": [
+            "NPWMD",
+            "IFSR",
+            "IRAN-CON-ARMS-EO"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 30631,
+      "name": "Grupo de Administracion Empresarial S.A.",
+      "changes": {
+        "programs": {
+          "old": [
+            "CUBA",
+            "CUBA-EO"
+          ],
+          "new": [
+            "CUBA",
+            "CUBA-EO14404"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 46669,
+      "name": "CHANG GUANG SATELLITE TECHNOLOGY CO., LTD.",
+      "changes": {
+        "programs": {
+          "old": [
+            "RUSSIA-EO14024"
+          ],
+          "new": [
+            "RUSSIA-EO14024",
+            "IRAN-CON-ARMS-EO"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 57602,
+      "name": "Lastres Morera Ania Guillermina",
+      "changes": {
+        "programs": {
+          "old": [
+            "CUBA-EO"
+          ],
+          "new": [
+            "CUBA-EO14404"
+          ]
+        }
+      }
+    }
+  ]
+}
