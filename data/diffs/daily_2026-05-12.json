@@ -1,0 +1,440 @@
+{
+  "date": "2026-05-12",
+  "period": "2026-05-12",
+  "summary": {
+    "added": 12,
+    "removed": 0,
+    "updated": 0
+  },
+  "additions": [
+    {
+      "uid": 57568,
+      "name": "Zadeh Ahmad Mohammadi",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT",
+        "IFSR",
+        "IRGC"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1961-09-23",
+      "nationalities": [],
+      "aliases": [
+        "Zadeh Ahmad Mohammedi"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "3539608613",
+          "country": "Iran"
+        },
+        {
+          "type": "Passport",
+          "number": "U65222701",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57569,
+      "name": "Salami Samad Fathi",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT",
+        "IFSR",
+        "IRGC"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1980-06-22",
+      "nationalities": [],
+      "aliases": [
+        "Fathisalmi Samad"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "6339379079",
+          "country": "Iran"
+        },
+        {
+          "type": "Passport",
+          "number": "V52953880",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57570,
+      "name": "Ghehi Mohammadreza Ashrafi",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT",
+        "IFSR",
+        "IRGC"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1978-12-13",
+      "nationalities": [],
+      "aliases": [
+        "Ghahi Mohammadreza Ashrafi"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0067816509",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57571,
+      "name": "HONG KONG BLUE OCEAN LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT",
+        "IFSR"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u9999\u6e2f\u85cd\u6d77\u6709\u9650\u516c\u53f8"
+      ],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "77740261",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 57572,
+      "name": "OCEAN ALLIANZ SHIPPING LLC",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT",
+        "IFSR"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0623\u0648\u0634\u0646 \u0627\u0644\u064a\u0627\u0646\u0632 \u0644\u0644\u0634\u062d\u0646 \u0630 \u0645 \u0645"
+      ],
+      "ids": [
+        {
+          "type": "License",
+          "number": "815724",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Economic Register Number (CBLS)",
+          "number": "11318398",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Office OFF2-RF, Parcel 353-1869, Al Safa First, Bur Dubai",
+          "city": "Dubai",
+          "country": "AE"
+        },
+        {
+          "address1": "Burlington Tower, 802, Business Bay, Bur Dubai",
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 57573,
+      "name": "ZEUS LOGISTICS GROUP",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT",
+        "IFSR"
+      ],
+      "countries": [
+        "OM"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0645\u062c\u0645\u0648\u0639\u0629 \u0632\u0648\u064a\u0633 \u0627\u0644\u0644\u0648\u062c\u0633\u062a\u064a\u0629"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "1283041",
+          "country": "Oman"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Al Qurm",
+          "city": "Muscat",
+          "country": "OM"
+        }
+      ]
+    },
+    {
+      "uid": 57574,
+      "name": "JIANDI HK LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT",
+        "IFSR"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u76e3\u5730\u9999\u6e2f\u6709\u9650\u516c\u53f8"
+      ],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "76275900",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 57575,
+      "name": "HONG KONG SANMU LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT",
+        "IFSR"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "74680616",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Flat 1019B, 10/F, Liven House No. 61-63 King Yip Street",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 57576,
+      "name": "MAX HONOR INTERNATIONAL TRADE CO., LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT",
+        "IFSR"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "74792613",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Unit 26 of Factory A on 5th Floor, Union Hing Yip Factory Building, No. 20 Hing Yip Street",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 57577,
+      "name": "ATIC ENERGY FZE",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT",
+        "IFSR"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0623\u062a\u064a\u0643 \u0627\u0646\u064a\u0631\u062c\u064a \u0645 \u0645 \u062d"
+      ],
+      "ids": [
+        {
+          "type": "License",
+          "number": "19471",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Economic Register Number (CBLS)",
+          "number": "11700054",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Office No E-23G-21, P1-ELOB",
+          "address2": "Hamriya Free Zone",
+          "city": "Sharjah",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 57578,
+      "name": "BLANCA GOODS WHOLESALER LLC",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT",
+        "IFSR"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0628\u0644\u0627\u0646\u0643\u0627 \u0644\u0644\u0633\u0644\u0639 \u0628\u0627\u0644\u062c\u0645\u0644\u0647 \u0630 \u0645 \u0645"
+      ],
+      "ids": [
+        {
+          "type": "Economic Register Number (CBLS)",
+          "number": "11433157",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Chamber of Commerce Number",
+          "number": "330818",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "License",
+          "number": "862498",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Registration Number",
+          "number": "1464969",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Office No 101-05",
+          "address2": "Port Said",
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 57579,
+      "name": "UNIVERSAL FORTUNE TRADING LLC",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT",
+        "IFSR"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u064a\u0648\u0646\u0648\u0631\u0633\u0627\u0644 \u0641\u0648\u0631\u062a\u0634\u0646 \u0644\u0644\u062a\u062c\u0627\u0631\u0629 \u0630 \u0645 \u0645"
+      ],
+      "ids": [
+        {
+          "type": "License",
+          "number": "1088893",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Chamber of Commerce Number",
+          "number": "413426",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Economic Register Number (CBLS)",
+          "number": "11925055",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Office No 204-12, Al Murar, Deira",
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    }
+  ],
+  "removals": [],
+  "updates": []
+}
