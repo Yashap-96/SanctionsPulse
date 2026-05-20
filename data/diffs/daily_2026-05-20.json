@@ -1,0 +1,435 @@
+{
+  "date": "2026-05-20",
+  "period": "2026-05-20",
+  "summary": {
+    "added": 13,
+    "removed": 0,
+    "updated": 1
+  },
+  "additions": [
+    {
+      "uid": 57107,
+      "name": "Ojeda Aviles Armando de Jesus",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1985-05-01",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "OEAA850501HSLJVR09",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [
+        {
+          "currency": "ETH",
+          "address": "0x038989cbb1710c72b9920dc4fa529158f463e72c"
+        },
+        {
+          "currency": "ETH",
+          "address": "0x14779CEC0B117d5194c750C55Ea1f42086631964"
+        },
+        {
+          "currency": "ETH",
+          "address": "0x32dA24Ca413F3E7B53145D4737e172C3bdF81e3e"
+        },
+        {
+          "currency": "ETH",
+          "address": "0xf2235d55b2950a0b1317469d72d07ae65b2e27cb"
+        },
+        {
+          "currency": "ETH",
+          "address": "0x4F428c11Dc82388fa5136D636e613ad923Eb700B"
+        }
+      ],
+      "addresses": []
+    },
+    {
+      "uid": 57117,
+      "name": "Aispuro Felix Jesus Alonso",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1981-08-01",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "AIFJ810801HDGSLS08",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57118,
+      "name": "Alarcon Palomares Rodrigo",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1996-06-21",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "AAPR960621HSLLLD02",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [
+        {
+          "currency": "ETH",
+          "address": "0xaC4cC4B68ea24BbFAAC8fD127B67Ed445ACcCE22"
+        }
+      ],
+      "addresses": []
+    },
+    {
+      "uid": 57119,
+      "name": "Orozco Romero Alfredo",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1979-05-29",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "OORA790529HCHRML03",
+          "country": "Mexico"
+        },
+        {
+          "type": "R.F.C.",
+          "number": "OORA790529H89",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57120,
+      "name": "Orozco Romero Liliana",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1976-01-14",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "OORL760114MCHRML06",
+          "country": "Mexico"
+        },
+        {
+          "type": "R.F.C.",
+          "number": "OORL760114EN6",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57121,
+      "name": "GORDITAS CHIWAS",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "R.F.C.",
+          "number": "ROMA5712239X0",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "state": "Chihuahua",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 57122,
+      "name": "GRUPO ESPECIAL MAMBA NEGRA, S. de R.L. de C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "25872",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "state": "Chihuahua",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 57392,
+      "name": "Romero Moreno Amalia Margarita",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1957-12-23",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "ROMA571223MCHMRM07",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57411,
+      "name": "Luis Moreno Zamora Arnulfo",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1990-02-01",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "MOZL900201HSLRMS01",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "state": "Sinaloa",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 57412,
+      "name": "Baltazar Saenz Aguilar",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1985-08-12",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "SAAB850812HSLNGL03",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "state": "Sinaloa",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 57413,
+      "name": "Castulo Bojorquez Chaparro",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1978-03-23",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "BOCC780323HSLJHS08",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "state": "Sinaloa",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 57414,
+      "name": "Noe Castro Rocha de Jesus",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1975-11-10",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "CARN751110HSLSCX05",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "state": "Sinaloa",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 57415,
+      "name": "Fredi Garcia Sandoval Ismael",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1973-08-29",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "GASF730829HCHRNR09",
+          "country": "Mexico"
+        },
+        {
+          "type": "RFC",
+          "number": "GAGF9908292X4",
+          "country": "Mexico"
+        },
+        {
+          "type": "RFC",
+          "number": "GASF730829UN5",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Mexico City",
+          "country": "MX"
+        }
+      ]
+    }
+  ],
+  "removals": [],
+  "updates": [
+    {
+      "uid": 23123,
+      "name": "Gonzalez Penuelas Jesus",
+      "changes": {
+        "programs": {
+          "old": [
+            "SDNTK"
+          ],
+          "new": [
+            "SDNTK",
+            "ILLICIT-DRUGS-EO14059",
+            "SDGT"
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -11,7 +11,7 @@
       "VENEZUELA-EO13850",
       "GLOMAG"
     ],
-    "daily_added": 10,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "GB": {
@@ -45,7 +45,7 @@
       "CAATSA - RUSSIA",
       "IRAN-EO13846"
     ],
-    "daily_added": 2,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "CH": {
@@ -95,7 +95,7 @@
       "ILLICIT-DRUGS-EO14059",
       "DPRK4"
     ],
-    "daily_added": 2,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "JP": {
@@ -132,12 +132,12 @@
       "IRAN-EO13902",
       "SUDAN-EO14098"
     ],
-    "daily_added": 2,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "MX": {
-    "total": 1106,
-    "sdn": 1106,
+    "total": 1119,
+    "sdn": 1119,
     "consolidated": 0,
     "programs": [
       "CUBA",
@@ -150,7 +150,7 @@
       "GLOMAG",
       "VENEZUELA-EO13850"
     ],
-    "daily_added": 0,
+    "daily_added": 13,
     "daily_removed": 0
   },
   "FR": {
@@ -616,7 +616,7 @@
       "GLOMAG",
       "ILLICIT-DRUGS-EO14059"
     ],
-    "daily_added": 3,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "AF": {
@@ -647,7 +647,7 @@
       "TCO",
       "IRAN-EO13902"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "IE": {
@@ -737,7 +737,7 @@
       "DRCONGO",
       "RUSSIA-EO14024"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "TN": {
@@ -765,7 +765,7 @@
       "GLOMAG",
       "PAARSSR-EO13894"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "PS": {
@@ -942,7 +942,7 @@
       "561-Related",
       "CMIC-EO13959"
     ],
-    "daily_added": 10,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "ER": {
@@ -1083,7 +1083,7 @@
       "IRAN-EO13902",
       "CAATSA - RUSSIA"
     ],
-    "daily_added": 6,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "HR": {
@@ -1380,7 +1380,7 @@
       "PAIPA",
       "CAATSA - RUSSIA"
     ],
-    "daily_added": 3,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "DO": {
@@ -1432,7 +1432,7 @@
       "VENEZUELA-EO13850",
       "CMIC-EO13959"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "BR": {
@@ -2239,7 +2239,7 @@
       "UKRAINE-EO13662",
       "VENEZUELA-EO13850"
     ],
-    "daily_added": 6,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "LR": {
@@ -2257,7 +2257,7 @@
       "UKRAINE-EO13662",
       "IFSR"
     ],
-    "daily_added": 2,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "SI": {
