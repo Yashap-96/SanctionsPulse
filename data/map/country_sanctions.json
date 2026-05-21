@@ -150,7 +150,7 @@
       "GLOMAG",
       "VENEZUELA-EO13850"
     ],
-    "daily_added": 13,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "FR": {
@@ -741,17 +741,16 @@
     "daily_removed": 0
   },
   "TN": {
-    "total": 8,
-    "sdn": 8,
+    "total": 7,
+    "sdn": 7,
     "consolidated": 0,
     "programs": [
       "SDGT",
       "FTO",
-      "RUSSIA-EO14024",
-      "ICC-EO14203"
+      "RUSSIA-EO14024"
     ],
     "daily_added": 0,
-    "daily_removed": 0
+    "daily_removed": 1
   },
   "JO": {
     "total": 32,

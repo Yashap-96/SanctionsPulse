@@ -1,0 +1,40 @@
+{
+  "executive_summary": "On May 21, 2026, OFAC removed one individual from the SDN list. The removed individual, Albanese Francesca Paola, was previously sanctioned under the ICC-EO14203 program. No additions or updates were made to the list.",
+  "notable_entities": [
+    {
+      "uid": "54707",
+      "name": "Albanese Francesca Paola",
+      "programs": [
+        "ICC-EO14203"
+      ],
+      "significance": "Removed from the SDN list"
+    }
+  ],
+  "risk_implications": [
+    {
+      "level": "LOW",
+      "area": "Tunisia",
+      "description": "The removal of Albanese Francesca Paola from the SDN list may indicate a reduced risk of sanctions exposure in Tunisia."
+    }
+  ],
+  "program_highlights": [
+    {
+      "program": "ICC-EO14203",
+      "daily_added": 0,
+      "note": "One individual was removed from this program."
+    }
+  ],
+  "geographic_hotspots": [
+    {
+      "region": "North Africa",
+      "countries": [
+        "TN"
+      ],
+      "activity": "Sanctions removal",
+      "trend": "Declining"
+    }
+  ],
+  "compliance_recommendations": [
+    "Review and update internal watchlists to reflect the removal of Albanese Francesca Paola from the SDN list."
+  ]
+}

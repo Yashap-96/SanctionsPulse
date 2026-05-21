@@ -1,0 +1,42 @@
+{
+  "date": "2026-05-21",
+  "period": "2026-05-21",
+  "summary": {
+    "added": 0,
+    "removed": 1,
+    "updated": 0
+  },
+  "additions": [],
+  "removals": [
+    {
+      "uid": 54707,
+      "name": "Albanese Francesca Paola",
+      "entry_type": "Individual",
+      "programs": [
+        "ICC-EO14203"
+      ],
+      "countries": [
+        "TN"
+      ],
+      "list_type": "SDN",
+      "dob": "1977-03-30",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "YA4652441",
+          "country": "Italy"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tunis",
+          "country": "TN"
+        }
+      ]
+    }
+  ],
+  "updates": []
+}
