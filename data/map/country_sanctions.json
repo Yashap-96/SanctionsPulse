@@ -516,8 +516,8 @@
     "daily_removed": 0
   },
   "LB": {
-    "total": 343,
-    "sdn": 343,
+    "total": 352,
+    "sdn": 352,
     "consolidated": 0,
     "programs": [
       "SDGT",
@@ -537,7 +537,7 @@
       "LEBANON",
       "BELARUS-EO14038"
     ],
-    "daily_added": 0,
+    "daily_added": 9,
     "daily_removed": 0
   },
   "CO": {
@@ -583,8 +583,8 @@
     "daily_removed": 0
   },
   "IR": {
-    "total": 1566,
-    "sdn": 1566,
+    "total": 1567,
+    "sdn": 1567,
     "consolidated": 0,
     "programs": [
       "IRAN",
@@ -616,7 +616,7 @@
       "GLOMAG",
       "ILLICIT-DRUGS-EO14059"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "AF": {
@@ -750,7 +750,7 @@
       "RUSSIA-EO14024"
     ],
     "daily_added": 0,
-    "daily_removed": 1
+    "daily_removed": 0
   },
   "JO": {
     "total": 32,

@@ -1,0 +1,125 @@
+{
+  "executive_summary": "On May 22, 2026, OFAC added 9 individuals to the SDN list, primarily targeting entities in Lebanon with ties to SDGT and IFSR programs. The additions highlight the ongoing efforts to counter terrorist financing and sanctions evasion. The majority of the added individuals have connections to Lebanon, with some also linked to Iran.",
+  "notable_entities": [
+    {
+      "uid": "57594",
+      "name": "Sheibani Mohammad Reza Raouf",
+      "programs": [
+        "SDGT",
+        "IRAN",
+        "IFSR"
+      ],
+      "significance": "High-profile individual with ties to multiple sanctioned programs, including SDGT, IRAN, and IFSR, posing a significant risk to global security and financial systems."
+    },
+    {
+      "uid": "57616",
+      "name": "Fanich Abdel-Mottaleb Mohamed",
+      "programs": [
+        "SDGT"
+      ],
+      "significance": "Individual with connections to Lebanon and the SDGT program, contributing to the ongoing concerns about terrorist financing in the region."
+    },
+    {
+      "uid": "57713",
+      "name": "Fadlallah Hassan Nizammeddine",
+      "programs": [
+        "SDGT"
+      ],
+      "significance": "Individual with ties to the SDGT program and Lebanon, highlighting the need for continued vigilance in countering terrorist financing and sanctions evasion."
+    },
+    {
+      "uid": "57714",
+      "name": "Hassan Hussein Al-Hajj",
+      "programs": [
+        "SDGT"
+      ],
+      "significance": "Individual connected to the SDGT program and Lebanon, posing a risk to regional and global security."
+    },
+    {
+      "uid": "57722",
+      "name": "al-Moussawi Ibrahim",
+      "programs": [
+        "SDGT"
+      ],
+      "significance": "Individual with ties to the SDGT program and Lebanon, contributing to the ongoing concerns about terrorist financing and sanctions evasion in the region."
+    },
+    {
+      "uid": "57736",
+      "name": "Nasser Eldin Khattar",
+      "programs": [
+        "SDGT"
+      ],
+      "significance": "Individual connected to the SDGT program and Lebanon, posing a risk to regional and global security due to potential involvement in terrorist financing."
+    },
+    {
+      "uid": "57737",
+      "name": "Hamadi Samir 'Adnan",
+      "programs": [
+        "SDGT"
+      ],
+      "significance": "Individual with ties to the SDGT program and Lebanon, highlighting the need for continued vigilance in countering terrorist financing and sanctions evasion."
+    },
+    {
+      "uid": "57738",
+      "name": "Safawi Ali Ahmad",
+      "programs": [
+        "SDGT"
+      ],
+      "significance": "Individual connected to the SDGT program and Lebanon, posing a risk to regional and global security due to potential involvement in terrorist financing."
+    },
+    {
+      "uid": "57739",
+      "name": "Baalbaki Ahmad Asaad",
+      "programs": [
+        "SDGT"
+      ],
+      "significance": "Individual with ties to the SDGT program and Lebanon, contributing to the ongoing concerns about terrorist financing and sanctions evasion in the region."
+    }
+  ],
+  "risk_implications": [
+    {
+      "level": "HIGH",
+      "area": "Terrorist Financing",
+      "description": "The addition of 9 individuals to the SDN list, primarily with ties to Lebanon and the SDGT program, poses a significant risk to global security and financial systems due to potential involvement in terrorist financing and sanctions evasion."
+    },
+    {
+      "level": "MEDIUM",
+      "area": "Sanctions Evasion",
+      "description": "The ongoing efforts to counter sanctions evasion and terrorist financing highlight the need for continued vigilance in monitoring and reporting suspicious activities, particularly in high-risk regions like Lebanon."
+    }
+  ],
+  "program_highlights": [
+    {
+      "program": "SDGT",
+      "daily_added": 9,
+      "note": "All 9 added individuals have ties to the SDGT program, emphasizing the ongoing concerns about terrorist financing and the need for continued countermeasures."
+    },
+    {
+      "program": "IRAN",
+      "daily_added": 1,
+      "note": "One individual, Sheibani Mohammad Reza Raouf, has ties to the IRAN program, highlighting the ongoing risks associated with Iranian sanctions evasion and terrorist financing."
+    },
+    {
+      "program": "IFSR",
+      "daily_added": 1,
+      "note": "One individual, Sheibani Mohammad Reza Raouf, has ties to the IFSR program, posing a significant risk to global security and financial systems due to potential involvement in sanctions evasion and terrorist financing."
+    }
+  ],
+  "geographic_hotspots": [
+    {
+      "region": "Middle East",
+      "countries": [
+        "LB",
+        "IR"
+      ],
+      "activity": "Terrorist Financing and Sanctions Evasion",
+      "trend": "Escalating"
+    }
+  ],
+  "compliance_recommendations": [
+    "Enhance due diligence and monitoring of transactions involving Lebanon and Iran",
+    "Implement robust sanctions screening and reporting mechanisms",
+    "Conduct regular risk assessments to identify potential vulnerabilities to terrorist financing and sanctions evasion",
+    "Develop and maintain effective relationships with regulatory bodies and law enforcement agencies to stay informed about emerging risks and threats"
+  ]
+}

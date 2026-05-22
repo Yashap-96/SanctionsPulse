@@ -1,0 +1,290 @@
+{
+  "date": "2026-05-22",
+  "period": "2026-05-22",
+  "summary": {
+    "added": 9,
+    "removed": 0,
+    "updated": 0
+  },
+  "additions": [
+    {
+      "uid": 57594,
+      "name": "Sheibani Mohammad Reza Raouf",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT",
+        "IRAN",
+        "IFSR"
+      ],
+      "countries": [
+        "IR",
+        "LB"
+      ],
+      "list_type": "SDN",
+      "dob": "1961-12-12",
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u064a\u0628\u0627\u0646\u064a \u0645\u062d\u0645\u062f \u0631\u0636\u0627 \u0631\u0624\u0641",
+        "Sheibani Mohammad Reza",
+        "Sheibani Mohammed Reza Ra'of"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57616,
+      "name": "Fanich Abdel-Mottaleb Mohamed",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "LB"
+      ],
+      "list_type": "SDN",
+      "dob": "1953-02-10",
+      "nationalities": [],
+      "aliases": [
+        "\u0641\u0646\u064a\u0634 \u0639\u0628\u062f \u0627\u0644\u0645\u0637\u0644\u0628 \u0645\u062d\u0645\u062f",
+        "Fneish Mohammad"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57713,
+      "name": "Fadlallah Hassan Nizammeddine",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "LB"
+      ],
+      "list_type": "SDN",
+      "dob": "1967-10-02",
+      "nationalities": [],
+      "aliases": [
+        "Fadlallah Hassan",
+        "\u0641\u0636\u0644 \u0627\u0644\u0644\u0647 \u062d\u0633\u0646"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "000032614265",
+          "country": "Lebanon"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Ainata",
+          "country": "LB"
+        }
+      ]
+    },
+    {
+      "uid": 57714,
+      "name": "Hassan Hussein Al-Hajj",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "LB"
+      ],
+      "list_type": "SDN",
+      "dob": "1960-10-17",
+      "nationalities": [],
+      "aliases": [
+        "Hassan Hussein Al-Haj",
+        "Hassan Hussein Ali Al-Hajj",
+        "\u062d\u0633\u0646 \u062d\u0633\u064a\u0646 \u0639\u0644\u0649 \u0627\u0644\u062d\u0627\u062c"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Nabi Chit",
+          "state": "Beqaa",
+          "country": "LB"
+        }
+      ]
+    },
+    {
+      "uid": 57722,
+      "name": "al-Moussawi Ibrahim",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "LB"
+      ],
+      "list_type": "SDN",
+      "dob": "1965-11-05",
+      "nationalities": [],
+      "aliases": [
+        "\u0627\u0644\u0645\u0648\u0633\u0648\u064a \u0627\u0628\u0631\u0627\u0647\u064a\u0645",
+        "Mousawi Ibrahim",
+        "al-Mousaoui Ibrahim"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "000019172428",
+          "country": "Lebanon"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57736,
+      "name": "Nasser Eldin Khattar",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "LB"
+      ],
+      "list_type": "SDN",
+      "dob": "1973-04-07",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "RL2508250",
+          "country": "Lebanon"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Khattar Nasser El Din Building",
+          "address2": "Kalamoun Old Road",
+          "city": "Tripoli",
+          "country": "LB"
+        }
+      ]
+    },
+    {
+      "uid": 57737,
+      "name": "Hamadi Samir 'Adnan",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "LB"
+      ],
+      "list_type": "SDN",
+      "dob": "1982-02-17",
+      "nationalities": [],
+      "aliases": [
+        "\u062d\u0645\u0627\u062f\u064a \u0633\u0627\u0645\u0631 \u0639\u062f\u0646\u0627\u0646",
+        "Hamadi Samer"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "LR0499320",
+          "country": "Lebanon"
+        },
+        {
+          "type": "Birth Certificate Number",
+          "number": "533",
+          "country": "Lebanon"
+        },
+        {
+          "type": "Identification Number",
+          "number": "4267356",
+          "country": "Lebanon"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Mount Lebanon",
+          "country": "LB"
+        }
+      ]
+    },
+    {
+      "uid": 57738,
+      "name": "Safawi Ali Ahmad",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "LB"
+      ],
+      "list_type": "SDN",
+      "dob": "1981-09-29",
+      "nationalities": [],
+      "aliases": [
+        "Safawi Ahmad",
+        "\u0635\u0641\u0627\u0648\u064a \u0627\u062d\u0645\u062f",
+        "Safawi Abu Ahmad"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "000013508041",
+          "country": "Lebanon"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Nabatieh",
+          "country": "LB"
+        }
+      ]
+    },
+    {
+      "uid": 57739,
+      "name": "Baalbaki Ahmad Asaad",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "LB"
+      ],
+      "list_type": "SDN",
+      "dob": "1961-04-02",
+      "nationalities": [],
+      "aliases": [
+        "\u0628\u0639\u0644\u0628\u0643\u064a \u0627\u062d\u0645\u062f \u0627\u0633\u0639\u062f",
+        "Balabaki Ahmad Asad"
+      ],
+      "ids": [
+        {
+          "type": "Identification Number",
+          "number": "311125",
+          "country": "Lebanon"
+        },
+        {
+          "type": "National ID No.",
+          "number": "000034246532",
+          "country": "Lebanon"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Beirut",
+          "country": "LB"
+        }
+      ]
+    }
+  ],
+  "removals": [],
+  "updates": []
+}
