@@ -1,0 +1,81 @@
+{
+  "executive_summary": "Today, OFAC added 25 new entities to the SDN list, primarily targeting companies and vessels involved in Iranian sanctions evasion. The additions include entities from China, Hong Kong, India, Marshall Islands, Qatar, Singapore, and the United Arab Emirates. No entities were removed or updated.",
+  "notable_entities": [
+    {
+      "uid": "56381",
+      "name": "Tida Co., Limited",
+      "programs": [
+        "SDGT",
+        "IFSR"
+      ],
+      "significance": "Added to the SDN list for involvement in Iranian sanctions evasion"
+    },
+    {
+      "uid": "57761",
+      "name": "EVER SHINING LIMITED",
+      "programs": [
+        "IRAN-EO13846"
+      ],
+      "significance": "Added to the SDN list for involvement in Iranian sanctions evasion"
+    },
+    {
+      "uid": "57771",
+      "name": "RISHABH TRIEXIM LLP",
+      "programs": [
+        "IRAN-EO13846"
+      ],
+      "significance": "Added to the SDN list for involvement in Iranian sanctions evasion"
+    }
+  ],
+  "risk_implications": [
+    {
+      "level": "HIGH",
+      "area": "Maritime trade",
+      "description": "The addition of multiple vessels to the SDN list increases the risk of unintentional dealings with sanctioned entities in the maritime trade sector"
+    },
+    {
+      "level": "MEDIUM",
+      "area": "Financial transactions",
+      "description": "The addition of new entities to the SDN list may require financial institutions to update their screening processes to avoid unintentional transactions with sanctioned entities"
+    }
+  ],
+  "program_highlights": [
+    {
+      "program": "SDGT",
+      "daily_added": 5,
+      "note": "Multiple entities were added to the SDGT program for involvement in Iranian sanctions evasion"
+    },
+    {
+      "program": "IRAN-EO13846",
+      "daily_added": 20,
+      "note": "The majority of additions were made to the IRAN-EO13846 program, targeting entities involved in Iranian sanctions evasion"
+    }
+  ],
+  "geographic_hotspots": [
+    {
+      "region": "Asia",
+      "countries": [
+        "CN",
+        "HK",
+        "IN",
+        "SG"
+      ],
+      "activity": "Sanctions evasion",
+      "trend": "Escalating"
+    },
+    {
+      "region": "Middle East",
+      "countries": [
+        "AE",
+        "QA"
+      ],
+      "activity": "Sanctions evasion",
+      "trend": "Steady"
+    }
+  ],
+  "compliance_recommendations": [
+    "Update screening processes to include new SDN list additions",
+    "Conduct enhanced due diligence on entities involved in maritime trade",
+    "Monitor financial transactions for potential dealings with sanctioned entities"
+  ]
+}
