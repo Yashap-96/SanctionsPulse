@@ -1,0 +1,527 @@
+{
+  "date": "2026-05-30",
+  "period": "2026-05-30",
+  "summary": {
+    "added": 13,
+    "removed": 0,
+    "updated": 1
+  },
+  "additions": [
+    {
+      "uid": 54204,
+      "name": "Sepehr Ali Majd",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT",
+        "IFSR"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1980-12-22",
+      "nationalities": [],
+      "aliases": [
+        "Bitazer Ali",
+        "Bitazar Ali"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0071722221",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "state": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 54205,
+      "name": "Darehshiri Mohammadali Mansour",
+      "entry_type": "Individual",
+      "programs": [
+        "IFSR",
+        "SDGT"
+      ],
+      "countries": [
+        "AE",
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1964-07-27",
+      "nationalities": [],
+      "aliases": [
+        "Darehshiri Mohammad Ali",
+        "Darreh Shiri Mohammed Ali",
+        "Darehshiri Mansour",
+        "Dareh Shiri Mohammadali Mohammad"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "4430983704",
+          "country": "Iran"
+        },
+        {
+          "type": "Birth Certificate Number",
+          "number": "2377",
+          "country": "Iran"
+        },
+        {
+          "type": "Passport",
+          "number": "N61034949",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "state": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 54206,
+      "name": "Sorena Hushmand Samaneh Company",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "SDGT"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0631\u06a9\u062a \u0633\u0627\u0645\u0627\u0646\u0647 \u0647\u0648\u0634\u0645\u0646\u062f \u0633\u0648\u0631\u0646\u0627",
+        "Samaneh Houshmand Sorena",
+        "Sorena Smart System Co Ltd",
+        "Sorena Technology"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "10103647730",
+          "country": "Iran"
+        },
+        {
+          "type": "Registration Number",
+          "number": "323911",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Unit 9, No. 7, Alley 12",
+          "address2": "South Ghandi Street",
+          "address3": "Vanak Square",
+          "state": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 54207,
+      "name": "Sarmadi Roudabeh",
+      "entry_type": "Individual",
+      "programs": [
+        "IFSR",
+        "SDGT"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1983-11-11",
+      "nationalities": [],
+      "aliases": [
+        "Sarmadi Rudabeh"
+      ],
+      "ids": [
+        {
+          "type": "Birth Certificate Number",
+          "number": "13019",
+          "country": "Iran"
+        },
+        {
+          "type": "National ID No.",
+          "number": "0070144011",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "state": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 54208,
+      "name": "Al Kawther Neon LLC",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "SDGT"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u202b\u0627\u0644\u06a9\u0648\u062b\u0631 \u0644\u0644\u0646\u06cc\u0648\u0646 \u0634.\u0630.\u0645.\u0645\u202c",
+        "Alkawther Neon Co"
+      ],
+      "ids": [
+        {
+          "type": "Commercial Registry Number",
+          "number": "996952",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Chamber of Commerce Number",
+          "number": "99850",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Economic Register Number (CBLS)",
+          "number": "10814414",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Registration Number",
+          "number": "546643",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "P.O. Box 80123",
+          "state": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 54209,
+      "name": "Green Light Computer Co LLC",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "SDGT"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u202b\u0634\u0631\u06a9\u0629 \u0627\u0644\u0636\u0648\u0621 \u0627\u0644\u0627\u062e\u0636\u0631 \u0644\u0644\u06a9\u0645\u0628\u06cc\u0648\u062a\u0631 \u0630.\u0645.\u0645\u202c",
+        "Green Light Computer Co"
+      ],
+      "ids": [
+        {
+          "type": "Economic Register Number (CBLS)",
+          "number": "10801439",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "License",
+          "number": "513937",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Deira Al Khabeesi",
+          "state": "Dubai",
+          "country": "AE"
+        },
+        {
+          "address1": "P.O. Box 47167",
+          "state": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 54219,
+      "name": "Akhtarian Sayyed Payam",
+      "entry_type": "Individual",
+      "programs": [
+        "IFSR",
+        "SDGT"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1984-08-28",
+      "nationalities": [],
+      "aliases": [
+        "Akhtarian Payam"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0068490585",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "state": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 54220,
+      "name": "Rezaei Farzaneh",
+      "entry_type": "Individual",
+      "programs": [
+        "IFSR",
+        "SDGT"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1975-10-07",
+      "nationalities": [],
+      "aliases": [
+        "Rezai Farzaneh"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0072615125",
+          "country": "Iran"
+        },
+        {
+          "type": "Birth Certificate Number",
+          "number": "4712",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "state": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 54221,
+      "name": "Zandian Manoochehr",
+      "entry_type": "Individual",
+      "programs": [
+        "IFSR",
+        "SDGT"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1960-05-02",
+      "nationalities": [],
+      "aliases": [
+        "Zandian Manoochehr Shahryar"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "4489859856",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "state": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 54222,
+      "name": "Bagheri Hoda Baradaran",
+      "entry_type": "Individual",
+      "programs": [
+        "IFSR",
+        "SDGT"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1984-09-15",
+      "nationalities": [],
+      "aliases": [
+        "Bagheri Hoda"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0074993305",
+          "country": "Iran"
+        },
+        {
+          "type": "Birth Certificate Number",
+          "number": "7616",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "state": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 54223,
+      "name": "Zahedi Saeid",
+      "entry_type": "Individual",
+      "programs": [
+        "IFSR",
+        "SDGT"
+      ],
+      "countries": [
+        "IR",
+        "IT"
+      ],
+      "list_type": "SDN",
+      "dob": "1987-10-03",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0078347726",
+          "country": "Iran"
+        },
+        {
+          "type": "National ID No.",
+          "number": "ZHDSDA87R03Z224O",
+          "country": "Italy"
+        },
+        {
+          "type": "Passport",
+          "number": "YB2971531",
+          "country": "Italy"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "state": "Rome",
+          "country": "IT"
+        }
+      ]
+    },
+    {
+      "uid": 54224,
+      "name": "Sairan Information Exchange Space Security Industries Company",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "SDGT"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Sairan Information Exchange Space Security Industry",
+        "SAAFTA"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "14004828226",
+          "country": "Iran"
+        },
+        {
+          "type": "Identification Number",
+          "number": "411481176816",
+          "country": "Iran"
+        },
+        {
+          "type": "Registration Number",
+          "number": "470437",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Shahid Teymouri Alley, Shahid Langari Street",
+          "address2": "Nobonyad Square",
+          "address3": "Pasdaran Street",
+          "state": "Tehran",
+          "postal_code": "1957975713",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 57817,
+      "name": "Comando Vermelho",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "BR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Red Command"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    }
+  ],
+  "removals": [],
+  "updates": [
+    {
+      "uid": 31632,
+      "name": "Primeiro Comando Da Capital",
+      "changes": {
+        "programs": {
+          "old": [
+            "ILLICIT-DRUGS-EO14059"
+          ],
+          "new": [
+            "ILLICIT-DRUGS-EO14059",
+            "SDGT"
+          ]
+        }
+      }
+    }
+  ]
+}

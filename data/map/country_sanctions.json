@@ -175,8 +175,8 @@
     "daily_removed": 0
   },
   "IT": {
-    "total": 78,
-    "sdn": 78,
+    "total": 79,
+    "sdn": 79,
     "consolidated": 0,
     "programs": [
       "CUBA",
@@ -194,7 +194,7 @@
       "FTO",
       "ILLICIT-DRUGS-EO14059"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "AR": {
@@ -583,8 +583,8 @@
     "daily_removed": 0
   },
   "IR": {
-    "total": 1568,
-    "sdn": 1568,
+    "total": 1578,
+    "sdn": 1578,
     "consolidated": 0,
     "programs": [
       "IRAN",
@@ -616,7 +616,7 @@
       "GLOMAG",
       "ILLICIT-DRUGS-EO14059"
     ],
-    "daily_added": 0,
+    "daily_added": 10,
     "daily_removed": 0
   },
   "AF": {
@@ -942,7 +942,7 @@
       "561-Related",
       "CMIC-EO13959"
     ],
-    "daily_added": 9,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "ER": {
@@ -1007,7 +1007,7 @@
       "TCO",
       "NPWMD"
     ],
-    "daily_added": 2,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "IQ": {
@@ -1341,8 +1341,8 @@
     "daily_removed": 0
   },
   "AE": {
-    "total": 701,
-    "sdn": 701,
+    "total": 704,
+    "sdn": 704,
     "consolidated": 0,
     "programs": [
       "IRAQ2",
@@ -1436,8 +1436,8 @@
     "daily_removed": 0
   },
   "BR": {
-    "total": 22,
-    "sdn": 22,
+    "total": 23,
+    "sdn": 23,
     "consolidated": 0,
     "programs": [
       "SDGT",
@@ -1447,7 +1447,7 @@
       "ILLICIT-DRUGS-EO14059",
       "FTO"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "PY": {
@@ -1675,7 +1675,7 @@
       "RUSSIA-EO14024",
       "IRAN-EO13846"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "TM": {
@@ -1910,7 +1910,7 @@
       "IRAN-EO13902",
       "TCO"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "MM": {
@@ -2240,7 +2240,7 @@
       "UKRAINE-EO13662",
       "VENEZUELA-EO13850"
     ],
-    "daily_added": 2,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "LR": {
@@ -2258,7 +2258,7 @@
       "UKRAINE-EO13662",
       "IFSR"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "SI": {
