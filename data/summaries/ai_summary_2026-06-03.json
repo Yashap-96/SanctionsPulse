@@ -1,0 +1,84 @@
+{
+  "executive_summary": "OFAC added 10 new entities and individuals to the SDN list on June 3, 2026, primarily targeting individuals and entities in the Democratic Republic of the Congo and Iran. The additions are associated with various programs, including DRCONGO, IRAN-EO13902, and SDGT. The majority of the additions are related to Iranian entities and individuals, highlighting the ongoing focus on Iran-related sanctions.",
+  "notable_entities": [
+    {
+      "uid": "50605",
+      "name": "Nzenze John Imani",
+      "programs": [
+        "DRCONGO"
+      ],
+      "significance": "Individual added to the SDN list for involvement in activities related to the Democratic Republic of the Congo"
+    },
+    {
+      "uid": "56981",
+      "name": "Nobitex",
+      "programs": [
+        "IRAN-EO13902",
+        "IRAN",
+        "SDGT"
+      ],
+      "significance": "Entity added to the SDN list for involvement in activities related to Iran and SDGT"
+    },
+    {
+      "uid": "57028",
+      "name": "Rad Amir Hossein",
+      "programs": [
+        "IRAN-EO13902",
+        "SDGT"
+      ],
+      "significance": "Individual added to the SDN list for involvement in activities related to Iran and SDGT"
+    }
+  ],
+  "risk_implications": [
+    {
+      "level": "HIGH",
+      "area": "Iran-related transactions",
+      "description": "The additions of Iranian entities and individuals to the SDN list increase the risk of inadvertently conducting transactions with sanctioned parties, highlighting the need for enhanced due diligence and screening"
+    },
+    {
+      "level": "MEDIUM",
+      "area": "Democratic Republic of the Congo-related transactions",
+      "description": "The addition of individuals related to the Democratic Republic of the Congo to the SDN list may pose a moderate risk to companies operating in the region, requiring increased vigilance in customer and transaction screening"
+    }
+  ],
+  "program_highlights": [
+    {
+      "program": "DRCONGO",
+      "daily_added": 2,
+      "note": "Two individuals were added to the SDN list under the DRCONGO program, indicating ongoing efforts to target individuals involved in activities related to the Democratic Republic of the Congo"
+    },
+    {
+      "program": "IRAN-EO13902",
+      "daily_added": 5,
+      "note": "Five entities and individuals were added to the SDN list under the IRAN-EO13902 program, highlighting the continued focus on Iran-related sanctions"
+    },
+    {
+      "program": "SDGT",
+      "daily_added": 5,
+      "note": "Five individuals were added to the SDN list under the SDGT program, indicating ongoing efforts to target individuals involved in terrorist activities"
+    }
+  ],
+  "geographic_hotspots": [
+    {
+      "region": "Middle East",
+      "countries": [
+        "IR"
+      ],
+      "activity": "Sanctions targeting Iranian entities and individuals",
+      "trend": "Escalating"
+    },
+    {
+      "region": "Africa",
+      "countries": [
+        "CD"
+      ],
+      "activity": "Sanctions targeting individuals related to the Democratic Republic of the Congo",
+      "trend": "Steady"
+    }
+  ],
+  "compliance_recommendations": [
+    "Enhance due diligence and screening procedures for Iran-related transactions",
+    "Increase vigilance in customer and transaction screening for companies operating in the Democratic Republic of the Congo",
+    "Regularly review and update sanctions lists to ensure compliance with OFAC regulations"
+  ]
+}

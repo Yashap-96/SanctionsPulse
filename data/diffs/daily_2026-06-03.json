@@ -1,0 +1,317 @@
+{
+  "date": "2026-06-03",
+  "period": "2026-06-03",
+  "summary": {
+    "added": 10,
+    "removed": 0,
+    "updated": 0
+  },
+  "additions": [
+    {
+      "uid": 50605,
+      "name": "Nzenze John Imani",
+      "entry_type": "Individual",
+      "programs": [
+        "DRCONGO"
+      ],
+      "countries": [
+        "CD"
+      ],
+      "list_type": "SDN",
+      "dob": "1978-08-06",
+      "nationalities": [],
+      "aliases": [
+        "Idi Imani Nzenze"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "1197880137555327",
+          "country": "Rwanda"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "state": "North Kivu",
+          "country": "CD"
+        }
+      ]
+    },
+    {
+      "uid": 50608,
+      "name": "Kubwayo Gustave",
+      "entry_type": "Individual",
+      "programs": [
+        "DRCONGO"
+      ],
+      "countries": [
+        "CD"
+      ],
+      "list_type": "SDN",
+      "dob": "1969-01-01",
+      "nationalities": [],
+      "aliases": [
+        "Sirkoff",
+        "Sirkoof"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "state": "North Kivu",
+          "country": "CD"
+        }
+      ]
+    },
+    {
+      "uid": 56981,
+      "name": "Nobitex",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902",
+        "IRAN",
+        "SDGT"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Rahkar Fanavari Nooyan"
+      ],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "1400769571",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Unit 1002, Floor 10, Sharif Technology Tower",
+          "address2": "Akbari Corner, Salehi Boulevard",
+          "address3": "Tarasht",
+          "city": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 57028,
+      "name": "Rad Amir Hossein",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902",
+        "SDGT"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1986-03-21",
+      "nationalities": [],
+      "aliases": [
+        "Rad Amirhossein",
+        "Rad Amir"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "4324461872",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Qazvin",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 57090,
+      "name": "Bitpin",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN",
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Sana Ayman Mubadala"
+      ],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "14009960142",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Unit 2, Floor 1, Viana (Alizadeh) Trade Complex Building No. 42",
+          "address2": "Shahid Fatehi Blvd., Sharghayegh Alley",
+          "address3": "Anzali Free Zone",
+          "city": "Bandar Anzali",
+          "state": "Gilan",
+          "postal_code": "4333155170",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 57091,
+      "name": "Wallex",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902",
+        "IRAN"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Khalq Tharwat Sarzamin Parseh Company",
+        "Khalgh Sarvat Sarzamin Parseh"
+      ],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "14010030821",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "North Unit, Fourth Floor, No. 231",
+          "address2": "Mirzai Shirazi Street, Shahoda Street",
+          "address3": "Abbasabad-Andisheh",
+          "city": "Tehran",
+          "postal_code": "1586753411",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 57092,
+      "name": "Ramzinex",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902",
+        "IRAN"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Ramzineh Electronic Commerce Innovation Company"
+      ],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "14009372096",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Unit 901, 9th Floor",
+          "address2": "Sharif Technology Tower, No. 28",
+          "address3": "Shahid Hamid Salahi Blvd, Azadeh Street",
+          "city": "Timori",
+          "state": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 57813,
+      "name": "Aghamir Mohammad Ali Seyed Mohammad Ali",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1986-08-23",
+      "nationalities": [],
+      "aliases": [
+        "Kharrazi Ali",
+        "Aghamir Ali",
+        "Ahmad Hossein Ali"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57814,
+      "name": "Aghamir Mohammad Ali Seyed Mohammad",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1992-01-01",
+      "nationalities": [],
+      "aliases": [
+        "Kharrazi Mohammad",
+        "Aghamir Mohammad"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 57815,
+      "name": "Khoee Seyed Ali",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1989-05-02",
+      "nationalities": [],
+      "aliases": [
+        "Khouei Ali"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    }
+  ],
+  "removals": [],
+  "updates": []
+}

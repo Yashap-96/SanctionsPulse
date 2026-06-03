@@ -583,8 +583,8 @@
     "daily_removed": 0
   },
   "IR": {
-    "total": 1578,
-    "sdn": 1578,
+    "total": 1586,
+    "sdn": 1586,
     "consolidated": 0,
     "programs": [
       "IRAN",
@@ -616,7 +616,7 @@
       "GLOMAG",
       "ILLICIT-DRUGS-EO14059"
     ],
-    "daily_added": 0,
+    "daily_added": 8,
     "daily_removed": 0
   },
   "AF": {
@@ -1602,8 +1602,8 @@
     "daily_removed": 0
   },
   "CD": {
-    "total": 85,
-    "sdn": 85,
+    "total": 87,
+    "sdn": 87,
     "consolidated": 0,
     "programs": [
       "DRCONGO",
@@ -1614,7 +1614,7 @@
       "DPRK4",
       "SOUTH SUDAN"
     ],
-    "daily_added": 0,
+    "daily_added": 2,
     "daily_removed": 0
   },
   "RW": {
