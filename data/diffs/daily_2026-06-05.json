@@ -1,0 +1,1045 @@
+{
+  "date": "2026-06-05",
+  "period": "2026-06-05",
+  "summary": {
+    "added": 32,
+    "removed": 0,
+    "updated": 2
+  },
+  "additions": [
+    {
+      "uid": 57855,
+      "name": "BUTANI TRADING LLC",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "License",
+          "number": "1201861",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Chamber of Commerce Number",
+          "number": "468432",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Commercial Registry Number",
+          "number": "2012881",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Office No 481-02-SM1",
+          "address2": "Port Saeed",
+          "address3": "Deira",
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 57856,
+      "name": "DUNDLOD TRADING FZE",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "38618",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "P6-ELOB",
+          "address2": "Office No. E2-121 F-55",
+          "address3": "Hamriyah Free Zone",
+          "city": "Sharjah",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 57857,
+      "name": "ADH ENERGY FZE",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "38672",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "P5-ELOB",
+          "address2": "Office No E2-122G-10",
+          "address3": "Hamriyah Free Zone",
+          "city": "Sharjah",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 57858,
+      "name": "Zada Sarbaz Abdul",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": "1977-01-01",
+      "nationalities": [],
+      "aliases": [
+        "Bin Hajji Molla Nur Sarbaz Abdul Zada",
+        "\u0628\u0646 \u062d\u0627\u062c\u064a \u0645\u0648\u0644\u0627\u0646\u0648\u0631 \u0633\u0631\u0628\u0627\u0632 \u0639\u0628\u062f\u0644"
+      ],
+      "ids": [
+        {
+          "type": "Identification Number",
+          "number": "784-1977-2690971-2",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "National ID No.",
+          "number": "122146116",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57860,
+      "name": "Mihandoust Mohammad Shakol",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE",
+        "TR"
+      ],
+      "list_type": "SDN",
+      "dob": "1982-11-24",
+      "nationalities": [],
+      "aliases": [
+        "Shakoor Haji Muhammad",
+        "Shakoor Muhammad"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "18986951490",
+          "country": "Turkey"
+        },
+        {
+          "type": "Passport",
+          "number": "U23085392",
+          "country": "Turkey"
+        },
+        {
+          "type": "Passport",
+          "number": "U33171256",
+          "country": "Turkey"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57862,
+      "name": "SAHEL STAR OIL AND GAS COMPANY LLC",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0631\u0643\u0629 \u0633\u0627\u062d\u0644 \u0633\u062a\u0627\u0631 \u0644\u0644\u0646\u0641\u0637 \u0648\u0627\u0644\u063a\u0627\u0632 \u0627\u0644\u0637\u0628\u064a\u0639\u064a"
+      ],
+      "ids": [
+        {
+          "type": "License",
+          "number": "993937",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Business Registration Number",
+          "number": "11766762",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Office No 3108-3109",
+          "address2": "Parcel Plot 346-485",
+          "address3": "Bur Dubai",
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 57864,
+      "name": "SHANGHAI QIANYE ENERGY CO., LTD.",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u4e0a\u6d77\u5343\u70e8\u80fd\u6e90\u79d1\u6280\u6709\u9650\u516c\u53f8"
+      ],
+      "ids": [
+        {
+          "type": "Unified Social Credit Code (USCC)",
+          "number": "91310000MACNLJYM25",
+          "country": "China"
+        },
+        {
+          "type": "Commercial Registry Number",
+          "number": "310000401066334",
+          "country": "China"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Room 2701B",
+          "address2": "No. 99 Xianxia Road",
+          "city": "Shanghai",
+          "postal_code": "200050",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 57867,
+      "name": "LIMRA GAS LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "MH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Identification Number",
+          "number": "IMO 6400813",
+          "country": ""
+        },
+        {
+          "type": "Business Registration Number",
+          "number": "119426",
+          "country": "Marshall Islands"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Trust Company Complex",
+          "address2": "Ajeltake Road",
+          "city": "Ajeltake Island",
+          "state": "Majuro",
+          "postal_code": "96960",
+          "country": "MH"
+        }
+      ]
+    },
+    {
+      "uid": 57870,
+      "name": "ECOSEAS MARITIME LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "LR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Identification Number",
+          "number": "IMO 6158030",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "80 Broad Street",
+          "city": "Monrovia",
+          "country": "LR"
+        }
+      ]
+    },
+    {
+      "uid": 57875,
+      "name": "BLUE SEA MARINE INCORPORATED AND FAATEH MARITIME INCORPORATED",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "MH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Blue Sea Marine Incorporated & Faateh Maritime Incorporated"
+      ],
+      "ids": [
+        {
+          "type": "Identification Number",
+          "number": "IMO 0081438",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Trust Company Complex",
+          "address2": "Ajeltake Road",
+          "city": "Ajeltake Island",
+          "state": "Majuro",
+          "postal_code": "96960",
+          "country": "MH"
+        }
+      ]
+    },
+    {
+      "uid": 57877,
+      "name": "ADAMAS SHIPPING INC",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "MH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Identification Number",
+          "number": "IMO 6420321",
+          "country": ""
+        },
+        {
+          "type": "Business Registration Number",
+          "number": "120582",
+          "country": "Marshall Islands"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Trust Company Complex",
+          "address2": "Ajeltake Road",
+          "city": "Ajeltake Island",
+          "state": "Majuro",
+          "postal_code": "96960",
+          "country": "MH"
+        }
+      ]
+    },
+    {
+      "uid": 57878,
+      "name": "BlACK GOLD TRADE CORPORATION",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "MH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Identification Number",
+          "number": "IMO 0042360",
+          "country": ""
+        },
+        {
+          "type": "Business Registration Number",
+          "number": "127595",
+          "country": "Marshall Islands"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Trust Company Complex",
+          "address2": "Ajeltake Road",
+          "city": "Ajeltake Island",
+          "state": "Majuro",
+          "postal_code": "96960",
+          "country": "MH"
+        }
+      ]
+    },
+    {
+      "uid": 57881,
+      "name": "GAS GMS LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "MH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Identification Number",
+          "number": "IMO 6413451",
+          "country": ""
+        },
+        {
+          "type": "Business Registration Number",
+          "number": "120290",
+          "country": "Marshall Islands"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Trust Company Complex",
+          "address2": "Ajeltake Road",
+          "city": "Ajeltake Island",
+          "state": "Majuro",
+          "postal_code": "96960",
+          "country": "MH"
+        }
+      ]
+    },
+    {
+      "uid": 57883,
+      "name": "MD 23",
+      "entry_type": "Vessel",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 9158240",
+          "country": ""
+        },
+        {
+          "type": "MMSI",
+          "number": "511101848",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57885,
+      "name": "GLENDALE",
+      "entry_type": "Vessel",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 9139945",
+          "country": ""
+        },
+        {
+          "type": "MMSI",
+          "number": "356634000",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57887,
+      "name": "AMIR GAS",
+      "entry_type": "Vessel",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 9167409",
+          "country": ""
+        },
+        {
+          "type": "MMSI",
+          "number": "314550001",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57888,
+      "name": "GAS LAGOON",
+      "entry_type": "Vessel",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 9386304",
+          "country": ""
+        },
+        {
+          "type": "MMSI",
+          "number": "352002989",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57890,
+      "name": "Mehrdad Geramian Nik and Partners Company",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0631\u06a9\u062a \u0645\u0647\u0631\u062f\u0627\u062f \u06af\u0631\u0627\u0645\u06cc\u0627\u0646 \u0646\u06cc\u06a9 \u0648 \u0634\u0631\u06a9\u0627",
+        "Mehrdad Geramian Nik and Partners Exchange"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "397342",
+          "country": "Iran"
+        },
+        {
+          "type": "National ID No.",
+          "number": "10320482405",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "No. 25, Ground Floor, Rose Commercial and Administrative Complex",
+          "address2": "Opposite the Central Bank",
+          "address3": "Mirdamad Boulevard",
+          "city": "Tehran",
+          "state": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 57891,
+      "name": "Geramian Nik Mehrdad",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1964-08-24",
+      "nationalities": [],
+      "aliases": [
+        "\u06af\u0631\u0627\u0645\u06cc\u0627\u0646 \u0646\u06cc\u06a9 \u0645\u0647\u0631\u062f\u0627\u062f",
+        "Gramian Nik Mehrdad"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0041253825",
+          "country": "Iran"
+        },
+        {
+          "type": "Passport",
+          "number": "V52959771",
+          "country": "Iran"
+        },
+        {
+          "type": "Passport",
+          "number": "I73046943",
+          "country": "Iran"
+        },
+        {
+          "type": "Passport",
+          "number": "RA051286",
+          "country": "Dominica"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 57892,
+      "name": "MILE",
+      "entry_type": "Vessel",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 8910897",
+          "country": ""
+        },
+        {
+          "type": "MMSI",
+          "number": "352002974",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57893,
+      "name": "Geramian Nik Romina",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1989-05-09",
+      "nationalities": [],
+      "aliases": [
+        "\u06af\u0631\u0627\u0645\u06cc\u0627\u0646 \u0646\u06cc\u06a9 \u0631\u0648\u0645\u06cc\u0646\u0627",
+        "Gramian Nik Rumina"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0440054621",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 57894,
+      "name": "GAZ GMS",
+      "entry_type": "Vessel",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 9131539",
+          "country": ""
+        },
+        {
+          "type": "MMSI",
+          "number": "352002853",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57895,
+      "name": "Diaz-Canel Miguel Bermudez",
+      "entry_type": "Individual",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": "1960-04-20",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57898,
+      "name": "Ministry of the Revolutionary Armed Forces of Cuba",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "MINFAR",
+        "Ministerio De Las Fuerzas Armadas Revolucionarias"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Independence Avenue",
+          "address2": "Sierra Maestra Building",
+          "address3": "Plaza of the Revolution Municipality",
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 57899,
+      "name": "Cuesta Lis Peraza",
+      "entry_type": "Individual",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": "1971-03-28",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57900,
+      "name": "Anido Manuel Cuesta",
+      "entry_type": "Individual",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "ES"
+      ],
+      "list_type": "SDN",
+      "dob": "1994-11-03",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Madrid",
+          "country": "ES"
+        }
+      ]
+    },
+    {
+      "uid": 57901,
+      "name": "Committees for the Defense of the Revolution",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "CDR",
+        "Comites De Defensa De La Revolucion"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Linea Avenue",
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 57902,
+      "name": "Minera La Victoria SA",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "MLV"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Office 123, First Floor, Third Avenue Between 76 and 78",
+          "address2": "Beijing Building, Miramar Business Center",
+          "address3": "Playa",
+          "city": "Havana",
+          "postal_code": "11300",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 57903,
+      "name": "Castro Alejandro Espin",
+      "entry_type": "Individual",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": "1965-01-01",
+      "nationalities": [],
+      "aliases": [
+        "El Tuerto"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57904,
+      "name": "Castro Raul Alejandro Calis",
+      "entry_type": "Individual",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": "1995-05-16",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 57905,
+      "name": "Cuban Institute of Friendship with the Peoples",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "ICAP",
+        "Instituto Cubano De Amistad Con Los Pueblos"
+      ],
+      "ids": [
+        {
+          "type": "Entity Code",
+          "number": "652",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Calle 17 No. 301 e/ H e I",
+          "address2": "Vedado",
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 57906,
+      "name": "Amistur Cuba SA",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Calle 13 #504 e/ D y E",
+          "address2": "Vedado",
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    }
+  ],
+  "removals": [],
+  "updates": [
+    {
+      "uid": 31632,
+      "name": "Primeiro Comando Da Capital",
+      "changes": {
+        "programs": {
+          "old": [
+            "ILLICIT-DRUGS-EO14059",
+            "SDGT"
+          ],
+          "new": [
+            "ILLICIT-DRUGS-EO14059",
+            "SDGT",
+            "FTO"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 57817,
+      "name": "Comando Vermelho",
+      "changes": {
+        "programs": {
+          "old": [
+            "SDGT"
+          ],
+          "new": [
+            "SDGT",
+            "FTO"
+          ]
+        }
+      }
+    }
+  ]
+}

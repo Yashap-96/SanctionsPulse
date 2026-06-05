@@ -1,7 +1,7 @@
 {
   "CU": {
-    "total": 46,
-    "sdn": 46,
+    "total": 55,
+    "sdn": 55,
     "consolidated": 0,
     "programs": [
       "CUBA",
@@ -11,7 +11,7 @@
       "VENEZUELA-EO13850",
       "GLOMAG"
     ],
-    "daily_added": 0,
+    "daily_added": 9,
     "daily_removed": 0
   },
   "GB": {
@@ -79,8 +79,8 @@
     "daily_removed": 0
   },
   "ES": {
-    "total": 51,
-    "sdn": 51,
+    "total": 52,
+    "sdn": 52,
     "consolidated": 0,
     "programs": [
       "CUBA",
@@ -93,9 +93,10 @@
       "VENEZUELA-EO13850",
       "RUSSIA-EO14024",
       "ILLICIT-DRUGS-EO14059",
-      "DPRK4"
+      "DPRK4",
+      "CUBA-EO14404"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "JP": {
@@ -583,8 +584,8 @@
     "daily_removed": 0
   },
   "IR": {
-    "total": 1586,
-    "sdn": 1586,
+    "total": 1589,
+    "sdn": 1589,
     "consolidated": 0,
     "programs": [
       "IRAN",
@@ -616,7 +617,7 @@
       "GLOMAG",
       "ILLICIT-DRUGS-EO14059"
     ],
-    "daily_added": 0,
+    "daily_added": 3,
     "daily_removed": 0
   },
   "AF": {
@@ -897,8 +898,8 @@
     "daily_removed": 0
   },
   "CN": {
-    "total": 1206,
-    "sdn": 1135,
+    "total": 1207,
+    "sdn": 1136,
     "consolidated": 71,
     "programs": [
       "SDGT",
@@ -942,7 +943,7 @@
       "561-Related",
       "CMIC-EO13959"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "ER": {
@@ -1059,8 +1060,8 @@
     "daily_removed": 0
   },
   "TR": {
-    "total": 361,
-    "sdn": 360,
+    "total": 362,
+    "sdn": 361,
     "consolidated": 1,
     "programs": [
       "SDGT",
@@ -1083,7 +1084,7 @@
       "IRAN-EO13902",
       "CAATSA - RUSSIA"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "HR": {
@@ -1341,8 +1342,8 @@
     "daily_removed": 0
   },
   "AE": {
-    "total": 704,
-    "sdn": 704,
+    "total": 710,
+    "sdn": 710,
     "consolidated": 0,
     "programs": [
       "IRAQ2",
@@ -1380,7 +1381,7 @@
       "PAIPA",
       "CAATSA - RUSSIA"
     ],
-    "daily_added": 0,
+    "daily_added": 6,
     "daily_removed": 0
   },
   "DO": {
@@ -2223,8 +2224,8 @@
     "daily_removed": 0
   },
   "MH": {
-    "total": 138,
-    "sdn": 138,
+    "total": 143,
+    "sdn": 143,
     "consolidated": 0,
     "programs": [
       "IRAN",
@@ -2240,12 +2241,12 @@
       "UKRAINE-EO13662",
       "VENEZUELA-EO13850"
     ],
-    "daily_added": 0,
+    "daily_added": 5,
     "daily_removed": 0
   },
   "LR": {
-    "total": 51,
-    "sdn": 51,
+    "total": 52,
+    "sdn": 52,
     "consolidated": 0,
     "programs": [
       "IRAN",
@@ -2258,7 +2259,7 @@
       "UKRAINE-EO13662",
       "IFSR"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "SI": {
