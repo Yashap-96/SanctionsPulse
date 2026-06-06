@@ -11,7 +11,7 @@
       "VENEZUELA-EO13850",
       "GLOMAG"
     ],
-    "daily_added": 9,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "GB": {
@@ -96,7 +96,7 @@
       "DPRK4",
       "CUBA-EO14404"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "JP": {
@@ -617,7 +617,7 @@
       "GLOMAG",
       "ILLICIT-DRUGS-EO14059"
     ],
-    "daily_added": 3,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "AF": {
@@ -943,7 +943,7 @@
       "561-Related",
       "CMIC-EO13959"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "ER": {
@@ -1084,7 +1084,7 @@
       "IRAN-EO13902",
       "CAATSA - RUSSIA"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "HR": {
@@ -1381,7 +1381,7 @@
       "PAIPA",
       "CAATSA - RUSSIA"
     ],
-    "daily_added": 6,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "DO": {
@@ -2241,7 +2241,7 @@
       "UKRAINE-EO13662",
       "VENEZUELA-EO13850"
     ],
-    "daily_added": 5,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "LR": {
@@ -2259,7 +2259,7 @@
       "UKRAINE-EO13662",
       "IFSR"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "SI": {
