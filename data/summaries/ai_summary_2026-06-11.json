@@ -1,0 +1,95 @@
+{
+  "executive_summary": "On June 11, 2026, OFAC added 11 new entities and individuals to the SDN list, removed 2 individuals, and updated 3 entities. The additions primarily target Chinese and Iranian individuals and entities involved in nuclear proliferation and other malicious activities. The removals include Russian individuals previously sanctioned under the Russia-EO14024 program.",
+  "notable_entities": [
+    {
+      "uid": "57793",
+      "name": "Domus Trading HK Limited",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "significance": "First-time designation under the IRAN-EO13902 program"
+    },
+    {
+      "uid": "57921",
+      "name": "Union Cuba Petroleo",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "significance": "First-time designation under the CUBA-EO14404 program"
+    },
+    {
+      "uid": "57918",
+      "name": "AHADZADEH Sajjad",
+      "programs": [
+        "IFSR",
+        "IRAN-CON-ARMS-EO"
+      ],
+      "significance": "Designated under the IFSR and IRAN-CON-ARMS-EO programs"
+    }
+  ],
+  "risk_implications": [
+    {
+      "level": "HIGH",
+      "area": "Nuclear Proliferation",
+      "description": "The addition of Chinese and Iranian entities involved in nuclear proliferation increases the risk of illicit activities and potential sanctions evasion"
+    },
+    {
+      "level": "MEDIUM",
+      "area": "Global Trade",
+      "description": "The designation of entities involved in international trade may impact global supply chains and trade relationships"
+    },
+    {
+      "level": "LOW",
+      "area": "Cuba",
+      "description": "The designation of Union Cuba Petroleo may have limited impact on US-Cuba relations"
+    }
+  ],
+  "program_highlights": [
+    {
+      "program": "IRAN-EO13902",
+      "daily_added": 1,
+      "note": "First-time designation under this program"
+    },
+    {
+      "program": "NPWMD",
+      "daily_added": 7,
+      "note": "Multiple entities designated under this program, highlighting ongoing concerns about nuclear proliferation"
+    },
+    {
+      "program": "IFSR",
+      "daily_added": 8,
+      "note": "Entities and individuals designated under this program, indicating continued focus on Iran-related sanctions"
+    }
+  ],
+  "geographic_hotspots": [
+    {
+      "region": "East Asia",
+      "countries": [
+        "CN"
+      ],
+      "activity": "Nuclear proliferation and sanctions evasion",
+      "trend": "Escalating"
+    },
+    {
+      "region": "Middle East",
+      "countries": [
+        "IR"
+      ],
+      "activity": "Nuclear proliferation and malicious activities",
+      "trend": "Steady"
+    },
+    {
+      "region": "Latin America",
+      "countries": [
+        "CU"
+      ],
+      "activity": "Sanctions evasion and trade restrictions",
+      "trend": "Declining"
+    }
+  ],
+  "compliance_recommendations": [
+    "Conduct thorough due diligence on business partners and counterparties, particularly in high-risk regions",
+    "Monitor OFAC updates and ensure timely implementation of new sanctions designations",
+    "Review and update internal compliance policies to reflect changing sanctions landscapes"
+  ]
+}

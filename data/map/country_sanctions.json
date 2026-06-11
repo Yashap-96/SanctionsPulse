@@ -1,7 +1,7 @@
 {
   "CU": {
-    "total": 55,
-    "sdn": 55,
+    "total": 56,
+    "sdn": 56,
     "consolidated": 0,
     "programs": [
       "CUBA",
@@ -11,7 +11,7 @@
       "VENEZUELA-EO13850",
       "GLOMAG"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "GB": {
@@ -350,8 +350,8 @@
     "daily_removed": 0
   },
   "RU": {
-    "total": 5475,
-    "sdn": 5218,
+    "total": 5473,
+    "sdn": 5216,
     "consolidated": 257,
     "programs": [
       "CUBA",
@@ -391,7 +391,7 @@
       "PAIPA"
     ],
     "daily_added": 0,
-    "daily_removed": 0
+    "daily_removed": 2
   },
   "BG": {
     "total": 92,
@@ -584,8 +584,8 @@
     "daily_removed": 0
   },
   "IR": {
-    "total": 1589,
-    "sdn": 1589,
+    "total": 1591,
+    "sdn": 1591,
     "consolidated": 0,
     "programs": [
       "IRAN",
@@ -617,7 +617,7 @@
       "GLOMAG",
       "ILLICIT-DRUGS-EO14059"
     ],
-    "daily_added": 0,
+    "daily_added": 2,
     "daily_removed": 0
   },
   "AF": {
@@ -712,8 +712,8 @@
     "daily_removed": 0
   },
   "AT": {
-    "total": 18,
-    "sdn": 15,
+    "total": 17,
+    "sdn": 14,
     "consolidated": 3,
     "programs": [
       "SDGT",
@@ -723,7 +723,7 @@
       "GLOMAG"
     ],
     "daily_added": 0,
-    "daily_removed": 0
+    "daily_removed": 1
   },
   "BE": {
     "total": 39,
@@ -898,8 +898,8 @@
     "daily_removed": 0
   },
   "CN": {
-    "total": 1207,
-    "sdn": 1136,
+    "total": 1215,
+    "sdn": 1144,
     "consolidated": 71,
     "programs": [
       "SDGT",
@@ -943,7 +943,7 @@
       "561-Related",
       "CMIC-EO13959"
     ],
-    "daily_added": 0,
+    "daily_added": 8,
     "daily_removed": 0
   },
   "ER": {
@@ -1574,7 +1574,8 @@
       "UKRAINE-EO13662",
       "RUSSIA-EO14024",
       "SDGT",
-      "BELARUS-EO14038"
+      "BELARUS-EO14038",
+      "IRAN-CON-ARMS-EO"
     ],
     "daily_added": 0,
     "daily_removed": 0
@@ -1889,8 +1890,8 @@
     "daily_removed": 0
   },
   "SG": {
-    "total": 111,
-    "sdn": 111,
+    "total": 110,
+    "sdn": 110,
     "consolidated": 0,
     "programs": [
       "SDNTK",
@@ -1912,7 +1913,7 @@
       "TCO"
     ],
     "daily_added": 0,
-    "daily_removed": 0
+    "daily_removed": 1
   },
   "MM": {
     "total": 187,
@@ -2111,8 +2112,8 @@
     "daily_removed": 0
   },
   "IL": {
-    "total": 17,
-    "sdn": 17,
+    "total": 16,
+    "sdn": 16,
     "consolidated": 0,
     "programs": [
       "SDNTK",
@@ -2123,7 +2124,7 @@
       "RUSSIA-EO14024"
     ],
     "daily_added": 0,
-    "daily_removed": 0
+    "daily_removed": 1
   },
   "SN": {
     "total": 1,

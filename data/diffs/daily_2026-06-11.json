@@ -1,0 +1,539 @@
+{
+  "date": "2026-06-11",
+  "period": "2026-06-11",
+  "summary": {
+    "added": 11,
+    "removed": 2,
+    "updated": 3
+  },
+  "additions": [
+    {
+      "uid": 57793,
+      "name": "Domus Trading HK Limited",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "77187700",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Suite 1111, 11/F, Hollywood Plaza",
+          "address2": "610 Nathan Road",
+          "address3": "Mong Kok",
+          "city": "Hong Kong",
+          "country": "CN"
+        },
+        {
+          "address1": "Room H28B, Blk EH, 10th Floor",
+          "address2": "Golden Bear Ind. Ctr.",
+          "address3": "66-82 Chai Wan Kok St., Tsuen Wan",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 57794,
+      "name": "Shangshun Hong Kong Ltd",
+      "entry_type": "Entity",
+      "programs": [
+        "NPWMD",
+        "IFSR"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u5546\u9806\u570b\u969b\u9999\u6e2f\u6709\u9650\u516c\u53f8"
+      ],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "58383098",
+          "country": "Hong Kong"
+        },
+        {
+          "type": "Company Number",
+          "number": "1603451",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Room 1526, Unit 1, 15/F, Wah Wan Ind. Building",
+          "address2": "No. 2 Kin Fat Lane, Tuen Mun",
+          "city": "Hong Kong",
+          "country": "CN"
+        },
+        {
+          "address1": "Flat/RM A, 12/F",
+          "address2": "Kiu Fu Commercial Building",
+          "address3": "300 Lockhart Road, Wan Chai, Kowloon",
+          "city": "Hong Kong",
+          "country": "CN"
+        },
+        {
+          "address1": "Unit 1702, Tianbao Cohesion Edifice",
+          "address2": "2nd Street",
+          "address3": "Tianjin Economic-Technological Development Area",
+          "city": "Tianjin",
+          "postal_code": "300457",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 57840,
+      "name": "Mustad Shanghai International Trade Co Ltd",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "NPWMD"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u6155\u65af\u8fbe\u4e0a\u6d77\u56fd\u9645\u8d38\u6613\u6709\u9650\u516c\u53f8"
+      ],
+      "ids": [
+        {
+          "type": "Unified Social Credit Code (USCC)",
+          "number": "91310000MAE6K4CJXM",
+          "country": "China"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "6th Floor, Building 1, No. 1000 Zhenchen Road",
+          "address2": "Baoshan District",
+          "city": "Shanghai",
+          "country": "CN"
+        },
+        {
+          "address1": "Room 450, No. 188 Yesheng Road",
+          "address2": "Lingang New Area",
+          "address3": "China Shanghai Pilot Free Trade Zone",
+          "city": "Shanghai",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 57842,
+      "name": "Liu Boyu",
+      "entry_type": "Individual",
+      "programs": [
+        "IFSR",
+        "NPWMD"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": "1977-05-28",
+      "nationalities": [],
+      "aliases": [
+        "\u5218 \u535a\u5b87"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "220104197705284431",
+          "country": "China"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Nanshan District",
+          "city": "Shenzhen",
+          "state": "Guangdong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 57872,
+      "name": "Meng Shaopei",
+      "entry_type": "Individual",
+      "programs": [
+        "IFSR",
+        "NPWMD"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": "1980-09-16",
+      "nationalities": [],
+      "aliases": [
+        "\u5b5f \u5c11\u57f9"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "132301198009161610",
+          "country": "China"
+        },
+        {
+          "type": "Passport",
+          "number": "EF3549228",
+          "country": "China"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Xinji",
+          "state": "Hebei",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 57874,
+      "name": "Xu Lichun",
+      "entry_type": "Individual",
+      "programs": [
+        "IFSR",
+        "NPWMD"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": "1983-09-30",
+      "nationalities": [],
+      "aliases": [
+        "\u5f90 \u7acb\u6625"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "421182198309304519",
+          "country": "China"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Beijing",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 57880,
+      "name": "Wang Hongyi",
+      "entry_type": "Individual",
+      "programs": [
+        "IFSR",
+        "NPWMD"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": "1975-01-08",
+      "nationalities": [],
+      "aliases": [
+        "\u738b \u6d2a\u4e00"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "420106197501087719",
+          "country": "China"
+        },
+        {
+          "type": "Passport",
+          "number": "PE3086952",
+          "country": "China"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Beijing",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 57913,
+      "name": "Golchin Manuchehr",
+      "entry_type": "Individual",
+      "programs": [
+        "NPWMD",
+        "IFSR"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1959-11-23",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0046380450",
+          "country": "Iran"
+        },
+        {
+          "type": "Passport",
+          "number": "B97415946",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57914,
+      "name": "Solos International Limited",
+      "entry_type": "Entity",
+      "programs": [
+        "NPWMD",
+        "IFSR"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "69620526",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Rm 1526, Unit 1, 15/F, Wah Wan Ind. Building",
+          "address2": "No. 2 Kin Fat Lane, Tuen Mun",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 57918,
+      "name": "AHADZADEH Sajjad",
+      "entry_type": "Individual",
+      "programs": [
+        "IFSR",
+        "IRAN-CON-ARMS-EO"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1983-03-26",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0072094400",
+          "country": "Iran"
+        },
+        {
+          "type": "Passport",
+          "number": "D10006855",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 57921,
+      "name": "Union Cuba Petroleo",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "CUPET"
+      ],
+      "ids": [
+        {
+          "type": "Entity Code",
+          "number": "2605",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Avenida Salvador Allende No. 666",
+          "address2": "Entre Oquendo y Soledad",
+          "city": "Havana",
+          "postal_code": "10300",
+          "country": "CU"
+        }
+      ]
+    }
+  ],
+  "removals": [
+    {
+      "uid": 37112,
+      "name": "Maltsev Sergey Aleksandrovich",
+      "entry_type": "Individual",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "countries": [
+        "RU"
+      ],
+      "list_type": "SDN",
+      "dob": "1973-02-28",
+      "nationalities": [],
+      "aliases": [
+        "\u041c\u0430\u043b\u044c\u0446\u0435\u0432 \u0421\u0435\u0440\u0433\u0435\u0439 \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u0438\u0447"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 40778,
+      "name": "Raykes Olga Borisovna",
+      "entry_type": "Individual",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "countries": [
+        "AT",
+        "IL",
+        "RU",
+        "SG"
+      ],
+      "list_type": "SDN",
+      "dob": "1984-04-25",
+      "nationalities": [],
+      "aliases": [
+        "Raikes Olga Borisovna"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "759916267",
+          "country": "Russia"
+        },
+        {
+          "type": "Passport",
+          "number": "32392042",
+          "country": "Israel"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "13/38 Tarmav Street",
+          "city": "Rishon Lezion",
+          "postal_code": "7529025",
+          "country": "IL"
+        },
+        {
+          "address1": "Pokrovka 35-17-1-17",
+          "city": "Moscow",
+          "postal_code": "105062",
+          "country": "RU"
+        }
+      ]
+    }
+  ],
+  "updates": [
+    {
+      "uid": 15148,
+      "name": "CENTER FOR INNOVATION AND TECHNOLOGY COOPERATION",
+      "changes": {
+        "programs": {
+          "old": [
+            "NPWMD",
+            "IFSR"
+          ],
+          "new": [
+            "NPWMD",
+            "IFSR",
+            "IRAN-CON-ARMS-EO"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 57596,
+      "name": "Armory Alliance LLC",
+      "changes": {
+        "programs": {
+          "old": [
+            "IFSR",
+            "NPWMD"
+          ],
+          "new": [
+            "IFSR",
+            "NPWMD",
+            "IRAN-CON-ARMS-EO"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 57614,
+      "name": "Maleki Mohammadmahdi",
+      "changes": {
+        "programs": {
+          "old": [
+            "IFSR",
+            "NPWMD"
+          ],
+          "new": [
+            "IFSR",
+            "NPWMD",
+            "IRAN-CON-ARMS-EO"
+          ]
+        }
+      }
+    }
+  ]
+}
