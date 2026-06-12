@@ -11,7 +11,7 @@
       "VENEZUELA-EO13850",
       "GLOMAG"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "GB": {
@@ -391,7 +391,7 @@
       "PAIPA"
     ],
     "daily_added": 0,
-    "daily_removed": 2
+    "daily_removed": 0
   },
   "BG": {
     "total": 92,
@@ -617,7 +617,7 @@
       "GLOMAG",
       "ILLICIT-DRUGS-EO14059"
     ],
-    "daily_added": 2,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "AF": {
@@ -723,7 +723,7 @@
       "GLOMAG"
     ],
     "daily_added": 0,
-    "daily_removed": 1
+    "daily_removed": 0
   },
   "BE": {
     "total": 39,
@@ -943,7 +943,7 @@
       "561-Related",
       "CMIC-EO13959"
     ],
-    "daily_added": 8,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "ER": {
@@ -1913,7 +1913,7 @@
       "TCO"
     ],
     "daily_added": 0,
-    "daily_removed": 1
+    "daily_removed": 0
   },
   "MM": {
     "total": 187,
@@ -2124,7 +2124,7 @@
       "RUSSIA-EO14024"
     ],
     "daily_added": 0,
-    "daily_removed": 1
+    "daily_removed": 0
   },
   "SN": {
     "total": 1,
