@@ -1,0 +1,273 @@
+{
+  "date": "2026-06-19",
+  "period": "2026-06-19",
+  "summary": {
+    "added": 8,
+    "removed": 0,
+    "updated": 0
+  },
+  "additions": [
+    {
+      "uid": 57558,
+      "name": "Globe Technology Providers SARL",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "LB"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Globe Technology Providers"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "F2, MAK Building",
+          "address2": "Cham Road",
+          "city": "Hazmieh",
+          "country": "LB"
+        }
+      ]
+    },
+    {
+      "uid": 57559,
+      "name": "Al 'Ahd Company for Trade and Investment",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "SY"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Al-Ahd Trading and Investment Company"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Damascus",
+          "country": "SY"
+        }
+      ]
+    },
+    {
+      "uid": 57561,
+      "name": "Costanteen Wael",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "IQ",
+        "LB"
+      ],
+      "list_type": "SDN",
+      "dob": "1986-07-09",
+      "nationalities": [],
+      "aliases": [
+        "Constantine Wael"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "000010863590",
+          "country": "Lebanon"
+        },
+        {
+          "type": "Passport",
+          "number": "LR2273432",
+          "country": "Lebanon"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Baghdad",
+          "country": "IQ"
+        },
+        {
+          "city": "Abra Sidon",
+          "country": "LB"
+        }
+      ]
+    },
+    {
+      "uid": 57562,
+      "name": "Al Shafa Administrative Services Limited",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "IQ"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Heal"
+      ],
+      "ids": [
+        {
+          "type": "Commercial Registry Number",
+          "number": "30787",
+          "country": "Iraq"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Baghdad",
+          "country": "IQ"
+        }
+      ]
+    },
+    {
+      "uid": 57563,
+      "name": "Globe International SPC",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "OM"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "1579840",
+          "country": "Oman"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Muscat",
+          "country": "OM"
+        }
+      ]
+    },
+    {
+      "uid": 57564,
+      "name": "Tyke SAL",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "LB"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Taek SAL"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "1022301",
+          "country": "Lebanon"
+        },
+        {
+          "type": "Company Number",
+          "number": "5-121673",
+          "country": "Lebanon"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Section No. 11, Property No. 3939",
+          "address2": "Ground Floor, Al-Massa Building",
+          "address3": "Al-Musaytibah",
+          "city": "Beirut",
+          "country": "LB"
+        }
+      ]
+    },
+    {
+      "uid": 57734,
+      "name": "Qamati Mahmoud",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "LB"
+      ],
+      "list_type": "SDN",
+      "dob": "1953-10-23",
+      "nationalities": [],
+      "aliases": [
+        "\u0627\u0644\u0642\u0645\u0627\u0637\u064a \u0645\u062d\u0645\u0648\u062f",
+        "Qomati Mahmoud",
+        "Kamati Mahmoud",
+        "Qamati Mahmud"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "000022405058",
+          "country": "Lebanon"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57924,
+      "name": "Frangie Sleiman Antoine",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "LB"
+      ],
+      "list_type": "SDN",
+      "dob": "1965-10-18",
+      "nationalities": [],
+      "aliases": [
+        "Frangieh Sleiman",
+        "\u0641\u0631\u0646\u062c\u064a\u0647 \u202b\u0633\u0644\u064a\u0645\u0627\u0646\u202c",
+        "Franjieh Suleiman Antoine",
+        "Franjiyah Sulayman"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "000047639193",
+          "country": "Lebanon"
+        },
+        {
+          "type": "Passport",
+          "number": "RL2326000",
+          "country": "Lebanon"
+        },
+        {
+          "type": "Passport",
+          "number": "LR0477366",
+          "country": "Lebanon"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    }
+  ],
+  "removals": [],
+  "updates": []
+}

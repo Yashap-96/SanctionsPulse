@@ -517,8 +517,8 @@
     "daily_removed": 0
   },
   "LB": {
-    "total": 352,
-    "sdn": 352,
+    "total": 357,
+    "sdn": 357,
     "consolidated": 0,
     "programs": [
       "SDGT",
@@ -538,7 +538,7 @@
       "LEBANON",
       "BELARUS-EO14038"
     ],
-    "daily_added": 0,
+    "daily_added": 5,
     "daily_removed": 0
   },
   "CO": {
@@ -559,8 +559,8 @@
     "daily_removed": 0
   },
   "SY": {
-    "total": 303,
-    "sdn": 303,
+    "total": 304,
+    "sdn": 304,
     "consolidated": 0,
     "programs": [
       "SDGT",
@@ -580,7 +580,7 @@
       "TCO",
       "BELARUS-EO14038"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "IR": {
@@ -1012,8 +1012,8 @@
     "daily_removed": 0
   },
   "IQ": {
-    "total": 185,
-    "sdn": 185,
+    "total": 187,
+    "sdn": 187,
     "consolidated": 0,
     "programs": [
       "SDGT",
@@ -1028,7 +1028,7 @@
       "IRAN-EO13876",
       "BELARUS-EO14038"
     ],
-    "daily_added": 0,
+    "daily_added": 2,
     "daily_removed": 0
   },
   "RS": {
@@ -1645,8 +1645,8 @@
     "daily_removed": 0
   },
   "OM": {
-    "total": 31,
-    "sdn": 31,
+    "total": 32,
+    "sdn": 32,
     "consolidated": 0,
     "programs": [
       "SDGT",
@@ -1661,7 +1661,7 @@
       "NPWMD",
       "IRAN-EO13902"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "QA": {
