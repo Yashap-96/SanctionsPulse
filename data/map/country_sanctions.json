@@ -155,8 +155,8 @@
     "daily_removed": 0
   },
   "FR": {
-    "total": 42,
-    "sdn": 42,
+    "total": 43,
+    "sdn": 43,
     "consolidated": 0,
     "programs": [
       "CUBA",
@@ -172,7 +172,7 @@
       "DPRK3",
       "LEBANON"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "IT": {
@@ -559,8 +559,8 @@
     "daily_removed": 0
   },
   "SY": {
-    "total": 304,
-    "sdn": 304,
+    "total": 306,
+    "sdn": 306,
     "consolidated": 0,
     "programs": [
       "SDGT",
@@ -580,7 +580,7 @@
       "TCO",
       "BELARUS-EO14038"
     ],
-    "daily_added": 0,
+    "daily_added": 2,
     "daily_removed": 0
   },
   "IR": {
@@ -1060,8 +1060,8 @@
     "daily_removed": 0
   },
   "TR": {
-    "total": 362,
-    "sdn": 361,
+    "total": 364,
+    "sdn": 363,
     "consolidated": 1,
     "programs": [
       "SDGT",
@@ -1084,7 +1084,7 @@
       "IRAN-EO13902",
       "CAATSA - RUSSIA"
     ],
-    "daily_added": 0,
+    "daily_added": 2,
     "daily_removed": 0
   },
   "HR": {
@@ -2099,8 +2099,8 @@
     "daily_removed": 0
   },
   "NG": {
-    "total": 22,
-    "sdn": 22,
+    "total": 26,
+    "sdn": 26,
     "consolidated": 0,
     "programs": [
       "SDGT",
@@ -2108,7 +2108,7 @@
       "FTO",
       "CYBER2"
     ],
-    "daily_added": 0,
+    "daily_added": 4,
     "daily_removed": 0
   },
   "IL": {
