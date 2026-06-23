@@ -1,0 +1,1352 @@
+{
+  "date": "2026-06-23",
+  "period": "2026-06-23",
+  "summary": {
+    "added": 40,
+    "removed": 3,
+    "updated": 1
+  },
+  "additions": [
+    {
+      "uid": 57521,
+      "name": "Qiu Weiren",
+      "entry_type": "Individual",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "list_type": "SDN",
+      "dob": "1987-09-28",
+      "nationalities": [],
+      "aliases": [
+        "Qiu Dong"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "RE0072768",
+          "country": "Saint Kitts and Nevis"
+        },
+        {
+          "type": "Passport",
+          "number": "K00459432",
+          "country": "Cyprus"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "London",
+          "country": "GB"
+        }
+      ]
+    },
+    {
+      "uid": 57522,
+      "name": "Luo Brendon",
+      "entry_type": "Individual",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "SG"
+      ],
+      "list_type": "SDN",
+      "dob": "1987-11-27",
+      "nationalities": [],
+      "aliases": [
+        "Luo Pinghua",
+        "\u7f57 \u5e73\u534e"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "K00448541",
+          "country": "Cyprus"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57523,
+      "name": "Dai An",
+      "entry_type": "Individual",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": "1984-10-28",
+      "nationalities": [],
+      "aliases": [
+        "Dai Dewen"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "N01099995",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Passport",
+          "number": "RV074602",
+          "country": "Vanuatu"
+        },
+        {
+          "type": "Passport",
+          "number": "K00423598",
+          "country": "Cyprus"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57833,
+      "name": "FUTURE KING INC.",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "CN",
+        "VG"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "1937304",
+          "country": "Virgin Islands, British"
+        },
+        {
+          "type": "Legal Entity Number",
+          "number": "254900MYMMKCN8E4GB42",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Units 2004-2005A, 20/F, K11 Atelier, No. 18 Salisbury Road",
+          "address2": "Tsim Sha Tsui",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 57837,
+      "name": "FUTURE WING FINANCIAL COMPANY LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u6771\u878d\u8ca1\u5bcc\u6709\u9650\u516c\u53f8"
+      ],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "71356127",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Units 2004-2005A, 20/F, K11 Atelier, No. 18 Salisbury Road",
+          "address2": "Tsim Sha Tsui",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 57838,
+      "name": "FUTURE OASIS PTE. LTD.",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "SG"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "202211667K",
+          "country": "Singapore"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57839,
+      "name": "FUTURE COSMOS LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Cloud Nine No. 6 Leasing Company",
+        "\u4e5d\u74bd\u96f2\u516d\u865f\u79df\u8cc3\u6709\u9650\u516c\u53f8"
+      ],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "69433109",
+          "country": "Hong Kong"
+        },
+        {
+          "type": "Legal Entity Number",
+          "number": "98450095XC85G0D9A130",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Unit 2004, 20/F, K11 Atelier, No. 18 Salisbury Road",
+          "address2": "Tsim Sha Tsui",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 57841,
+      "name": "FUTURE COSMOS ONE LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Cloud Nine No. 1 Leasing Company Limited",
+        "\u4e5d\u74bd\u96f2\u4e00\u865f\u79df\u8cc3\u6709\u9650\u516c\u53f8"
+      ],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "69320546",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 57843,
+      "name": "FUTURE COSMOS TWO LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Cloud Nine No. 2 Leasing Company Limited",
+        "\u4e5d\u74bd\u96f2\u4e8c\u865f\u79df\u8cc3\u6709\u9650\u516c\u53f8"
+      ],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "69320562",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 57844,
+      "name": "CHINA RESERVE SECURITIES LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u6771\u5132\u8b49\u5238\u6709\u9650\u516c\u53f8"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "22200353",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Units 2005-2006A, 20/F, K11 Atelier, No. 18 Salisbury Road",
+          "address2": "Tsim Sha Tsui",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 57845,
+      "name": "EAGLE FORTITUDE LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "VG"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "2014259",
+          "country": "Virgin Islands, British"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57846,
+      "name": "LEISURE FOCUS LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "VG"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "OE006449",
+          "country": "United Kingdom"
+        },
+        {
+          "type": "Registration Number",
+          "number": "2039057",
+          "country": "Virgin Islands, British"
+        },
+        {
+          "type": "Legal Entity Number",
+          "number": "213800RRNJYQJMWRX112",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57847,
+      "name": "CN CRYSTAL LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "73139088",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 57848,
+      "name": "CN BREEZE LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "73139135",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 57849,
+      "name": "Ho Ho Ming",
+      "entry_type": "Individual",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": "1988-10-31",
+      "nationalities": [],
+      "aliases": [
+        "\u4f55 \u6d69\u9298",
+        "Ho Henry"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "H20638289",
+          "country": "Hong Kong"
+        },
+        {
+          "type": "National ID No.",
+          "number": "Z938075",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "New Territories",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 57850,
+      "name": "Kong Ka On",
+      "entry_type": "Individual",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": "1983-06-03",
+      "nationalities": [],
+      "aliases": [
+        "\u6c5f \u5609\u5b89"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "Z512299",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Kowloon",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 57851,
+      "name": "Li Hui",
+      "entry_type": "Individual",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": "2001-01-11",
+      "nationalities": [],
+      "aliases": [
+        "\u674e \u7147"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "F535846",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 57852,
+      "name": "TYCOON YACHTS HK LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "72934643",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 57853,
+      "name": "WHITE HORSE HOTEL MANAGEMENT GROUP COMPANY LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "TH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "0105561025511",
+          "country": "Thailand"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Bangkok",
+          "country": "TH"
+        }
+      ]
+    },
+    {
+      "uid": 57854,
+      "name": "ROCKET SANDBOX LTD",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "16649099",
+          "country": "United Kingdom"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57859,
+      "name": "DTX WINNERS CLUB LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "14992620",
+          "country": "United Kingdom"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "London",
+          "country": "GB"
+        }
+      ]
+    },
+    {
+      "uid": 57861,
+      "name": "LUFFA TECHNOLOGY NETWORK COMPANY LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "15217074",
+          "country": "United Kingdom"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "London",
+          "country": "GB"
+        }
+      ]
+    },
+    {
+      "uid": 57863,
+      "name": "Fang Zhizhen",
+      "entry_type": "Individual",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "KH",
+        "SG"
+      ],
+      "list_type": "SDN",
+      "dob": "1987-03-20",
+      "nationalities": [],
+      "aliases": [
+        "\u65b9 \u667a\u632f",
+        "Kofi"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "330782198703204516",
+          "country": "China"
+        },
+        {
+          "type": "Passport",
+          "number": "E90466172",
+          "country": "China"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57865,
+      "name": "CUBAN TRADING UK LTD",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "16229981",
+          "country": "United Kingdom"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "London",
+          "country": "GB"
+        }
+      ]
+    },
+    {
+      "uid": 57868,
+      "name": "HALO NETWORK TECHNOLOGY LTD",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "HaloChat"
+      ],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "16187338",
+          "country": "United Kingdom"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57869,
+      "name": "Chen Bo",
+      "entry_type": "Individual",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": "1982-09-05",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "N00079594",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Passport",
+          "number": "RV051092",
+          "country": "Vanuatu"
+        },
+        {
+          "type": "Passport",
+          "number": "EB8938194",
+          "country": "China"
+        },
+        {
+          "type": "Passport",
+          "number": "MC492481",
+          "country": "Burma"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57871,
+      "name": "FORTUNE NETWORK TECHNOLOGY LTD",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "16177824",
+          "country": "United Kingdom"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "London",
+          "country": "GB"
+        }
+      ]
+    },
+    {
+      "uid": 57873,
+      "name": "CHARCO CHARCO HOLBORN LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "15817972",
+          "country": "United Kingdom"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "83-93 Southampton Row",
+          "city": "London",
+          "country": "GB"
+        }
+      ]
+    },
+    {
+      "uid": 57876,
+      "name": "TERRA COTTA WARRIORS ISLE OF DOGS LTD",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "12122640",
+          "country": "United Kingdom"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57879,
+      "name": "MINGMEN LONDON LTD",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "14278434",
+          "country": "United Kingdom"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "London",
+          "country": "GB"
+        }
+      ]
+    },
+    {
+      "uid": 57882,
+      "name": "CHASCA LONDON LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "14752579",
+          "country": "United Kingdom"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "London",
+          "country": "GB"
+        }
+      ]
+    },
+    {
+      "uid": 57884,
+      "name": "EAST LINK LONDON LTD",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "14575184",
+          "country": "United Kingdom"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Unit 004 Avro House, Havelock Terrace",
+          "city": "London",
+          "country": "GB"
+        }
+      ]
+    },
+    {
+      "uid": 57886,
+      "name": "Cloud Nine No. 4 Leasing Company Limited",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u4e5d\u74bd\u96f2\u56db\u865f\u79df\u8cc3\u6709\u9650\u516c\u53f8"
+      ],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "69433010",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Unit C, 7/F., On Hing Building, No. 1 On Hing Terrace, Central",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 57889,
+      "name": "CCU Commercial Bank PLC.",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "00056269",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "L001-902100065",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "No.15, Preah Monivong Blvd, Phum 5, Sangkat Boeng Trabaek, Phnom Penh",
+          "city": "Phnom Penh",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 57951,
+      "name": "Empresa Siderurgica Jose Marti",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Antillana de Acero"
+      ],
+      "ids": [
+        {
+          "type": "Entity Code",
+          "number": "1101",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Calle 20 No 10522",
+          "address2": "Cotorro",
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 57952,
+      "name": "Banco Financiero Internacional S.A.",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "BFI"
+      ],
+      "ids": [
+        {
+          "type": "Entity Code",
+          "number": "60210",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "5ta Ave. No. 9009 esq. 92",
+          "address2": "Playa",
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 57953,
+      "name": "Annalie Lilliam Cardero Rueda",
+      "entry_type": "Individual",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": "1985-01-28",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "85012804859",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57954,
+      "name": "Rafin S.A.",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Entity Code",
+          "number": "60448",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Ave. Del Puerto Esq. A Obrapia, Edif. La Marina",
+          "address2": "La Habana Vieja",
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 57955,
+      "name": "Almacenes Universales S.A.",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Tax ID No.",
+          "number": "11.791.301/0001-05",
+          "country": "Brazil"
+        },
+        {
+          "type": "Entity Code",
+          "number": "60297",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Fabrica No. 54 e/ Aspuru y Linea del Ferrocarril",
+          "address2": "Habana Vieja",
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 57956,
+      "name": "Geominera, S.A.",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Entity Code",
+          "number": "60274",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Calzada de Guines S/N E/ Virgen del Camino y Calle Linea del Ferrocarril",
+          "address2": "RPTO Los Angeles",
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    }
+  ],
+  "removals": [
+    {
+      "uid": 35015,
+      "name": "Krugovov Anton Alekseevich",
+      "entry_type": "Individual",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "countries": [
+        "RU"
+      ],
+      "list_type": "SDN",
+      "dob": "1981-08-08",
+      "nationalities": [],
+      "aliases": [
+        "\u041a\u0440\u0443\u0433\u043e\u0432\u043e\u0432 \u0410\u043d\u0442\u043e\u043d \u0410\u043b\u0435\u043a\u0441\u0435\u0435\u0432\u0438\u0447",
+        "Krugovov Anton Alekseyevich"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "718255951",
+          "country": "Russia"
+        },
+        {
+          "type": "National ID No.",
+          "number": "2006744304",
+          "country": "Russia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 35040,
+      "name": "Topchi Tamara Aleksandrovna",
+      "entry_type": "Individual",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "countries": [
+        "RU"
+      ],
+      "list_type": "SDN",
+      "dob": "1979-03-04",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "2003490198",
+          "country": "Russia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 37002,
+      "name": "PUZYRNIKOVA Natalya Vladislavovna",
+      "entry_type": "Individual",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "countries": [
+        "RU"
+      ],
+      "list_type": "SDN",
+      "dob": "1979-01-01",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Moscow",
+          "country": "RU"
+        }
+      ]
+    }
+  ],
+  "updates": [
+    {
+      "uid": 55941,
+      "name": "Hu Xiaowei",
+      "changes": {
+        "name": {
+          "old": "Chen Xiao'er",
+          "new": "Hu Xiaowei"
+        },
+        "countries": {
+          "old": [
+            "KN"
+          ],
+          "new": [
+            "CN",
+            "KN"
+          ]
+        }
+      }
+    }
+  ]
+}
