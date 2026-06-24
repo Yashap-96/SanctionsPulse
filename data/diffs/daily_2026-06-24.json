@@ -1,0 +1,344 @@
+{
+  "date": "2026-06-24",
+  "period": "2026-06-24",
+  "summary": {
+    "added": 0,
+    "removed": 11,
+    "updated": 0
+  },
+  "additions": [],
+  "removals": [
+    {
+      "uid": 35780,
+      "name": "Belous German Valentinovich",
+      "entry_type": "Individual",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "countries": [
+        "RU"
+      ],
+      "list_type": "SDN",
+      "dob": "1977-11-14",
+      "nationalities": [],
+      "aliases": [
+        "\u0411\u0435\u043b\u043e\u0443\u0441 \u0413\u0435\u0440\u043c\u0430\u043d \u0412\u0430\u043b\u0435\u043d\u0442\u0438\u043d\u043e\u0432\u0438\u0447",
+        "Belous German",
+        "\u0411\u0435\u043b\u043e\u0443\u0441 \u0413\u0435\u0440\u043c\u0430\u043d"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "718489066",
+          "country": "Russia"
+        },
+        {
+          "type": "National ID No.",
+          "number": "4514863944",
+          "country": "Russia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "12-2 Chistoprudny Boul",
+          "address2": "Apt 79",
+          "city": "Moscow",
+          "postal_code": "101000",
+          "country": "RU"
+        }
+      ]
+    },
+    {
+      "uid": 35969,
+      "name": "KLYUKIN Mikhail Vasilyevich",
+      "entry_type": "Individual",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "countries": [
+        "RU"
+      ],
+      "list_type": "SDN",
+      "dob": "1977-09-22",
+      "nationalities": [],
+      "aliases": [
+        "\u041a\u043b\u044e\u043a\u0438\u043d \u041c\u0438\u0445\u0430\u0438\u043b \u0412\u0430\u0441\u0438\u043b\u044c\u0435\u0432\u0438\u0447"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "K00299010",
+          "country": "Cyprus"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "1st Krasnoarmeyskiy per. 4 flat 187",
+          "city": "Mytishi",
+          "state": "Moscow",
+          "country": "RU"
+        }
+      ]
+    },
+    {
+      "uid": 36383,
+      "name": "Kremleva Irina Vladimirovna",
+      "entry_type": "Individual",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "countries": [
+        "RU"
+      ],
+      "list_type": "SDN",
+      "dob": "1968-04-25",
+      "nationalities": [],
+      "aliases": [
+        "\u041a\u0440\u0435\u043c\u043b\u0435\u0432\u0430 \u0418\u0440\u0438\u043d\u0430 \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u0432\u043d\u0430"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 36384,
+      "name": "Nikolaev Viktor Andreevich",
+      "entry_type": "Individual",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "countries": [
+        "RU"
+      ],
+      "list_type": "SDN",
+      "dob": "1982-04-16",
+      "nationalities": [],
+      "aliases": [
+        "\u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432 \u0412\u0438\u043a\u0442\u043e\u0440 \u0410\u043d\u0434\u0440\u0435\u0435\u0432\u0438\u0447",
+        "Nikolayev Viktor Andreyevich"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 36387,
+      "name": "Cherkasova Nadia Narimanovna",
+      "entry_type": "Individual",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "countries": [
+        "RU"
+      ],
+      "list_type": "SDN",
+      "dob": "1971-12-11",
+      "nationalities": [],
+      "aliases": [
+        "\u0427\u0435\u0440\u043a\u0430\u0441\u043e\u0432\u0430 \u041d\u0430\u0434\u0438\u044f \u041d\u0430\u0440\u0438\u043c\u0430\u043d\u043e\u0432\u043d\u0430",
+        "Cherkasova Nadiya Narimanovna",
+        "Cherkasova Nadiia Narimanovna"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 38244,
+      "name": "Potanin Ivan Vladimirovich",
+      "entry_type": "Individual",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "countries": [
+        "RU"
+      ],
+      "list_type": "SDN",
+      "dob": "1989-04-11",
+      "nationalities": [],
+      "aliases": [
+        "\u041f\u043e\u0442\u0430\u043d\u0438\u043d \u0418\u0432\u0430\u043d \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u0432\u0438\u0447"
+      ],
+      "ids": [
+        {
+          "type": "Tax ID No.",
+          "number": "770370541696",
+          "country": "Russia"
+        },
+        {
+          "type": "National ID No.",
+          "number": "4510126532",
+          "country": "Russia"
+        },
+        {
+          "type": "Passport",
+          "number": "725464065",
+          "country": "Russia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "3-7, Skatertny Pereulok",
+          "city": "Moscow",
+          "postal_code": "121069",
+          "country": "RU"
+        }
+      ]
+    },
+    {
+      "uid": 42195,
+      "name": "Vyacheslav Arshinov",
+      "entry_type": "Vessel",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 9945136",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 42198,
+      "name": "Gennady Egorov",
+      "entry_type": "Vessel",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 9945124",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 47825,
+      "name": "Smirnov Maxim Yuryevich",
+      "entry_type": "Individual",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "countries": [
+        "RU"
+      ],
+      "list_type": "SDN",
+      "dob": "1965-10-04",
+      "nationalities": [],
+      "aliases": [
+        "\u0421\u043c\u0438\u0440\u043d\u043e\u0432 \u041c\u0430\u043a\u0441\u0438\u043c \u042e\u0440\u044c\u0435\u0432\u0438\u0447",
+        "Smirnov Maksim Yuryevich"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "761664720",
+          "country": "Russia"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "772804227305",
+          "country": "Russia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "19-8 Lomonosovskiy Prospect",
+          "city": "Moscow",
+          "postal_code": "119311",
+          "country": "RU"
+        }
+      ]
+    },
+    {
+      "uid": 48801,
+      "name": "IDA ASANSOR SANAYII VE TICARET LIMITED SIRKETI",
+      "entry_type": "Entity",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "countries": [
+        "TR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Ida Elevator Industry and Trade Limited Company",
+        "Ida Asansor San Ve Tic Ltd"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "13872",
+          "country": "Turkey"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "5 1 Osb Mahallesi 9",
+          "address2": "Caddesi",
+          "address3": "Yesilyurt",
+          "city": "Malatya",
+          "postal_code": "44900",
+          "country": "TR"
+        }
+      ]
+    },
+    {
+      "uid": 50325,
+      "name": "Dein Danismanlik Pazarlama Ve Ticaret Anonim Sirketi",
+      "entry_type": "Entity",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "countries": [
+        "TR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "241115",
+          "country": "Turkey"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Vetro City Apartmani, No:16-133 Barbaros Hayrettin Pasa Mahallesi 1992. Sokak",
+          "address2": "Esenyurt",
+          "city": "Istanbul",
+          "postal_code": "34522",
+          "country": "TR"
+        }
+      ]
+    }
+  ],
+  "updates": []
+}

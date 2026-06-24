@@ -1,0 +1,137 @@
+{
+  "executive_summary": "On June 24, 2026, OFAC removed 11 entities from the SDN list, all of which were associated with the RUSSIA-EO14024 program. The removed entities include 8 individuals and 3 vessels/entities. No new entities were added to the list. The removals primarily affect Russia and Turkey, with implications for sanctions compliance and risk assessment.",
+  "notable_entities": [
+    {
+      "uid": "35780",
+      "name": "Belous German Valentinovich",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "significance": "Removed from SDN list"
+    },
+    {
+      "uid": "35969",
+      "name": "KLYUKIN Mikhail Vasilyevich",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "significance": "Removed from SDN list"
+    },
+    {
+      "uid": "36383",
+      "name": "Kremleva Irina Vladimirovna",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "significance": "Removed from SDN list"
+    },
+    {
+      "uid": "36384",
+      "name": "Nikolaev Viktor Andreevich",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "significance": "Removed from SDN list"
+    },
+    {
+      "uid": "36387",
+      "name": "Cherkasova Nadia Narimanovna",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "significance": "Removed from SDN list"
+    },
+    {
+      "uid": "38244",
+      "name": "Potanin Ivan Vladimirovich",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "significance": "Removed from SDN list"
+    },
+    {
+      "uid": "42195",
+      "name": "Vyacheslav Arshinov",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "significance": "Removed from SDN list as a vessel"
+    },
+    {
+      "uid": "42198",
+      "name": "Gennady Egorov",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "significance": "Removed from SDN list as a vessel"
+    },
+    {
+      "uid": "47825",
+      "name": "Smirnov Maxim Yuryevich",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "significance": "Removed from SDN list"
+    },
+    {
+      "uid": "48801",
+      "name": "IDA ASANSOR SANAYII VE TICARET LIMITED SIRKETI",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "significance": "Removed from SDN list as an entity"
+    },
+    {
+      "uid": "50325",
+      "name": "Dein Danismanlik Pazarlama Ve Ticaret Anonim Sirketi",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "significance": "Removed from SDN list as an entity"
+    }
+  ],
+  "risk_implications": [
+    {
+      "level": "MEDIUM",
+      "area": "Sanctions compliance",
+      "description": "The removal of 11 entities from the SDN list may reduce the risk of inadvertently doing business with sanctioned parties, but it is essential to continue monitoring the list for updates and ensuring compliance with all applicable sanctions regulations"
+    },
+    {
+      "level": "LOW",
+      "area": "Risk assessment",
+      "description": "The removals primarily affect Russia and Turkey, and may have minimal impact on overall risk assessment, but it is crucial to consider the broader sanctions landscape and potential implications for business operations"
+    }
+  ],
+  "program_highlights": [
+    {
+      "program": "RUSSIA-EO14024",
+      "daily_added": 0,
+      "note": "11 entities were removed from the program"
+    }
+  ],
+  "geographic_hotspots": [
+    {
+      "region": "Eastern Europe",
+      "countries": [
+        "RU",
+        "TR"
+      ],
+      "activity": "Sanctions removals",
+      "trend": "Declining"
+    },
+    {
+      "region": "Middle East",
+      "countries": [
+        "TR"
+      ],
+      "activity": "Sanctions removals",
+      "trend": "Steady"
+    }
+  ],
+  "compliance_recommendations": [
+    "Continuously monitor the OFAC sanctions list for updates and changes",
+    "Ensure compliance with all applicable sanctions regulations and laws",
+    "Conduct thorough risk assessments and due diligence on business partners and transactions",
+    "Implement effective sanctions screening and monitoring processes"
+  ]
+}

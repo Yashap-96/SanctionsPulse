@@ -11,7 +11,7 @@
       "VENEZUELA-EO13850",
       "GLOMAG"
     ],
-    "daily_added": 6,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "GB": {
@@ -45,7 +45,7 @@
       "CAATSA - RUSSIA",
       "IRAN-EO13846"
     ],
-    "daily_added": 12,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "CH": {
@@ -350,8 +350,8 @@
     "daily_removed": 0
   },
   "RU": {
-    "total": 5470,
-    "sdn": 5213,
+    "total": 5463,
+    "sdn": 5206,
     "consolidated": 257,
     "programs": [
       "CUBA",
@@ -391,7 +391,7 @@
       "PAIPA"
     ],
     "daily_added": 0,
-    "daily_removed": 3
+    "daily_removed": 7
   },
   "BG": {
     "total": 92,
@@ -943,7 +943,7 @@
       "561-Related",
       "CMIC-EO13959"
     ],
-    "daily_added": 13,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "ER": {
@@ -1060,8 +1060,8 @@
     "daily_removed": 0
   },
   "TR": {
-    "total": 364,
-    "sdn": 363,
+    "total": 362,
+    "sdn": 361,
     "consolidated": 1,
     "programs": [
       "SDGT",
@@ -1085,7 +1085,7 @@
       "CAATSA - RUSSIA"
     ],
     "daily_added": 0,
-    "daily_removed": 0
+    "daily_removed": 2
   },
   "HR": {
     "total": 5,
@@ -1433,7 +1433,7 @@
       "VENEZUELA-EO13850",
       "CMIC-EO13959"
     ],
-    "daily_added": 3,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "BR": {
@@ -1510,7 +1510,7 @@
       "CYBER4",
       "BURMA-EO14014"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "KM": {
@@ -1829,7 +1829,7 @@
       "TCO",
       "CYBER4"
     ],
-    "daily_added": 4,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "XK": {
@@ -1912,7 +1912,7 @@
       "IRAN-EO13902",
       "TCO"
     ],
-    "daily_added": 3,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "MM": {
