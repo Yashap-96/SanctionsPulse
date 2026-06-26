@@ -15,8 +15,8 @@
     "daily_removed": 0
   },
   "GB": {
-    "total": 209,
-    "sdn": 209,
+    "total": 211,
+    "sdn": 211,
     "consolidated": 0,
     "programs": [
       "CUBA",
@@ -112,8 +112,8 @@
     "daily_removed": 0
   },
   "PA": {
-    "total": 148,
-    "sdn": 148,
+    "total": 151,
+    "sdn": 151,
     "consolidated": 0,
     "programs": [
       "CUBA",
@@ -133,7 +133,7 @@
       "IRAN-EO13902",
       "SUDAN-EO14098"
     ],
-    "daily_added": 0,
+    "daily_added": 3,
     "daily_removed": 0
   },
   "MX": {
@@ -770,8 +770,8 @@
     "daily_removed": 0
   },
   "PS": {
-    "total": 48,
-    "sdn": 24,
+    "total": 46,
+    "sdn": 22,
     "consolidated": 24,
     "programs": [
       "SDGT",
@@ -990,8 +990,8 @@
     "daily_removed": 0
   },
   "IN": {
-    "total": 152,
-    "sdn": 148,
+    "total": 154,
+    "sdn": 150,
     "consolidated": 4,
     "programs": [
       "SDGT",
@@ -1006,9 +1006,10 @@
       "IRAN-EO13902",
       "ILLICIT-DRUGS-EO14059",
       "TCO",
-      "NPWMD"
+      "NPWMD",
+      "SUDAN-EO14098"
     ],
-    "daily_added": 0,
+    "daily_added": 2,
     "daily_removed": 0
   },
   "IQ": {
@@ -1114,8 +1115,8 @@
     "daily_removed": 0
   },
   "SD": {
-    "total": 43,
-    "sdn": 43,
+    "total": 46,
+    "sdn": 46,
     "consolidated": 0,
     "programs": [
       "SDGT",
@@ -1130,7 +1131,7 @@
       "GLOMAG",
       "SUDAN-EO14098"
     ],
-    "daily_added": 0,
+    "daily_added": 3,
     "daily_removed": 0
   },
   "TJ": {
@@ -1620,13 +1621,13 @@
     "daily_removed": 0
   },
   "RW": {
-    "total": 11,
-    "sdn": 11,
+    "total": 17,
+    "sdn": 17,
     "consolidated": 0,
     "programs": [
       "DRCONGO"
     ],
-    "daily_added": 0,
+    "daily_added": 6,
     "daily_removed": 0
   },
   "UG": {
@@ -1873,6 +1874,21 @@
     "daily_added": 0,
     "daily_removed": 0
   },
+  "LY": {
+    "total": 29,
+    "sdn": 29,
+    "consolidated": 0,
+    "programs": [
+      "SDGT",
+      "LIBYA2",
+      "FTO",
+      "LIBYA3",
+      "DPRK2",
+      "GLOMAG"
+    ],
+    "daily_added": 0,
+    "daily_removed": 0
+  },
   "TW": {
     "total": 34,
     "sdn": 34,
@@ -2065,21 +2081,6 @@
     "programs": [
       "SDNTK",
       "CAR"
-    ],
-    "daily_added": 0,
-    "daily_removed": 0
-  },
-  "LY": {
-    "total": 27,
-    "sdn": 27,
-    "consolidated": 0,
-    "programs": [
-      "LIBYA2",
-      "FTO",
-      "SDGT",
-      "LIBYA3",
-      "DPRK2",
-      "GLOMAG"
     ],
     "daily_added": 0,
     "daily_removed": 0

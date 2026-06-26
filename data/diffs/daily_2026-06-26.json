@@ -1,0 +1,604 @@
+{
+  "date": "2026-06-26",
+  "period": "2026-06-26",
+  "summary": {
+    "added": 14,
+    "removed": 0,
+    "updated": 10
+  },
+  "additions": [
+    {
+      "uid": 57457,
+      "name": "Target Multiactivities Company Ltd",
+      "entry_type": "Entity",
+      "programs": [
+        "SUDAN-EO14098"
+      ],
+      "countries": [
+        "SD"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u062a\u0627\u0631\u0642\u064a\u062a \u0644\u0644\u0627\u0646\u0634\u0637\u0629 \u0627\u0644\u0645\u062a\u0639\u062f\u062f\u0629 \u0627\u0644\u0645\u062d\u062f\u0648\u062f\u0629"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "34777",
+          "country": "Sudan"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Khartoum",
+          "country": "SD"
+        }
+      ]
+    },
+    {
+      "uid": 57487,
+      "name": "Ports Engineering Company Ltd",
+      "entry_type": "Entity",
+      "programs": [
+        "SUDAN-EO14098"
+      ],
+      "countries": [
+        "SD"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0631\u0643\u0629 \u0627\u0644\u0645\u0648\u0627\u0646\u0626 \u0627\u0644\u0647\u0646\u062f\u0633\u064a\u0629 \u0627\u0644\u0645\u062d\u062f\u0648\u062f\u0629"
+      ],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "6596",
+          "country": "Sudan"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Port Sudan",
+          "country": "SD"
+        }
+      ]
+    },
+    {
+      "uid": 57922,
+      "name": "Madani Tariq Hussain Muhammad",
+      "entry_type": "Individual",
+      "programs": [
+        "SUDAN-EO14098"
+      ],
+      "countries": [
+        "SD"
+      ],
+      "list_type": "SDN",
+      "dob": "1971-05-15",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57923,
+      "name": "SBL Energy Limited",
+      "entry_type": "Entity",
+      "programs": [
+        "SUDAN-EO14098"
+      ],
+      "countries": [
+        "IN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Amin Explosives Private Limited",
+        "SBL Energy Private Limited"
+      ],
+      "ids": [
+        {
+          "type": "C.I.N.",
+          "number": "U24292CT2002PLC015581",
+          "country": "India"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "27AADCA3124B1ZE",
+          "country": "India"
+        },
+        {
+          "type": "Legal Entity Number",
+          "number": "3358008I6IEH1VUCXE19",
+          "country": "India"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Raipur",
+          "state": "Chhattisgarh",
+          "country": "IN"
+        }
+      ]
+    },
+    {
+      "uid": 57925,
+      "name": "Choudhari Alok",
+      "entry_type": "Individual",
+      "programs": [
+        "SUDAN-EO14098"
+      ],
+      "countries": [
+        "IN"
+      ],
+      "list_type": "SDN",
+      "dob": "1970-09-15",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "R6656526",
+          "country": "India"
+        },
+        {
+          "type": "Passport",
+          "number": "Z7551463",
+          "country": "India"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Raipur",
+          "state": "Chhattisgarh",
+          "country": "IN"
+        }
+      ]
+    },
+    {
+      "uid": 57936,
+      "name": "Kalima Karekezi Jean Malic",
+      "entry_type": "Individual",
+      "programs": [
+        "DRCONGO"
+      ],
+      "countries": [
+        "RW"
+      ],
+      "list_type": "SDN",
+      "dob": "1963-05-25",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "1196380005387371",
+          "country": "Rwanda"
+        },
+        {
+          "type": "Passport",
+          "number": "PC638680",
+          "country": "Rwanda"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Kigali",
+          "country": "RW"
+        }
+      ]
+    },
+    {
+      "uid": 57937,
+      "name": "Gasabo Gold Refinery LTD",
+      "entry_type": "Entity",
+      "programs": [
+        "DRCONGO"
+      ],
+      "countries": [
+        "RW"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "120323055",
+          "country": "Rwanda"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Kigali",
+          "country": "RW"
+        }
+      ]
+    },
+    {
+      "uid": 57938,
+      "name": "Kayobotsi Bosco",
+      "entry_type": "Individual",
+      "programs": [
+        "DRCONGO"
+      ],
+      "countries": [
+        "RW"
+      ],
+      "list_type": "SDN",
+      "dob": "1985-08-25",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "1198580022378192",
+          "country": "Rwanda"
+        },
+        {
+          "type": "Passport",
+          "number": "PC648741",
+          "country": "Rwanda"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Kigali",
+          "country": "RW"
+        }
+      ]
+    },
+    {
+      "uid": 57939,
+      "name": "Bugambira Mines LTD",
+      "entry_type": "Entity",
+      "programs": [
+        "DRCONGO"
+      ],
+      "countries": [
+        "RW"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Multiserve Consults LTD"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Kigali",
+          "country": "RW"
+        }
+      ]
+    },
+    {
+      "uid": 57940,
+      "name": "Wolfram Mining and Processing LTD",
+      "entry_type": "Entity",
+      "programs": [
+        "DRCONGO"
+      ],
+      "countries": [
+        "RW"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Kigali",
+          "country": "RW"
+        }
+      ]
+    },
+    {
+      "uid": 57941,
+      "name": "Rwinkwavu Mining Corporation LTD",
+      "entry_type": "Entity",
+      "programs": [
+        "DRCONGO"
+      ],
+      "countries": [
+        "RW"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "state": "Rwinkwavu",
+          "country": "RW"
+        }
+      ]
+    },
+    {
+      "uid": 57974,
+      "name": "Palacios Enrique Daniel Quintanilla",
+      "entry_type": "Individual",
+      "programs": [
+        "SUDAN-EO14098"
+      ],
+      "countries": [
+        "PA"
+      ],
+      "list_type": "SDN",
+      "dob": "1985-10-15",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Cedula No.",
+          "number": "87891056",
+          "country": "Panama"
+        },
+        {
+          "type": "Passport",
+          "number": "PA0803127",
+          "country": "Panama"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Panama City",
+          "country": "PA"
+        }
+      ]
+    },
+    {
+      "uid": 57976,
+      "name": "Derman Jack Peter Guzman",
+      "entry_type": "Individual",
+      "programs": [
+        "SUDAN-EO14098"
+      ],
+      "countries": [
+        "PA"
+      ],
+      "list_type": "SDN",
+      "dob": "1988-06-23",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Cedula No.",
+          "number": "882169",
+          "country": "Panama"
+        },
+        {
+          "type": "Passport",
+          "number": "PA1410518",
+          "country": "Panama"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Panama City",
+          "country": "PA"
+        }
+      ]
+    },
+    {
+      "uid": 57977,
+      "name": "Lopez Fredy Alejandro Ocampo",
+      "entry_type": "Individual",
+      "programs": [
+        "SUDAN-EO14098"
+      ],
+      "countries": [
+        "PA"
+      ],
+      "list_type": "SDN",
+      "dob": "1994-06-01",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "AY858853",
+          "country": "Colombia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Panama City",
+          "country": "PA"
+        }
+      ]
+    }
+  ],
+  "removals": [],
+  "updates": [
+    {
+      "uid": 7116,
+      "name": "HOLY LAND FOUNDATION FOR RELIEF AND DEVELOPMENT",
+      "changes": {
+        "countries": {
+          "old": [
+            "PS",
+            "US"
+          ],
+          "new": [
+            "US"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 7270,
+      "name": "GLOBAL RELIEF FOUNDATION, INC.",
+      "changes": {
+        "countries": {
+          "old": [
+            "AF",
+            "AL",
+            "AZ",
+            "BA",
+            "BD",
+            "BE",
+            "CN",
+            "ER",
+            "ET",
+            "FR",
+            "GE",
+            "IN",
+            "IQ",
+            "JO",
+            "LB",
+            "PK",
+            "PS",
+            "RS",
+            "RU",
+            "SL",
+            "SO",
+            "SY",
+            "TR"
+          ],
+          "new": [
+            "AF",
+            "AL",
+            "AZ",
+            "BA",
+            "BD",
+            "BE",
+            "CN",
+            "ER",
+            "ET",
+            "FR",
+            "GE",
+            "IN",
+            "IQ",
+            "JO",
+            "LB",
+            "PK",
+            "RS",
+            "RU",
+            "SL",
+            "SO",
+            "SY",
+            "TR"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 8203,
+      "name": "DI ANNABA Yacine",
+      "changes": {
+        "name": {
+          "old": "AHMED NACER Yacine",
+          "new": "DI ANNABA Yacine"
+        }
+      }
+    },
+    {
+      "uid": 10929,
+      "name": "SANTOS Ahmad",
+      "changes": {
+        "name": {
+          "old": "SANTOS Ahmad (Ahmed)",
+          "new": "SANTOS Ahmad"
+        }
+      }
+    },
+    {
+      "uid": 11173,
+      "name": "ELMABRUK Maftah Mohamed",
+      "changes": {
+        "countries": {
+          "old": [],
+          "new": [
+            "GB",
+            "LY"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 11174,
+      "name": "ELOSTA Abdelrazag Elsharif",
+      "changes": {
+        "countries": {
+          "old": [],
+          "new": [
+            "GB",
+            "LY"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 22663,
+      "name": "Onofre Junior AGUINO ARBOLEDA",
+      "changes": {
+        "name": {
+          "old": "AGUINO ARBOLEDA Onofre Junior",
+          "new": "Onofre Junior AGUINO ARBOLEDA"
+        }
+      }
+    },
+    {
+      "uid": 57313,
+      "name": "Al Ghafur Seyyed Mehdi Mohammed",
+      "changes": {
+        "name": {
+          "old": "Al Ghafur Seyyed Mohammed Mehdi",
+          "new": "Al Ghafur Seyyed Mehdi Mohammed"
+        }
+      }
+    },
+    {
+      "uid": 57594,
+      "name": "Sheibani Mohammad Reza Raouf",
+      "changes": {
+        "programs": {
+          "old": [
+            "SDGT",
+            "IRAN",
+            "IFSR"
+          ],
+          "new": [
+            "SDGT",
+            "IRAN",
+            "IFSR",
+            "IRGC"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 57616,
+      "name": "Fanich Mohamed Abdel-Mottaleb",
+      "changes": {
+        "name": {
+          "old": "Fanich Abdel-Mottaleb Mohamed",
+          "new": "Fanich Mohamed Abdel-Mottaleb"
+        }
+      }
+    }
+  ]
+}
