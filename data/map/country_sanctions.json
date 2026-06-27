@@ -133,7 +133,7 @@
       "IRAN-EO13902",
       "SUDAN-EO14098"
     ],
-    "daily_added": 3,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "MX": {
@@ -1009,7 +1009,7 @@
       "NPWMD",
       "SUDAN-EO14098"
     ],
-    "daily_added": 2,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "IQ": {
@@ -1131,7 +1131,7 @@
       "GLOMAG",
       "SUDAN-EO14098"
     ],
-    "daily_added": 3,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "TJ": {
@@ -1627,7 +1627,7 @@
     "programs": [
       "DRCONGO"
     ],
-    "daily_added": 6,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "UG": {
