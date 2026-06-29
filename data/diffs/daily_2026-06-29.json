@@ -1,0 +1,258 @@
+{
+  "date": "2026-06-29",
+  "period": "2026-06-29",
+  "summary": {
+    "added": 0,
+    "removed": 7,
+    "updated": 0
+  },
+  "additions": [],
+  "removals": [
+    {
+      "uid": 46628,
+      "name": "MEGASAN ELEKTRONIK TICARET VE SANAYI ANONIM SIRKETI",
+      "entry_type": "Entity",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "countries": [
+        "TR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "361943",
+          "country": "Turkey"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "6130759760",
+          "country": "Turkey"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "One Block Umraniye Blok, No:16-72 Fatih Sultan Mahallesi",
+          "city": "Istanbul",
+          "postal_code": "34771",
+          "country": "TR"
+        }
+      ]
+    },
+    {
+      "uid": 49340,
+      "name": "SSGCTM CNC TAKIM TEZGAHLARI MAKINE SANAYI VE TICARET LIMITED SIRKETI",
+      "entry_type": "Entity",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "countries": [
+        "TR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Tax ID No.",
+          "number": "7811027471",
+          "country": "Turkey"
+        },
+        {
+          "type": "Business Registration Number",
+          "number": "66182",
+          "country": "Turkey"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "17 P Fevzicakmak Mahallesi",
+          "city": "Konya",
+          "country": "TR"
+        }
+      ]
+    },
+    {
+      "uid": 49341,
+      "name": "MINYON KESICI TAKIMLAR MAKINE SANAYI VE TICARET LIMITED SIRKETI",
+      "entry_type": "Entity",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "countries": [
+        "TR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Tax ID No.",
+          "number": "1230499319",
+          "country": "Turkey"
+        },
+        {
+          "type": "Business Registration Number",
+          "number": "50623",
+          "country": "Turkey"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "17/P Fevzi Cakmak Mahallesi",
+          "city": "Konya",
+          "postal_code": "42050",
+          "country": "TR"
+        }
+      ]
+    },
+    {
+      "uid": 50130,
+      "name": "HIDROPARK HIDROLIK PNOMATIK SAN VE TIC LTD STI",
+      "entry_type": "Entity",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "countries": [
+        "TR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "718052",
+          "country": "Turkey"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Mescit Mah. Ataturk Cad. Birmes San Sit B 10 Blok No. 12",
+          "city": "Istanbul",
+          "postal_code": "34956",
+          "country": "TR"
+        }
+      ]
+    },
+    {
+      "uid": 51038,
+      "name": "AYTT CNC TAKIM TEZGAHLARI MAKINE SANAYI VE TICARET LIMITED SIRKETI",
+      "entry_type": "Entity",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "countries": [
+        "TR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "AYTT CNC Machine Tools San Trade Ltd Sti"
+      ],
+      "ids": [
+        {
+          "type": "Tax ID No.",
+          "number": "1250359686",
+          "country": "Turkey"
+        },
+        {
+          "type": "Central Registration System Number",
+          "number": "0125035968600016",
+          "country": "Turkey"
+        },
+        {
+          "type": "Trade License No.",
+          "number": "39813",
+          "country": "Turkey"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Ahmet Petekci Caddesi No. 17, P, Fevzicakmak Mahallesi",
+          "city": "Karatay",
+          "state": "Konya",
+          "postal_code": "42050",
+          "country": "TR"
+        }
+      ]
+    },
+    {
+      "uid": 51042,
+      "name": "Aydin Recep Cetin",
+      "entry_type": "Individual",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "countries": [
+        "TR"
+      ],
+      "list_type": "SDN",
+      "dob": "1996-11-14",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "U14618486",
+          "country": "Turkey"
+        },
+        {
+          "type": "National ID No.",
+          "number": "30442754582",
+          "country": "Turkey"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "state": "Konya",
+          "country": "TR"
+        }
+      ]
+    },
+    {
+      "uid": 51045,
+      "name": "Aydin Gurhan",
+      "entry_type": "Individual",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "countries": [
+        "TR"
+      ],
+      "list_type": "SDN",
+      "dob": "1964-01-20",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "30481753270",
+          "country": "Turkey"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "state": "Konya",
+          "country": "TR"
+        }
+      ]
+    }
+  ],
+  "updates": []
+}

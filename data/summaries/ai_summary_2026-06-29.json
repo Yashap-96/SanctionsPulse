@@ -1,0 +1,90 @@
+{
+  "executive_summary": "On June 29, 2026, OFAC removed 7 entities from the sanctions list, all of which were related to the RUSSIA-EO14024 program. The removed entities were primarily based in Turkey and included both individuals and companies. No new entities were added to the list.",
+  "notable_entities": [
+    {
+      "uid": "46628",
+      "name": "MEGASAN ELEKTRONIK TICARET VE SANAYI ANONIM SIRKETI",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "significance": "Removed from the SDN list"
+    },
+    {
+      "uid": "49340",
+      "name": "SSGCTM CNC TAKIM TEZGAHLARI MAKINE SANAYI VE TICARET LIMITED SIRKETI",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "significance": "Removed from the SDN list"
+    },
+    {
+      "uid": "49341",
+      "name": "MINYON KESICI TAKIMLAR MAKINE SANAYI VE TICARET LIMITED SIRKETI",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "significance": "Removed from the SDN list"
+    },
+    {
+      "uid": "50130",
+      "name": "HIDROPARK HIDROLIK PNOMATIK SAN VE TIC LTD STI",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "significance": "Removed from the SDN list"
+    },
+    {
+      "uid": "51038",
+      "name": "AYTT CNC TAKIM TEZGAHLARI MAKINE SANAYI VE TICARET LIMITED SIRKETI",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "significance": "Removed from the SDN list"
+    },
+    {
+      "uid": "51042",
+      "name": "Aydin Recep Cetin",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "significance": "Removed from the SDN list as an individual"
+    },
+    {
+      "uid": "51045",
+      "name": "Aydin Gurhan",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "significance": "Removed from the SDN list as an individual"
+    }
+  ],
+  "risk_implications": [
+    {
+      "level": "LOW",
+      "area": "Turkey",
+      "description": "The removal of these entities from the sanctions list may reduce the risk of doing business in Turkey, but companies should still exercise caution and ensure compliance with all applicable regulations."
+    }
+  ],
+  "program_highlights": [
+    {
+      "program": "RUSSIA-EO14024",
+      "daily_added": 0,
+      "note": "7 entities were removed from this program"
+    }
+  ],
+  "geographic_hotspots": [
+    {
+      "region": "Europe",
+      "countries": [
+        "TR"
+      ],
+      "activity": "Sanctions removals",
+      "trend": "Declining"
+    }
+  ],
+  "compliance_recommendations": [
+    "Review and update internal watchlists to reflect the removal of these entities",
+    "Ensure compliance with all applicable regulations and laws when doing business in Turkey",
+    "Exercise caution when dealing with entities that have been removed from the sanctions list, as they may still pose a risk"
+  ]
+}

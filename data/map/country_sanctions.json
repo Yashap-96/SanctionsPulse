@@ -1061,8 +1061,8 @@
     "daily_removed": 0
   },
   "TR": {
-    "total": 362,
-    "sdn": 361,
+    "total": 355,
+    "sdn": 354,
     "consolidated": 1,
     "programs": [
       "SDGT",
@@ -1086,7 +1086,7 @@
       "CAATSA - RUSSIA"
     ],
     "daily_added": 0,
-    "daily_removed": 0
+    "daily_removed": 7
   },
   "HR": {
     "total": 5,
