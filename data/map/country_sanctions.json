@@ -15,8 +15,8 @@
     "daily_removed": 0
   },
   "GB": {
-    "total": 211,
-    "sdn": 211,
+    "total": 212,
+    "sdn": 212,
     "consolidated": 0,
     "programs": [
       "CUBA",
@@ -45,7 +45,7 @@
       "CAATSA - RUSSIA",
       "IRAN-EO13846"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "CH": {
@@ -137,8 +137,8 @@
     "daily_removed": 0
   },
   "MX": {
-    "total": 1114,
-    "sdn": 1114,
+    "total": 1124,
+    "sdn": 1124,
     "consolidated": 0,
     "programs": [
       "CUBA",
@@ -151,7 +151,7 @@
       "GLOMAG",
       "VENEZUELA-EO13850"
     ],
-    "daily_added": 0,
+    "daily_added": 10,
     "daily_removed": 0
   },
   "FR": {
@@ -990,8 +990,8 @@
     "daily_removed": 0
   },
   "IN": {
-    "total": 154,
-    "sdn": 150,
+    "total": 150,
+    "sdn": 146,
     "consolidated": 4,
     "programs": [
       "SDGT",
@@ -1010,7 +1010,7 @@
       "SUDAN-EO14098"
     ],
     "daily_added": 0,
-    "daily_removed": 0
+    "daily_removed": 4
   },
   "IQ": {
     "total": 187,
@@ -1399,8 +1399,8 @@
     "daily_removed": 0
   },
   "EC": {
-    "total": 12,
-    "sdn": 12,
+    "total": 13,
+    "sdn": 13,
     "consolidated": 0,
     "programs": [
       "SDNTK",
@@ -1409,7 +1409,7 @@
       "SDGT",
       "TCO"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "VG": {
@@ -1438,8 +1438,8 @@
     "daily_removed": 0
   },
   "BR": {
-    "total": 23,
-    "sdn": 23,
+    "total": 28,
+    "sdn": 28,
     "consolidated": 0,
     "programs": [
       "SDGT",
@@ -1449,7 +1449,7 @@
       "ILLICIT-DRUGS-EO14059",
       "FTO"
     ],
-    "daily_added": 0,
+    "daily_added": 5,
     "daily_removed": 0
   },
   "PY": {
@@ -2727,14 +2727,16 @@
     "daily_removed": 0
   },
   "PT": {
-    "total": 2,
-    "sdn": 2,
+    "total": 3,
+    "sdn": 3,
     "consolidated": 0,
     "programs": [
       "IFSR",
-      "NPWMD"
+      "NPWMD",
+      "SDGT",
+      "ILLICIT-DRUGS-EO14059"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   }
 }

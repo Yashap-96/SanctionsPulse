@@ -1,0 +1,95 @@
+{
+  "executive_summary": "On July 1, 2026, OFAC added 18 entities and individuals to the SDN list, primarily targeting those involved in illicit drug trafficking and Specially Designated Global Terrorists (SDGT). Four entities were removed from the list, all of which were previously designated under the Russia-related EO14024 program. No updates were made to existing listings.",
+  "notable_entities": [
+    {
+      "uid": "53942",
+      "name": "Juraidini Silva Guillermo Oscar",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "significance": "Individual designated for involvement in illicit drug trafficking"
+    },
+    {
+      "uid": "56600",
+      "name": "DE OLIVEIRA SHIMADA Victor Henrique",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "significance": "Individual designated for involvement in illicit drug trafficking"
+    },
+    {
+      "uid": "56750",
+      "name": "NUNES HENRIQUE DE OLIVEIRA Stella Stefanie",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "significance": "Individual designated for involvement in illicit drug trafficking"
+    },
+    {
+      "uid": "57459",
+      "name": "Chone Killers",
+      "programs": [
+        "FTO",
+        "SDGT"
+      ],
+      "significance": "Entity designated as a Foreign Terrorist Organization (FTO) and Specially Designated Global Terrorist (SDGT)"
+    }
+  ],
+  "risk_implications": [
+    {
+      "level": "HIGH",
+      "area": "Illicit drug trafficking",
+      "description": "The addition of 18 entities and individuals to the SDN list highlights the ongoing threat of illicit drug trafficking and the need for enhanced due diligence and compliance measures"
+    },
+    {
+      "level": "MEDIUM",
+      "area": "Global terrorism",
+      "description": "The designation of Chone Killers as an FTO and SDGT underscores the continued risk of global terrorism and the importance of monitoring and reporting suspicious activity"
+    }
+  ],
+  "program_highlights": [
+    {
+      "program": "ILLICIT-DRUGS-EO14059",
+      "daily_added": 15,
+      "note": "Majority of additions were related to this program, indicating a significant focus on combating illicit drug trafficking"
+    },
+    {
+      "program": "SDGT",
+      "daily_added": 15,
+      "note": "Multiple designations under this program highlight the ongoing efforts to counter global terrorism"
+    },
+    {
+      "program": "FTO",
+      "daily_added": 1,
+      "note": "Designation of Chone Killers as an FTO emphasizes the need for vigilance against foreign terrorist organizations"
+    }
+  ],
+  "geographic_hotspots": [
+    {
+      "region": "Latin America",
+      "countries": [
+        "MX",
+        "BR",
+        "EC"
+      ],
+      "activity": "Illicit drug trafficking and terrorism",
+      "trend": "Escalating"
+    },
+    {
+      "region": "South Asia",
+      "countries": [
+        "IN"
+      ],
+      "activity": "Previous designations under Russia-related EO14024",
+      "trend": "Declining"
+    }
+  ],
+  "compliance_recommendations": [
+    "Enhance due diligence and compliance measures to mitigate the risk of illicit drug trafficking and global terrorism",
+    "Monitor and report suspicious activity related to designated entities and individuals",
+    "Stay up-to-date with the latest OFAC designations and updates to ensure compliance with relevant regulations"
+  ]
+}

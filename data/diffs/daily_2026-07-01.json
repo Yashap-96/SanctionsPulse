@@ -1,0 +1,702 @@
+{
+  "date": "2026-07-01",
+  "period": "2026-07-01",
+  "summary": {
+    "added": 18,
+    "removed": 4,
+    "updated": 0
+  },
+  "additions": [
+    {
+      "uid": 53942,
+      "name": "Juraidini Silva Guillermo Oscar",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1984-09-01",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "JUSO840901HTSRLS09",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 56600,
+      "name": "DE OLIVEIRA SHIMADA Victor Henrique",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "BR"
+      ],
+      "list_type": "SDN",
+      "dob": "1985-02-11",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "33767898861",
+          "country": "Brazil"
+        },
+        {
+          "type": "Passport",
+          "number": "FT087922",
+          "country": "Brazil"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Santos",
+          "state": "Sao Paulo",
+          "country": "BR"
+        }
+      ]
+    },
+    {
+      "uid": 56750,
+      "name": "NUNES HENRIQUE DE OLIVEIRA Stella Stefanie",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "BR"
+      ],
+      "list_type": "SDN",
+      "dob": "1992-03-21",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "38917779816",
+          "country": "Brazil"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Sao Paulo",
+          "country": "BR"
+        }
+      ]
+    },
+    {
+      "uid": 56751,
+      "name": "VICTORY TRADING INTERMEDIACAO DE NEGOCIOS COBRANCAS E TECNOLOGIA LTDA",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "BR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Victory Trading Intermedia\u00e7\u00e3o de Neg\u00f3cios, Cobran\u00e7as e Tecnologia Ltda"
+      ],
+      "ids": [
+        {
+          "type": "Tax ID No.",
+          "number": "42987643000110",
+          "country": "Brazil"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Sao Paulo",
+          "country": "BR"
+        }
+      ]
+    },
+    {
+      "uid": 56752,
+      "name": "PIXWAVE SOLUCOES DE PAGAMENTOS LTDA",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "BR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Pixwave Solu\u00e7\u00f5es de Pagamentos Ltda"
+      ],
+      "ids": [
+        {
+          "type": "Tax ID No.",
+          "number": "50147517000186",
+          "country": "Brazil"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Sao Paulo",
+          "country": "BR"
+        }
+      ]
+    },
+    {
+      "uid": 56753,
+      "name": "WAVE CONSTRUCOES INTELIGENTES LTDA",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "BR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Wave Constru\u00e7\u00f5es Inteligentes Ltda"
+      ],
+      "ids": [
+        {
+          "type": "Tax ID No.",
+          "number": "52870614000128",
+          "country": "Brazil"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Santos",
+          "country": "BR"
+        }
+      ]
+    },
+    {
+      "uid": 56754,
+      "name": "AVENIDAS FLUTUANTES UNIPESSOAL LDA",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT",
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "PT"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Tax ID No.",
+          "number": "PT516576887",
+          "country": "Portugal"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Setubal",
+          "country": "PT"
+        }
+      ]
+    },
+    {
+      "uid": 56973,
+      "name": "CENTRO CAMBIARIO LA PESETA, S.A. DE C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "1610",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Matamoros",
+          "state": "Tamaulipas",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 56974,
+      "name": "OJ LIVING TRUST, S.A.P.I. DE C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "N-2023006827",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Monterrey",
+          "state": "Nuevo Leon",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 56975,
+      "name": "RK REAL KING, S.A. DE C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "N-2018095907",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Queretaro",
+          "state": "Queretaro",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 56976,
+      "name": "SOMA TRANSPORTE Y SERVICIOS, S.A. DE C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "N-2022000577",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Matamoros",
+          "state": "Tamaulipas",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 56977,
+      "name": "CUCUMBER SWEET WAVES LTD",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "15928462",
+          "country": "United Kingdom"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "27 Old Gloucester Street",
+          "city": "London",
+          "postal_code": "WC1N 3AX",
+          "country": "GB"
+        }
+      ]
+    },
+    {
+      "uid": 56978,
+      "name": "OGUI FLETES",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Matamoros",
+          "state": "Tamaulipas",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 57459,
+      "name": "Chone Killers",
+      "entry_type": "Entity",
+      "programs": [
+        "FTO",
+        "SDGT"
+      ],
+      "countries": [
+        "EC"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Chone Killer Gang"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57460,
+      "name": "JOMADI LOGISTICS AND CARGO, S.A. DE C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Jomadi Logistics & Cargo, Sociedad Anonima De Capital Variable",
+        "JOMADI LOGISTICS & CARGO, S.A. DE C.V."
+      ],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "46570",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Metepec",
+          "state": "Mexico",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 57461,
+      "name": "Ahavat Logistics Solution, S.A. de C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "N-2019037707",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Metepec",
+          "state": "Mexico",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 57462,
+      "name": "Ruiz Villagomez J. Refugio",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1961-08-27",
+      "nationalities": [],
+      "aliases": [
+        "Ruiz Villagomez Jose Refugio"
+      ],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "RUVR610827HGTZLF02",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57513,
+      "name": "OF TRANSPORTES",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "R.F.C.",
+          "number": "JUSO8409010VA",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Matamoros",
+          "state": "Tamaulipas",
+          "country": "MX"
+        }
+      ]
+    }
+  ],
+  "removals": [
+    {
+      "uid": 50781,
+      "name": "RRG Engineering Technologies Private Limited",
+      "entry_type": "Entity",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "countries": [
+        "IN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "U29219TG2008PTC058777",
+          "country": "India"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "AAECR0362B",
+          "country": "India"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "No. 8, Prajay Meadows",
+          "address2": "No. 12, Banjara Hills",
+          "city": "Hyderabad",
+          "postal_code": "500034",
+          "country": "IN"
+        }
+      ]
+    },
+    {
+      "uid": 50795,
+      "name": "Lokesh Machines Limited",
+      "entry_type": "Entity",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "countries": [
+        "IN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "L29219TG1983PLC004319",
+          "country": "India"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "AAACL4244L",
+          "country": "India"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "B-29, EEIE, Stage II",
+          "city": "Hyderabad",
+          "state": "Telangana",
+          "postal_code": "500037",
+          "country": "IN"
+        }
+      ]
+    },
+    {
+      "uid": 51091,
+      "name": "GALAXY BEARINGS LTD",
+      "entry_type": "Entity",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "countries": [
+        "IN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "L29120GJ1990PLC014385",
+          "country": "India"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "AAACG5617Q",
+          "country": "India"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Pariseema Complex, A-53/54, C.G. Road, Ellisbridge",
+          "city": "Ahmedabad",
+          "postal_code": "380009",
+          "country": "IN"
+        }
+      ]
+    },
+    {
+      "uid": 51094,
+      "name": "SHAURYA AERONAUTICS PRIVATE LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "countries": [
+        "IN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "U74899DL2000PTC108725",
+          "country": "India"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "AAFSC3675P",
+          "country": "India"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "T-15, 2nd Floor, Green Park Main",
+          "city": "Delhi",
+          "postal_code": "110016",
+          "country": "IN"
+        }
+      ]
+    }
+  ],
+  "updates": []
+}
