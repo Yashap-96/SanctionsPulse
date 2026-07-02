@@ -45,7 +45,7 @@
       "CAATSA - RUSSIA",
       "IRAN-EO13846"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "CH": {
@@ -151,7 +151,7 @@
       "GLOMAG",
       "VENEZUELA-EO13850"
     ],
-    "daily_added": 10,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "FR": {
@@ -1010,7 +1010,7 @@
       "SUDAN-EO14098"
     ],
     "daily_added": 0,
-    "daily_removed": 4
+    "daily_removed": 0
   },
   "IQ": {
     "total": 187,
@@ -1409,7 +1409,7 @@
       "SDGT",
       "TCO"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "VG": {
@@ -1449,7 +1449,7 @@
       "ILLICIT-DRUGS-EO14059",
       "FTO"
     ],
-    "daily_added": 5,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "PY": {
@@ -2736,7 +2736,7 @@
       "SDGT",
       "ILLICIT-DRUGS-EO14059"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   }
 }
