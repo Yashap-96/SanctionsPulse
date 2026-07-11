@@ -1,0 +1,505 @@
+{
+  "date": "2026-07-11",
+  "period": "2026-07-11",
+  "summary": {
+    "added": 14,
+    "removed": 0,
+    "updated": 0
+  },
+  "additions": [
+    {
+      "uid": 57933,
+      "name": "Mohsen Khandan and Partners General Partnership Company",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0631\u06a9\u062a \u062a\u0636\u0627\u0645\u0646\u06cc \u0645\u062d\u0633\u0646 \u062e\u0646\u062f\u0627\u0646 \u0648 \u0634\u0631\u06a9\u0627",
+        "Mohsen Khandan and Partners Company",
+        "Khandan Exchange"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "45635",
+          "country": "Iran"
+        },
+        {
+          "type": "National ID No.",
+          "number": "14006482791",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Ground Floor, No. 0, Shahid Rajaee Boulevard (54 Shahid Rajaee)",
+          "address2": "Baharan Alley 8, Moali Abad",
+          "city": "Shiraz",
+          "state": "Fars",
+          "postal_code": "7187611451",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 57934,
+      "name": "CDM Trading Limited",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "3123352",
+          "country": "Hong Kong"
+        },
+        {
+          "type": "Business Registration Number",
+          "number": "73747617",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Rm23, 7/F Lee on Industrial Building No. 70 Hung To Rd",
+          "address2": "Kowloon",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 57935,
+      "name": "Naba Alzaki Raw Materials Trading LLC",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "License",
+          "number": "1390462",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Commercial Registry Number",
+          "number": "2369427",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 57942,
+      "name": "Khandan Mohsen",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1985-08-10",
+      "nationalities": [],
+      "aliases": [
+        "\u062e\u0646\u062f\u0627\u0646 \u0645\u062d\u0633\u0646"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "2529897204",
+          "country": "Iran"
+        },
+        {
+          "type": "Passport",
+          "number": "R0107863",
+          "country": "Dominica"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Shiraz",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 57943,
+      "name": "Khandan Ali Asghar",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1958-08-08",
+      "nationalities": [],
+      "aliases": [
+        "\u062e\u0646\u062f\u0627\u0646 \u0639\u0644\u06cc \u0627\u0635\u063a\u0631"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "2529610525",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Shiraz",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 57944,
+      "name": "Mohammad Darbani and Partners Exchange General Partnership Company",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0631\u06a9\u062a \u062a\u0636\u0627\u0645\u0646\u06cc \u0635\u0631\u0627\u0641\u06cc \u0645\u062d\u0645\u062f \u062f\u0631\u0628\u0627\u0646\u06cc \u0648 \u0634\u0631\u06a9\u0627\u0621",
+        "MOHAMMAD DARBANI AND PARTNERS EXCHANGE COMPANY",
+        "\u0634\u0631\u06a9\u062a \u0635\u0631\u0627\u0641\u06cc \u0645\u062d\u0645\u062f \u062f\u0631\u0628\u0627\u0646\u06cc \u0648 \u0634\u0631\u06a9\u0627\u0621"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "14005872174",
+          "country": "Iran"
+        },
+        {
+          "type": "Registration Number",
+          "number": "492428",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Ground Floor, No. 2, Ziba Dead End",
+          "address2": "Shahid Baradaran Jozi Street",
+          "address3": "Ekhtiariyeh Neighborhood",
+          "city": "Tehran",
+          "state": "Tehran",
+          "postal_code": "1951876364",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 57945,
+      "name": "Abadi Shokufeh Rostam",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1956-05-22",
+      "nationalities": [],
+      "aliases": [
+        "\u0622\u0628\u0627\u062f\u06cc \u0634\u06a9\u0648\u0641\u0647 \u0631\u0633\u062a\u0645",
+        "Rostamabadi Shokoofeh"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0491083157",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57946,
+      "name": "Sarshari Zahra",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1961-12-22",
+      "nationalities": [],
+      "aliases": [
+        "\u0633\u0631\u0634\u0627\u0631\u06cc \u0632\u0647\u0631\u0627"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "2297395132",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57947,
+      "name": "Darbani Mohammad",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1946-07-15",
+      "nationalities": [],
+      "aliases": [
+        "\u062f\u0631\u0628\u0627\u0646\u06cc \u0645\u062d\u0645\u062f"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0491004435",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57948,
+      "name": "Lavasani and Partners General Partnership Company",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0631\u06a9\u062a \u062a\u0636\u0627\u0645\u0646\u06cc \u0644\u0648\u0627\u0633\u0627\u0646\u06cc \u0648 \u0634\u0631\u06a9\u0627\u0621",
+        "Lavasani and Partners Company",
+        "\u0634\u0631\u06a9\u062a \u0644\u0648\u0627\u0633\u0627\u0646\u06cc \u0648 \u0634\u0631\u06a9\u0627\u0621",
+        "LAVASANI AND PARTNERS Exchange",
+        "\u0635\u0631\u0627\u0641\u06cc \u0644\u0648\u0627\u0633\u0627\u0646\u06cc \u0648 \u0634\u0631\u06a9\u0627\u0621",
+        "Sabzeh Meydan Exchange"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "253979",
+          "country": "Iran"
+        },
+        {
+          "type": "National ID No.",
+          "number": "10102943860",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Ground Floor, Iranian Gold and Coin Shopping Center Building",
+          "address2": "Number 820, Sabzeh Meydan Square",
+          "address3": "Bazaar Auction Alley, Bazaar",
+          "city": "Tehran",
+          "state": "Tehran",
+          "postal_code": "1161766113",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 57949,
+      "name": "Lavasani Ahmad Navai",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1972-07-27",
+      "nationalities": [],
+      "aliases": [
+        "\u0644\u0648\u0627\u0633\u0627\u0646\u06cc \u0627\u062d\u0645\u062f \u0646\u0648\u0627\u0626\u06cc",
+        "Lavasani Ahmad Navaei"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0056443005",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57950,
+      "name": "Lavasani Amir Navai",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1970-09-06",
+      "nationalities": [],
+      "aliases": [
+        "\u0644\u0648\u0627\u0633\u0627\u0646\u06cc \u0627\u0645\u06cc\u0631 \u0646\u0648\u0627\u0626\u06cc"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0054082951",
+          "country": "Iran"
+        },
+        {
+          "type": "Passport",
+          "number": "K54424834",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 57957,
+      "name": "Ansari Ali",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13876",
+        "SDGT",
+        "IFSR",
+        "IRGC"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": "1968-12-26",
+      "nationalities": [],
+      "aliases": [
+        "\u0627\u0646\u0635\u0627\u0631\u06cc \u0639\u0644\u06cc",
+        "Ansari Ali Ali Akbar"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "4320705718",
+          "country": "Iran"
+        },
+        {
+          "type": "Passport",
+          "number": "B65348454",
+          "country": "Iran"
+        },
+        {
+          "type": "Passport",
+          "number": "M54968815",
+          "country": "Iran"
+        },
+        {
+          "type": "Passport",
+          "number": "L00017629",
+          "country": "Cyprus"
+        },
+        {
+          "type": "Passport",
+          "number": "RE0036662",
+          "country": "Saint Kitts and Nevis"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 57960,
+      "name": "Smart Global Limited",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13876",
+        "SDGT"
+      ],
+      "countries": [
+        "KN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Ziba Leisure Limited"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "C39335",
+          "country": "Saint Kitts and Nevis"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Charlestown",
+          "country": "KN"
+        }
+      ]
+    }
+  ],
+  "removals": [],
+  "updates": []
+}
