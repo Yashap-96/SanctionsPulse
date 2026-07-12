@@ -617,7 +617,7 @@
       "GLOMAG",
       "ILLICIT-DRUGS-EO14059"
     ],
-    "daily_added": 10,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "AF": {
@@ -649,7 +649,7 @@
       "IRAN-EO13902",
       "IRAN-EO13876"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "IE": {
@@ -944,7 +944,7 @@
       "561-Related",
       "CMIC-EO13959"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "ER": {
@@ -1383,7 +1383,7 @@
       "PAIPA",
       "CAATSA - RUSSIA"
     ],
-    "daily_added": 2,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "DO": {
