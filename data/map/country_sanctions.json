@@ -1,7 +1,7 @@
 {
   "CU": {
-    "total": 62,
-    "sdn": 62,
+    "total": 72,
+    "sdn": 72,
     "consolidated": 0,
     "programs": [
       "CUBA",
@@ -11,7 +11,7 @@
       "VENEZUELA-EO13850",
       "GLOMAG"
     ],
-    "daily_added": 0,
+    "daily_added": 10,
     "daily_removed": 0
   },
   "GB": {
@@ -1565,8 +1565,8 @@
     "daily_removed": 0
   },
   "BY": {
-    "total": 264,
-    "sdn": 261,
+    "total": 265,
+    "sdn": 262,
     "consolidated": 3,
     "programs": [
       "BELARUS",
@@ -1577,9 +1577,10 @@
       "RUSSIA-EO14024",
       "SDGT",
       "BELARUS-EO14038",
-      "IRAN-CON-ARMS-EO"
+      "IRAN-CON-ARMS-EO",
+      "CYBER4"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "AN": {
@@ -1775,8 +1776,8 @@
     "daily_removed": 0
   },
   "UA": {
-    "total": 242,
-    "sdn": 239,
+    "total": 244,
+    "sdn": 241,
     "consolidated": 3,
     "programs": [
       "BELARUS",
@@ -1796,9 +1797,10 @@
       "NPWMD",
       "IRAN-EO13902",
       "SUDAN-EO14098",
-      "IRAN-EO13846"
+      "IRAN-EO13846",
+      "CYBER4"
     ],
-    "daily_added": 0,
+    "daily_added": 2,
     "daily_removed": 0
   },
   "AW": {

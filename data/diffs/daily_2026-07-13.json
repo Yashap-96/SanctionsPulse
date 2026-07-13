@@ -1,0 +1,447 @@
+{
+  "date": "2026-07-13",
+  "period": "2026-07-13",
+  "summary": {
+    "added": 13,
+    "removed": 0,
+    "updated": 0
+  },
+  "additions": [
+    {
+      "uid": 57975,
+      "name": "First VPN Service",
+      "entry_type": "Entity",
+      "programs": [
+        "CYBER4"
+      ],
+      "countries": [
+        "UA"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "1VPNS",
+        "FVPNS",
+        "FirstVPN"
+      ],
+      "ids": [],
+      "crypto_wallets": [
+        {
+          "currency": "TRX",
+          "address": "TUuaxBAWfA5nmsqNfycxYrzEvz4a5GJMGY"
+        },
+        {
+          "currency": "XBT",
+          "address": "bc1qdnr88f4d2yqunnc4mjsguezm6g3mlwe44z5dw8"
+        },
+        {
+          "currency": "XBT",
+          "address": "bc1qr4ankqmvmrhce3ydvzse86dfx5s3zhehfr9tg9"
+        },
+        {
+          "currency": "ETH",
+          "address": "0x2711d73d559f62f4f855ee21f38378f528e07985"
+        },
+        {
+          "currency": "LTC",
+          "address": "ltc1qr8ntsedq8tv0svmxqhzvdcdl5k7kntdmnhwep7"
+        }
+      ],
+      "addresses": [
+        {
+          "city": "Dnipro",
+          "country": "UA"
+        }
+      ]
+    },
+    {
+      "uid": 57978,
+      "name": "Rashevskyi Dmytro",
+      "entry_type": "Individual",
+      "programs": [
+        "CYBER4"
+      ],
+      "countries": [
+        "UA"
+      ],
+      "list_type": "SDN",
+      "dob": "1981-01-05",
+      "nationalities": [],
+      "aliases": [
+        "Rashevsky Dmitry",
+        "Sorin Maksim",
+        "Chabanenko Roman",
+        "Walker Johny",
+        "johnyw255",
+        "jobberjobber777",
+        "rashdv7"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "FG819665",
+          "country": "Ukraine"
+        }
+      ],
+      "crypto_wallets": [
+        {
+          "currency": "XBT",
+          "address": "1MTndG4K51RRMvkzyvguaHnQpiMLnxFGzM"
+        },
+        {
+          "currency": "ETH",
+          "address": "0x1d19b52b54e7ef5ea1a4b40b616165e798eac9f8"
+        },
+        {
+          "currency": "TRX",
+          "address": "TTLRNgLpz5H5tLPuNU4FViUs7zmmAtyvzW"
+        },
+        {
+          "currency": "SOL",
+          "address": "Fc1EwQUZyTEagaDvA1utHXCcZNyG1x2PLt2DfNu1cJdH"
+        },
+        {
+          "currency": "LTC",
+          "address": "LcP1DumXkNJbBtSYD3XxAfsJ2nZR5hLdpM"
+        },
+        {
+          "currency": "XBT",
+          "address": "1DfyWkiXVVqWfcSduj23qTDis9kb2qvRDa"
+        },
+        {
+          "currency": "DASH",
+          "address": "XcuGqRfrR85zyDrzVr1gSL5RNjwwpbu2KS"
+        },
+        {
+          "currency": "ZEC",
+          "address": "t1LHesgnkapziGQCJtrfZWYXhyjfTVo1dvh"
+        },
+        {
+          "currency": "LTC",
+          "address": "LbPAqHvemZBv3pvAqiAtDnZ3U1t6EziaL1"
+        },
+        {
+          "currency": "DASH",
+          "address": "XowUeMFa1FkEUnAHL78E5oqpezMfSB6xP1"
+        },
+        {
+          "currency": "TRX",
+          "address": "TBFW9gF4oDX5cG44gS7AoxQeujScmm3z6h"
+        },
+        {
+          "currency": "ETH",
+          "address": "0x2C7DcD774b33e10367F7d6385479e04F97d179dc"
+        },
+        {
+          "currency": "SOL",
+          "address": "FuCC7GoYwt5TsNTjWL23Xx9UKCvC18chjMEFPL3vJDCC"
+        }
+      ],
+      "addresses": [
+        {
+          "city": "Dnipro",
+          "country": "UA"
+        }
+      ]
+    },
+    {
+      "uid": 58046,
+      "name": "Association of Combatants of the Cuban Revolution",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "ACRC",
+        "Asociacion de Combatientes de la Revolucion Cubana"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58051,
+      "name": "Grupo Empresarial del Comercio Exterior",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "GECOMEX"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58052,
+      "name": "ENETEC S.A.",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Entity Code",
+          "number": "60631",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58053,
+      "name": "Organizacion Superior de Direccion Empresarial Caudal S.A.",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Grupo CAUDAL S.A.",
+        "OSDE CAUDAL S.A."
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58054,
+      "name": "Grupo Empresarial de Transporte Maritimo Portuario",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "GEMAR"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58055,
+      "name": "Milicias De Tropas Territoriales",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Territorial Troop Militias",
+        "MTT"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58056,
+      "name": "Corporacion Antillana Exportadora SA",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Antex S.A.",
+        "Corporacion Antex, S.A.",
+        "Corporacion Comercial Antex, S.A.",
+        "Antex Exporting Corporation S.A.",
+        "Antillean Exporter Plc"
+      ],
+      "ids": [
+        {
+          "type": "Entity Code",
+          "number": "60245",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58057,
+      "name": "Coreydan S.A.",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Entity Code",
+          "number": "60637",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58058,
+      "name": "Rapid Response Brigades",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Brigadas de Accion Rapida",
+        "Destacamentos de Respuesta Rapida",
+        "Brigadas de Respuesta Rapida"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58059,
+      "name": "Ministry of Tourism of Cuba",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "MINTUR",
+        "Ministerio de Turismo de Cuba"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58077,
+      "name": "Silayev Yevgeniy Vladimirovich",
+      "entry_type": "Individual",
+      "programs": [
+        "CYBER4"
+      ],
+      "countries": [
+        "BY"
+      ],
+      "list_type": "SDN",
+      "dob": "2000-11-09",
+      "nationalities": [],
+      "aliases": [
+        "Silayeu Yauheni"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "KH3188588",
+          "country": "Belarus"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Pestraa iela 8-7",
+          "city": "Grodno",
+          "country": "BY"
+        }
+      ]
+    }
+  ],
+  "removals": [],
+  "updates": []
+}
