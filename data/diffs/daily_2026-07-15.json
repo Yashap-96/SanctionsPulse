@@ -1,0 +1,1811 @@
+{
+  "date": "2026-07-15",
+  "period": "2026-07-15",
+  "summary": {
+    "added": 54,
+    "removed": 0,
+    "updated": 0
+  },
+  "additions": [
+    {
+      "uid": 58093,
+      "name": "AVA TARABAR DARYA COMPANY",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0631\u06a9\u062a \u0622\u0648\u0627 \u062a\u0631\u0627\u0628\u0631 \u062f\u0631\u06cc\u0627",
+        "AVA TARABAR DARYA CO LTD"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "14011215616",
+          "country": "Iran"
+        },
+        {
+          "type": "Business Registration Number",
+          "number": "3920",
+          "country": "Iran"
+        },
+        {
+          "type": "Identification Number",
+          "number": "IMO 6327561",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "No. 0 Ground Floor, Imam Khomeini Boulevard, Nezami Alley",
+          "address2": "Post Neighborhood",
+          "city": "Khorramshahr",
+          "state": "Khouzestan",
+          "postal_code": "6415953185",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58094,
+      "name": "RAHBAR MADANI Mohammad Reza",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1973-06-10",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "RA020092",
+          "country": "Dominica"
+        },
+        {
+          "type": "National ID No.",
+          "number": "0057373078",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58095,
+      "name": "SEPEHR NOOR MOBIN COMPANY",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0631\u06a9\u062a \u0633\u067e\u0647\u0631 \u0646\u0648\u0631 \u0645\u0628\u06cc\u0646",
+        "SEPEHR NOOR MOBIN SHIPPING CO"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "14005480093",
+          "country": "Iran"
+        },
+        {
+          "type": "Registration Number",
+          "number": "484305",
+          "country": "Iran"
+        },
+        {
+          "type": "Identification Number",
+          "number": "IMO 5920175",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Unit 3, Level 2, Mellat Tower, Ansari Street, Vali-e Asr Avenue",
+          "city": "Tehran",
+          "postal_code": "1967713374",
+          "country": "IR"
+        },
+        {
+          "address1": "Unit 201, 2nd Floor, No. 42, Enghelab Street, 12th Farvardin Street, corner of Nowruz Alley",
+          "city": "Tehran",
+          "postal_code": "1314694161",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58096,
+      "name": "SEPEHR PAYAM",
+      "entry_type": "Vessel",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 9110535",
+          "country": ""
+        },
+        {
+          "type": "MMSI",
+          "number": "422058200",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58097,
+      "name": "ERIKA",
+      "entry_type": "Vessel",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 8721454",
+          "country": ""
+        },
+        {
+          "type": "MMSI",
+          "number": "422049900",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58098,
+      "name": "ARKANOOR 2",
+      "entry_type": "Vessel",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 8727848",
+          "country": ""
+        },
+        {
+          "type": "MMSI",
+          "number": "422075700",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58099,
+      "name": "ARKANOOR 3",
+      "entry_type": "Vessel",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 8832083",
+          "country": ""
+        },
+        {
+          "type": "MMSI",
+          "number": "422077300",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58100,
+      "name": "SEA CRUISER",
+      "entry_type": "Vessel",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 8729963",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58101,
+      "name": "SEA CASTLE",
+      "entry_type": "Vessel",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 8891572",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58102,
+      "name": "SEA ANCHOR",
+      "entry_type": "Vessel",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 8858099",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58103,
+      "name": "Sea Lead Shipping PTE. LTD.",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "SG"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Identification Number",
+          "number": "IMO 6104579",
+          "country": ""
+        },
+        {
+          "type": "Registration Number",
+          "number": "201708559N",
+          "country": "Singapore"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "78 Shenton Way",
+          "address2": "#10 Unit No. 001",
+          "city": "Singapore",
+          "postal_code": "79120",
+          "country": "SG"
+        }
+      ]
+    },
+    {
+      "uid": 58104,
+      "name": "Kangri 1 Inc",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "MH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Identification Number",
+          "number": "IMO 0134656",
+          "country": ""
+        },
+        {
+          "type": "Registration Number",
+          "number": "129141",
+          "country": "Marshall Islands"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Trust Company Complex",
+          "address2": "Ajeltake Road",
+          "city": "Ajeltake Island",
+          "state": "Majuro",
+          "postal_code": "96960",
+          "country": "MH"
+        }
+      ]
+    },
+    {
+      "uid": 58106,
+      "name": "CICCIO",
+      "entry_type": "Vessel",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 9192442",
+          "country": ""
+        },
+        {
+          "type": "MMSI",
+          "number": "305007400",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58107,
+      "name": "SHENTON WAY",
+      "entry_type": "Vessel",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 9146314",
+          "country": ""
+        },
+        {
+          "type": "MMSI",
+          "number": "352005129",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58109,
+      "name": "TANJONG PAGAR 1",
+      "entry_type": "Vessel",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 9404508",
+          "country": ""
+        },
+        {
+          "type": "MMSI",
+          "number": "352006054",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58110,
+      "name": "VIRENT",
+      "entry_type": "Vessel",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "MMSI",
+          "number": "352002167",
+          "country": ""
+        },
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 9332171",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58111,
+      "name": "PLATINUM KNIGHTS LTD",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "MH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Entity Code",
+          "number": "123580",
+          "country": "Marshall Islands"
+        },
+        {
+          "type": "Identification Number",
+          "number": "IMO 6505796",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Trust Company Complex",
+          "address2": "Ajeltake Road",
+          "city": "Ajeltake Island",
+          "state": "Majuro",
+          "postal_code": "96960",
+          "country": "MH"
+        }
+      ]
+    },
+    {
+      "uid": 58112,
+      "name": "HOPE 1 SHIPPING INC",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "MH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Entity Code",
+          "number": "112970",
+          "country": "Marshall Islands"
+        },
+        {
+          "type": "Identification Number",
+          "number": "IMO 6335884",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Trust Company Complex",
+          "address2": "Ajeltake Road",
+          "city": "Ajeltake Island",
+          "state": "Majuro",
+          "postal_code": "96960",
+          "country": "MH"
+        }
+      ]
+    },
+    {
+      "uid": 58113,
+      "name": "NUVETRRO SHIPPING INC",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "KN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Identification Number",
+          "number": "IMO 0422802",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Building 1",
+          "address2": "Nelson Spring Business Complex",
+          "city": "Nelson Spring",
+          "state": "Nevis",
+          "country": "KN"
+        }
+      ]
+    },
+    {
+      "uid": 58114,
+      "name": "VELTRRIVO SHIPPING INC",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "KN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Identification Number",
+          "number": "IMO 0422793",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Building 1",
+          "address2": "Nelson Spring Business Complex",
+          "city": "Nelson Spring",
+          "state": "Nevis",
+          "country": "KN"
+        }
+      ]
+    },
+    {
+      "uid": 58115,
+      "name": "OCEAN SEARUM ONE LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "74066533",
+          "country": "Hong Kong"
+        },
+        {
+          "type": "Identification Number",
+          "number": "IMO 6335306",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Level 54",
+          "address2": "Hopewell Centre, 183",
+          "address3": "Queen's Road East, Wan Chai",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 58116,
+      "name": "HANSA SHIPPING INC.",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "MH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Entity Code",
+          "number": "125737",
+          "country": "Marshall Islands"
+        },
+        {
+          "type": "Identification Number",
+          "number": "IMO 0171833",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Trust Company Complex",
+          "address2": "Ajeltake Road",
+          "city": "Majuro",
+          "state": "Ajeltake Island",
+          "country": "MH"
+        }
+      ]
+    },
+    {
+      "uid": 58117,
+      "name": "HOPE 1",
+      "entry_type": "Vessel",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 9514339",
+          "country": ""
+        },
+        {
+          "type": "MMSI",
+          "number": "305008400",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58118,
+      "name": "JADE",
+      "entry_type": "Vessel",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 9418999",
+          "country": ""
+        },
+        {
+          "type": "MMSI",
+          "number": "305005400",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58119,
+      "name": "OPAL",
+      "entry_type": "Vessel",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 9467158",
+          "country": ""
+        },
+        {
+          "type": "MMSI",
+          "number": "305006400",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58120,
+      "name": "Elpiniki",
+      "entry_type": "Vessel",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "CORN"
+      ],
+      "ids": [
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 9606015",
+          "country": ""
+        },
+        {
+          "type": "MMSI",
+          "number": "314159000",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58121,
+      "name": "DARIKA",
+      "entry_type": "Vessel",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 9506693",
+          "country": ""
+        },
+        {
+          "type": "MMSI",
+          "number": "352005381",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58122,
+      "name": "Jijin George",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": "1994-01-16",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58123,
+      "name": "TSERNOSJOV Maksim",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": "1985-08-23",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "124013929",
+          "country": "United Kingdom"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58124,
+      "name": "VISHAVDEEP Gautam",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": "1967-07-27",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "Z5557980",
+          "country": "India"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58125,
+      "name": "Dehkordi Asghar Aghili",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": "1976-02-21",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "4621568566",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58127,
+      "name": "Moghadas Behzad",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE",
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1987-07-27",
+      "nationalities": [],
+      "aliases": [
+        "\u0645\u0642\u062f\u0633 \u0628\u0647\u0632\u0627\u062f"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58128,
+      "name": "Zahed Hossein Ghorbani",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": "1982-10-13",
+      "nationalities": [],
+      "aliases": [
+        "Ghorbanizahed Hossein"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0075194953",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "state": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 58131,
+      "name": "Golden Nest Group Ltd",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE",
+        "VG"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "OE028423",
+          "country": "United Kingdom"
+        },
+        {
+          "type": "Registration Number",
+          "number": "2103334",
+          "country": "Virgin Islands, British"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Boulevard Plaza Tower, 2, Office 2504",
+          "city": "Dubai",
+          "country": "AE"
+        },
+        {
+          "address1": "Ellen L Skelton Building, 2nd Floor",
+          "address2": "Fishers Lane",
+          "city": "Road Town",
+          "state": "Tortola",
+          "postal_code": "VG1110",
+          "country": "VG"
+        }
+      ]
+    },
+    {
+      "uid": 58132,
+      "name": "BSG Management Ltd",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0628\u064a \u0627\u0633 \u062c\u064a \u0645\u0627\u0646\u062c\u0645\u0646\u062a \u0644\u064a\u0645\u064a\u062a\u062f"
+      ],
+      "ids": [
+        {
+          "type": "Economic Register Number (CBLS)",
+          "number": "11723352",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "License",
+          "number": "4945",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Unit L28-05, Level 28",
+          "address2": "Dubai International Financial Centre",
+          "address3": "Bur Dubai",
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 58134,
+      "name": "Sea Lead Shipping Agency India Private Limited",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.I.N.",
+          "number": "U63030MH2022FTC390753",
+          "country": "India"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "C-1102, Godrej Coliseum Near Somaiya Hospital Road, Lokmanya Pan Bazar",
+          "address2": "Sion (East) Sion",
+          "city": "Mumbai",
+          "postal_code": "400022",
+          "country": "IN"
+        }
+      ]
+    },
+    {
+      "uid": 58135,
+      "name": "Sea Lead Shipping Marshall Islands Ltd",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "MH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Identification Number",
+          "number": "IMO 6275841",
+          "country": ""
+        },
+        {
+          "type": "Residency Number",
+          "number": "112141",
+          "country": "Marshall Islands"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Trust Company Complex",
+          "address2": "Ajeltake Road",
+          "city": "Ajeltake Island",
+          "state": "Majuro",
+          "postal_code": "96960",
+          "country": "MH"
+        }
+      ]
+    },
+    {
+      "uid": 58136,
+      "name": "Sea Lead Shipping DMCC",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0633\u064a \u0644\u064a\u062f \u0634\u064a\u0628\u064a\u0646\u063a \u0645.\u062f.\u0645.\u0633"
+      ],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "DMCC130391",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Economic Register Number (CBLS)",
+          "number": "11469509",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "License",
+          "number": "DMCC-506318",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Unit No 3057, Level 1, Jewellry & Gemplex 3",
+          "address2": "DMCC Business Centre",
+          "address3": "New Dubai",
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 58137,
+      "name": "WE FREIGHT SHIPPING LLC",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE",
+        "IN",
+        "TH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0648\u064a \u0641\u0631\u0627\u064a\u062a \u0644\u0644\u0634\u062d\u0646 \u0630 \u0645 \u0645",
+        "Wefreight India Private LImited",
+        "WE FREIGHT SHIPPING AND LOGISTICS Thailand LIMITED",
+        "WE FREIGHT INVESTMENT FZCO",
+        "\u0648\u064a \u0641\u0631\u0627\u064a\u062a \u0627\u0646\u0641\u0633\u062a\u0645\u0646\u062a \u0634 \u0645 \u062d"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "2238929",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Registration Number",
+          "number": "U74999MH2019PTC328229",
+          "country": "India"
+        },
+        {
+          "type": "Registration Number",
+          "number": "0105565143097",
+          "country": "Thailand"
+        },
+        {
+          "type": "License",
+          "number": "752407",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "License",
+          "number": "18363",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Chamber of Commerce Number",
+          "number": "264431",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Economic Register Number (CBLS)",
+          "number": "10936447",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Economic Register Number (CBLS)",
+          "number": "11905125",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Office No B2007-160",
+          "address2": "Trade Centre First",
+          "city": "Bur Dubai",
+          "state": "Dubai",
+          "country": "AE"
+        },
+        {
+          "address1": "BCB3 218, Second Floor",
+          "address2": "Business Cluster Building 3",
+          "address3": "Dubai CommerCity",
+          "city": "Dubai",
+          "country": "AE"
+        },
+        {
+          "address1": "Unit 711, CTS-266, 266/1-172",
+          "address2": "Prakashwadi Sale",
+          "address3": "Village Gundavali, A.K. Road",
+          "city": "Chakala Midc, Mumbai",
+          "state": "Maharashtra",
+          "postal_code": "400093",
+          "country": "IN"
+        },
+        {
+          "address1": "4th, A/409",
+          "address2": "Ratnakar 9 Square",
+          "address3": "Mansi Circle Road",
+          "city": "Vastrapur, Ahmedabad",
+          "state": "Gujarat",
+          "postal_code": "380015",
+          "country": "IN"
+        },
+        {
+          "address1": "71 Sukhumvit Road",
+          "address2": "Soi Sukhumvit 101/1",
+          "city": "Phra Khanong",
+          "postal_code": "10260",
+          "country": "TH"
+        }
+      ]
+    },
+    {
+      "uid": 58138,
+      "name": "Volta Shipping Services LLC",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0641\u0648\u0644\u062a\u0627 \u0644\u062e\u062f\u0645\u0627\u062a \u0627\u0644\u0634\u062d\u0646 \u0630 \u0645 \u0645",
+        "Volta Shipping Services FZCO"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "1290166",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "License",
+          "number": "784220",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "License",
+          "number": "50335",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Chamber of Commerce Number",
+          "number": "290374",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Economic Register Number (CBLS)",
+          "number": "10957213",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Office No 1-024, Al Garhoud",
+          "address2": "Deira",
+          "city": "Dubai",
+          "country": "AE"
+        },
+        {
+          "address1": "Business Cluster Building 3 108",
+          "address2": "Fl 1",
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 58146,
+      "name": "Lubeck Shipping LLC",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0644\u0648\u0628\u064a\u0643 \u0644\u0644\u0634\u062d\u0646 \u0630 \u0645 \u0645"
+      ],
+      "ids": [
+        {
+          "type": "License",
+          "number": "808300",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Chamber of Commerce Number",
+          "number": "305098",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Economic Register Number (CBLS)",
+          "number": "11306758",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Identification Number",
+          "number": "IMO 6418449",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Office No 1-032, Al Garhoud, Deira",
+          "city": "Dubai",
+          "country": "AE"
+        },
+        {
+          "address1": "BCB3 119, First Floor",
+          "address2": "Business Cluster - Building 3",
+          "address3": "Dubai CommerCity",
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 58147,
+      "name": "Rakhbarmadani Ali",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE",
+        "RU"
+      ],
+      "list_type": "SDN",
+      "dob": "1975-01-28",
+      "nationalities": [],
+      "aliases": [
+        "\u0631\u0627\u062e\u0628\u0627\u0631\u0645\u0627\u062f\u0627\u0646\u064a \u0639\u0644\u064a",
+        "Rahbarmadani Ali"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "516737186",
+          "country": "Russia"
+        },
+        {
+          "type": "Passport",
+          "number": "B97499327",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 58148,
+      "name": "Dezera Shipping FZCO",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u062f\u064a\u0632\u064a\u0631\u0627 \u0634\u064a\u0628\u064a\u0646\u062c \u0634 \u0645 \u062d"
+      ],
+      "ids": [
+        {
+          "type": "License",
+          "number": "50420",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "First Floor, Building A2",
+          "address2": "BCA2 125 Business Cluster",
+          "address3": "Dubai CommerCity",
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 58149,
+      "name": "Al Kina Commercial Broker LLC",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0627\u0644\u0643\u064a\u0646\u0627 \u0644\u0644\u0648\u0633\u0627\u0637\u0629 \u0627\u0644\u062a\u062c\u0627\u0631\u064a\u0629 \u0634 \u0630 \u0645 \u0645"
+      ],
+      "ids": [
+        {
+          "type": "License",
+          "number": "827606",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Registration Number",
+          "number": "1395777",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Economic Register Number (CBLS)",
+          "number": "11500101",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Chamber of Commerce Number",
+          "number": "316979",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "1909 and 1901 Burj Khalifa",
+          "address2": "Bur Dubai",
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 58150,
+      "name": "Aare Lines Inc.",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "MH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Identification Number",
+          "number": "IMO 6324125",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Trust Company Complex",
+          "address2": "Ajeltake Road",
+          "city": "Majuro",
+          "state": "Ajeltake Island",
+          "postal_code": "96960",
+          "country": "MH"
+        }
+      ]
+    },
+    {
+      "uid": 58151,
+      "name": "GLAVOS SHIPPING FZCO",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u063a\u0644\u0627\u0641\u0648\u0633 \u0634\u064a\u0628\u064a\u0646\u062c \u0634 \u0645 \u062d"
+      ],
+      "ids": [
+        {
+          "type": "License",
+          "number": "50426",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 58152,
+      "name": "SAI WAN SHIPPING LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u897f\u74b0\u8239\u52d9\u6709\u9650\u516c\u53f8"
+      ],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "69604477",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "21/F CMA Building",
+          "address2": "64 Connaught Road",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 58153,
+      "name": "GEMMA",
+      "entry_type": "Vessel",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "MMSI",
+          "number": "511873000",
+          "country": ""
+        },
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 9509097",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58154,
+      "name": "Ronco Alessandra",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": "1980-01-01",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58155,
+      "name": "NADIA",
+      "entry_type": "Vessel",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "MMSI",
+          "number": "341765000",
+          "country": ""
+        },
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 9122461",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58157,
+      "name": "Evorit Strategy Consulting LLC-FZ",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0627\u064a\u0641\u0648\u0631\u064a\u062a \u0633\u062a\u0631\u0627\u062a\u064a\u062c\u064a \u0643\u0648\u0646\u0633\u0627\u0644\u062a\u064a\u0646\u062c \u0630 \u0645 \u0645-\u0645\u0646\u0637\u0642\u0629 \u062d\u0631\u0629"
+      ],
+      "ids": [
+        {
+          "type": "License",
+          "number": "2537797.01",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "6th Floor, The Meydan Hotel Grandstand",
+          "address2": "Meydan Road, Nad Al Shiba",
+          "address3": "Bur Dubai",
+          "city": "Dubai",
+          "country": "AE"
+        },
+        {
+          "address1": "M Floor, Business Center 1",
+          "address2": "Nad Al Shiba",
+          "address3": "Bur Dubai",
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 58158,
+      "name": "SEA GALLEON",
+      "entry_type": "Vessel",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 8843666",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58159,
+      "name": "PAYA LEBAR",
+      "entry_type": "Vessel",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 9134232",
+          "country": ""
+        },
+        {
+          "type": "MMSI",
+          "number": "305003400",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58160,
+      "name": "Kaalund Martin Austin",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE",
+        "SG"
+      ],
+      "list_type": "SDN",
+      "dob": "1973-04-11",
+      "nationalities": [],
+      "aliases": [
+        "Kaalund Martin"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Dubai",
+          "country": "AE"
+        }
+      ]
+    }
+  ],
+  "removals": [],
+  "updates": []
+}
