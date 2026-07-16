@@ -1,0 +1,290 @@
+{
+  "date": "2026-07-16",
+  "period": "2026-07-16",
+  "summary": {
+    "added": 7,
+    "removed": 0,
+    "updated": 2
+  },
+  "additions": [
+    {
+      "uid": 58126,
+      "name": "Avratek OOO",
+      "entry_type": "Entity",
+      "programs": [
+        "NPWMD",
+        "IFSR"
+      ],
+      "countries": [
+        "RU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "5137746162296",
+          "country": "Russia"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "7715985119",
+          "country": "Russia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Pom. 3/23, D. 39, Str. 80, Prospekt Leningradsky",
+          "city": "Moscow",
+          "postal_code": "125167",
+          "country": "RU"
+        }
+      ]
+    },
+    {
+      "uid": 58130,
+      "name": "Nika Jet Company",
+      "entry_type": "Entity",
+      "programs": [
+        "NPWMD",
+        "IFSR"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0631\u06a9\u062a \u0646\u06cc\u06a9\u0627 \u062c\u062a"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "14005551194",
+          "country": "Iran"
+        },
+        {
+          "type": "Registration Number",
+          "number": "485863",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Ground Floor, Falsafi Building, No. 1190, Dr. Ali Shariati St. Falsafi Alley, Davoodiyeh",
+          "city": "Tehran",
+          "postal_code": "1913633593",
+          "country": "IR"
+        },
+        {
+          "address1": "Office 102, Floor 10, Almas Tower, Pesiyan St., Moqaddas Ardebili St., Zaferaniyeh",
+          "city": "Tehran",
+          "country": "IR"
+        },
+        {
+          "address1": "Floor 3, No. 370, Mirdamad Boulevard, First Alley, Davoudiyeh",
+          "city": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58139,
+      "name": "Ettaib Dounia",
+      "entry_type": "Individual",
+      "programs": [
+        "NPWMD",
+        "IFSR"
+      ],
+      "countries": [
+        "IT"
+      ],
+      "list_type": "SDN",
+      "dob": "1979-04-27",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "YC7432706",
+          "country": "Italy"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Milan",
+          "country": "IT"
+        }
+      ]
+    },
+    {
+      "uid": 58142,
+      "name": "Namazi Behrouz",
+      "entry_type": "Individual",
+      "programs": [
+        "NPWMD",
+        "IFSR"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1987-07-22",
+      "nationalities": [],
+      "aliases": [
+        "\u0646\u0645\u0627\u0632\u06cc \u0628\u0647\u0631\u0648\u0632",
+        "Namazi Behruz"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0083311688",
+          "country": "Iran"
+        },
+        {
+          "type": "Passport",
+          "number": "T72756886",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58143,
+      "name": "Selina Mariya Vladimirovna",
+      "entry_type": "Individual",
+      "programs": [
+        "NPWMD",
+        "IFSR"
+      ],
+      "countries": [
+        "RU"
+      ],
+      "list_type": "SDN",
+      "dob": "1985-02-17",
+      "nationalities": [],
+      "aliases": [
+        "\u0421\u0435\u043b\u0438\u043d\u0430 \u041c\u0430\u0440\u0438\u044f \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u0432\u043d\u0430"
+      ],
+      "ids": [
+        {
+          "type": "Tax ID No.",
+          "number": "711706408303",
+          "country": "Russia"
+        },
+        {
+          "type": "Passport",
+          "number": "766355168",
+          "country": "Russia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58144,
+      "name": "Druzhbin Vadim Anatolyevich",
+      "entry_type": "Individual",
+      "programs": [
+        "IFSR",
+        "NPWMD"
+      ],
+      "countries": [
+        "RU"
+      ],
+      "list_type": "SDN",
+      "dob": "1987-05-10",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Tax ID No.",
+          "number": "781699698096",
+          "country": "Russia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58145,
+      "name": "Vanguard Tactical Supply Limited",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "NPWMD"
+      ],
+      "countries": [
+        "NG"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "9562580",
+          "country": "Nigeria"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Stallion Estate by Lobito Crescent, Wuse 2",
+          "city": "Abuja",
+          "country": "NG"
+        }
+      ]
+    }
+  ],
+  "removals": [],
+  "updates": [
+    {
+      "uid": 8237,
+      "name": "JUAREZ CARTEL",
+      "changes": {
+        "programs": {
+          "old": [
+            "ILLICIT-DRUGS-EO14059",
+            "SDNTK"
+          ],
+          "new": [
+            "ILLICIT-DRUGS-EO14059",
+            "SDNTK",
+            "FTO",
+            "SDGT"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 52435,
+      "name": "Los Viagras",
+      "changes": {
+        "programs": {
+          "old": [
+            "ILLICIT-DRUGS-EO14059"
+          ],
+          "new": [
+            "ILLICIT-DRUGS-EO14059",
+            "FTO",
+            "SDGT"
+          ]
+        }
+      }
+    }
+  ]
+}
