@@ -1,0 +1,844 @@
+{
+  "date": "2026-07-17",
+  "period": "2026-07-17",
+  "summary": {
+    "added": 0,
+    "removed": 9,
+    "updated": 39
+  },
+  "additions": [],
+  "removals": [
+    {
+      "uid": 29244,
+      "name": "Lo Stephen",
+      "entry_type": "Individual",
+      "programs": [
+        "HK-EO13936"
+      ],
+      "countries": [
+        "HK"
+      ],
+      "list_type": "SDN",
+      "dob": "1961-11-19",
+      "nationalities": [],
+      "aliases": [
+        "Lo Wai-chung",
+        "\u76e7 \u5049\u8070",
+        "\u5362 \u4f1f\u806a",
+        "Lo Stephen Wai-chung"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "E8586768",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 32472,
+      "name": "Yang Jianping",
+      "entry_type": "Individual",
+      "programs": [
+        "HK-EO13936"
+      ],
+      "countries": [
+        "HK"
+      ],
+      "list_type": "SDN",
+      "dob": "1959-12-01",
+      "nationalities": [],
+      "aliases": [
+        "\u6768 \u5efa\u5e73",
+        "\u694a \u5efa\u5e73"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 32473,
+      "name": "Qiu Hong",
+      "entry_type": "Individual",
+      "programs": [
+        "HK-EO13936"
+      ],
+      "countries": [
+        "HK"
+      ],
+      "list_type": "SDN",
+      "dob": "1961-03-01",
+      "nationalities": [],
+      "aliases": [
+        "\u4ec7 \u9e3f",
+        "\u4ec7 \u9d3b"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 53814,
+      "name": "LAM Paul Ting Kwok",
+      "entry_type": "Individual",
+      "programs": [
+        "HK-EO13936"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": "1968-03-26",
+      "nationalities": [],
+      "aliases": [
+        "Lam Ting Kwok",
+        "\u6797 \u5b9a\u570b",
+        "Lam Ting Kwok Paul",
+        "Lin Dingguo",
+        "\u6797 \u5b9a\u56fd"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "610884285",
+          "country": "China"
+        },
+        {
+          "type": "National ID No.",
+          "number": "265113530948",
+          "country": "China"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 53815,
+      "name": "Au Sonny Chi Kwong",
+      "entry_type": "Individual",
+      "programs": [
+        "HK-EO13936"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": "1961-08-16",
+      "nationalities": [],
+      "aliases": [
+        "Au Chi Kwong",
+        "\u5340 \u5fd7\u5149",
+        "Ou Zhiguang",
+        "\u533a \u5fd7\u5149",
+        "Au Chi Kwong Sonny"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 53825,
+      "name": "DONG Jingwei",
+      "entry_type": "Individual",
+      "programs": [
+        "HK-EO13936"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": "1963-11-01",
+      "nationalities": [],
+      "aliases": [
+        "\u8463 \u7ecf\u7eac",
+        "\u8463 \u7d93\u7def"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 53826,
+      "name": "WONG Dick Chung Chun",
+      "entry_type": "Individual",
+      "programs": [
+        "HK-EO13936"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": "1973-10-10",
+      "nationalities": [],
+      "aliases": [
+        "Wong Chung Chun",
+        "\u738b \u5fe0\u5de1",
+        "Wong Chung Chun Dick"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "K212288A",
+          "country": "China"
+        },
+        {
+          "type": "Passport",
+          "number": "K00021646",
+          "country": "China"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Flat B, 29 Floor, Tower 3, The Riverpark, 8 Che Kung Miu Road, Shatin",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 53827,
+      "name": "SIU Raymond Chak Yee",
+      "entry_type": "Individual",
+      "programs": [
+        "HK-EO13936"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": "1966-04-02",
+      "nationalities": [],
+      "aliases": [
+        "Xiao Zeyi",
+        "\u8427 \u6cfd\u9890",
+        "Siu Chak Yee",
+        "\u856d \u6fa4\u9824",
+        "Siu Chak Yee Raymond"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "610338855",
+          "country": "China"
+        },
+        {
+          "type": "National ID No.",
+          "number": "561834197328",
+          "country": "China"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 53828,
+      "name": "CHIU Margaret Wing Lan",
+      "entry_type": "Individual",
+      "programs": [
+        "HK-EO13936"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": "1974-08-22",
+      "nationalities": [],
+      "aliases": [
+        "Chiu Wing Lan",
+        "\u8d99 \u8a60\u862d",
+        "\u8d75 \u548f\u5170"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "KJ0760266",
+          "country": "China"
+        },
+        {
+          "type": "National ID No.",
+          "number": "K3117588",
+          "country": "China"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "No. 20, 3rd Street, Section D, Fairview Park, Yuen Long",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    }
+  ],
+  "updates": [
+    {
+      "uid": 29242,
+      "name": "Tang Chris",
+      "changes": {
+        "programs": {
+          "old": [
+            "HK-EO13936"
+          ],
+          "new": [
+            "HKAA"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 29243,
+      "name": "CHENG Teresa",
+      "changes": {
+        "programs": {
+          "old": [
+            "HK-EO13936"
+          ],
+          "new": [
+            "HKAA"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 29246,
+      "name": "Tsang Erick",
+      "changes": {
+        "programs": {
+          "old": [
+            "HK-EO13936"
+          ],
+          "new": [
+            "HKAA"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 29249,
+      "name": "Lam Carrie",
+      "changes": {
+        "programs": {
+          "old": [
+            "HK-EO13936"
+          ],
+          "new": [
+            "HKAA"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 29250,
+      "name": "Lee John Ka-chiu",
+      "changes": {
+        "programs": {
+          "old": [
+            "HK-EO13936"
+          ],
+          "new": [
+            "HKAA"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 29259,
+      "name": "Zhang Xiaoming",
+      "changes": {
+        "programs": {
+          "old": [
+            "HK-EO13936"
+          ],
+          "new": [
+            "HKAA"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 29260,
+      "name": "Chan Eric",
+      "changes": {
+        "programs": {
+          "old": [
+            "HK-EO13936"
+          ],
+          "new": [
+            "HKAA"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 29261,
+      "name": "ZHENG Yanxiong",
+      "changes": {
+        "programs": {
+          "old": [
+            "HK-EO13936"
+          ],
+          "new": [
+            "HKAA"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 29262,
+      "name": "Xia Baolong",
+      "changes": {
+        "programs": {
+          "old": [
+            "HK-EO13936"
+          ],
+          "new": [
+            "HKAA"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 29263,
+      "name": "Luo Huining",
+      "changes": {
+        "programs": {
+          "old": [
+            "HK-EO13936"
+          ],
+          "new": [
+            "HKAA"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 30322,
+      "name": "Lau Edwina",
+      "changes": {
+        "programs": {
+          "old": [
+            "HK-EO13936"
+          ],
+          "new": [
+            "HKAA"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 30343,
+      "name": "Li Kwai-wah",
+      "changes": {
+        "programs": {
+          "old": [
+            "HK-EO13936"
+          ],
+          "new": [
+            "HKAA"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 30344,
+      "name": "Deng Zhonghua",
+      "changes": {
+        "programs": {
+          "old": [
+            "HK-EO13936"
+          ],
+          "new": [
+            "HKAA"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 30345,
+      "name": "Li Jiangzhou",
+      "changes": {
+        "programs": {
+          "old": [
+            "HK-EO13936"
+          ],
+          "new": [
+            "HKAA"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 30503,
+      "name": "Wang Chen",
+      "changes": {
+        "programs": {
+          "old": [
+            "HK-EO13936"
+          ],
+          "new": [
+            "HKAA"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 30504,
+      "name": "Cao Jianming",
+      "changes": {
+        "programs": {
+          "old": [
+            "HK-EO13936"
+          ],
+          "new": [
+            "HKAA"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 30505,
+      "name": "Zhang Chunxian",
+      "changes": {
+        "programs": {
+          "old": [
+            "HK-EO13936"
+          ],
+          "new": [
+            "HKAA"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 30506,
+      "name": "Shen Yueyue",
+      "changes": {
+        "programs": {
+          "old": [
+            "HK-EO13936"
+          ],
+          "new": [
+            "HKAA"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 30507,
+      "name": "Ji Bingxuan",
+      "changes": {
+        "programs": {
+          "old": [
+            "HK-EO13936"
+          ],
+          "new": [
+            "HKAA"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 30508,
+      "name": "Imirbaki Arken",
+      "changes": {
+        "programs": {
+          "old": [
+            "HK-EO13936"
+          ],
+          "new": [
+            "HKAA"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 30509,
+      "name": "Wan Exiang",
+      "changes": {
+        "programs": {
+          "old": [
+            "HK-EO13936"
+          ],
+          "new": [
+            "HKAA"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 30510,
+      "name": "Chen Zhu",
+      "changes": {
+        "programs": {
+          "old": [
+            "HK-EO13936"
+          ],
+          "new": [
+            "HKAA"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 30511,
+      "name": "Wang Dongming",
+      "changes": {
+        "programs": {
+          "old": [
+            "HK-EO13936"
+          ],
+          "new": [
+            "HKAA"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 30512,
+      "name": "Choling Padma",
+      "changes": {
+        "programs": {
+          "old": [
+            "HK-EO13936"
+          ],
+          "new": [
+            "HKAA"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 30513,
+      "name": "Ding Zhongli",
+      "changes": {
+        "programs": {
+          "old": [
+            "HK-EO13936"
+          ],
+          "new": [
+            "HKAA"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 30514,
+      "name": "Hao Mingjin",
+      "changes": {
+        "programs": {
+          "old": [
+            "HK-EO13936"
+          ],
+          "new": [
+            "HKAA"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 30515,
+      "name": "Cai Dafeng",
+      "changes": {
+        "programs": {
+          "old": [
+            "HK-EO13936"
+          ],
+          "new": [
+            "HKAA"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 30516,
+      "name": "Wu Weihua",
+      "changes": {
+        "programs": {
+          "old": [
+            "HK-EO13936"
+          ],
+          "new": [
+            "HKAA"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 30964,
+      "name": "Choi Frederic",
+      "changes": {
+        "programs": {
+          "old": [
+            "HK-EO13936"
+          ],
+          "new": [
+            "HKAA"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 30965,
+      "name": "Kong Kelvin",
+      "changes": {
+        "programs": {
+          "old": [
+            "HK-EO13936"
+          ],
+          "new": [
+            "HKAA"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 30966,
+      "name": "Kan Andrew",
+      "changes": {
+        "programs": {
+          "old": [
+            "HK-EO13936"
+          ],
+          "new": [
+            "HKAA"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 30967,
+      "name": "Sun Wenqing",
+      "changes": {
+        "programs": {
+          "old": [
+            "HK-EO13936"
+          ],
+          "new": [
+            "HKAA"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 30968,
+      "name": "You Quan",
+      "changes": {
+        "programs": {
+          "old": [
+            "HK-EO13936"
+          ],
+          "new": [
+            "HKAA"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 30969,
+      "name": "Tam Yiu-chung",
+      "changes": {
+        "programs": {
+          "old": [
+            "HK-EO13936"
+          ],
+          "new": [
+            "HKAA"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 32471,
+      "name": "Chen Dong",
+      "changes": {
+        "programs": {
+          "old": [
+            "HK-EO13936"
+          ],
+          "new": [
+            "HKAA"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 32474,
+      "name": "Lu Xinning",
+      "changes": {
+        "programs": {
+          "old": [
+            "HK-EO13936"
+          ],
+          "new": [
+            "HKAA"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 32475,
+      "name": "Tan Tieniu",
+      "changes": {
+        "programs": {
+          "old": [
+            "HK-EO13936"
+          ],
+          "new": [
+            "HKAA"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 32476,
+      "name": "He Jing",
+      "changes": {
+        "programs": {
+          "old": [
+            "HK-EO13936"
+          ],
+          "new": [
+            "HKAA"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 32477,
+      "name": "Yin Zonghua",
+      "changes": {
+        "programs": {
+          "old": [
+            "HK-EO13936"
+          ],
+          "new": [
+            "HKAA"
+          ]
+        }
+      }
+    }
+  ]
+}

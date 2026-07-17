@@ -195,7 +195,7 @@
       "FTO",
       "ILLICIT-DRUGS-EO14059"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "AR": {
@@ -390,7 +390,7 @@
       "CYBER3",
       "PAIPA"
     ],
-    "daily_added": 3,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "BG": {
@@ -617,7 +617,7 @@
       "GLOMAG",
       "ILLICIT-DRUGS-EO14059"
     ],
-    "daily_added": 2,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "AF": {
@@ -899,9 +899,9 @@
     "daily_removed": 0
   },
   "CN": {
-    "total": 1232,
-    "sdn": 1161,
-    "consolidated": 71,
+    "total": 1226,
+    "sdn": 1132,
+    "consolidated": 94,
     "programs": [
       "SDGT",
       "IRAQ2",
@@ -927,7 +927,6 @@
       "IFCA",
       "ELECTION-EO13848",
       "UKRAINE-EO13661",
-      "HK-EO13936",
       "ILLICIT-DRUGS-EO14059",
       "VENEZUELA",
       "UHRPA",
@@ -942,10 +941,11 @@
       "VENEZUELA-EO13850",
       "NICARAGUA",
       "561-Related",
+      "HKAA",
       "CMIC-EO13959"
     ],
     "daily_added": 0,
-    "daily_removed": 0
+    "daily_removed": 6
   },
   "ER": {
     "total": 10,
@@ -1952,9 +1952,9 @@
     "daily_removed": 0
   },
   "HK": {
-    "total": 72,
-    "sdn": 71,
-    "consolidated": 1,
+    "total": 69,
+    "sdn": 51,
+    "consolidated": 18,
     "programs": [
       "SDNTK",
       "IRAN",
@@ -1973,10 +1973,10 @@
       "UKRAINE-EO13661",
       "CYBER2",
       "ELECTION-EO13848",
-      "HK-EO13936"
+      "HKAA"
     ],
     "daily_added": 0,
-    "daily_removed": 0
+    "daily_removed": 3
   },
   "JE": {
     "total": 8,
@@ -2114,7 +2114,7 @@
       "CYBER2",
       "NPWMD"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "IL": {
