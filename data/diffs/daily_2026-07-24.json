@@ -1,0 +1,2761 @@
+{
+  "date": "2026-07-24",
+  "period": "2026-07-24",
+  "summary": {
+    "added": 86,
+    "removed": 1,
+    "updated": 0
+  },
+  "additions": [
+    {
+      "uid": 57370,
+      "name": "Juan Carlos GONZALEZ",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX",
+        "US"
+      ],
+      "list_type": "SDN",
+      "dob": "1984-09-12",
+      "nationalities": [],
+      "aliases": [
+        "VALENCIA GONZALEZ Juan Carlos",
+        "Pelon"
+      ],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "GOXJ840912HNENXN06",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "24892 Three Springs Rd",
+          "city": "Hemet",
+          "state": "CA",
+          "postal_code": "92545",
+          "country": "US"
+        }
+      ]
+    },
+    {
+      "uid": 57965,
+      "name": "Zepeda Rodriguez Jorge",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1967-01-18",
+      "nationalities": [],
+      "aliases": [
+        "Zepeda George"
+      ],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "ZERJ670118HJCPDR06",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Marroquin de Abajo",
+          "state": "Guanajuato",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 57966,
+      "name": "Diaz Robles Marcial Apolinar",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1988-08-26",
+      "nationalities": [],
+      "aliases": [
+        "Robles Polo"
+      ],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "DIRM880826HJCZBR05",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Guadalajara",
+          "state": "Jalisco",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 57968,
+      "name": "Diaz Robles Pedro Marcial",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1988-08-26",
+      "nationalities": [],
+      "aliases": [
+        "Robles Peter"
+      ],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "DIRP880826HJCZBD00",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Guadalajara",
+          "state": "Jalisco",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 57970,
+      "name": "Optic Private Transportation S.A. de C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "91490",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Guadalajara",
+          "state": "Jalisco",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 57995,
+      "name": "Rodriguez Flores Salvador Israel",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1992-05-04",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "ROFS920504HJCDLL00",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Zapopan",
+          "state": "Jalisco",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 57996,
+      "name": "Villa Sanchez Jorge",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1970-07-20",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "VISJ700720HJCLNR02",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Guadalajara",
+          "state": "Jalisco",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 57997,
+      "name": "Medina Chavira Adolfo Gabriel",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1974-03-17",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "MECA740317HJCDHD05",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Zapopan",
+          "state": "Jalisco",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 57998,
+      "name": "Cruz Cabrera Jorge Fernando",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1993-06-23",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "CUCJ930623HJCRBR03",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Zapopan",
+          "state": "Jalisco",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 57999,
+      "name": "Castellanos Ceja Julio Cesar",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1991-02-18",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "CACJ910218HCMSJL08",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Colima",
+          "state": "Colima",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58000,
+      "name": "Mendoza Garcia Luis Mario",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1999-05-05",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "MEGL990505HJCNRS07",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Zapopan",
+          "state": "Jalisco",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58002,
+      "name": "Sanchez Tamayo Hugo Alejandro",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1969-07-06",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "SATH690706HJCNMG09",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tlaquepaque",
+          "state": "Jalisco",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58003,
+      "name": "MEDIN PRODUCTS",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "MEDIN PRODUCTS S.A.S."
+      ],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "SAS2022523655",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Guadalajara",
+          "state": "Jalisco",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58004,
+      "name": "MUNDO FIT SUPLEMENTOS S.A. DE C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "N-2022069078",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Guadalajara",
+          "state": "Jalisco",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58013,
+      "name": "Botello Rozalez Gerardo",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1977-02-03",
+      "nationalities": [],
+      "aliases": [
+        "Botello Rosales Gerardo",
+        "El Cachas"
+      ],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "BORG770203HMNTZR05",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Jalisco",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58014,
+      "name": "Botello Rodriguez Gustavo",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1993-01-20",
+      "nationalities": [],
+      "aliases": [
+        "Viejon",
+        "Tavo"
+      ],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "BORG930120HMNTDS06",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58015,
+      "name": "Wiliams Geovanni Botello Rodriguez",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1995-03-02",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "BORW950302HMNTDL09",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58016,
+      "name": "Bubux Baby Shoes S.A. de C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "4439",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "San Francisco del Rincon",
+          "state": "Guanajuato",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58017,
+      "name": "Miguel Angel Ayala Botello",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1978-08-09",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "AABM780809HMNYTG02",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58018,
+      "name": "Corporativo de Seguridad Privada Alfa Y Gama S.A. de C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "R.F.C.",
+          "number": "CSP1811293I5",
+          "country": "Mexico"
+        },
+        {
+          "type": "License",
+          "number": "1006097025",
+          "country": "Mexico"
+        },
+        {
+          "type": "Folio Mercantil No.",
+          "number": "2020051100",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Morelia",
+          "state": "Michoacan",
+          "country": "MX"
+        },
+        {
+          "city": "Zapopan",
+          "state": "Jalisco",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58019,
+      "name": "Rancho San Miguel Los Tres Hermanos S.P.R. de R.L. de C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "2019070393",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Zapotlan El Grande",
+          "state": "Jalisco",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58020,
+      "name": "Green Agropacific S.P.R. de R.L. de C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "2023064007",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tepic",
+          "state": "Nayarit",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58021,
+      "name": "Liliana Cisneros Tapia",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1980-11-09",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "CITL801109MMNSPL07",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58022,
+      "name": "Edgar Gerardo Botello Ortiz",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1994-04-04",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "BOOE940404HMNTRD00",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58023,
+      "name": "Jesus David Botello Ortiz",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1997-06-28",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "BOOJ970628HMNTRS00",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58024,
+      "name": "Ricardo Botello Ortiz",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1999-04-24",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "BOOR990424HMNTRC08",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58033,
+      "name": "LEDEZMA RAMIREZ Feliciano",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1981-10-20",
+      "nationalities": [],
+      "aliases": [
+        "Chano Limones"
+      ],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "LERF811020HMNDML00",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58034,
+      "name": "MENA ALVARADO Alma Laura",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1983-12-27",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "MEAA831227MZSNLL04",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58035,
+      "name": "MORA LEON Jose",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1978-02-03",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "MOLJ780203HMNRNS00",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58036,
+      "name": "STRONG ENERGY S.A. DE C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "N-2017038887",
+          "country": "Mexico"
+        },
+        {
+          "type": "R.F.C.",
+          "number": "SEN170509R53",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Guadalajara",
+          "state": "Jalisco",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58037,
+      "name": "TRANSIC LOGISTIC S.A. DE C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "N-2020078956",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Guadalajara",
+          "state": "Jalisco",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58038,
+      "name": "GONZALEZ RAMIREZ Francisco Noe",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1981-02-05",
+      "nationalities": [],
+      "aliases": [
+        "El F1"
+      ],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "GORF810205HASNMR05",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58039,
+      "name": "LOZA GARCIA Rodolfo Alejandro",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1983-06-11",
+      "nationalities": [],
+      "aliases": [
+        "El 26"
+      ],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "LOGR830611HJCZRD03",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Villas Las Alvarez",
+          "state": "Colima",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58041,
+      "name": "RAMIREZ BANALES Karely Lizbeth",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1996-05-19",
+      "nationalities": [],
+      "aliases": [
+        "BANUELOS RAMIREZ Kareli Lizbeth"
+      ],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "RABK960519MNTMXR03",
+          "country": "Mexico"
+        },
+        {
+          "type": "R.F.C.",
+          "number": "RABK9605191P7",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58042,
+      "name": "MEDINA FLORES Areli Isis",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1985-04-18",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "MEFA850418MMCDLR08",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58043,
+      "name": "RUIZ BANUELOS Jose Guadalupe",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1975-07-14",
+      "nationalities": [],
+      "aliases": [
+        "Venado"
+      ],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "RUBG750714HNTZXD05",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58044,
+      "name": "VILLASENOR OLIVARES Cesar Alejandro",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1980-12-03",
+      "nationalities": [],
+      "aliases": [
+        "El Guero Conta"
+      ],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "VIOC801203HJCLLS08",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58045,
+      "name": "SERRANO MAGANA Gabriel",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1986-08-21",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "SEMG860821HMNRGB06",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58060,
+      "name": "GARCIA MARTINEZ Jose Octaviano",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1987-05-29",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "GAMO870529HTSRRC08",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58061,
+      "name": "DOMINGUEZ AGUILERA Joana",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1981-10-22",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "DOAJ811022MTSMGN08",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58062,
+      "name": "PETROCODA S.A. DE C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "15149",
+          "country": "Mexico"
+        },
+        {
+          "type": "R.F.C.",
+          "number": "PET160218N40",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Ziracuaretiro",
+          "state": "Michoacan",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58063,
+      "name": "STELLA SERVICIOS COMERCIALES Y EMPRESARIALES S.A. DE C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "N-2019021848",
+          "country": "Mexico"
+        },
+        {
+          "type": "R.F.C.",
+          "number": "SSC190313CY6",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Ahuacatlan",
+          "state": "Nayarit",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58064,
+      "name": "EL ALMACEN LICORERIA",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "R.F.C.",
+          "number": "RABK9605191P7",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Ixtlan del Rio",
+          "state": "Nayarit",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58065,
+      "name": "ALVARADO RODRIGUEZ Martha Alicia",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1989-01-02",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "AARM890102MJCLDR02",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tequila",
+          "state": "Jalisco",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58066,
+      "name": "RIVERA ZEPEDA Cuauhtemoc",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1989-08-17",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "RIZC890817HJCVPH08",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58067,
+      "name": "HERNANDEZ MORALES Uriel",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1988-08-02",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "HEMU880802HCSRRR07",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58068,
+      "name": "CORONA PIMENTEL Efrain",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1994-04-15",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "COPE940415HCMRMF01",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58069,
+      "name": "LOPEZ LARIOS Angel Gabriel",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1992-11-01",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "LOLA921101HNTPRN09",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58070,
+      "name": "GUTIERREZ VALDEZ Jose Jesus",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1979-08-28",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "GUVJ790828HZSTLS18",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Ixtlan Del Rio",
+          "state": "Nayarit",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58071,
+      "name": "MORENO LOPEZ Fidel Damian",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1984-04-12",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "MOLF840412HJCRPD08",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Magdalena",
+          "state": "Jalisco",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58072,
+      "name": "JIMENEZ ARIAS Roberto",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1988-10-26",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "JIAR881026HJCMRB04",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Amatitan",
+          "state": "Jalisco",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58073,
+      "name": "PRODUCTORES VAGU S.A. DE C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "90943",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Guadalajara",
+          "state": "Jalisco",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58074,
+      "name": "CASA TEQUILERA EL ORIGEN DEL TEQUILA S.A. DE C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "N-2022080980",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Amatitan",
+          "state": "Jalisco",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58075,
+      "name": "HURRARI KASH S.A. PROMOTORA DE INVERSION DE C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "N-2025015902",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Guadalajara",
+          "state": "Jalisco",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58076,
+      "name": "AGROPECUARIA AMATEQ DEL VALLE S.A. DE C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "N-2021076329",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tequila",
+          "state": "Jalisco",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58174,
+      "name": "Zedpay Finansal Sistem Ve Hizmetleri Anonim Sirketi",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "TR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "ZEDPAY F\u0130NANSAL S\u0130STEM VE H\u0130ZMETLER\u0130 ANON\u0130M \u015e\u0130RKET\u0130",
+        "Zedpay Dijital Yazilim Sistemleri Anonim Sirketi",
+        "Zedpay Financial System and Services P.J.S.C.",
+        "Zedpay"
+      ],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "381783",
+          "country": "Turkey"
+        },
+        {
+          "type": "Trade License No.",
+          "number": "09971730211",
+          "country": "Turkey"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "D 142, Floor: 14, No: 12B, Blok: A, Orucreis Area, Tekstilkent Plaza, 34235 Esenler",
+          "city": "Istanbul",
+          "country": "TR"
+        }
+      ]
+    },
+    {
+      "uid": 58176,
+      "name": "DOT ONE VALUE CREATION GROUP",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u06af\u0631\u0648\u0647 \u0628\u06cc\u0646\u200c \u0627\u0644\u0645\u0644\u0644\u06cc \u062a\u0648\u0633\u0639\u0647 \u0645\u0627\u0644\u06cc \u0648 \u0627\u0642\u062a\u0635\u0627\u062f\u06cc \u0622\u0648\u0627\u0646",
+        "DotOne",
+        "Avan International Financial and Economic Development Group",
+        "A.One International Financial and Economic Development Group",
+        "One Group",
+        "One International Financial and Economic Development Group",
+        "Dot One Holding"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "641700",
+          "country": "Iran"
+        },
+        {
+          "type": "National ID No.",
+          "number": "14013956780",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "DotOne Tower, Jahan Koodak",
+          "city": "Tehran",
+          "country": "IR"
+        },
+        {
+          "address1": "Ground Floor, No. 33, Africa Street, Kaman Alley, Kavousieh",
+          "city": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58177,
+      "name": "Zedx DMCC",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "DMCC195753",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Business Registration Number",
+          "number": "DMCC872364",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Unit No. 1509, JBC2, Plot No. JLT-PH2-V1A, Jumeirah Lakes Towers",
+          "city": "Dubai",
+          "country": "AE"
+        },
+        {
+          "address1": "ALMAS-48-CV56",
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 58178,
+      "name": "DOTONE GOLD COMPANY",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0631\u06a9\u062a \u0632\u0631\u06cc\u0646 \u0633\u06cc\u0645 \u0622\u0648\u0627\u0646",
+        "Zarrin Sim Avan Company",
+        "Tala Token",
+        "Tala Gold"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "646255",
+          "country": "Iran"
+        },
+        {
+          "type": "National ID No.",
+          "number": "14014200364",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "region": "Iran",
+          "country": ""
+        }
+      ]
+    },
+    {
+      "uid": 58179,
+      "name": "DOTONE RAIL COMPANY",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0631\u06a9\u062a \u0642\u0637\u0627\u0631\u0647\u0627\u06cc \u0622\u0648\u0627\u0646\u200c \u0631\u06cc\u0644",
+        "Avan Rail Trains Company"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "14014036380",
+          "country": "Iran"
+        },
+        {
+          "type": "Registration Number",
+          "number": "643252",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58180,
+      "name": "DOTONE BARTER COMPANY",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0631\u06a9\u062a \u0622\u0648\u0627\u0646 \u062a\u0647\u0627\u062a\u0631",
+        "Avan Tahator Company",
+        "Avan Barter Company"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "14014100280",
+          "country": "Iran"
+        },
+        {
+          "type": "Registration Number",
+          "number": "644308",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58181,
+      "name": "DOTONE AIRLINES COMPANY",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u062f\u0627\u062a \u0648\u0627\u0646 \u0627\u06cc\u0631\u0644\u0627\u06cc\u0646\u0632",
+        "Avan Airsa Airlines Company",
+        "Avan Irsa Airlines Company",
+        "Avan Air",
+        "Dot One Air Airline Company"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "660597",
+          "country": "Iran"
+        },
+        {
+          "type": "National ID No.",
+          "number": "14014864290",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58182,
+      "name": "DOTONE TRIP",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0631\u06a9\u062a \u062f\u0627\u062a \u0648\u0627\u0646 \u0633\u0641\u0631",
+        "Avan Safar Company",
+        "DotOne Travel"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "14014367155",
+          "country": "Iran"
+        },
+        {
+          "type": "Registration Number",
+          "number": "649885",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "DotOne Tower",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58183,
+      "name": "BZ Diamond DMCC",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "BZ Diamond FZCO"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "DMCC827353",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Business Registration Number",
+          "number": "DMCC1917588",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Unite No. 1H-07-00 Jewelry & Gemplex 1, Plot No. DMCC-PH2-J&GPlexS",
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 58185,
+      "name": "Zanjani Bahareh Morteza",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": "1981-09-21",
+      "nationalities": [],
+      "aliases": [
+        "\u0632\u0646\u062c\u0627\u0646\u06cc \u0628\u0647\u0627\u0631\u0647 \u0645\u0631\u062a\u0636\u06cc",
+        "Zanjani Bahareh Mortaza"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0068146681",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Residency Number",
+          "number": "784-1981-2649786-0",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 58186,
+      "name": "Rezazadeh Mehdi",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1975-11-12",
+      "nationalities": [],
+      "aliases": [
+        "\u0631\u0636\u0627\u0632\u0627\u062f\u0647 \u0645\u0647\u062f\u06cc",
+        "Rizazadeh Mehdi"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0068859341",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "210 Sharghi Bin Mozaffari V Sajdehi, Tehranpars 9863",
+          "city": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58187,
+      "name": "Oimakhmadov Sukhrob",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "TJ"
+      ],
+      "list_type": "SDN",
+      "dob": "1979-10-05",
+      "nationalities": [],
+      "aliases": [
+        "Oymakhmadov Sukhrob"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "402383646",
+          "country": "Tajikistan"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Rudaki 85, Lohuty 4-33",
+          "city": "Dushanbe",
+          "country": "TJ"
+        }
+      ]
+    },
+    {
+      "uid": 58188,
+      "name": "Bani Solmaz",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": "1983-02-11",
+      "nationalities": [],
+      "aliases": [
+        "Bani Niyoosha",
+        "Bani Sara"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "NYH5BKKC4",
+          "country": "Netherlands"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Difc, Damac Park Tower A, Floor 7, No. 706",
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 58195,
+      "name": "El-Abiary Mahmoud",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "list_type": "SDN",
+      "dob": "1952-06-05",
+      "nationalities": [],
+      "aliases": [
+        "Al-Ibiary Mahmoud"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "J0436609",
+          "country": "Austria"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58196,
+      "name": "Madad Palestine Charitable Society",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u062c\u0645\u0639\u064a\u0629 \u0645\u062f\u0627\u062f \u0641\u0644\u0633\u0637\u064a\u0646 \u0627\u0644\u062e\u064a\u0631\u064a\u0629",
+        "Madad AI-Khair",
+        "Midad Alkhair",
+        "Midad Palestine Charitable Association",
+        "Maddad Foundation",
+        "Supply Palestine Charitable Society",
+        "Maddad Falastin"
+      ],
+      "ids": [
+        {
+          "type": "Chamber of Commerce Number",
+          "number": "8441",
+          "country": "Palestinian"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "region": "Gaza",
+          "country": ""
+        }
+      ]
+    },
+    {
+      "uid": 58197,
+      "name": "EL-KAHIRA FOR GENERAL TRADING",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "TR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u202b\u0634\u0631\u0643\u0629 \u0627\u0644\u0642\u0627\u0647\u0631\u0629 \u0644\u0644\u062a\u062c\u0627\u0631\u0629 \u0627\u0644\u0639\u0627\u0645\u0629\u202c",
+        "PRIMATECH",
+        "Elkahira Ticaret Emlakcilik Domestic and Foreign Trade Limited Company",
+        "Dubai Company For Exchange",
+        "Primatech Teknoloji Sanayi",
+        "PR\u0130MATECH TEKNOLOJ\u0130 SANAY\u0130",
+        "PRIMATECH TEKNOLOJII SANAYI IC VE DIS TICARET LIMITTED SIRKETI AND FOREIGN TRADE LIMITED COMPANY",
+        "PR\u0130MATECH TEKNOLOJ\u0130 SANAY\u0130 \u0130\u00c7 VE DI\u015e T\u0130CARET L\u0130M\u0130TED \u015e\u0130RKET\u0130",
+        "El-Kahira Exchange Office",
+        "\u202b\u0645\u0643\u062a\u0628 \u0627\u0644\u0642\u0627\u0647\u0631\u0629 \u0644\u0644\u0635\u0631\u0627\u0641\u0629\u202c"
+      ],
+      "ids": [
+        {
+          "type": "Chamber of Commerce Number",
+          "number": "1186929",
+          "country": "Turkey"
+        },
+        {
+          "type": "Trade License No.",
+          "number": "197146-5",
+          "country": "Turkey"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Baris Mah. Belediye CD.",
+          "address2": "No: 28/12",
+          "address3": "Beylikduzu",
+          "city": "Istanbul",
+          "country": "TR"
+        }
+      ]
+    },
+    {
+      "uid": 58198,
+      "name": "Alden Khaldun Khamis Zakaria",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "TR"
+      ],
+      "list_type": "SDN",
+      "dob": "1980-07-19",
+      "nationalities": [],
+      "aliases": [
+        "\u062e\u0644\u062f\u0648\u0646 \u0627\u0644\u062f\u0646 \u062e\u0645\u064a\u0633 \u0632\u0643\u0631\u064a\u0627"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "905337655",
+          "country": "Palestinian"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58199,
+      "name": "Al-Jebouri Zaid Issam Ahmed",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "TR"
+      ],
+      "list_type": "SDN",
+      "dob": "1988-10-03",
+      "nationalities": [],
+      "aliases": [
+        "\u0627\u0644\u062c\u0628\u0648\u0631\u064a \u0632\u064a\u062f \u0639\u0635\u0627\u0645 \u0623\u062d\u0645\u062f"
+      ],
+      "ids": [
+        {
+          "type": "Identification Number",
+          "number": "99909088080",
+          "country": "Turkey"
+        }
+      ],
+      "crypto_wallets": [
+        {
+          "currency": "TRX",
+          "address": "TPyE2oSoaysrXfLzwf9wetBVr9JudLwjtD"
+        },
+        {
+          "currency": "TRX",
+          "address": "TVgUsVzA7mpFExP4zS7HHbtKti6UuBDuwZ"
+        },
+        {
+          "currency": "TRX",
+          "address": "TLoG3vbjDgqmTD5bM7w9rMgA6ysaNReuRy"
+        },
+        {
+          "currency": "TRX",
+          "address": "TAhHpxPRwo1Bmm1A9m51uZ31tcB7EPq7SY"
+        },
+        {
+          "currency": "TRX",
+          "address": "TScXZTbDjjZ6a6jiC7dZjgCqfNo4vm7atV"
+        },
+        {
+          "currency": "TRX",
+          "address": "TGr2i8ZQiiMRjP3mWyQUH2MQBfKu8GJNqm"
+        },
+        {
+          "currency": "TRX",
+          "address": "THJUJFyTnrBWb1ijWav7qfRBrjUuKgP49Z"
+        }
+      ],
+      "addresses": [
+        {
+          "city": "Istanbul",
+          "country": "TR"
+        }
+      ]
+    },
+    {
+      "uid": 58200,
+      "name": "Al-Jebouri Abdulla Issam Ahmad",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "TR"
+      ],
+      "list_type": "SDN",
+      "dob": "1988-10-03",
+      "nationalities": [],
+      "aliases": [
+        "\u0627\u0644\u062c\u0628\u0648\u0631\u064a \u0639\u0628\u062f \u0627\u0644\u0644\u0647 \u202b \u0639\u0635\u0627\u0645\u202c \u0623\u062d\u0645\u062f"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "B22037179",
+          "country": "Iraq"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58201,
+      "name": "TUJUH BULIR GLOBAL",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "ID"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0627\u0644\u0633\u062c\u0644\u0627\u062a \u0627\u0644\u0633\u0628\u0639 \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629",
+        "Seven Spikes Global",
+        "Seven Spikes Global Foundation"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Ruka SOHO, Blok H No. 9, Jalan Muhammad Kahfi II",
+          "address2": "RT 008/RW 010, Kelurahan Jagakarsa",
+          "address3": "Kecamatan Jagakarsa",
+          "city": "Jakarta Selatan",
+          "state": "DKI Jakarta",
+          "country": "ID"
+        }
+      ]
+    },
+    {
+      "uid": 58202,
+      "name": "ORBIT S.A.",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Entity Code",
+          "number": "60642",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58203,
+      "name": "TERMINAL DE CONTENEDORES DE MARIEL S.A.",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Mariel Container Terminal S.A.",
+        "TCM S.A."
+      ],
+      "ids": [
+        {
+          "type": "Entity Code",
+          "number": "60597",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Vista del Mar",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58204,
+      "name": "CORAL MARITIMA S.A.",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Entity Code",
+          "number": "60301",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58205,
+      "name": "CEIBA INVESTMENTS LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "30083",
+          "country": "Guernsey"
+        },
+        {
+          "type": "Legal Entity Number",
+          "number": "213800XGY151JV5B1E88",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Les Echelons Court, Les Echelons",
+          "city": "St. Peter Port",
+          "state": "Channel Islands",
+          "postal_code": "GY1 1AR",
+          "country": ""
+        }
+      ]
+    },
+    {
+      "uid": 58206,
+      "name": "EMPRESA DE ENERGIA S.A.",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "ENERSA"
+      ],
+      "ids": [
+        {
+          "type": "Entity Code",
+          "number": "60600",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58207,
+      "name": "EINARBO S.A.",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Entity Code",
+          "number": "60636",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58208,
+      "name": "CENTRO DE INVESTIGACIONES DEL PETROLEO S.A.",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "CEINPET"
+      ],
+      "ids": [
+        {
+          "type": "Entity Code",
+          "number": "14774",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Cerro",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58210,
+      "name": "COMERCIALIZADORA DE SERVICIOS MEDICOS CUBANOS SA",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "CSMC",
+        "Servicios Medicos Cubanos",
+        "SMC",
+        "Cuban Medical Services Marketing Company"
+      ],
+      "ids": [
+        {
+          "type": "Tax ID No.",
+          "number": "3000186940",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58211,
+      "name": "PORTAL MIRANDA Jose Angel",
+      "entry_type": "Individual",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": "1967-01-10",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "67011009482",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58212,
+      "name": "UNIDAD CENTRAL DE COOPERACION MEDICA",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Central Unit for Medical Cooperation",
+        "UCCM"
+      ],
+      "ids": [
+        {
+          "type": "Entity Code",
+          "number": "9809",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Marianao",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58213,
+      "name": "SANCHEZ PADRON Gretza",
+      "entry_type": "Individual",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": "1970-11-28",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "70112814739",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Villa Clara",
+          "country": "CU"
+        }
+      ]
+    }
+  ],
+  "removals": [
+    {
+      "uid": 44525,
+      "name": "BEL-KAP-STEEL LLC",
+      "entry_type": "Entity",
+      "programs": [
+        "BELARUS-EO14038"
+      ],
+      "countries": [
+        "US"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Tax ID No.",
+          "number": "52-2083095",
+          "country": "United States"
+        },
+        {
+          "type": "Business Registration Number",
+          "number": "0582030 (Connecticut)",
+          "country": "United States"
+        },
+        {
+          "type": "Business Registration Number",
+          "number": "M99000000961 (Florida)",
+          "country": "United States"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Miami",
+          "state": "FL",
+          "postal_code": "33130",
+          "country": "US"
+        }
+      ]
+    }
+  ],
+  "updates": []
+}
