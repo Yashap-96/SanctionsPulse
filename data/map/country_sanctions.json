@@ -11,7 +11,7 @@
       "VENEZUELA-EO13850",
       "GLOMAG"
     ],
-    "daily_added": 10,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "GB": {
@@ -45,7 +45,7 @@
       "CAATSA - RUSSIA",
       "IRAN-EO13846"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "CH": {
@@ -151,7 +151,7 @@
       "GLOMAG",
       "VENEZUELA-EO13850"
     ],
-    "daily_added": 55,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "FR": {
@@ -617,7 +617,7 @@
       "GLOMAG",
       "ILLICIT-DRUGS-EO14059"
     ],
-    "daily_added": 6,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "AF": {
@@ -802,8 +802,8 @@
       "RUSSIA-EO14024",
       "ILLICIT-DRUGS-EO14059"
     ],
-    "daily_added": 1,
-    "daily_removed": 1
+    "daily_added": 0,
+    "daily_removed": 0
   },
   "ZA": {
     "total": 48,
@@ -1085,7 +1085,7 @@
       "IRAN-EO13902",
       "CAATSA - RUSSIA"
     ],
-    "daily_added": 5,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "HR": {
@@ -1147,7 +1147,7 @@
       "UKRAINE-EO13662",
       "IRAN-EO13902"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "KW": {
@@ -1173,7 +1173,7 @@
       "NPWMD",
       "IRAN-EO13846"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "ZW": {
@@ -1383,7 +1383,7 @@
       "PAIPA",
       "CAATSA - RUSSIA"
     ],
-    "daily_added": 4,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "DO": {
