@@ -1,0 +1,3497 @@
+{
+  "date": "2026-07-28",
+  "period": "2026-07-28",
+  "summary": {
+    "added": 0,
+    "removed": 102,
+    "updated": 29
+  },
+  "additions": [],
+  "removals": [
+    {
+      "uid": 4107,
+      "name": "RODRIGUEZ OREJUELA Gilberto Jose",
+      "entry_type": "Individual",
+      "programs": [
+        "SDNT"
+      ],
+      "countries": [
+        "CO"
+      ],
+      "list_type": "SDN",
+      "dob": "1939-01-31",
+      "nationalities": [],
+      "aliases": [
+        "The Chess Player",
+        "Lucas"
+      ],
+      "ids": [
+        {
+          "type": "Cedula No.",
+          "number": "6068015",
+          "country": "Colombia"
+        },
+        {
+          "type": "Passport",
+          "number": "T321642",
+          "country": "Colombia"
+        },
+        {
+          "type": "Passport",
+          "number": "6067015",
+          "country": "Comoros"
+        },
+        {
+          "type": "Passport",
+          "number": "77588",
+          "country": "Argentina"
+        },
+        {
+          "type": "Passport",
+          "number": "10545599",
+          "country": "Venezuela"
+        },
+        {
+          "type": "Cedula No.",
+          "number": "6067015",
+          "country": "Colombia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Cali",
+          "country": "CO"
+        }
+      ]
+    },
+    {
+      "uid": 6706,
+      "name": "ARELLANO FELIX Ramon Eduardo",
+      "entry_type": "Individual",
+      "programs": [
+        "SDNTK"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": "1964-08-31",
+      "nationalities": [],
+      "aliases": [
+        "COMACHO RODRIGUES Gilberto",
+        "TORRES MENDEZ Ramon"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 6709,
+      "name": "CHANG Chi Fu",
+      "entry_type": "Individual",
+      "programs": [
+        "SDNTK"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": "1933-02-17",
+      "nationalities": [],
+      "aliases": [
+        "Khun Sa",
+        "CHAN Changtrakul",
+        "CHANG Shi-Fu",
+        "CHANG Xifu",
+        "CHANGTRAKUL Chan"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 6710,
+      "name": "HEATH Noel Timothy",
+      "entry_type": "Individual",
+      "programs": [
+        "SDNTK"
+      ],
+      "countries": [
+        "KN"
+      ],
+      "list_type": "SDN",
+      "dob": "1949-12-16",
+      "nationalities": [],
+      "aliases": [
+        "ZAMBA Noel Heath",
+        "ZAMBO Noel Heath"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "03574",
+          "country": "United Kingdom"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Cardin Avenue",
+          "country": "KN"
+        }
+      ]
+    },
+    {
+      "uid": 6712,
+      "name": "OGUNGBUYI Oluwole A.",
+      "entry_type": "Individual",
+      "programs": [
+        "SDNTK"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": "1953-03-04",
+      "nationalities": [],
+      "aliases": [
+        "ADEMULERO Babestan Oluwole",
+        "BABESTAN Wole A.",
+        "OGUNGBUYI Wally",
+        "OGUNGBUYI Wole A.",
+        "SHOFESO Olatude I.",
+        "SHOFESO Olatunde Irewole"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 6713,
+      "name": "OGUNGBUYI Abeni O.",
+      "entry_type": "Individual",
+      "programs": [
+        "SDNTK"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": "1952-06-30",
+      "nationalities": [],
+      "aliases": [
+        "BABESTAN Abeni O.",
+        "SHOFESO Olatutu Temitope"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 6719,
+      "name": "AGRICOLA GANADERA HENAO GONZALEZ Y CIA. S.C.S.",
+      "entry_type": "Entity",
+      "programs": [
+        "SDNT"
+      ],
+      "countries": [
+        "CO"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "NIT #",
+          "number": "800021615-1",
+          "country": "Colombia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Carrera 4A No. 16-04 apt. 303",
+          "city": "Cartago",
+          "country": "CO"
+        },
+        {
+          "address1": "Km. 5 Via Aeropuerto",
+          "city": "Cartago",
+          "country": "CO"
+        },
+        {
+          "address1": "Carrera 1 No. 13-08",
+          "city": "Cartago",
+          "country": "CO"
+        }
+      ]
+    },
+    {
+      "uid": 6720,
+      "name": "COMPANIA AGROINVERSORA HENAGRO LTDA.",
+      "entry_type": "Entity",
+      "programs": [
+        "SDNT"
+      ],
+      "countries": [
+        "CO"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "NIT #",
+          "number": "800084326-8",
+          "country": "Colombia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Carrera 1 No. 13-08",
+          "city": "Cartago",
+          "country": "CO"
+        },
+        {
+          "address1": "Hacienda Coque",
+          "city": "Cartago",
+          "country": "CO"
+        },
+        {
+          "address1": "Km. 5 Via Aeropuerto",
+          "city": "Cartago",
+          "country": "CO"
+        }
+      ]
+    },
+    {
+      "uid": 6721,
+      "name": "DESARROLLOS COMERCIALES E INDUSTRIALES HENAO GONZALEZ Y CIA. S.C.S.",
+      "entry_type": "Entity",
+      "programs": [
+        "SDNT"
+      ],
+      "countries": [
+        "CO"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "NIT #",
+          "number": "800160475-2",
+          "country": "Colombia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Carrera 4A No. 16-04 apt. 303",
+          "city": "Cartago",
+          "country": "CO"
+        }
+      ]
+    },
+    {
+      "uid": 6722,
+      "name": "MAQUINARIA TECNICA Y TIERRAS LTDA.",
+      "entry_type": "Entity",
+      "programs": [
+        "SDNT"
+      ],
+      "countries": [
+        "CO"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "M.T.T. LTDA."
+      ],
+      "ids": [
+        {
+          "type": "NIT #",
+          "number": "800084233-1",
+          "country": "Colombia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Carrera 4A No. 16-04",
+          "city": "Cartago",
+          "country": "CO"
+        },
+        {
+          "address1": "Carrera 42 No. 5B-81",
+          "city": "Cali",
+          "country": "CO"
+        }
+      ]
+    },
+    {
+      "uid": 6723,
+      "name": "ORGANIZACION EMPRESARIAL A DE J HENAO M E HIJOS Y CIA. S.C.S.",
+      "entry_type": "Entity",
+      "programs": [
+        "SDNT"
+      ],
+      "countries": [
+        "CO"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "NIT #",
+          "number": "800157331-1",
+          "country": "Colombia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Carrera 4A No. 16-04 apt. 303",
+          "city": "Cartago",
+          "country": "CO"
+        },
+        {
+          "address1": "Km. 5 Via Aeropuerto, Hacienda Coque",
+          "city": "Cartago",
+          "country": "CO"
+        }
+      ]
+    },
+    {
+      "uid": 6724,
+      "name": "GONZALEZ BENITEZ Olga Patricia",
+      "entry_type": "Individual",
+      "programs": [
+        "SDNT"
+      ],
+      "countries": [
+        "CO"
+      ],
+      "list_type": "SDN",
+      "dob": "1965-08-04",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Cedula No.",
+          "number": "29503761",
+          "country": "Colombia"
+        },
+        {
+          "type": "Passport",
+          "number": "AH567983",
+          "country": "Colombia"
+        },
+        {
+          "type": "Passport",
+          "number": "29503761",
+          "country": "Colombia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Hacienda Coque",
+          "city": "Cartago",
+          "country": "CO"
+        },
+        {
+          "address1": "Carrera 4 No. 16-04 apt. 303",
+          "city": "Cartago",
+          "country": "CO"
+        },
+        {
+          "address1": "c/o AGRICOLA GANADERA HENAO GONZALEZ Y CIA. S.C.S.",
+          "city": "Cartago",
+          "country": "CO"
+        },
+        {
+          "address1": "c/o DESARROLLOS COMERCIALES E INDUSTRIALES HENAO GONZALEZ Y CIA. S.C.S.",
+          "city": "Cartago",
+          "country": "CO"
+        },
+        {
+          "address1": "Avenida 4 Oeste No. 5-97 Apt. 1001",
+          "city": "Cali",
+          "country": "CO"
+        },
+        {
+          "address1": "c/o COMPANIA AGROINVERSORA HENAGRO LTDA.",
+          "city": "Cartago",
+          "country": "CO"
+        }
+      ]
+    },
+    {
+      "uid": 6856,
+      "name": "AFGHAN Sher",
+      "entry_type": "Individual",
+      "programs": [
+        "SDNTK"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": "1962-01-01",
+      "nationalities": [],
+      "aliases": [
+        "AFGHAN Shir",
+        "KHAN Abdullah",
+        "AZIZ Mohammad",
+        "AFGHAN Shear"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 6859,
+      "name": "CHANG Ping Yun",
+      "entry_type": "Individual",
+      "programs": [
+        "SDNTK"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": "1940-01-07",
+      "nationalities": [],
+      "aliases": [
+        "KHUN Saeng"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 6860,
+      "name": "GILBOA Joseph",
+      "entry_type": "Individual",
+      "programs": [
+        "SDNTK"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": "1943-04-08",
+      "nationalities": [],
+      "aliases": [
+        "GILBOA Yosef",
+        "GILBOA Joseph Papzian",
+        "GILBERT Joseph",
+        "GIL Josef"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 6862,
+      "name": "HAMIEH Jamiel",
+      "entry_type": "Individual",
+      "programs": [
+        "SDNTK"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": "1938-09-01",
+      "nationalities": [],
+      "aliases": [
+        "HAMIAH Jamiel",
+        "HAMEIAH Jamel",
+        "HAMEIAH Mamil",
+        "HAMEIH Jamill",
+        "HAMIAEH Jamil",
+        "HAMIE Jamil Abdulkarim",
+        "HAMIEAH Jamiel",
+        "HAMEIAH Jamil",
+        "HAMEIEH Jamil",
+        "HAMER Jamil",
+        "HAMIE Jamil",
+        "HAMIE Jamile",
+        "HAMIEAH Jamil",
+        "HAMIEH Jamal",
+        "HAMIEH Jamil",
+        "HAMIEL Jamil",
+        "HAMIEYYEH Jamil",
+        "HAMIYA Abdul Jamil",
+        "HAMIYYAH Jamil",
+        "HAMYH Jamil",
+        "KARIM Jamil Abdul",
+        "NEZAM Abu",
+        "HAMIEH Mamil",
+        "HAMIEYE Jamil",
+        "HAMIL Jamil",
+        "HAMIYE Jamil",
+        "HAMIYYEH Jamil",
+        "NAZIM Abou",
+        "NIZAM Abou"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 6863,
+      "name": "HIGUERA GUERRERO Ismael",
+      "entry_type": "Individual",
+      "programs": [
+        "SDNTK"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": "1961-03-17",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 6864,
+      "name": "KHAN Nasir Ali",
+      "entry_type": "Individual",
+      "programs": [
+        "SDNTK"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": "1955-10-01",
+      "nationalities": [],
+      "aliases": [
+        "KHAN Ali",
+        "KHAN Nafir Ali",
+        "KHAN Nazir Ali",
+        "KHAN Nisan Ali",
+        "KHAN Nisar Ali",
+        "NASIR Ali Khan",
+        "NASIR Khan Ali"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 7138,
+      "name": "TUFAIL Mohammed",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": "1930-05-05",
+      "nationalities": [],
+      "aliases": [
+        "TUFAIL Sheik Mohammed",
+        "TUFAIL S.M."
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 7285,
+      "name": "ARIZONA S.A.",
+      "entry_type": "Entity",
+      "programs": [
+        "SDNT"
+      ],
+      "countries": [
+        "CO"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "NIT #",
+          "number": "836000489-0",
+          "country": "Colombia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Carrera 8N No. 17A-12",
+          "city": "Cartago",
+          "country": "CO"
+        }
+      ]
+    },
+    {
+      "uid": 8222,
+      "name": "ZERFAOUI Ahmad",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": "1963-07-15",
+      "nationalities": [],
+      "aliases": [
+        "Abdalla",
+        "Abdullah",
+        "Abu Cholder",
+        "Abu Khaoula",
+        "Nuhr",
+        "Smail"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 8253,
+      "name": "ZEVALLOS GONZALES Winston Ricardo",
+      "entry_type": "Individual",
+      "programs": [
+        "SDNTK"
+      ],
+      "countries": [
+        "PE"
+      ],
+      "list_type": "SDN",
+      "dob": "1959-05-11",
+      "nationalities": [],
+      "aliases": [
+        "ZEVALLOS GONZALES Ricardo"
+      ],
+      "ids": [
+        {
+          "type": "SSN",
+          "number": "592-29-5509",
+          "country": ""
+        },
+        {
+          "type": "LE Number",
+          "number": "07942932",
+          "country": "Peru"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "c/o AERO CONTINENTE S.A.",
+          "city": "Lima",
+          "country": "PE"
+        },
+        {
+          "address1": "c/o AVIANDINA S.A.C.",
+          "city": "Lima",
+          "country": "PE"
+        },
+        {
+          "address1": "c/o CORPORACION DE INVERSIONES EMPRESARIALES S.A.",
+          "city": "Lima",
+          "country": "PE"
+        },
+        {
+          "address1": "c/o TALLER DE REPARACIONES DE AERODINOS SUS PARTES Y SERVICIOS AEREOS S.A.",
+          "city": "Tarapoto",
+          "state": "San Martin",
+          "country": "PE"
+        },
+        {
+          "address1": "c/o TRANSPORTES AEREOS UNIDOS SELVA AMAZONICA S.A.",
+          "city": "Lima",
+          "country": "PE"
+        },
+        {
+          "address1": "Avenida Rio Grande 367",
+          "city": "Lima",
+          "country": "PE"
+        }
+      ]
+    },
+    {
+      "uid": 8264,
+      "name": "AL-TURKI Hassan Abdullah Hersi",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": "1944-01-01",
+      "nationalities": [],
+      "aliases": [
+        "AL-TURKI Hassan"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 8306,
+      "name": "A.W.A. ENGINEERING LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAQ2"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "3 Mandeville Place",
+          "city": "London",
+          "country": "GB"
+        }
+      ]
+    },
+    {
+      "uid": 8309,
+      "name": "ADMINCHECK LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAQ2"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "1 Old Burlington Street",
+          "city": "London",
+          "country": "GB"
+        }
+      ]
+    },
+    {
+      "uid": 8310,
+      "name": "ADVANCED ELECTRONICS DEVELOPMENT, LTD",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAQ2"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "3 Mandeville Place",
+          "city": "London",
+          "country": "GB"
+        }
+      ]
+    },
+    {
+      "uid": 8341,
+      "name": "ARAB PETROLEUM ENGINEERING COMPANY LTD",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAQ2"
+      ],
+      "countries": [
+        "JO"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Amman",
+          "country": "JO"
+        }
+      ]
+    },
+    {
+      "uid": 8345,
+      "name": "ARCHI CENTRE I.C.E. LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAQ2"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "3 Mandeville Place",
+          "city": "London",
+          "country": "GB"
+        }
+      ]
+    },
+    {
+      "uid": 8346,
+      "name": "ARCHICONSULT LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAQ2"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "128 Buckingham Place",
+          "city": "London 5",
+          "country": "GB"
+        }
+      ]
+    },
+    {
+      "uid": 8347,
+      "name": "ASSOCIATED ENGINEERS",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAQ2"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 8349,
+      "name": "ATIA Hachim K.",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAQ2"
+      ],
+      "countries": [
+        "IQ"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Hay Al-Adil Mahala-645, Zukak-8, No.-39",
+          "city": "Baghdad",
+          "country": "IQ"
+        }
+      ]
+    },
+    {
+      "uid": 8350,
+      "name": "ATIA Hachim K.",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAQ2"
+      ],
+      "countries": [
+        "IQ"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Lane 15, Area 902, Hai Al-Wahda",
+          "city": "Baghdad",
+          "country": "IQ"
+        }
+      ]
+    },
+    {
+      "uid": 8351,
+      "name": "ATLAS AIR CONDITIONING COMPANY LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAQ2"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "55 Roebuck House, Palace Street",
+          "city": "London",
+          "country": "GB"
+        }
+      ]
+    },
+    {
+      "uid": 8352,
+      "name": "ATLAS EQUIPMENT COMPANY LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAQ2"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "55 Roebuck House, Palace Street",
+          "city": "London",
+          "country": "GB"
+        }
+      ]
+    },
+    {
+      "uid": 8354,
+      "name": "BAROON SHIPPING COMPANY LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAQ2"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Haven Court, 5 Library Ramp",
+          "city": "Gibraltar",
+          "country": "GB"
+        }
+      ]
+    },
+    {
+      "uid": 8360,
+      "name": "ENDSHIRE EXPORT MARKETING",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAQ2"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 8364,
+      "name": "FALCON SYSTEMS",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAQ2"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 8368,
+      "name": "H & H METALFORM GMBH",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAQ2"
+      ],
+      "countries": [
+        "DE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "H AND H METALFORM GMBH"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Postfach 1160, Strontianitstrasse 5",
+          "city": "Drensteinfurt",
+          "postal_code": "4406",
+          "country": "DE"
+        }
+      ]
+    },
+    {
+      "uid": 8371,
+      "name": "I.P.C. INTERNATIONAL LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAQ2"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 8372,
+      "name": "I.P.C. MARKETING LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAQ2"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 8373,
+      "name": "INVESTACAST PRECISION CASTINGS, LTD.",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAQ2"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "112 City Road",
+          "city": "London",
+          "country": "GB"
+        }
+      ]
+    },
+    {
+      "uid": 8374,
+      "name": "IRAQI ALLIED SERVICES LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAQ2"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 8375,
+      "name": "IRAQI FREIGHT SERVICES LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAQ2"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 8376,
+      "name": "IRAQI TRADE CENTER",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAQ2"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 8377,
+      "name": "JARACO S.A.",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAQ2"
+      ],
+      "countries": [
+        "CH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "SOKTAR",
+        "TRADACO S.A."
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "45 Route de Frontenex",
+          "city": "Geneva",
+          "postal_code": "CH-1207",
+          "country": "CH"
+        }
+      ]
+    },
+    {
+      "uid": 8383,
+      "name": "KEENCLOUD LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAQ2"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "11 Catherine Place, Westminister",
+          "city": "London",
+          "country": "GB"
+        }
+      ]
+    },
+    {
+      "uid": 8387,
+      "name": "MEED INTERNATIONAL LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAQ2"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "3 Mandeville Place",
+          "city": "London",
+          "country": "GB"
+        }
+      ]
+    },
+    {
+      "uid": 8393,
+      "name": "ORIENT SHIPPING LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAQ2"
+      ],
+      "countries": [
+        "VC"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Lot 18, Bay Street",
+          "city": "Kingstowne",
+          "country": "VC"
+        }
+      ]
+    },
+    {
+      "uid": 8394,
+      "name": "PANDORA SHIPPING CO. S.A.",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAQ2"
+      ],
+      "countries": [
+        "HN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 8395,
+      "name": "PETRA NAVIGATION & INTERNATIONAL TRADING CO. LTD.",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAQ2"
+      ],
+      "countries": [
+        "IQ"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "AL PETRA COMPANY FOR GOODS TRANSPORT LTD",
+        "PETRA NAVIGATION AND INTERNATIONAL TRADING CO. LTD."
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Hai Al Wahda Mahalat 906, 906 Zulak 50, House 14",
+          "city": "Baghdad",
+          "country": "IQ"
+        }
+      ]
+    },
+    {
+      "uid": 8396,
+      "name": "RAJBROOK LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAQ2"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 8397,
+      "name": "REYNOLDS AND WILSON, LTD.",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAQ2"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "21 Victoria Road, Surbiton",
+          "city": "Surrey",
+          "postal_code": "KT6 4LK",
+          "country": "GB"
+        }
+      ]
+    },
+    {
+      "uid": 8403,
+      "name": "T N K FABRICS LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAQ2"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 8404,
+      "name": "T.E.G. LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAQ2"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "3 Mandeville Place",
+          "city": "London",
+          "country": "GB"
+        }
+      ]
+    },
+    {
+      "uid": 8411,
+      "name": "TRADING & MARITIME INVESTMENTS",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAQ2"
+      ],
+      "countries": [
+        "HN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "TRADING AND MARITIME INVESTMENTS"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "San Lorenzo",
+          "country": "HN"
+        }
+      ]
+    },
+    {
+      "uid": 8412,
+      "name": "U.I. INTERNATIONAL",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAQ2"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 8415,
+      "name": "WHALE SHIPPING LTD.",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAQ2"
+      ],
+      "countries": [
+        "IQ"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "c/o Government of Iraq, State Organization of Ports, Maqal",
+          "city": "Basrah",
+          "country": "IQ"
+        }
+      ]
+    },
+    {
+      "uid": 8416,
+      "name": "A.T.E. INTERNATIONAL LTD.",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAQ2"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "RWR INTERNATIONAL COMMODITIES"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "3 Mandeville Place",
+          "city": "London",
+          "country": "GB"
+        }
+      ]
+    },
+    {
+      "uid": 9583,
+      "name": "SALI JR. Jainal Antel",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": "1965-06-01",
+      "nationalities": [],
+      "aliases": [
+        "ABU SOLAIMAN",
+        "ABU SOLAYMAN",
+        "APONG SOLAIMAN",
+        "APUNG"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 9621,
+      "name": "SHANT Adam Yacub",
+      "entry_type": "Individual",
+      "programs": [
+        "DARFUR"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": "1976-01-01",
+      "nationalities": [],
+      "aliases": [
+        "SHARIF Adam Yacub",
+        "YACOUB Adam"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 9639,
+      "name": "HANIYA Ismail Abdul Salah",
+      "entry_type": "Individual",
+      "programs": [
+        "NS-PLC"
+      ],
+      "countries": [],
+      "list_type": "Consolidated",
+      "dob": "1962-01-01",
+      "nationalities": [],
+      "aliases": [
+        "HANIYA Ismail",
+        "HANIYYA Ismaeel"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 9999,
+      "name": "RENDON RAMIREZ Jose Aldemar",
+      "entry_type": "Individual",
+      "programs": [
+        "SDNT"
+      ],
+      "countries": [
+        "CO"
+      ],
+      "list_type": "SDN",
+      "dob": "1950-07-24",
+      "nationalities": [],
+      "aliases": [
+        "MECHAS"
+      ],
+      "ids": [
+        {
+          "type": "Cedula No.",
+          "number": "16202349",
+          "country": "Colombia"
+        },
+        {
+          "type": "Passport",
+          "number": "AF956905",
+          "country": "Colombia"
+        },
+        {
+          "type": "Passport",
+          "number": "AE182792",
+          "country": "Colombia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Carrera 9 No. 10-07",
+          "city": "Cartago",
+          "state": "Valle",
+          "country": "CO"
+        },
+        {
+          "address1": "Carrera 26 No. 80-40",
+          "address2": "MZ 1, Casa 13",
+          "city": "Pereira",
+          "state": "Risaralda",
+          "country": "CO"
+        },
+        {
+          "address1": "Carrera 13 No. 18-50",
+          "city": "Cartago",
+          "state": "Valle",
+          "country": "CO"
+        }
+      ]
+    },
+    {
+      "uid": 10119,
+      "name": "TAHA Khalil Ibrahim Mohamed Achar Foudail",
+      "entry_type": "Individual",
+      "programs": [
+        "DARFUR"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": "1958-06-15",
+      "nationalities": [],
+      "aliases": [
+        "IBRAHIM Khalil",
+        "MOHAMED Khalil Ibrahim"
+      ],
+      "ids": [
+        {
+          "type": "National Foreign ID Number",
+          "number": "4203016171",
+          "country": "France"
+        },
+        {
+          "type": "Registration ID",
+          "number": "0179427",
+          "country": "France"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 11312,
+      "name": "ISSA Issa Osman",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": "1973-01-01",
+      "nationalities": [],
+      "aliases": [
+        "MUSSE",
+        "BUR Abdullah",
+        "ATTO Abdullah",
+        "SUDANI Abdala",
+        "AFADEY"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 11744,
+      "name": "AWEYS Hassan Dahir",
+      "entry_type": "Individual",
+      "programs": [
+        "SOMALIA"
+      ],
+      "countries": [
+        "ER",
+        "SO"
+      ],
+      "list_type": "SDN",
+      "dob": "1935-01-01",
+      "nationalities": [],
+      "aliases": [
+        "ALI Sheikh Hassan Dahir Aweys",
+        "AWES Shaykh Hassan Dahir",
+        "AWEYES Hassen Dahir",
+        "AWEYS Ahmed Dahir",
+        "IBRAHIM Mohammed Hassan",
+        "DAHIR Aweys Hassan",
+        "AWEYS Sheikh Hassan Dahir",
+        "HASSAN Sheikh",
+        "AWEYS Sheikh",
+        "AWES Hassan Dahir",
+        "UWAYS Hassan Tahir",
+        "OAIS Hassan Tahir"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 11746,
+      "name": "AW-MOHAMED Ahmed Abdi",
+      "entry_type": "Individual",
+      "programs": [
+        "SOMALIA"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": "1977-07-10",
+      "nationalities": [],
+      "aliases": [
+        "ABUZUBAIR Muktar Abdulrahim",
+        "AW MOHAMMED Ahmed Abdi",
+        "AW-MOHAMUD Ahmed Abdi",
+        "ABU ZUBEYR Muktar Abdirahman",
+        "ZUBEYR Abu",
+        "GODANE",
+        "GODANI",
+        "MUKHTAR Shaykh"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 11799,
+      "name": "MORENO GONZALEZ Nazario",
+      "entry_type": "Individual",
+      "programs": [
+        "SDNTK"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1970-03-08",
+      "nationalities": [],
+      "aliases": [
+        "CHAYO",
+        "EL CHAYO",
+        "MORENO Chayo",
+        "MORENO Jose",
+        "MORENO MADRIGAL Nazario",
+        "EL DULCE",
+        "LA COMADRE",
+        "LOCO",
+        "EL MAS LOCO",
+        "TINO",
+        "CASTREJON PENA Victor Nazario"
+      ],
+      "ids": [
+        {
+          "type": "SSN",
+          "number": "601-62-3570",
+          "country": "United States"
+        },
+        {
+          "type": "C.U.R.P.",
+          "number": "MOGN700308HMNRNZ07",
+          "country": "Mexico"
+        },
+        {
+          "type": "R.F.C.",
+          "number": "MOGN670612TN0",
+          "country": "Mexico"
+        },
+        {
+          "type": "R.F.C.",
+          "number": "MOGN700308TN2",
+          "country": "Mexico"
+        },
+        {
+          "type": "R.F.C.",
+          "number": "MOGN790612TN8",
+          "country": "Mexico"
+        },
+        {
+          "type": "Identification Number",
+          "number": "092520304",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Apatzingan",
+          "state": "Michoacan",
+          "country": "MX"
+        },
+        {
+          "address1": "625 Virgilio Garza Chepevera",
+          "city": "Monterrey",
+          "state": "Nuevo Leon",
+          "postal_code": "64030",
+          "country": "MX"
+        },
+        {
+          "address1": "Calle Isidro Murivera",
+          "city": "Matamoros",
+          "postal_code": "51370",
+          "country": "MX"
+        },
+        {
+          "address1": "7 Calle Fray Servando Teresa de Mier",
+          "city": "Aptazingan",
+          "state": "Michoacan",
+          "country": "MX"
+        },
+        {
+          "address1": "336 Calle Priv Carlos S de Gortari",
+          "city": "Monterrey",
+          "state": "Nuevo Laredo",
+          "country": "MX"
+        },
+        {
+          "address1": "36 Calle Nayarit",
+          "city": "Caborca",
+          "state": "Sonora",
+          "postal_code": "83610",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 11802,
+      "name": "PLANCARTE SOLIS Enrique",
+      "entry_type": "Individual",
+      "programs": [
+        "SDNTK"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1970-09-14",
+      "nationalities": [],
+      "aliases": [
+        "LA CHIVA",
+        "KIKE"
+      ],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "PASE700914HMNLLN09",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "state": "Michoacan",
+          "country": "MX"
+        },
+        {
+          "address1": "c/o Colonia Centro",
+          "address2": "Ave Lazaro Cardenas Sur 134",
+          "city": "Nueva Italia",
+          "state": "Michoacan",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 11919,
+      "name": "FLORES BORREGO Samuel",
+      "entry_type": "Individual",
+      "programs": [
+        "SDNTK"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1972-08-06",
+      "nationalities": [],
+      "aliases": [
+        "SAMUEL FLORES FLORES"
+      ],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "FOBS720806HTSLRM05",
+          "country": "Mexico"
+        },
+        {
+          "type": "C.U.I.P.",
+          "number": "FOFS770822H09576414",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Miguel Aleman",
+          "state": "Tamaulipas",
+          "country": "MX"
+        },
+        {
+          "city": "Reynosa",
+          "state": "Tamaulipas",
+          "country": "MX"
+        },
+        {
+          "state": "Michoacan",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 11939,
+      "name": "HERNANDEZ BARRON Raul",
+      "entry_type": "Individual",
+      "programs": [
+        "SDNTK"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1977-02-04",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "HEBR770204HVZRRL02",
+          "country": "Mexico"
+        },
+        {
+          "type": "Cartilla de Servicio Militar Nacional",
+          "number": "C-528381",
+          "country": "Mexico"
+        },
+        {
+          "type": "C.U.I.P.",
+          "number": "HEBR770204H30271467",
+          "country": "Mexico"
+        },
+        {
+          "type": "Electoral Registry No.",
+          "number": "HRBRRL77020430H900",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Calle Congregacion Troncones y Potrerillos",
+          "address2": "Colonia Congrecaciones Troncones y Potrerillos",
+          "city": "Coatzintla",
+          "state": "Veracruz",
+          "postal_code": "C.P. 93160",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 11958,
+      "name": "MELLADO CRUZ Galdino",
+      "entry_type": "Individual",
+      "programs": [
+        "SDNTK"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1973-04-18",
+      "nationalities": [],
+      "aliases": [
+        "MELLADO CRUZ Galindo",
+        "GALINDO MELLADO Cruz",
+        "EL MELLADO"
+      ],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "MECG730418HVZLRL05",
+          "country": "Mexico"
+        },
+        {
+          "type": "R.F.C.",
+          "number": "MECC730418",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Calle Llano Grande",
+          "city": "Tampico Alto",
+          "state": "Veracruz",
+          "postal_code": "C.P. 92040",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 11960,
+      "name": "GONZALEZ PIZANA JR. Rogelio",
+      "entry_type": "Individual",
+      "programs": [
+        "SDNTK"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1974-02-28",
+      "nationalities": [],
+      "aliases": [
+        "GONZALEZ GARZA Rolando",
+        "PIZANA GONZALEZ Rogelio",
+        "GONZALEZ PIZANA Rogelio Kak, Jr."
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Matamoros",
+          "state": "Tamaulipas",
+          "country": "MX"
+        },
+        {
+          "address1": "Carretera A La Playa El Huizachal",
+          "city": "Valle Hermoso",
+          "state": "Tamaulipas",
+          "country": "MX"
+        },
+        {
+          "address1": "Fraccionamiento Valle De Aguayo",
+          "address2": "9th Street and Quintana Roo No. 3150",
+          "city": "Ciudad Victoria",
+          "state": "Tamaulipas",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 12684,
+      "name": "ZLITNI Abdulhafid",
+      "entry_type": "Individual",
+      "programs": [
+        "LIBYA2"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": "1938-01-01",
+      "nationalities": [],
+      "aliases": [
+        "AL-ZULAYTINI Abd-Al-Hafid Mahmud",
+        "ZLITNI Abdul Hafiz",
+        "ZLITNI Abdelhafidh",
+        "ZLITNI Abdul Hafid",
+        "ZLITNI Abdulhafid Mahmoud",
+        "ZLEITNI Abdel-Hafez"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 12843,
+      "name": "ABD AL-RAHMAN Atiyah",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": "1969-01-01",
+      "nationalities": [],
+      "aliases": [
+        "AL-LIBI 'Atiyah 'Abd al-Rahman",
+        "AL-SHITAYWI Jamal Ibrahim Muhammad",
+        "AL-SHTIWI Jamal",
+        "AL-SHITIWI Jamal",
+        "AL-SHATIWI Jamal",
+        "AL-LIBI Shaykh Mahmud"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 13173,
+      "name": "COLORADO CESSA Francisco Antonio",
+      "entry_type": "Individual",
+      "programs": [
+        "SDNTK"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1960-10-10",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "COCF601010HVZLSR05",
+          "country": "Mexico"
+        },
+        {
+          "type": "Passport",
+          "number": "04060004616",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "C Rio Tonala #3",
+          "address2": "Colonia Jardines",
+          "city": "Tuxpan",
+          "state": "Veracruz",
+          "postal_code": "92890",
+          "country": "MX"
+        },
+        {
+          "address1": "Rio Palma 10",
+          "address2": "Jardines",
+          "city": "Tuxpan",
+          "state": "Veracruz",
+          "postal_code": "92890",
+          "country": "MX"
+        },
+        {
+          "address1": "La Flor De Maria",
+          "address2": "Carretera Mexico-Tuxpan",
+          "city": "Tuxpan",
+          "state": "Veracruz",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 15015,
+      "name": "ADT PETROSERVICIOS, S.A. DE C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "SDNTK"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "R.F.C.",
+          "number": "APE010515F17",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Carretera Federal Mexico - Tuxpan Km. 255 S/N",
+          "address2": "Santiago de la Pena",
+          "city": "Tuxpan",
+          "state": "Veracruz",
+          "postal_code": "92770",
+          "country": "MX"
+        },
+        {
+          "address1": "Calle Panama #509",
+          "address2": "Colonia 27 De Septiembre",
+          "city": "Poza Rica",
+          "state": "Veracruz",
+          "postal_code": "93220",
+          "country": "MX"
+        },
+        {
+          "address1": "Calle Rafael Nieto #187",
+          "address2": "Colonia El Cuatro",
+          "city": "Cero Azul",
+          "state": "Veracruz",
+          "postal_code": "82510",
+          "country": "MX"
+        },
+        {
+          "address1": "Calle Francita #202",
+          "address2": "Colonia Guadalupe",
+          "city": "Tampico",
+          "state": "Tamaulipas",
+          "postal_code": "89120",
+          "country": "MX"
+        },
+        {
+          "city": "Veracruz",
+          "state": "Veracruz",
+          "country": "MX"
+        },
+        {
+          "city": "Villahermosa",
+          "state": "Tabasco",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 15255,
+      "name": "PAEZ SOTO Ramon Ignacio",
+      "entry_type": "Individual",
+      "programs": [
+        "SDNTK"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": "1973-07-31",
+      "nationalities": [],
+      "aliases": [
+        "PAEZ Nacho",
+        "PAEZ Nachillo",
+        "EL MORENO"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 15662,
+      "name": "KIYOTA Jiro",
+      "entry_type": "Individual",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": "1940-01-01",
+      "nationalities": [],
+      "aliases": [
+        "SIN Byon-Gyu"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 16161,
+      "name": "ARECHIGA GAMBOA Jose Rodrigo",
+      "entry_type": "Individual",
+      "programs": [
+        "SDNTK"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1980-06-15",
+      "nationalities": [],
+      "aliases": [
+        "CHINO ANTRAX"
+      ],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "AEGR800615HSLRMD01",
+          "country": "Mexico"
+        },
+        {
+          "type": "Passport",
+          "number": "040061677",
+          "country": "Mexico"
+        },
+        {
+          "type": "Driver's License No.",
+          "number": "ARGARD80061",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Calle Clavel 1487, Colonia Margarita",
+          "city": "Culiacan",
+          "state": "Sinaloa",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 16463,
+      "name": "PADIERNA PENA Luis Orlando",
+      "entry_type": "Individual",
+      "programs": [
+        "SDNTK"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": "1979-01-26",
+      "nationalities": [],
+      "aliases": [
+        "INGLATERRA"
+      ],
+      "ids": [
+        {
+          "type": "Cedula No.",
+          "number": "15441176",
+          "country": "Colombia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 16464,
+      "name": "MESA PAEZ Aristides Manuel",
+      "entry_type": "Individual",
+      "programs": [
+        "SDNTK"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": "1970-04-25",
+      "nationalities": [],
+      "aliases": [
+        "EL INDIO"
+      ],
+      "ids": [
+        {
+          "type": "Cedula No.",
+          "number": "71978727",
+          "country": "Colombia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 16974,
+      "name": "GARCIA ARBOLEDA Edward",
+      "entry_type": "Individual",
+      "programs": [
+        "SDNTK"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": "1975-06-04",
+      "nationalities": [],
+      "aliases": [
+        "ORION"
+      ],
+      "ids": [
+        {
+          "type": "Cedula No.",
+          "number": "98624193",
+          "country": "Colombia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 16985,
+      "name": "LA TIENDA DE MINGO",
+      "entry_type": "Entity",
+      "programs": [
+        "SDNTK"
+      ],
+      "countries": [
+        "CO"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Matricula Mercantil No",
+          "number": "16218702 (Medellin)",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Calle 5 D No. 6 125",
+          "city": "Medellin",
+          "country": "CO"
+        }
+      ]
+    },
+    {
+      "uid": 16990,
+      "name": "INVERSIONES C.P.C.L. Y CIA. S. EN C.S.",
+      "entry_type": "Entity",
+      "programs": [
+        "SDNTK"
+      ],
+      "countries": [
+        "CO"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "NIT #",
+          "number": "900315175-8",
+          "country": "Colombia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Carrera 48 No. 25 B Sur 12",
+          "city": "Envigado",
+          "state": "Antioquia",
+          "country": "CO"
+        }
+      ]
+    },
+    {
+      "uid": 17848,
+      "name": "VALENZUELA VERDUGO Jorge Mario",
+      "entry_type": "Individual",
+      "programs": [
+        "SDNTK"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1982-10-23",
+      "nationalities": [],
+      "aliases": [
+        "Choclos"
+      ],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "VAVJ821023HDFLRR02",
+          "country": "Mexico"
+        },
+        {
+          "type": "R.F.C.",
+          "number": "VAVJ821023EL8",
+          "country": "Mexico"
+        },
+        {
+          "type": "National ID No.",
+          "number": "23038267151",
+          "country": "Mexico"
+        },
+        {
+          "type": "Cedula No.",
+          "number": "09084650",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Antonio Rosales 280",
+          "address2": "Centro Culiacan",
+          "city": "Culiacan",
+          "state": "Sinaloa",
+          "postal_code": "80000",
+          "country": "MX"
+        },
+        {
+          "address1": "De Las Toronjas 1999",
+          "city": "Culiacan",
+          "state": "Sinaloa",
+          "postal_code": "80060",
+          "country": "MX"
+        },
+        {
+          "address1": "Boulevard Constitucion 257 PTE",
+          "address2": "Colonia Jorge Almada",
+          "city": "Culiacan",
+          "state": "Sinaloa",
+          "postal_code": "80200",
+          "country": "MX"
+        },
+        {
+          "address1": "Angel Flores 624",
+          "address2": "Colonia Centro",
+          "city": "Culiacan",
+          "state": "Sinaloa",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 18602,
+      "name": "Nur Mohammed",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": "1972-01-01",
+      "nationalities": [],
+      "aliases": [
+        "Nura Mohammed",
+        "Nur Mammam",
+        "Nur Mohammad",
+        "Muhammad Muhammad",
+        "Nuru Mallam Ahmed"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 18745,
+      "name": "LLC SOVREMENNYE TECHNOLOGII",
+      "entry_type": "Entity",
+      "programs": [
+        "UKRAINE-EO13662"
+      ],
+      "countries": [
+        "RU"
+      ],
+      "list_type": "Consolidated",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "MODERN TECHNOLOGIES LIMITED LIABILITY COMPANY",
+        "SOVREMENNYE TEKHNOLOGII, OOO",
+        "OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU SOVREMENNYE TEKHNOLOGII"
+      ],
+      "ids": [
+        {
+          "type": "Registration ID",
+          "number": "1037708040468",
+          "country": "Russia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "12a Korp. 1str 6 Pr 2-I Yuzhnoportovy",
+          "city": "Moscow",
+          "postal_code": "115432",
+          "country": "RU"
+        }
+      ]
+    },
+    {
+      "uid": 18752,
+      "name": "KORUS CONSULTING CIS LIMITED LIABILITY COMPANY",
+      "entry_type": "Entity",
+      "programs": [
+        "UKRAINE-EO13662"
+      ],
+      "countries": [
+        "RU"
+      ],
+      "list_type": "Consolidated",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "LLL KORUS CONSULTING CIS",
+        "KORUS KONSALTING SNG, OOO",
+        "OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU KORUS KONSALTING SNG"
+      ],
+      "ids": [
+        {
+          "type": "Registration ID",
+          "number": "1057812752502",
+          "country": "Russia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "68 Sampsonievsky Avenue, letter N, Room 1N",
+          "city": "Saint Petersburg",
+          "postal_code": "194100",
+          "country": "RU"
+        }
+      ]
+    },
+    {
+      "uid": 18771,
+      "name": "OTKRYTOE AKTSIONERNOE OBSHCHESTVO VNESHNEEKONOMICHESKOE OBEDINENIE TEKHNOPROMEKSPORT",
+      "entry_type": "Entity",
+      "programs": [
+        "UKRAINE-EO13662"
+      ],
+      "countries": [
+        "RU"
+      ],
+      "list_type": "Consolidated",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "JOINT STOCK COMPANY FOREIGN ECONOMIC ASSOCIATION TECHNOPROMEXPORT",
+        "TECHNOPROMEXPORT FOREIGN ECONOMIC ASSOCIATION OPEN JOINT STOCK COMPANY",
+        "VO TEKHNOPROMEKSPORT, OAO",
+        "TECHNOPROMEXPORT OJSC",
+        "OJSC TECHNOPROMEXPORT",
+        "JSC TPE"
+      ],
+      "ids": [
+        {
+          "type": "Registration ID",
+          "number": "1067746244026",
+          "country": ""
+        },
+        {
+          "type": "Government Gazette Number",
+          "number": "02839043",
+          "country": ""
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "7705713236",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "d. 15 str. 2 ul. Novy Arbat",
+          "city": "Moscow",
+          "postal_code": "119019",
+          "country": "RU"
+        }
+      ]
+    },
+    {
+      "uid": 18819,
+      "name": "OBEDINENNAYA DVIGATELESTROITELNAYA KORPORATSIYA OAO",
+      "entry_type": "Entity",
+      "programs": [
+        "UKRAINE-EO13662"
+      ],
+      "countries": [
+        "RU"
+      ],
+      "list_type": "Consolidated",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "UNITED ENGINE CORPORATION JSC",
+        "ODK OAO",
+        "OTKRYTOE AKTSIONERNOE OBSHCHESTVO UPRAVLYAYUSHCHAYA KOMPANIYA OBEDINENNAYA DVIGATELESTROITELNAYA KORPORATSIYA"
+      ],
+      "ids": [
+        {
+          "type": "Registration ID",
+          "number": "1107746081717",
+          "country": ""
+        },
+        {
+          "type": "Government Gazette Number",
+          "number": "84023868",
+          "country": ""
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "7731644035",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "16 Budennogo prospekt",
+          "city": "Moscow",
+          "postal_code": "105118",
+          "country": "RU"
+        }
+      ]
+    },
+    {
+      "uid": 21727,
+      "name": "Jedi Muhammad Wanndy Bin Mohamed",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "SY"
+      ],
+      "list_type": "SDN",
+      "dob": "1990-11-16",
+      "nationalities": [],
+      "aliases": [
+        "Jedi Muhamad Wanndy bin Muhamad",
+        "Jedi Muhamad Wanndy Muhamad",
+        "Jedi Muhamad Wanndy Mohamad",
+        "Wanndy Muhamad",
+        "Al-Fateh Abu Hamzah",
+        "Al-Malizi Abu Sayyaf"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "90116-04-5293",
+          "country": ""
+        },
+        {
+          "type": "Passport",
+          "number": "A33373751",
+          "country": "Malaysia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 23308,
+      "name": "Rivas Roberto Jose Reyes",
+      "entry_type": "Individual",
+      "programs": [
+        "GLOMAG"
+      ],
+      "countries": [
+        "NI"
+      ],
+      "list_type": "SDN",
+      "dob": "1954-07-06",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "4410607540007S",
+          "country": "Nicaragua"
+        },
+        {
+          "type": "Passport",
+          "number": "A00000604",
+          "country": "Nicaragua"
+        },
+        {
+          "type": "Passport",
+          "number": "04091979435",
+          "country": "Nicaragua"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Managua",
+          "country": "NI"
+        }
+      ]
+    },
+    {
+      "uid": 24784,
+      "name": "Faiz Mohammed Karim Yusop",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "SY"
+      ],
+      "list_type": "SDN",
+      "dob": "1978-10-11",
+      "nationalities": [],
+      "aliases": [
+        "Faiz Mohd Karim Yusop",
+        "Faiz Mohammed Yusop Karin",
+        "Faiz Mohammad Yusuf Karim",
+        "al-Indunisi Abu-Walid",
+        "Al-Indonesi Abu Walid",
+        "Saifuddin Muhmmad"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 25400,
+      "name": "Muzzamil Mohammad Daoud",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "AF"
+      ],
+      "list_type": "SDN",
+      "dob": "1983-01-01",
+      "nationalities": [],
+      "aliases": [
+        "Dawoud Muhammad"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 36065,
+      "name": "Joint Stock Company Shiprepairing Center Zvyozdochka",
+      "entry_type": "Entity",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "countries": [
+        "RU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Shiprepairing Center Zvyozdochka",
+        "Joint-Stock Company TSS Zvezdochka",
+        "SC Zvyozdochka",
+        "JSC Center Sudoremonta Zvezdochka",
+        "\u0410\u041e \u0426\u0435\u043d\u0442\u0440 \u0421\u0443\u0434\u043e\u0440\u0435\u043c\u043e\u043d\u0442\u0430 \u0417\u0432\u0435\u0437\u0434\u043e\u0447\u043a\u0430",
+        "Joint-Stock Company Ship Repair Center Zvezdochka"
+      ],
+      "ids": [
+        {
+          "type": "Tax ID No.",
+          "number": "2902060361",
+          "country": "Russia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "12 Mashinostroiteley Passage",
+          "city": "Severodvinsk",
+          "state": "Arkhangelsk Region",
+          "postal_code": "164500",
+          "country": "RU"
+        }
+      ]
+    },
+    {
+      "uid": 36397,
+      "name": "USTINOV Vladimir Vasilyevich",
+      "entry_type": "Individual",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "countries": [
+        "RU"
+      ],
+      "list_type": "SDN",
+      "dob": "1953-02-25",
+      "nationalities": [],
+      "aliases": [
+        "\u0423\u0441\u0442\u0438\u043d\u043e\u0432 \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440 \u0412\u0430\u0441\u0438\u043b\u044c\u0435\u0432\u0438\u0447"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 37526,
+      "name": "Joint Stock Company Arzamassky Priborostroitelny Zavod Imeni Plandina",
+      "entry_type": "Entity",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "countries": [
+        "RU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "JSC Arzamassky Priborostroitelny Zavod Named After Plandin",
+        "Joint Stock Company Arzamassky Priborostroitelny Factory Named After P. I. Plandina"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "1025201334850",
+          "country": "Russia"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "5243001742",
+          "country": "Russia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "50 Years of the Komsomola St., 8A",
+          "city": "Arzamas",
+          "state": "Nizhny Novgorod Region",
+          "postal_code": "607220",
+          "country": "RU"
+        }
+      ]
+    },
+    {
+      "uid": 48745,
+      "name": "CSOFT DEVELOPMENT",
+      "entry_type": "Entity",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "countries": [
+        "RU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "1067746335711",
+          "country": "Russia"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "7722570620",
+          "country": "Russia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Ul. Boitsovaya D. 17, K. 3, Pomeshch. 12 Komnatad 3B",
+          "city": "Moscow",
+          "postal_code": "107150",
+          "country": "RU"
+        }
+      ]
+    },
+    {
+      "uid": 49463,
+      "name": "JOINT STOCK COMPANY POLEMA",
+      "entry_type": "Entity",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "countries": [
+        "RU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0410\u043a\u0446\u0438\u043e\u043d\u0435\u0440\u043d\u043e\u0435 \u041e\u0431\u0449\u0435\u0441\u0442\u0432\u043e \u041f\u043e\u043b\u0435\u043c\u0430"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "1027100684050",
+          "country": "Russia"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "7105008070",
+          "country": "Russia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Building 3",
+          "address2": "Przhevalskovo Street",
+          "city": "Tula",
+          "postal_code": "300016",
+          "country": "RU"
+        }
+      ]
+    },
+    {
+      "uid": 51149,
+      "name": "SPECIAL SYSTEMS PHOTONICS LLC",
+      "entry_type": "Entity",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "countries": [
+        "RU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "1167847155068",
+          "country": "Russia"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "7802570752",
+          "country": "Russia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "D. 64, lit. e, pomeshch 2-n, pr-kt Bolshoi Sampsonievskii, office 706",
+          "city": "Saint Petersburg",
+          "postal_code": "194044",
+          "country": "RU"
+        }
+      ]
+    },
+    {
+      "uid": 52293,
+      "name": "Second Academy of Natural Sciences Foreign Affairs Bureau",
+      "entry_type": "Entity",
+      "programs": [
+        "NPWMD"
+      ],
+      "countries": [
+        "KP"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Korea Kuryonggang Trading Corporation",
+        "Ryungsong Trading Corporation",
+        "Ryungseng Trading Corporation",
+        "Ryung Seng Trading Corporation",
+        "Korea Tangun Trading Corporation",
+        "Korea Kuwolsan Trading Corporation",
+        "Korea Ryenhap 2 Trading Corporation"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Pyongyang",
+          "country": "KP"
+        }
+      ]
+    },
+    {
+      "uid": 52327,
+      "name": "TASCA",
+      "entry_type": "Vessel",
+      "programs": [
+        "IRAN-EO13846"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 9313149",
+          "country": ""
+        },
+        {
+          "type": "MMSI",
+          "number": "352002494",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    }
+  ],
+  "updates": [
+    {
+      "uid": 2682,
+      "name": "ISLAMBOULI Mohammad Shawqi",
+      "changes": {
+        "countries": {
+          "old": [],
+          "new": [
+            "EG"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 6703,
+      "name": "Jose AMEZCUA CONTRERAS de Jesus",
+      "changes": {
+        "name": {
+          "old": "AMEZCUA CONTRERAS Jose de Jesus",
+          "new": "Jose AMEZCUA CONTRERAS de Jesus"
+        },
+        "countries": {
+          "old": [],
+          "new": [
+            "MX"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 6704,
+      "name": "Luis AMEZCUA CONTRERAS Ignacio",
+      "changes": {
+        "name": {
+          "old": "AMEZCUA CONTRERAS Luis Ignacio",
+          "new": "Luis AMEZCUA CONTRERAS Ignacio"
+        },
+        "countries": {
+          "old": [],
+          "new": [
+            "MX"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 6707,
+      "name": "Rafael CARO QUINTERO",
+      "changes": {
+        "name": {
+          "old": "CARO QUINTERO Rafael",
+          "new": "Rafael CARO QUINTERO"
+        },
+        "countries": {
+          "old": [],
+          "new": [
+            "MX"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 6708,
+      "name": "Vicente CARRILLO FUENTES",
+      "changes": {
+        "name": {
+          "old": "CARRILLO FUENTES Vicente",
+          "new": "Vicente CARRILLO FUENTES"
+        },
+        "countries": {
+          "old": [],
+          "new": [
+            "MX"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 6714,
+      "name": "WEI Hsueh Kang",
+      "changes": {
+        "countries": {
+          "old": [],
+          "new": [
+            "MM"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 6715,
+      "name": "Benjamin ARELLANO FELIX Alberto",
+      "changes": {
+        "name": {
+          "old": "ARELLANO FELIX Benjamin Alberto",
+          "new": "Benjamin ARELLANO FELIX Alberto"
+        },
+        "countries": {
+          "old": [],
+          "new": [
+            "MX"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 6717,
+      "name": "Arcangel HENAO MONTOYA de Jesus",
+      "changes": {
+        "name": {
+          "old": "HENAO MONTOYA Arcangel de Jesus",
+          "new": "Arcangel HENAO MONTOYA de Jesus"
+        }
+      }
+    },
+    {
+      "uid": 6823,
+      "name": "Victor PATINO FOMEQUE Julio",
+      "changes": {
+        "name": {
+          "old": "PATINO FOMEQUE Victor Julio",
+          "new": "Victor PATINO FOMEQUE Julio"
+        }
+      }
+    },
+    {
+      "uid": 6831,
+      "name": "Jorge DUQUE BOTERO Alirio",
+      "changes": {
+        "name": {
+          "old": "DUQUE BOTERO Jorge Alirio",
+          "new": "Jorge DUQUE BOTERO Alirio"
+        }
+      }
+    },
+    {
+      "uid": 6857,
+      "name": "Osiel CARDENAS GUILLEN",
+      "changes": {
+        "name": {
+          "old": "CARDENAS GUILLEN Osiel",
+          "new": "Osiel CARDENAS GUILLEN"
+        },
+        "countries": {
+          "old": [],
+          "new": [
+            "MX"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 6858,
+      "name": "Miguel CARO QUINTERO Angel",
+      "changes": {
+        "name": {
+          "old": "CARO QUINTERO Miguel Angel",
+          "new": "Miguel CARO QUINTERO Angel"
+        },
+        "countries": {
+          "old": [],
+          "new": [
+            "MX"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 6865,
+      "name": "Oscar MALHERBE DE LEON",
+      "changes": {
+        "name": {
+          "old": "MALHERBE DE LEON Oscar",
+          "new": "Oscar MALHERBE DE LEON"
+        },
+        "countries": {
+          "old": [],
+          "new": [
+            "MX"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 6866,
+      "name": "Alcides RAMON MAGANA",
+      "changes": {
+        "name": {
+          "old": "RAMON MAGANA Alcides",
+          "new": "Alcides RAMON MAGANA"
+        },
+        "countries": {
+          "old": [],
+          "new": [
+            "MX"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 7006,
+      "name": "AWEYS Hassan Dahir",
+      "changes": {
+        "programs": {
+          "old": [
+            "SDGT"
+          ],
+          "new": [
+            "SDGT",
+            "SOMALIA"
+          ]
+        },
+        "countries": {
+          "old": [],
+          "new": [
+            "ER",
+            "SO"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 8348,
+      "name": "ATIA Hachim K.",
+      "changes": {
+        "countries": {
+          "old": [
+            "GB"
+          ],
+          "new": [
+            "GB",
+            "IQ"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 11268,
+      "name": "Chou Hsien Cheng",
+      "changes": {
+        "name": {
+          "old": "CHOU Hsien Cheng",
+          "new": "Chou Hsien Cheng"
+        }
+      }
+    },
+    {
+      "uid": 11269,
+      "name": "Thet Naing Win",
+      "changes": {
+        "name": {
+          "old": "THET Naing Win",
+          "new": "Thet Naing Win"
+        }
+      }
+    },
+    {
+      "uid": 11270,
+      "name": "Khine Oo Oo",
+      "changes": {
+        "name": {
+          "old": "KHINE Oo Oo",
+          "new": "Khine Oo Oo"
+        }
+      }
+    },
+    {
+      "uid": 11277,
+      "name": "Hla Aung",
+      "changes": {
+        "name": {
+          "old": "HLA Aung",
+          "new": "Hla Aung"
+        }
+      }
+    },
+    {
+      "uid": 11311,
+      "name": "AW-MOHAMED Ahmed Abdi",
+      "changes": {
+        "programs": {
+          "old": [
+            "SDGT"
+          ],
+          "new": [
+            "SDGT",
+            "SOMALIA"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 11743,
+      "name": "AL-TURKI Hassan Abdullah Hersi",
+      "changes": {
+        "programs": {
+          "old": [
+            "SOMALIA"
+          ],
+          "new": [
+            "SOMALIA",
+            "SDGT"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 18962,
+      "name": "OTKRYTOE AKTSIONERNOE OBSHCHESTVO VNESHNEEKONOMICHESKOE OBEDINENIE TEKHNOPROMEKSPORT",
+      "changes": {
+        "programs": {
+          "old": [
+            "UKRAINE-EO13685"
+          ],
+          "new": [
+            "UKRAINE-EO13685",
+            "UKRAINE-EO13662"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 20201,
+      "name": "OAO SHIP REPAIR CENTER 'ZVEZDOCHKA'",
+      "changes": {
+        "programs": {
+          "old": [
+            "UKRAINE-EO13685"
+          ],
+          "new": [
+            "UKRAINE-EO13685",
+            "RUSSIA-EO14024"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 23627,
+      "name": "Haniyah Ismail Abdul Salah",
+      "changes": {
+        "name": {
+          "old": "Haniyeh Ismail",
+          "new": "Haniyah Ismail Abdul Salah"
+        },
+        "programs": {
+          "old": [
+            "SDGT"
+          ],
+          "new": [
+            "SDGT",
+            "NS-PLC"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 24143,
+      "name": "USTINOV Vladimir Vasilyevich",
+      "changes": {
+        "programs": {
+          "old": [
+            "UKRAINE-EO13661"
+          ],
+          "new": [
+            "UKRAINE-EO13661",
+            "RUSSIA-EO14024"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 36409,
+      "name": "SOVREMENNYE TEKHNOLOGII LIMITED LIABILITY COMPANY",
+      "changes": {
+        "programs": {
+          "old": [
+            "RUSSIA-EO14024"
+          ],
+          "new": [
+            "RUSSIA-EO14024",
+            "UKRAINE-EO13662"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 36419,
+      "name": "LIMITED LIABILITY COMPANY KORUS CONSULTING CIS",
+      "changes": {
+        "programs": {
+          "old": [
+            "RUSSIA-EO14024"
+          ],
+          "new": [
+            "RUSSIA-EO14024",
+            "UKRAINE-EO13662"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 51712,
+      "name": "TASCA",
+      "changes": {
+        "programs": {
+          "old": [
+            "RUSSIA-EO14024",
+            "UKRAINE-EO13662"
+          ],
+          "new": [
+            "RUSSIA-EO14024",
+            "UKRAINE-EO13662",
+            "IRAN-EO13846"
+          ]
+        }
+      }
+    }
+  ]
+}
