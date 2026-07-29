@@ -1,0 +1,65 @@
+{
+  "executive_summary": "On July 29, 2026, OFAC added 18 new entities and vessels to the SDN list under the IRAN-EO13902 program, primarily targeting companies and vessels involved in Iranian sanctions evasion. The additions include entities based in China, Hong Kong, and the Marshall Islands. No entities were removed or updated. The designations highlight the ongoing efforts to disrupt Iranian sanctions evasion networks.",
+  "notable_entities": [
+    {
+      "uid": "58189",
+      "name": "Qi Hang Ship Management Limited",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "significance": "Key player in Iranian sanctions evasion, with multiple vessels and entities designated"
+    },
+    {
+      "uid": "58234",
+      "name": "Hormuzsafe Marine Services Authority",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "significance": "Iranian entity involved in maritime services, potentially supporting sanctions evasion"
+    }
+  ],
+  "risk_implications": [
+    {
+      "level": "HIGH",
+      "area": "Maritime trade",
+      "description": "The designations of multiple vessels and entities involved in Iranian sanctions evasion increase the risk of unwittingly engaging with sanctioned parties, potentially leading to significant fines and reputational damage"
+    },
+    {
+      "level": "MEDIUM",
+      "area": "Financial transactions",
+      "description": "The addition of new entities to the SDN list may require financial institutions to update their sanctions screening processes to avoid potential compliance risks"
+    }
+  ],
+  "program_highlights": [
+    {
+      "program": "IRAN-EO13902",
+      "daily_added": 18,
+      "note": "The IRAN-EO13902 program saw a significant increase in designations, targeting entities and vessels involved in Iranian sanctions evasion"
+    }
+  ],
+  "geographic_hotspots": [
+    {
+      "region": "East Asia",
+      "countries": [
+        "CN",
+        "HK",
+        "MH"
+      ],
+      "activity": "Sanctions evasion and maritime trade",
+      "trend": "Escalating"
+    },
+    {
+      "region": "Middle East",
+      "countries": [
+        "IR"
+      ],
+      "activity": "Sanctions evasion and maritime services",
+      "trend": "Steady"
+    }
+  ],
+  "compliance_recommendations": [
+    "Conduct thorough sanctions screening of all entities and vessels involved in maritime trade",
+    "Update sanctions lists and screening processes to reflect the new designations",
+    "Enhance due diligence on entities and vessels operating in high-risk regions"
+  ]
+}

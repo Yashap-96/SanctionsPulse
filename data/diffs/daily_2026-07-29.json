@@ -1,0 +1,602 @@
+{
+  "date": "2026-07-29",
+  "period": "2026-07-29",
+  "summary": {
+    "added": 18,
+    "removed": 0,
+    "updated": 0
+  },
+  "additions": [
+    {
+      "uid": 58189,
+      "name": "Qi Hang Ship Management Limited",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u555f\u822a\u8239\u8236\u7ba1\u7406\u6709\u9650\u516c\u53f8"
+      ],
+      "ids": [
+        {
+          "type": "Identification Number",
+          "number": "IMO 0301550",
+          "country": ""
+        },
+        {
+          "type": "Business Registration Number",
+          "number": "78537348",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Room D, 16th Floor, China Merchants Tower, 1008",
+          "address2": "Wanghai Lu, Nanshan Qu",
+          "city": "Shenzhen",
+          "state": "Guangdong",
+          "country": "CN"
+        },
+        {
+          "address1": "Rm 30 3/F East Sun Indl Ctr Blk A, 16 Shing Yip St",
+          "address2": "Kwun Tong",
+          "address3": "Kowloon",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 58190,
+      "name": "WELL SAIL",
+      "entry_type": "Vessel",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "MMSI",
+          "number": "538012177",
+          "country": ""
+        },
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 9321938",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58194,
+      "name": "Confident Apex Limited",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u5e06\u8d77\u6709\u9650\u516c\u53f8",
+        "Confident Apex Ltd"
+      ],
+      "ids": [
+        {
+          "type": "Identification Number",
+          "number": "IMO 0123299",
+          "country": ""
+        },
+        {
+          "type": "Business Registration Number",
+          "number": "77537070",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Room D, 10th Floor",
+          "address2": "Tower A Billion Centre",
+          "address3": "1, Wang Kwong Road, Kowloon Bay, Kowloon",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 58214,
+      "name": "Marinova Freight Limited",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "80062070",
+          "country": "Hong Kong"
+        },
+        {
+          "type": "Identification Number",
+          "number": "IMO 0451967",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Room 310 3/F, Stag Building",
+          "address2": "148-150 Queen's Road Central",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 58215,
+      "name": "VAST MIGHTY LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "CN",
+        "MH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Identification Number",
+          "number": "IMO 0024761",
+          "country": ""
+        },
+        {
+          "type": "Registration Number",
+          "number": "74471259",
+          "country": "Hong Kong"
+        },
+        {
+          "type": "Business Registration Number",
+          "number": "120802",
+          "country": "Marshall Islands"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "12th Floor, Fu Cheong Centre 5-7",
+          "address2": "Wong Chuk Yeung Street",
+          "address3": "Fo Tan, Sha Tin, New Territories",
+          "city": "Hong Kong",
+          "country": "CN"
+        },
+        {
+          "address1": "Trust Company Complex",
+          "address2": "Ajeltake Road",
+          "city": "Ajeltake Island",
+          "state": "Majuro",
+          "postal_code": "96960",
+          "country": "MH"
+        }
+      ]
+    },
+    {
+      "uid": 58216,
+      "name": "OCEAN TRANQUILITY LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "MH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Identification Number",
+          "number": "IMO 6357680",
+          "country": ""
+        },
+        {
+          "type": "Business Registration Number",
+          "number": "113191",
+          "country": "Marshall Islands"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Trust Company Complex",
+          "address2": "Ajeltake Road",
+          "city": "Ajeltake Island",
+          "state": "Majuro",
+          "postal_code": "96960",
+          "country": "MH"
+        }
+      ]
+    },
+    {
+      "uid": 58217,
+      "name": "BRANCH SAYING INTERNATIONAL TRADING CO LTD",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "MH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Identification Number",
+          "number": "IMO 0359778",
+          "country": ""
+        },
+        {
+          "type": "Business Registration Number",
+          "number": "133779",
+          "country": "Marshall Islands"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Trust Company Complex",
+          "address2": "Ajeltake Road",
+          "city": "Ajeltake Island",
+          "state": "Majuro",
+          "postal_code": "96960",
+          "country": "MH"
+        }
+      ]
+    },
+    {
+      "uid": 58218,
+      "name": "NATSUMI",
+      "entry_type": "Vessel",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "MMSI",
+          "number": "314231000",
+          "country": ""
+        },
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 9331244",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58219,
+      "name": "NIRETA",
+      "entry_type": "Vessel",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 9237785",
+          "country": ""
+        },
+        {
+          "type": "MMSI",
+          "number": "577715000",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58220,
+      "name": "CRYSTAL",
+      "entry_type": "Vessel",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "MMSI",
+          "number": "577706000",
+          "country": ""
+        },
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 9223887",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58221,
+      "name": "YEHOPE",
+      "entry_type": "Vessel",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 9243320",
+          "country": ""
+        },
+        {
+          "type": "MMSI",
+          "number": "314001154",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58227,
+      "name": "LILY",
+      "entry_type": "Vessel",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "DANYA"
+      ],
+      "ids": [
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 9294331",
+          "country": ""
+        },
+        {
+          "type": "MMSI",
+          "number": "353502000",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58231,
+      "name": "Billion Nexus Int'l Co., Limited",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Billion Nexus Int'l Co Ltd"
+      ],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "78498463",
+          "country": "Hong Kong"
+        },
+        {
+          "type": "Identification Number",
+          "number": "IMO 0306224",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Unit 60, 3rd Floor, Yau Lee Centre",
+          "address2": "45, Hoi Yuen Road, Kwun Tong, Kowloon",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 58232,
+      "name": "Al Salmi",
+      "entry_type": "Vessel",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 9298296",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58233,
+      "name": "Persian Gulf Marine Insurance Company",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0631\u0643\u0629 \u062a\u0623\u0645\u064a\u0646 \u0627\u0644\u062e\u0644\u064a\u062c \u0627\u0644\u0641\u0627\u0631\u0633\u064a \u0627\u0644\u0628\u062d\u0631\u064a"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "region": "Iran",
+          "country": ""
+        }
+      ]
+    },
+    {
+      "uid": 58234,
+      "name": "Hormuzsafe Marine Services Authority",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Hormuz Safe",
+        "\u0647\u0631\u0645\u0632 \u0633\u064a\u0641"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Bandar Abbas",
+          "state": "Hormozgan Province",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58235,
+      "name": "Nevada Spirit Company Limited",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Nevada Spirit Co Ltd"
+      ],
+      "ids": [
+        {
+          "type": "Identification Number",
+          "number": "IMO 6326461",
+          "country": ""
+        },
+        {
+          "type": "Business Registration Number",
+          "number": "74012178",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Rm 8 15/F Witty Coml Bldg",
+          "address2": "1A-1L Tung Choi St",
+          "address3": "Mongkok, Kowloon",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 58236,
+      "name": "Breeze V",
+      "entry_type": "Vessel",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 9259355",
+          "country": ""
+        },
+        {
+          "type": "MMSI",
+          "number": "314887000",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    }
+  ],
+  "removals": [],
+  "updates": []
+}
