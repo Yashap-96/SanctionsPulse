@@ -349,8 +349,8 @@
     "daily_removed": 0
   },
   "RU": {
-    "total": 5461,
-    "sdn": 5204,
+    "total": 5462,
+    "sdn": 5205,
     "consolidated": 257,
     "programs": [
       "CUBA",
@@ -389,7 +389,7 @@
       "CYBER3",
       "PAIPA"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "BG": {
@@ -426,8 +426,8 @@
     "daily_removed": 0
   },
   "NL": {
-    "total": 61,
-    "sdn": 59,
+    "total": 62,
+    "sdn": 60,
     "consolidated": 2,
     "programs": [
       "CUBA",
@@ -443,7 +443,7 @@
       "ICC-EO14203",
       "UKRAINE-EO13662"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "PL": {
@@ -583,8 +583,8 @@
     "daily_removed": 0
   },
   "IR": {
-    "total": 1614,
-    "sdn": 1614,
+    "total": 1615,
+    "sdn": 1615,
     "consolidated": 0,
     "programs": [
       "IRAN",
@@ -616,7 +616,7 @@
       "GLOMAG",
       "ILLICIT-DRUGS-EO14059"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "AF": {
@@ -912,8 +912,8 @@
     "daily_removed": 0
   },
   "CN": {
-    "total": 1232,
-    "sdn": 1138,
+    "total": 1235,
+    "sdn": 1141,
     "consolidated": 94,
     "programs": [
       "SDGT",
@@ -957,7 +957,7 @@
       "HKAA",
       "CMIC-EO13959"
     ],
-    "daily_added": 0,
+    "daily_added": 3,
     "daily_removed": 0
   },
   "ET": {
@@ -990,8 +990,8 @@
     "daily_removed": 0
   },
   "IN": {
-    "total": 152,
-    "sdn": 148,
+    "total": 153,
+    "sdn": 149,
     "consolidated": 4,
     "programs": [
       "SDGT",
@@ -1009,12 +1009,12 @@
       "NPWMD",
       "SUDAN-EO14098"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "IQ": {
-    "total": 184,
-    "sdn": 184,
+    "total": 185,
+    "sdn": 185,
     "consolidated": 0,
     "programs": [
       "SDGT",
@@ -1029,7 +1029,7 @@
       "IRAN-EO13876",
       "BELARUS-EO14038"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "RS": {
@@ -1061,8 +1061,8 @@
     "daily_removed": 0
   },
   "TR": {
-    "total": 360,
-    "sdn": 359,
+    "total": 361,
+    "sdn": 360,
     "consolidated": 1,
     "programs": [
       "SDGT",

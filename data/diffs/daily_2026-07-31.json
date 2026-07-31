@@ -1,0 +1,269 @@
+{
+  "date": "2026-07-31",
+  "period": "2026-07-31",
+  "summary": {
+    "added": 6,
+    "removed": 0,
+    "updated": 1
+  },
+  "additions": [
+    {
+      "uid": 58173,
+      "name": "DadeNegar Startup Studio",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "IQ",
+        "IR",
+        "NL"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Fereydounkhani Street, South Dibaji",
+          "city": "Tehran",
+          "country": "IR"
+        },
+        {
+          "address1": "Heravi Hossein Abad",
+          "city": "Tehran",
+          "country": "IR"
+        },
+        {
+          "address1": "6743 W 75th St",
+          "city": "Al Fallujah",
+          "state": "Al Anbar Governate",
+          "postal_code": "31002",
+          "country": "IQ"
+        },
+        {
+          "address1": "Scharmbarg 109",
+          "city": "Assen",
+          "postal_code": "9407 EA",
+          "country": "NL"
+        }
+      ]
+    },
+    {
+      "uid": 58222,
+      "name": "Shanghai Wings International Logistics Co",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "SDGT"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u4e0a\u6d77\u7ffc\u4e0a\u56fd\u9645\u8d27\u8fd0\u6709\u9650\u516c\u53f8",
+        "Shanghai Wings International Freight Co Ltd",
+        "Shanghai Yishang International Freight Co Ltd"
+      ],
+      "ids": [
+        {
+          "type": "Unified Social Credit Code (USCC)",
+          "number": "91310000MA1H3GWY6C",
+          "country": "China"
+        },
+        {
+          "type": "Trade License No.",
+          "number": "310142000159721",
+          "country": "China"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Shenzhen",
+          "state": "Guangdong",
+          "country": "CN"
+        },
+        {
+          "address1": "Room 172, Building A, No. 888, Huanhu West, 2nd Road",
+          "address2": "Lingang New Area",
+          "address3": "Pilot Free Trade Zone",
+          "city": "Shanghai",
+          "postal_code": "200120",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 58223,
+      "name": "Tang Xin",
+      "entry_type": "Individual",
+      "programs": [
+        "IFSR",
+        "SDGT"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": "1969-12-16",
+      "nationalities": [],
+      "aliases": [
+        "Tang Mike"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "110105196912164113",
+          "country": "China"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58224,
+      "name": "Shanghai Elite International Travel Co Ltd",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "SDGT"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u4e0a\u6d77\u9a6c\u6c49\u56fd\u9645\u65c5\u884c\u793e\u6709\u9650\u516c\u53f8",
+        "Shanghai Mahan International Travel Service Company Ltd"
+      ],
+      "ids": [
+        {
+          "type": "Unified Social Credit Code (USCC)",
+          "number": "913101040878261110",
+          "country": "China"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "310104087826111",
+          "country": "China"
+        },
+        {
+          "type": "Registration Number",
+          "number": "310104000567670",
+          "country": "China"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Shanghai",
+          "postal_code": "200020",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 58225,
+      "name": "Skiez Travels and Logistics Private Limited",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "SDGT"
+      ],
+      "countries": [
+        "IN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Skiez Travels and Logistics Pvt Ltd",
+        "Skiez Travel"
+      ],
+      "ids": [
+        {
+          "type": "Tax ID No.",
+          "number": "ABECS9772K",
+          "country": "India"
+        },
+        {
+          "type": "Identification Number",
+          "number": "U60210JK2020PTC011906",
+          "country": "India"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Srinagar",
+          "state": "Jammu and Kashmir",
+          "postal_code": "190001",
+          "country": "IN"
+        },
+        {
+          "address1": "A-287, Second Floor",
+          "address2": "Defence Colony",
+          "city": "New Delhi",
+          "state": "Delhi",
+          "country": "IN"
+        }
+      ]
+    },
+    {
+      "uid": 58226,
+      "name": "Air Cargo Pro Limited",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "SDGT"
+      ],
+      "countries": [
+        "RU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Limited Liability Company Aircargopro",
+        "Aircargopro Ltd"
+      ],
+      "ids": [
+        {
+          "type": "Tax ID No.",
+          "number": "5047116112",
+          "country": "Russia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Moscow",
+          "country": "RU"
+        }
+      ]
+    }
+  ],
+  "removals": [],
+  "updates": [
+    {
+      "uid": 12560,
+      "name": "DURANSOY Cagri",
+      "changes": {
+        "countries": {
+          "old": [],
+          "new": [
+            "TR"
+          ]
+        }
+      }
+    }
+  ]
+}
