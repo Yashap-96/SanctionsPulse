@@ -1,0 +1,57 @@
+{
+  "executive_summary": "On August 5, 2026, OFAC removed three entities from the SDN list, including Fly Baghdad Airlines Company and two aircraft, YI-BAF and YI-BAN, all previously designated under the SDGT program. No new additions or updates were made. This removal may indicate a shift in sanctions policy towards Iraq.",
+  "notable_entities": [
+    {
+      "uid": "39236",
+      "name": "Fly Baghdad Airlines Company",
+      "programs": [
+        "SDGT"
+      ],
+      "significance": "Removal of a previously designated entity under the SDGT program, potentially indicating a change in sanctions policy towards Iraq"
+    },
+    {
+      "uid": "47169",
+      "name": "YI-BAF",
+      "programs": [
+        "SDGT"
+      ],
+      "significance": "Removal of a previously designated aircraft under the SDGT program"
+    },
+    {
+      "uid": "47170",
+      "name": "YI-BAN",
+      "programs": [
+        "SDGT"
+      ],
+      "significance": "Removal of a previously designated aircraft under the SDGT program"
+    }
+  ],
+  "risk_implications": [
+    {
+      "level": "LOW",
+      "area": "Iraq",
+      "description": "The removal of these entities may reduce the risk of inadvertently conducting business with sanctioned parties in Iraq"
+    }
+  ],
+  "program_highlights": [
+    {
+      "program": "SDGT",
+      "daily_added": 0,
+      "note": "Three entities were removed from the SDGT program, including Fly Baghdad Airlines Company and two aircraft"
+    }
+  ],
+  "geographic_hotspots": [
+    {
+      "region": "Middle East",
+      "countries": [
+        "IQ"
+      ],
+      "activity": "Removal of sanctioned entities",
+      "trend": "Declining"
+    }
+  ],
+  "compliance_recommendations": [
+    "Review and update internal watchlists to reflect the removal of Fly Baghdad Airlines Company and the two aircraft, YI-BAF and YI-BAN, from the SDN list",
+    "Ensure due diligence procedures are in place to identify and prevent transactions with previously sanctioned entities"
+  ]
+}

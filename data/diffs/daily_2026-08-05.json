@@ -1,0 +1,80 @@
+{
+  "date": "2026-08-05",
+  "period": "2026-08-05",
+  "summary": {
+    "added": 0,
+    "removed": 3,
+    "updated": 0
+  },
+  "additions": [],
+  "removals": [
+    {
+      "uid": 39236,
+      "name": "Fly Baghdad Airlines Company",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "IQ"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Iraq Express",
+        "Fly Baghdad",
+        "\u0641\u0644\u0627\u064a \u0628\u063a\u062f\u0627\u062f"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Hurriya Square, Building 66, Street 25",
+          "address2": "Sector 925, Babil Neighborhood",
+          "city": "Baghdad",
+          "country": "IQ"
+        },
+        {
+          "address1": "Jamia Street",
+          "address2": "Jadriya",
+          "city": "Baghdad",
+          "country": "IQ"
+        }
+      ]
+    },
+    {
+      "uid": 47169,
+      "name": "YI-BAF",
+      "entry_type": "Aircraft",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 47170,
+      "name": "YI-BAN",
+      "entry_type": "Aircraft",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    }
+  ],
+  "updates": []
+}

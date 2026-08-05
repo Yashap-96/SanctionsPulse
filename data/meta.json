@@ -1,11 +1,11 @@
 {
-  "sdn_total": 19181,
+  "sdn_total": 19178,
   "consolidated_total": 481,
-  "last_updated": "2026-08-04T09:00:00Z",
-  "last_diff_date": "2026-08-04",
+  "last_updated": "2026-08-05T09:00:00Z",
+  "last_diff_date": "2026-08-05",
   "last_diff_summary": {
     "added": 0,
-    "removed": 0,
+    "removed": 3,
     "updated": 0
   }
 }

@@ -1013,8 +1013,8 @@
     "daily_removed": 0
   },
   "IQ": {
-    "total": 185,
-    "sdn": 185,
+    "total": 184,
+    "sdn": 184,
     "consolidated": 0,
     "programs": [
       "SDGT",
@@ -1030,7 +1030,7 @@
       "BELARUS-EO14038"
     ],
     "daily_added": 0,
-    "daily_removed": 0
+    "daily_removed": 1
   },
   "RS": {
     "total": 50,
