@@ -1,7 +1,7 @@
 {
   "CU": {
-    "total": 82,
-    "sdn": 82,
+    "total": 91,
+    "sdn": 91,
     "consolidated": 0,
     "programs": [
       "CUBA",
@@ -11,7 +11,7 @@
       "VENEZUELA-EO13850",
       "GLOMAG"
     ],
-    "daily_added": 0,
+    "daily_added": 9,
     "daily_removed": 0
   },
   "GB": {
@@ -349,8 +349,8 @@
     "daily_removed": 0
   },
   "RU": {
-    "total": 5462,
-    "sdn": 5205,
+    "total": 5463,
+    "sdn": 5206,
     "consolidated": 257,
     "programs": [
       "CUBA",
@@ -387,9 +387,10 @@
       "RUSSIA-EO14065",
       "SUDAN-EO14098",
       "CYBER3",
-      "PAIPA"
+      "PAIPA",
+      "CUBA-EO14404"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "BG": {
@@ -912,8 +913,8 @@
     "daily_removed": 0
   },
   "CN": {
-    "total": 1235,
-    "sdn": 1141,
+    "total": 1236,
+    "sdn": 1142,
     "consolidated": 94,
     "programs": [
       "SDGT",
@@ -953,11 +954,12 @@
       "DRCONGO",
       "VENEZUELA-EO13850",
       "NICARAGUA",
+      "CUBA-EO14404",
       "561-Related",
       "HKAA",
       "CMIC-EO13959"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "ET": {

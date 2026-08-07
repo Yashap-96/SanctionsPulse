@@ -1,0 +1,342 @@
+{
+  "date": "2026-08-07",
+  "period": "2026-08-07",
+  "summary": {
+    "added": 11,
+    "removed": 0,
+    "updated": 2
+  },
+  "additions": [
+    {
+      "uid": 58290,
+      "name": "Union de Industria Militar",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "La Union de Industrias Militares",
+        "Military Industries Union",
+        "Union of War Industry",
+        "UIM"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58291,
+      "name": "Viciana Roberto Jesus Mousset",
+      "entry_type": "Individual",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": "1963-12-26",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58292,
+      "name": "Empresa Cubana Importada y Exportada de Productos Tecnicos",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Import and Export Cuban Company of Technical Products",
+        "Tecnoimport",
+        "State Enterprise Technoimport",
+        "Technoimport"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58293,
+      "name": "Sanchez Heriberto Alleyne",
+      "entry_type": "Individual",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": "1966-08-22",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "I103675",
+          "country": "Cuba"
+        },
+        {
+          "type": "Passport",
+          "number": "E452433",
+          "country": "Cuba"
+        },
+        {
+          "type": "National ID No.",
+          "number": "66082217669",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58294,
+      "name": "Sociedad Mercantil Duna SA",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Duna SA"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58295,
+      "name": "Empresa Cubana Exportadora e Importadora de Servicios, Articulos y Productos Tecnicos Especializados SA",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Tecnotex SA"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58296,
+      "name": "Empresa Militar Industrial Yuri Gagarin",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Yuri Gagarin Military Industrial Enterprise",
+        "EMI Yuri Gagarin"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58297,
+      "name": "Remon Jose Antonio Rodriguez",
+      "entry_type": "Individual",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": "1960-10-03",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "A011900",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58298,
+      "name": "Biosca Oscar Enrique Gallego",
+      "entry_type": "Individual",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": "1958-07-01",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "A011514",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58299,
+      "name": "Milian Monica Gomez",
+      "entry_type": "Individual",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "RU"
+      ],
+      "list_type": "SDN",
+      "dob": "1963-12-13",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Moscow",
+          "country": "RU"
+        }
+      ]
+    },
+    {
+      "uid": 58300,
+      "name": "Perez Waldo Cortes",
+      "entry_type": "Individual",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": "1964-10-13",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "A014056",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Beijing",
+          "country": "CN"
+        }
+      ]
+    }
+  ],
+  "removals": [],
+  "updates": [
+    {
+      "uid": 32628,
+      "name": "Alvaro Lopez Miera Victoriano",
+      "changes": {
+        "name": {
+          "old": "Alvaro Lopez Miera",
+          "new": "Alvaro Lopez Miera Victoriano"
+        },
+        "programs": {
+          "old": [
+            "GLOMAG"
+          ],
+          "new": [
+            "GLOMAG",
+            "CUBA-EO14404"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 33020,
+      "name": "Roberto Legra Sotolongo",
+      "changes": {
+        "programs": {
+          "old": [
+            "GLOMAG"
+          ],
+          "new": [
+            "GLOMAG",
+            "CUBA-EO14404"
+          ]
+        }
+      }
+    }
+  ]
+}
