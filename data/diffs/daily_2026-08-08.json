@@ -1,0 +1,943 @@
+{
+  "date": "2026-08-08",
+  "period": "2026-08-08",
+  "summary": {
+    "added": 18,
+    "removed": 8,
+    "updated": 0
+  },
+  "additions": [
+    {
+      "uid": 58239,
+      "name": "Aban Tether Exchange",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0635\u0631\u0627\u0641\u06cc \u0622\u0628\u0627\u0646 \u062a\u062a\u0631",
+        "Abantether",
+        "Aban Tabadel Arsabaran"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "14009392670",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Ground Floor, No. 8, Gozar Merdad Alley, Qods Town (West)",
+          "city": "Tehran",
+          "postal_code": "1465663166",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58258,
+      "name": "CRYPTO HOME DMCC",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0643\u0631\u064a\u0628\u062a\u0648 \u0647\u0648\u0645 \u0645.\u062f.\u0645.\u0633"
+      ],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "AE0120005822",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Commercial Registry Number",
+          "number": "DMCC192801",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "License",
+          "number": "DMCC-839525",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [
+        {
+          "currency": "TRX",
+          "address": "TTVJuXWCusAURrpNShiypauagEH1N4CrxV"
+        },
+        {
+          "currency": "ETH",
+          "address": "0xbb69e01921b17cd22080968bcc96ba6115da6062"
+        },
+        {
+          "currency": "XBT",
+          "address": "1G1V1b9s9uPsFCNL15ibZk44xsVygKsP2u"
+        }
+      ],
+      "addresses": [
+        {
+          "address1": "DMCC Business Centre",
+          "address2": "BA1024",
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 58259,
+      "name": "NFT HOME DMCC",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0625\u0646 \u0625\u0641 \u062a\u064a \u0647\u0648\u0645 \u0645.\u062f.\u0645.\u0633",
+        "NFT Home DMSC"
+      ],
+      "ids": [
+        {
+          "type": "Commercial Registry Number",
+          "number": "DMCC193420",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "License",
+          "number": "DMCC-846344",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 58266,
+      "name": "Sharifi Shima",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1992-06-28",
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0631\u06cc\u0641\u06cc \u0634\u06cc\u0645\u0627"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0014985241",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58267,
+      "name": "Ghasempour Saeed",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1980-02-10",
+      "nationalities": [],
+      "aliases": [
+        "\u0642\u0627\u0633\u0645 \u067e\u0648\u0631 \u0633\u0639\u06cc\u062f",
+        "Ghasempur Sa'id"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "2060455065",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58268,
+      "name": "Alps International L.L.C-FZ",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "License",
+          "number": "2205337.01",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "License",
+          "number": "DE7365",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 58269,
+      "name": "Mohammad Peivand",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1991-01-21",
+      "nationalities": [],
+      "aliases": [
+        "Mohammad Peyvand"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0013132229",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58270,
+      "name": "Oviedo Overseas Company Limited",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "78761549",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Room 11, 8/F, On Cheong Factory Building",
+          "address2": "No. 19 Tai Yip Street",
+          "address3": "Kwun Tong",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 58271,
+      "name": "Cailafang Pte. Ltd.",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "SG"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "202402130H",
+          "country": "Singapore"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "60, Paya Lebar Square",
+          "address2": "54, Paya Lebar Road",
+          "country": "SG"
+        }
+      ]
+    },
+    {
+      "uid": 58272,
+      "name": "Titan Exchange",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Titan Land Petrochemicals Trading L.L.C",
+        "Titan Energy Petroleum Products Trading Co. L.L.C"
+      ],
+      "ids": [
+        {
+          "type": "License",
+          "number": "1288764",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "License",
+          "number": "820100",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "License",
+          "number": "BC2364",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "License",
+          "number": "DA7564",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 58274,
+      "name": "Aydeniz General Trading L.L.C",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "License",
+          "number": "1210220",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "License",
+          "number": "CH5145",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Office 1205, Riggat Al Buteen",
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 58275,
+      "name": "Blue Dash General Trading Company Limited",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "2858512",
+          "country": "Hong Kong"
+        },
+        {
+          "type": "Business Registration Number",
+          "number": "71017662",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Unit 32, 3/F, Block A, The K-Star, Manning Industrial Building 118",
+          "address2": "How Ming St, Kwun Tong",
+          "address3": "Kowloon",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 58276,
+      "name": "Gleaming HK Trading Limited",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "2950107",
+          "country": "Hong Kong"
+        },
+        {
+          "type": "Business Registration Number",
+          "number": "71948314",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Unit 33A, 3/F, The K-Star, Manning Industrial Center",
+          "address2": "116-118, How Ming St, Kwun Tong",
+          "address3": "Kowloon",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 58277,
+      "name": "Hendi Amir",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1982-11-05",
+      "nationalities": [],
+      "aliases": [
+        "\u0647\u0646\u062f\u06cc \u0627\u0645\u06cc\u0631"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0074773585",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58284,
+      "name": "Kayvanpour Siavash",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT",
+        "IRGC"
+      ],
+      "countries": [
+        "AE",
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1979-07-12",
+      "nationalities": [],
+      "aliases": [
+        "Hashem Siavash",
+        "Kaivanpour Siavash",
+        "Kiwan Port Siyawesh"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "784-1979-5841714-5",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Passport",
+          "number": "RA003752",
+          "country": "Dominica"
+        }
+      ],
+      "crypto_wallets": [
+        {
+          "currency": "ETH",
+          "address": "0x8d79c73daae8630c88de372ba8f57592fa987607"
+        },
+        {
+          "currency": "TRX",
+          "address": "TPgxjjB6AJeMSQFngbUM6dMMxPHa9GEtYa"
+        },
+        {
+          "currency": "XBT",
+          "address": "15Zt2mKuQ5Qy6DEXfDcbtsEVneoGQQXrS4"
+        },
+        {
+          "currency": "XBT",
+          "address": "1BUXxhcwzFukm9CUxnhag85sSXDkMRbXse"
+        }
+      ],
+      "addresses": [
+        {
+          "city": "Kish",
+          "country": "IR"
+        },
+        {
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 58285,
+      "name": "Shelbit General Trading LLC",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u064a\u0644\u0628\u064a\u062a \u0644\u0644\u062a\u062c\u0627\u0631\u0629 \u0627\u0644\u0639\u0627\u0645\u0629 \u0634.\u0630.\u0645.\u0645",
+        "Shelbit Exchange",
+        "Shelbit"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "3334083",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 58287,
+      "name": "SHPS Shelbit",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "GE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Shelbit Exchange"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "400430477",
+          "country": "Georgia"
+        }
+      ],
+      "crypto_wallets": [
+        {
+          "currency": "ETH",
+          "address": "0xe05f529f5284d75624eba386cb716928c3b54a2a"
+        },
+        {
+          "currency": "SOL",
+          "address": "6wjqWWra8ombzaw6VHrG5xpQ972jCYF6bbHiFCbWmr4U"
+        },
+        {
+          "currency": "XBT",
+          "address": "bc1qjzk63wwatq2f638psymq3qapn00aqgksyx56l3t8eg7zuuccwasq498khf"
+        },
+        {
+          "currency": "TRX",
+          "address": "TXN3hVukebhyYR31YPCYd7aJAvmUeXu1ab"
+        },
+        {
+          "currency": "XBT",
+          "address": "bc1qz654h5qcqzalv6ltpxsk4ksdcc3e20wkedqntgnarv3a0t2e2p7scr48pl"
+        },
+        {
+          "currency": "ETH",
+          "address": "0x6b69e2a7545c166417a80c61a77562052bffa9c5"
+        }
+      ],
+      "addresses": [
+        {
+          "city": "Tblisi",
+          "country": "GE"
+        }
+      ]
+    },
+    {
+      "uid": 58288,
+      "name": "SHELBIT TECHNOLOGIES LTD SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA W LIKWIDACJI",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "PL"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "SHELBIT TECHNOLOGIES LTD SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104 W LIKWIDACJI",
+        "Shelbit Technologies Ltd",
+        "Shelbit Ltd"
+      ],
+      "ids": [
+        {
+          "type": "Tax ID No.",
+          "number": "5214033324",
+          "country": "Poland"
+        },
+        {
+          "type": "Business Registration Number",
+          "number": "526184547",
+          "country": "Poland"
+        },
+        {
+          "type": "Registration Number",
+          "number": "0001053647",
+          "country": "Poland"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "22B 21A Bartycka 00-716",
+          "city": "Warsaw",
+          "country": "PL"
+        }
+      ]
+    }
+  ],
+  "removals": [
+    {
+      "uid": 11753,
+      "name": "SATIZABAL RENGIFO Mario German",
+      "entry_type": "Individual",
+      "programs": [
+        "SDNT"
+      ],
+      "countries": [
+        "CO"
+      ],
+      "list_type": "SDN",
+      "dob": "1970-03-04",
+      "nationalities": [],
+      "aliases": [
+        "PELO DE COBRE"
+      ],
+      "ids": [
+        {
+          "type": "Cedula No.",
+          "number": "14892890",
+          "country": "Colombia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 11812,
+      "name": "AYALA BARRERA Rubi Yiceth",
+      "entry_type": "Individual",
+      "programs": [
+        "SDNTK"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": "1982-02-13",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Cedula No.",
+          "number": "52784570",
+          "country": "Colombia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 16580,
+      "name": "ZAZUETA GODOY Heriberto",
+      "entry_type": "Individual",
+      "programs": [
+        "SDNTK"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1960-02-03",
+      "nationalities": [],
+      "aliases": [
+        "CAPI BETO"
+      ],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "ZAGH600203HSLZDR07",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Jose Aguilar Barraza 328",
+          "address2": "Al Poniente de la Colonia Jorge Almeda",
+          "city": "Culiacan",
+          "state": "Sinaloa",
+          "country": "MX"
+        },
+        {
+          "address1": "Av. Naciones Unidas # 5759",
+          "address2": "Casa 34",
+          "address3": "Col. Parque Regency",
+          "city": "Zapopan",
+          "state": "Jalisco",
+          "postal_code": "44110",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 16581,
+      "name": "ZAZUETA GOMEZ Leopoldo",
+      "entry_type": "Individual",
+      "programs": [
+        "SDNTK"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": "1940-02-04",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "ZAGL400204HSLZMP06",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 16582,
+      "name": "ROMERO ZEVADA Demetrio",
+      "entry_type": "Individual",
+      "programs": [
+        "SDNTK"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1973-04-09",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "ROZD730409HSLMVM09",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Nogalitos No. 17",
+          "city": "Quila",
+          "state": "Sinaloa",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 16607,
+      "name": "PRODUCCION PESQUERA DONA MARIELA, S.A. DE C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "SDNTK"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "9974-2",
+          "country": "Mexico"
+        },
+        {
+          "type": "R.F.C.",
+          "number": "PPD0103129Q2",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Avenida Puerto Mazatlan 6",
+          "address2": "Colonia Parque Industrial Alfredo V Bonfil",
+          "city": "Mazatlan",
+          "state": "Sinaloa",
+          "postal_code": "CP 82050",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 16608,
+      "name": "TAIPEN, S.A. DE C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "SDNTK"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "TAI PEN"
+      ],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "33288-1",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Av. Juan Palomar y Arias # 569",
+          "address2": "Col. Jardines Universidad",
+          "city": "Zapopan",
+          "state": "Jalisco",
+          "postal_code": "45110",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 16643,
+      "name": "COMERCIALIZADORA Y FRIGORIFICOS DE LA PERLA DEL PACIFICO, S.A. DE C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "SDNTK"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "R.F.C.",
+          "number": "CFP001109UM7",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Puerto de Mazatlan 6 D",
+          "address2": "Parque Industrial Alfredo V. Bonfil",
+          "city": "Mazatlan",
+          "state": "Sinaloa",
+          "postal_code": "82050",
+          "country": "MX"
+        }
+      ]
+    }
+  ],
+  "updates": []
+}

@@ -1,0 +1,83 @@
+{
+  "executive_summary": "On August 8, 2026, OFAC added 18 entities and individuals to the SDN list, primarily targeting Iranian and UAE-based entities involved in sanctions evasion and terrorist activities. Eight entities were removed from the list, mostly Mexican individuals and companies previously designated under the SDNTK program. No updates were made to existing listings.",
+  "notable_entities": [
+    {
+      "uid": "58239",
+      "name": "Aban Tether Exchange",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "significance": "Designated for providing financial services to Iranian entities, highlighting the ongoing efforts to evade sanctions"
+    },
+    {
+      "uid": "58258",
+      "name": "CRYPTO HOME DMCC",
+      "programs": [
+        "SDGT"
+      ],
+      "significance": "Added to the SDN list for involvement in terrorist activities, demonstrating the growing concern over cryptocurrency-based transactions"
+    },
+    {
+      "uid": "58284",
+      "name": "Kayvanpour Siavash",
+      "programs": [
+        "SDGT",
+        "IRGC"
+      ],
+      "significance": "Designated as a key figure in terrorist activities, with multiple aliases and cryptocurrency wallets"
+    }
+  ],
+  "risk_implications": [
+    {
+      "level": "HIGH",
+      "area": "Sanctions Evasion",
+      "description": "The addition of 18 new entities and individuals to the SDN list highlights the ongoing efforts to evade sanctions, particularly in the Middle East and cryptocurrency sectors"
+    },
+    {
+      "level": "MEDIUM",
+      "area": "Terrorist Financing",
+      "description": "The designation of entities involved in terrorist activities underscores the need for enhanced due diligence and monitoring of transactions, particularly those involving cryptocurrency"
+    },
+    {
+      "level": "LOW",
+      "area": "Removals",
+      "description": "The removal of eight entities from the SDN list may indicate a decrease in sanctions risk for certain Mexican individuals and companies, but continued vigilance is necessary"
+    }
+  ],
+  "program_highlights": [
+    {
+      "program": "IRAN-EO13902",
+      "daily_added": 10,
+      "note": "The majority of additions were related to the IRAN-EO13902 program, targeting Iranian entities and individuals involved in sanctions evasion"
+    },
+    {
+      "program": "SDGT",
+      "daily_added": 5,
+      "note": "The SDGT program saw significant additions, primarily focusing on entities and individuals involved in terrorist activities"
+    }
+  ],
+  "geographic_hotspots": [
+    {
+      "region": "Middle East",
+      "countries": [
+        "IR",
+        "AE"
+      ],
+      "activity": "Sanctions evasion and terrorist financing",
+      "trend": "Escalating"
+    },
+    {
+      "region": "Latin America",
+      "countries": [
+        "MX"
+      ],
+      "activity": "Narco-trafficking and money laundering",
+      "trend": "Declining"
+    }
+  ],
+  "compliance_recommendations": [
+    "Enhance due diligence and monitoring of transactions, particularly those involving cryptocurrency",
+    "Conduct regular reviews of customer and vendor lists to ensure compliance with updated sanctions lists",
+    "Implement robust sanctions screening and filtering processes to prevent transactions with designated entities"
+  ]
+}
