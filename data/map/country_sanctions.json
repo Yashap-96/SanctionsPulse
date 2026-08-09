@@ -152,7 +152,7 @@
       "VENEZUELA-EO13850"
     ],
     "daily_added": 0,
-    "daily_removed": 5
+    "daily_removed": 0
   },
   "FR": {
     "total": 43,
@@ -460,7 +460,7 @@
       "TCO",
       "SDGT"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "LI": {
@@ -556,7 +556,7 @@
       "SUDAN-EO14098"
     ],
     "daily_added": 0,
-    "daily_removed": 1
+    "daily_removed": 0
   },
   "SY": {
     "total": 304,
@@ -617,7 +617,7 @@
       "GLOMAG",
       "ILLICIT-DRUGS-EO14059"
     ],
-    "daily_added": 6,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "AF": {
@@ -959,7 +959,7 @@
       "HKAA",
       "CMIC-EO13959"
     ],
-    "daily_added": 3,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "ET": {
@@ -988,7 +988,7 @@
       "GLOMAG",
       "IRAN-EO13846"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "IN": {
@@ -1385,7 +1385,7 @@
       "PAIPA",
       "CAATSA - RUSSIA"
     ],
-    "daily_added": 7,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "DO": {
@@ -1908,7 +1908,7 @@
       "IRAN-EO13902",
       "TCO"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "HK": {
