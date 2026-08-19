@@ -1,0 +1,85 @@
+{
+  "date": "2026-08-19",
+  "period": "2026-08-19",
+  "summary": {
+    "added": 3,
+    "removed": 0,
+    "updated": 0
+  },
+  "additions": [
+    {
+      "uid": 58278,
+      "name": "Bluwaves Properties Limited",
+      "entry_type": "Entity",
+      "programs": [
+        "VENEZUELA-EO13850"
+      ],
+      "countries": [
+        "VG"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "2056404",
+          "country": "Virgin Islands, British"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58410,
+      "name": "Akane Tomoko",
+      "entry_type": "Individual",
+      "programs": [
+        "ICC-EO14203"
+      ],
+      "countries": [
+        "NL"
+      ],
+      "list_type": "SDN",
+      "dob": "1956-06-28",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "RA3001686",
+          "country": "Japan"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58411,
+      "name": "Seye Abdoulaye",
+      "entry_type": "Individual",
+      "programs": [
+        "ICC-EO14203"
+      ],
+      "countries": [
+        "NL"
+      ],
+      "list_type": "SDN",
+      "dob": "1967-05-09",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "A04447087",
+          "country": "Senegal"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    }
+  ],
+  "removals": [],
+  "updates": []
+}

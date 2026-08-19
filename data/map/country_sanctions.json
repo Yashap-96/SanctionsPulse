@@ -427,8 +427,8 @@
     "daily_removed": 0
   },
   "NL": {
-    "total": 62,
-    "sdn": 60,
+    "total": 64,
+    "sdn": 62,
     "consolidated": 2,
     "programs": [
       "CUBA",
@@ -444,7 +444,7 @@
       "ICC-EO14203",
       "UKRAINE-EO13662"
     ],
-    "daily_added": 0,
+    "daily_added": 2,
     "daily_removed": 0
   },
   "PL": {
@@ -1416,8 +1416,8 @@
     "daily_removed": 0
   },
   "VG": {
-    "total": 56,
-    "sdn": 52,
+    "total": 57,
+    "sdn": 53,
     "consolidated": 4,
     "programs": [
       "SDNTK",
@@ -1437,7 +1437,7 @@
       "VENEZUELA-EO13850",
       "CMIC-EO13959"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "BR": {
