@@ -1,0 +1,1402 @@
+{
+  "date": "2026-08-21",
+  "period": "2026-08-21",
+  "summary": {
+    "added": 47,
+    "removed": 0,
+    "updated": 1
+  },
+  "additions": [
+    {
+      "uid": 57958,
+      "name": "Jimmy Leonidas Alarcon Holguin",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "EC"
+      ],
+      "list_type": "SDN",
+      "dob": "1987-03-06",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Cedula No.",
+          "number": "1312277484",
+          "country": "Ecuador"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58253,
+      "name": "Dede Onder",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT",
+        "IFSR"
+      ],
+      "countries": [
+        "TR"
+      ],
+      "list_type": "SDN",
+      "dob": "1972-08-10",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "17380793996",
+          "country": "Turkey"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Gamze Sokak 15 3",
+          "city": "Avcilar",
+          "state": "Istanbul",
+          "country": "TR"
+        }
+      ]
+    },
+    {
+      "uid": 58265,
+      "name": "Yilmaz Yunus Alper",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT",
+        "IFSR"
+      ],
+      "countries": [
+        "AE",
+        "TR"
+      ],
+      "list_type": "SDN",
+      "dob": "1982-01-01",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58286,
+      "name": "Akyuz Vasfi",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "TR"
+      ],
+      "list_type": "SDN",
+      "dob": "1969-08-01",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "29570232550",
+          "country": "Turkey"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "14112 Sokak Door: 47, Seyhan Daghkioghlu Mah.",
+          "city": "Adana",
+          "country": "TR"
+        }
+      ]
+    },
+    {
+      "uid": 58301,
+      "name": "Karasalih Feyyad",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "AE",
+        "TR"
+      ],
+      "list_type": "SDN",
+      "dob": "2002-05-27",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "47935114464",
+          "country": "Turkey"
+        },
+        {
+          "type": "Passport",
+          "number": "U25359263",
+          "country": "Turkey"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58303,
+      "name": "Mousafar Masoud",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "TR"
+      ],
+      "list_type": "SDN",
+      "dob": "1980-09-23",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "K34425246",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58305,
+      "name": "Kacmaz Halil Ibrahim",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT",
+        "IFSR"
+      ],
+      "countries": [
+        "TR"
+      ],
+      "list_type": "SDN",
+      "dob": "1971-03-02",
+      "nationalities": [],
+      "aliases": [
+        "Kachmaz Halil"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "62719131246",
+          "country": "Turkey"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58306,
+      "name": "Akyuz Mehmet",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "TR"
+      ],
+      "list_type": "SDN",
+      "dob": "1983-01-01",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "U36466313",
+          "country": "Turkey"
+        },
+        {
+          "type": "National ID No.",
+          "number": "29537233644",
+          "country": "Turkey"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Oksuzler Sokak 10 2",
+          "address2": "Fatih Iskenderpasha Mah.",
+          "city": "Istanbul",
+          "country": "TR"
+        }
+      ]
+    },
+    {
+      "uid": 58307,
+      "name": "Acur Mehmet",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "TR"
+      ],
+      "list_type": "SDN",
+      "dob": "1982-08-19",
+      "nationalities": [],
+      "aliases": [
+        "Ajur Mehmet"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "U28821454",
+          "country": "Turkey"
+        },
+        {
+          "type": "National ID No.",
+          "number": "31250176566",
+          "country": "Turkey"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Kangal Sokak 6 4",
+          "address2": "Fatih Yavuz Sultan Selim Mah.",
+          "city": "Istanbul",
+          "country": "TR"
+        }
+      ]
+    },
+    {
+      "uid": 58308,
+      "name": "Savci Gulay Kaya",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "TR"
+      ],
+      "list_type": "SDN",
+      "dob": "1980-11-14",
+      "nationalities": [],
+      "aliases": [
+        "Savji Gulay Kaya"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "34088200656",
+          "country": "Turkey"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Merkez Mah. Deste Sokak 18 8",
+          "address2": "Kagithane",
+          "city": "Istanbul",
+          "country": "TR"
+        }
+      ]
+    },
+    {
+      "uid": 58309,
+      "name": "Ayaz Emrah",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "TR"
+      ],
+      "list_type": "SDN",
+      "dob": "1984-10-02",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "54121688050",
+          "country": "Turkey"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Genclik Sokak 5 2",
+          "address2": "Bahchelievler Fevzichakmak Mah.",
+          "city": "Istanbul",
+          "country": "TR"
+        }
+      ]
+    },
+    {
+      "uid": 58345,
+      "name": "Alfonso Mero Mero",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "EC"
+      ],
+      "list_type": "SDN",
+      "dob": "1945-05-27",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Identification Number",
+          "number": "1300092499",
+          "country": "Ecuador"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58353,
+      "name": "Todos Vuelven",
+      "entry_type": "Vessel",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Mi Narcisa de Jesus",
+        "ARCA DE NOE I"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "P-04-00819",
+          "country": "Ecuador"
+        },
+        {
+          "type": "MMSI",
+          "number": "735058319",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58354,
+      "name": "ARCA DE NOE III",
+      "entry_type": "Vessel",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "MMSI",
+          "number": "735058087",
+          "country": ""
+        },
+        {
+          "type": "Registration Number",
+          "number": "P-04-00583",
+          "country": "Ecuador"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58355,
+      "name": "ARCA DE NOE III JR",
+      "entry_type": "Vessel",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "ARCA JR. 3"
+      ],
+      "ids": [
+        {
+          "type": "MMSI",
+          "number": "735059969",
+          "country": ""
+        },
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 8456035",
+          "country": ""
+        },
+        {
+          "type": "Registration Number",
+          "number": "P-04-01069",
+          "country": "Ecuador"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58356,
+      "name": "ARCA DE NOE IV",
+      "entry_type": "Vessel",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "P-04-00679",
+          "country": "Ecuador"
+        },
+        {
+          "type": "MMSI",
+          "number": "735058088",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58357,
+      "name": "ARCA DE NOE V",
+      "entry_type": "Vessel",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "P-04-00777",
+          "country": "Ecuador"
+        },
+        {
+          "type": "MMSI",
+          "number": "735058089",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58358,
+      "name": "REY DE ARCA",
+      "entry_type": "Vessel",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "MMSI",
+          "number": "735058725",
+          "country": ""
+        },
+        {
+          "type": "Registration Number",
+          "number": "P-04-00850",
+          "country": "Ecuador"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58363,
+      "name": "SIEMPRE MI ARCA",
+      "entry_type": "Vessel",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 8555518",
+          "country": ""
+        },
+        {
+          "type": "Registration Number",
+          "number": "P-04-00905",
+          "country": "Ecuador"
+        },
+        {
+          "type": "MMSI",
+          "number": "735058993",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58364,
+      "name": "Roberth Alfonso Mero Arcentales",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "EC"
+      ],
+      "list_type": "SDN",
+      "dob": "1970-12-01",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Cedula No.",
+          "number": "1306376458",
+          "country": "Ecuador"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "state": "Manabi",
+          "country": "EC"
+        }
+      ]
+    },
+    {
+      "uid": 58366,
+      "name": "Julio Javier Mero Franco",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "EC"
+      ],
+      "list_type": "SDN",
+      "dob": "1991-08-09",
+      "nationalities": [],
+      "aliases": [
+        "Javico"
+      ],
+      "ids": [
+        {
+          "type": "License",
+          "number": "1313833186",
+          "country": "Ecuador"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58367,
+      "name": "CONQUISTA",
+      "entry_type": "Vessel",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "P-06-05063",
+          "country": "Ecuador"
+        },
+        {
+          "type": "MMSI",
+          "number": "735058723",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58369,
+      "name": "Edwar Alexis Mero Arcentales",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "EC"
+      ],
+      "list_type": "SDN",
+      "dob": "1980-07-01",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Cedula No.",
+          "number": "1309153755",
+          "country": "Ecuador"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "state": "Manabi",
+          "country": "EC"
+        }
+      ]
+    },
+    {
+      "uid": 58370,
+      "name": "SOLO ES MEJOR",
+      "entry_type": "Vessel",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "P-04-00926",
+          "country": "Ecuador"
+        },
+        {
+          "type": "MMSI",
+          "number": "735059710",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58371,
+      "name": "COSTA MARLIN",
+      "entry_type": "Vessel",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "P-04-01049",
+          "country": "Ecuador"
+        },
+        {
+          "type": "MMSI",
+          "number": "735057861",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58372,
+      "name": "Milton Edixson Martinez Mendoza",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "EC"
+      ],
+      "list_type": "SDN",
+      "dob": "1971-08-31",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Cedula No.",
+          "number": "1307290450",
+          "country": "Ecuador"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "state": "Manabi",
+          "country": "EC"
+        }
+      ]
+    },
+    {
+      "uid": 58373,
+      "name": "Jhonny Francisco Vera Laz",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "EC"
+      ],
+      "list_type": "SDN",
+      "dob": "1996-08-09",
+      "nationalities": [],
+      "aliases": [
+        "Baron Poncho"
+      ],
+      "ids": [
+        {
+          "type": "Cedula No.",
+          "number": "1308357084",
+          "country": "Ecuador"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58375,
+      "name": "Byron Aladino Mero Bermello",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "EC"
+      ],
+      "list_type": "SDN",
+      "dob": "1983-07-15",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Cedula No.",
+          "number": "1310415516",
+          "country": "Ecuador"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "state": "Manabi",
+          "country": "EC"
+        }
+      ]
+    },
+    {
+      "uid": 58377,
+      "name": "Arcasdenoe, S.A.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "EC"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Exportadora y Empacadora Arcasdenoe, S.A."
+      ],
+      "ids": [
+        {
+          "type": "RUC #",
+          "number": "1391785844001",
+          "country": "Ecuador"
+        },
+        {
+          "type": "Registration Number",
+          "number": "50193",
+          "country": "Ecuador"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "state": "Manabi",
+          "country": "EC"
+        }
+      ]
+    },
+    {
+      "uid": 58378,
+      "name": "Alho Fish, S.A.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "EC"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "RUC #",
+          "number": "1391767943001",
+          "country": "Ecuador"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "state": "Manabi",
+          "country": "EC"
+        }
+      ]
+    },
+    {
+      "uid": 58379,
+      "name": "Globaldistrial, S.A.S.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "EC"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "RUC #",
+          "number": "1391936314001",
+          "country": "Ecuador"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Manabi",
+          "country": "EC"
+        }
+      ]
+    },
+    {
+      "uid": 58380,
+      "name": "JAH-HMH, S.A.S.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "EC"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "RUC #",
+          "number": "1391937025001",
+          "country": "Ecuador"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "state": "Manabi",
+          "country": "EC"
+        }
+      ]
+    },
+    {
+      "uid": 58381,
+      "name": "Negocios Jimar, S.A.S.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "EC"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "RUC #",
+          "number": "1391932622001",
+          "country": "Ecuador"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "state": "Manabi",
+          "country": "EC"
+        }
+      ]
+    },
+    {
+      "uid": 58382,
+      "name": "Proyectos Neyzoa, S.A.S.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "EC"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "RUC #",
+          "number": "1391932427001",
+          "country": "Ecuador"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Manabi",
+          "country": "EC"
+        }
+      ]
+    },
+    {
+      "uid": 58383,
+      "name": "Soisamar, S.A.S.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "EC"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "RUC #",
+          "number": "1391924267001",
+          "country": "Ecuador"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "state": "Manabi",
+          "country": "EC"
+        }
+      ]
+    },
+    {
+      "uid": 58443,
+      "name": "Grupo Empresarial Geominero Salinero",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "GEOMINSAL"
+      ],
+      "ids": [
+        {
+          "type": "Entity Code",
+          "number": "2377",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58444,
+      "name": "Martinez Leima Freire",
+      "entry_type": "Individual",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": "1980-12-23",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "80122305756",
+          "country": "Cuba"
+        },
+        {
+          "type": "Passport",
+          "number": "A008893",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58445,
+      "name": "Ministry of Construction of Cuba",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "MICONS",
+        "MINCONS"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58446,
+      "name": "Rabaza Noemi Ramona Fernandez",
+      "entry_type": "Individual",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": "1965-01-13",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "65011321470",
+          "country": "Cuba"
+        },
+        {
+          "type": "Passport",
+          "number": "A015779",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58447,
+      "name": "Empresa de Niquel Comandante Ernesto Che Guevara",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Empresa UAC Villa Clara"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Moa",
+          "state": "Holguin",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58448,
+      "name": "Empresa Importadora Exportadora y Comercializadora de Metales",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "METALCUBA"
+      ],
+      "ids": [
+        {
+          "type": "Entity Code",
+          "number": "12591",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58449,
+      "name": "Empresa Comercializadora de Articulos en General",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "CONSUMIMPORT"
+      ],
+      "ids": [
+        {
+          "type": "Entity Code",
+          "number": "4967",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58450,
+      "name": "Acinox Comercial",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Empresa Acinox Comercial S.A."
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58451,
+      "name": "Empresa Central De Abastecimiento y Ventas de Equipos de Transporte Pesado y Sus Piezas",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Transimport"
+      ],
+      "ids": [
+        {
+          "type": "Entity Code",
+          "number": "5445",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Marianao",
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58452,
+      "name": "Coratur S.A.",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Corporacion De Abastecimiento Al Turismo S.A."
+      ],
+      "ids": [
+        {
+          "type": "Entity Code",
+          "number": "60418",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Miramar",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58453,
+      "name": "Agencia De Contratacion A Representaciones Comerciales S.A.",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Acorec S.A."
+      ],
+      "ids": [
+        {
+          "type": "Entity Code",
+          "number": "60260",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58454,
+      "name": "Gonzalez Fernando Llort",
+      "entry_type": "Individual",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": "1963-08-18",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Santiago de Cuba",
+          "country": "CU"
+        }
+      ]
+    }
+  ],
+  "removals": [],
+  "updates": [
+    {
+      "uid": 4697,
+      "name": "HIZBALLAH",
+      "changes": {
+        "programs": {
+          "old": [
+            "FTO",
+            "SDGT"
+          ],
+          "new": [
+            "FTO",
+            "SDGT",
+            "IFSR",
+            "IRGC"
+          ]
+        }
+      }
+    }
+  ]
+}

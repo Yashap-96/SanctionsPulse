@@ -1,7 +1,7 @@
 {
   "CU": {
-    "total": 91,
-    "sdn": 91,
+    "total": 103,
+    "sdn": 103,
     "consolidated": 0,
     "programs": [
       "CUBA",
@@ -11,7 +11,7 @@
       "VENEZUELA-EO13850",
       "GLOMAG"
     ],
-    "daily_added": 0,
+    "daily_added": 12,
     "daily_removed": 0
   },
   "GB": {
@@ -1063,8 +1063,8 @@
     "daily_removed": 0
   },
   "TR": {
-    "total": 361,
-    "sdn": 360,
+    "total": 371,
+    "sdn": 370,
     "consolidated": 1,
     "programs": [
       "SDGT",
@@ -1087,7 +1087,7 @@
       "IRAN-EO13902",
       "CAATSA - RUSSIA"
     ],
-    "daily_added": 0,
+    "daily_added": 10,
     "daily_removed": 0
   },
   "HR": {
@@ -1346,8 +1346,8 @@
     "daily_removed": 0
   },
   "AE": {
-    "total": 741,
-    "sdn": 741,
+    "total": 743,
+    "sdn": 743,
     "consolidated": 0,
     "programs": [
       "IRAQ2",
@@ -1385,7 +1385,7 @@
       "PAIPA",
       "CAATSA - RUSSIA"
     ],
-    "daily_added": 0,
+    "daily_added": 2,
     "daily_removed": 0
   },
   "DO": {
@@ -1402,8 +1402,8 @@
     "daily_removed": 0
   },
   "EC": {
-    "total": 13,
-    "sdn": 13,
+    "total": 28,
+    "sdn": 28,
     "consolidated": 0,
     "programs": [
       "SDNTK",
@@ -1412,7 +1412,7 @@
       "SDGT",
       "TCO"
     ],
-    "daily_added": 0,
+    "daily_added": 15,
     "daily_removed": 0
   },
   "VG": {
