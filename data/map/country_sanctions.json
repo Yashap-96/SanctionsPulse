@@ -45,7 +45,7 @@
       "CAATSA - RUSSIA",
       "IRAN-EO13846"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "CH": {
@@ -75,7 +75,7 @@
       "IRGC",
       "IRAN-EO13902"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "ES": {
@@ -173,7 +173,7 @@
       "LEBANON",
       "IRAN-EO13902"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "IT": {
@@ -495,7 +495,7 @@
       "IRAN-EO13902",
       "NPWMD"
     ],
-    "daily_added": 2,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "EG": {
@@ -584,7 +584,7 @@
       "BELARUS-EO14038"
     ],
     "daily_added": 0,
-    "daily_removed": 5
+    "daily_removed": 0
   },
   "IR": {
     "total": 1633,
@@ -621,7 +621,7 @@
       "ILLICIT-DRUGS-EO14059",
       "CYBER4"
     ],
-    "daily_added": 12,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "AF": {
@@ -963,7 +963,7 @@
       "HKAA",
       "CMIC-EO13959"
     ],
-    "daily_added": 26,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "ET": {
@@ -1015,7 +1015,7 @@
       "NPWMD",
       "SUDAN-EO14098"
     ],
-    "daily_added": 7,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "IQ": {
@@ -1092,8 +1092,8 @@
       "IRAN-EO13902",
       "CAATSA - RUSSIA"
     ],
-    "daily_added": 6,
-    "daily_removed": 1
+    "daily_added": 0,
+    "daily_removed": 0
   },
   "HR": {
     "total": 5,
@@ -1166,7 +1166,7 @@
       "DPRK3"
     ],
     "daily_added": 0,
-    "daily_removed": 2
+    "daily_removed": 0
   },
   "ID": {
     "total": 25,
@@ -1261,7 +1261,7 @@
       "RUSSIA-EO14024",
       "IRAN-EO13902"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "DZ": {
@@ -1390,7 +1390,7 @@
       "PAIPA",
       "CAATSA - RUSSIA"
     ],
-    "daily_added": 10,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "DO": {
@@ -1913,7 +1913,7 @@
       "IRAN-EO13902",
       "TCO"
     ],
-    "daily_added": 5,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "HK": {
@@ -2226,7 +2226,7 @@
       "UKRAINE-EO13662",
       "VENEZUELA-EO13850"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "LR": {
