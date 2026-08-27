@@ -1,0 +1,123 @@
+{
+  "date": "2026-08-27",
+  "period": "2026-08-27",
+  "summary": {
+    "added": 5,
+    "removed": 0,
+    "updated": 0
+  },
+  "additions": [
+    {
+      "uid": 58105,
+      "name": "Palestine Action",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Palestine Action Group"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58314,
+      "name": "Autistici Inventati",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "IT"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Strada Statale Abetone e del Brennero 253",
+          "city": "San Giuliano Terme",
+          "state": "Province of Pisa",
+          "postal_code": "56017",
+          "country": "IT"
+        }
+      ]
+    },
+    {
+      "uid": 58462,
+      "name": "Masar Badil",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "BE",
+        "BR",
+        "CA",
+        "DE",
+        "ES"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Palestinian Alternative Revolutionary Path Movement"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58463,
+      "name": "Alsagheer Rawa",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "BR"
+      ],
+      "list_type": "SDN",
+      "dob": "1997-01-01",
+      "nationalities": [],
+      "aliases": [
+        "al-Saghir Ruwaa"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58464,
+      "name": "Abdulnasser Zaid",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "DE"
+      ],
+      "list_type": "SDN",
+      "dob": "1995-01-01",
+      "nationalities": [],
+      "aliases": [
+        "Tamim Zid"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    }
+  ],
+  "removals": [],
+  "updates": []
+}

@@ -1,7 +1,7 @@
 {
   "entry_types": {
-    "Entity": 10281,
-    "Individual": 7632,
+    "Entity": 10284,
+    "Individual": 7634,
     "Vessel": 1540,
     "Aircraft": 342
   },
@@ -14,11 +14,11 @@
     "total": 1004
   },
   "aliases": {
-    "entries": 12489,
-    "total": 31749
+    "entries": 12493,
+    "total": 31753
   },
   "addresses": {
-    "entries": 13105,
-    "total": 18455
+    "entries": 13106,
+    "total": 18456
   }
 }

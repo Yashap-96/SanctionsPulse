@@ -15,8 +15,8 @@
     "daily_removed": 0
   },
   "GB": {
-    "total": 190,
-    "sdn": 190,
+    "total": 191,
+    "sdn": 191,
     "consolidated": 0,
     "programs": [
       "CUBA",
@@ -45,7 +45,7 @@
       "CAATSA - RUSSIA",
       "IRAN-EO13846"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "CH": {
@@ -79,8 +79,8 @@
     "daily_removed": 0
   },
   "ES": {
-    "total": 52,
-    "sdn": 52,
+    "total": 53,
+    "sdn": 53,
     "consolidated": 0,
     "programs": [
       "CUBA",
@@ -96,7 +96,7 @@
       "DPRK4",
       "CUBA-EO14404"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "JP": {
@@ -177,8 +177,8 @@
     "daily_removed": 0
   },
   "IT": {
-    "total": 80,
-    "sdn": 80,
+    "total": 81,
+    "sdn": 81,
     "consolidated": 0,
     "programs": [
       "CUBA",
@@ -196,7 +196,7 @@
       "FTO",
       "ILLICIT-DRUGS-EO14059"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "AR": {
@@ -237,8 +237,8 @@
     "daily_removed": 0
   },
   "CA": {
-    "total": 40,
-    "sdn": 40,
+    "total": 41,
+    "sdn": 41,
     "consolidated": 0,
     "programs": [
       "CUBA",
@@ -252,7 +252,7 @@
       "IRAN-HR",
       "FTO"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "CZ": {
@@ -271,8 +271,8 @@
     "daily_removed": 0
   },
   "DE": {
-    "total": 128,
-    "sdn": 128,
+    "total": 130,
+    "sdn": 130,
     "consolidated": 0,
     "programs": [
       "CUBA",
@@ -293,7 +293,7 @@
       "RUSSIA-EO14024",
       "FTO"
     ],
-    "daily_added": 0,
+    "daily_added": 2,
     "daily_removed": 0
   },
   "GY": {
@@ -732,8 +732,8 @@
     "daily_removed": 0
   },
   "BE": {
-    "total": 39,
-    "sdn": 39,
+    "total": 40,
+    "sdn": 40,
     "consolidated": 0,
     "programs": [
       "SDGT",
@@ -744,7 +744,7 @@
       "DRCONGO",
       "RUSSIA-EO14024"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "TN": {
@@ -1446,8 +1446,8 @@
     "daily_removed": 0
   },
   "BR": {
-    "total": 28,
-    "sdn": 28,
+    "total": 30,
+    "sdn": 30,
     "consolidated": 0,
     "programs": [
       "SDGT",
@@ -1457,7 +1457,7 @@
       "ILLICIT-DRUGS-EO14059",
       "FTO"
     ],
-    "daily_added": 0,
+    "daily_added": 2,
     "daily_removed": 0
   },
   "PY": {
