@@ -1,0 +1,94 @@
+{
+  "date": "2026-08-28",
+  "period": "2026-08-28",
+  "summary": {
+    "added": 2,
+    "removed": 0,
+    "updated": 0
+  },
+  "additions": [
+    {
+      "uid": 58482,
+      "name": "Taeedi Reza Mohammad",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT",
+        "IFSR"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": "1975-08-24",
+      "nationalities": [],
+      "aliases": [
+        "\u062a\u0623\u06cc\u062f\u06cc \u0645\u062d\u0645\u062f \u0631\u0636\u0627"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "P6602606",
+          "country": ""
+        },
+        {
+          "type": "Passport",
+          "number": "E96037407",
+          "country": ""
+        },
+        {
+          "type": "National ID No.",
+          "number": "784-1975-3624749-3",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 58485,
+      "name": "Kameng Trading Limited",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "76846373",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Room 701, Unit 108,7/F, Tower B",
+          "address2": "New Mandarin Plaza, 14 Science Museum Road",
+          "address3": "Tsim Sha Tsui, Kowloon",
+          "city": "Hong Kong",
+          "country": "CN"
+        },
+        {
+          "address1": "Unit 89, 3F, Yau Lee Centre, No. 45",
+          "address2": "Hoi Yuen Rd",
+          "address3": "Kwun Tong",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    }
+  ],
+  "removals": [],
+  "updates": []
+}
