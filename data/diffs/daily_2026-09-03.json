@@ -1,0 +1,248 @@
+{
+  "date": "2026-09-03",
+  "period": "2026-09-03",
+  "summary": {
+    "added": 6,
+    "removed": 1,
+    "updated": 0
+  },
+  "additions": [
+    {
+      "uid": 58486,
+      "name": "Empresa De Servicios Comandante Rene Ramos Latour",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Nicarotec"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Mayari",
+          "state": "Holguin",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58487,
+      "name": "Empresa Importadora Y Abastecedora Del Niquel",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Cexni"
+      ],
+      "ids": [
+        {
+          "type": "Entity Code",
+          "number": "3883",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Moa",
+          "state": "Holguin",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58488,
+      "name": "Comercial Cupet S.A.",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Entity Code",
+          "number": "60254",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58489,
+      "name": "Empresa Importadora De Abastecimiento Para El Petroleo",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Abapet"
+      ],
+      "ids": [
+        {
+          "type": "Entity Code",
+          "number": "12127",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58490,
+      "name": "Banco Exterior De Cuba",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Entity Code",
+          "number": "259",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Plaza de la Revolucion",
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58491,
+      "name": "Fidel Ernesto Castro Calis",
+      "entry_type": "Individual",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": "1995-05-16",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    }
+  ],
+  "removals": [
+    {
+      "uid": 42734,
+      "name": "DuLac Capital Ltd",
+      "entry_type": "Entity",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "countries": [
+        "CH",
+        "RU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Predstavitelstvo Aktsionernogo Obshchestva Dyulak Kepital Ltd Shveitsariya v g Sankt Peterburge",
+        "Predstavitelstvo Aktsionernogo Obshchestva Dyulak Kepital Ltd Shveitsariya v g Moscow",
+        "AK Dyulak Kepital Ltd Predstavitelstvo"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "CH-020.3.031.775-0",
+          "country": "Switzerland"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "113974567",
+          "country": "Switzerland"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "9909354395",
+          "country": "Russia"
+        },
+        {
+          "type": "Identification Number",
+          "number": "SRWNNB.99999.SL.756",
+          "country": "Switzerland"
+        },
+        {
+          "type": "Legal Entity Number",
+          "number": "529900E3569EJW938341",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Arosastrasse 7",
+          "city": "Zurich",
+          "postal_code": "8008",
+          "country": "CH"
+        },
+        {
+          "address1": "Pr-kt Morskoi pom. 12-N",
+          "city": "Saint Petersburg",
+          "postal_code": "197110",
+          "country": "RU"
+        },
+        {
+          "address1": "Pr-kt Leningradskii",
+          "city": "Moscow",
+          "postal_code": "125167",
+          "country": "RU"
+        }
+      ]
+    }
+  ],
+  "updates": []
+}

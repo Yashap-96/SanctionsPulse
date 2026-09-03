@@ -1,7 +1,7 @@
 {
   "CU": {
-    "total": 103,
-    "sdn": 103,
+    "total": 109,
+    "sdn": 109,
     "consolidated": 0,
     "programs": [
       "CUBA",
@@ -11,7 +11,7 @@
       "VENEZUELA-EO13850",
       "GLOMAG"
     ],
-    "daily_added": 0,
+    "daily_added": 6,
     "daily_removed": 0
   },
   "GB": {
@@ -49,8 +49,8 @@
     "daily_removed": 0
   },
   "CH": {
-    "total": 85,
-    "sdn": 81,
+    "total": 84,
+    "sdn": 80,
     "consolidated": 4,
     "programs": [
       "CUBA",
@@ -76,7 +76,7 @@
       "IRAN-EO13902"
     ],
     "daily_added": 0,
-    "daily_removed": 0
+    "daily_removed": 1
   },
   "ES": {
     "total": 53,
@@ -350,8 +350,8 @@
     "daily_removed": 0
   },
   "RU": {
-    "total": 5463,
-    "sdn": 5206,
+    "total": 5462,
+    "sdn": 5205,
     "consolidated": 257,
     "programs": [
       "CUBA",
@@ -392,7 +392,7 @@
       "CUBA-EO14404"
     ],
     "daily_added": 0,
-    "daily_removed": 0
+    "daily_removed": 1
   },
   "BG": {
     "total": 92,
