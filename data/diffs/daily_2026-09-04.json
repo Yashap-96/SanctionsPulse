@@ -1,0 +1,144 @@
+{
+  "date": "2026-09-04",
+  "period": "2026-09-04",
+  "summary": {
+    "added": 3,
+    "removed": 0,
+    "updated": 0
+  },
+  "additions": [
+    {
+      "uid": 58544,
+      "name": "Golden Global Yatirim Bankasi Anonim Sirketi",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "TR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "GOLDEN GLOBAL YATIRIM BANKASI ANON\u0130M \u015e\u0130RKET\u0130",
+        "Golden Global Investment Bank"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "213202",
+          "country": "Turkey"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "3961233191",
+          "country": "Turkey"
+        },
+        {
+          "type": "Legal Entity Number",
+          "number": "789000LV7F75LALJ3F52",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "N:127 B-17 Esentepe Mahallesi, Buyukdere Caddesi",
+          "address2": "Sisli",
+          "city": "Istanbul",
+          "postal_code": "34394",
+          "country": "TR"
+        }
+      ]
+    },
+    {
+      "uid": 58545,
+      "name": "Golden Global Varlik Kiralama Anonim Sirketi",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "TR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "GOLDEN GLOBAL VARLIK K\u0130RALAMA ANON\u0130M \u015e\u0130RKET\u0130"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "396200",
+          "country": "Turkey"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "3961486674",
+          "country": "Turkey"
+        },
+        {
+          "type": "Legal Entity Number",
+          "number": "789000S50A0J8E8FKE55",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Astoria Blok IC Kapi No 17, N: 127 B-17 Esentepe Mahallesi, Buyukdere Caddesi",
+          "address2": "Sisli",
+          "city": "Istanbul",
+          "country": "TR"
+        }
+      ]
+    },
+    {
+      "uid": 58548,
+      "name": "Golden Global Portfoy Yonetimi Anonim Sirketi",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "TR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "GOLDEN GLOBAL PORTF\u00d6Y Y\u00d6NET\u0130M\u0130 ANON\u0130M \u015e\u0130RKET\u0130"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "1063899",
+          "country": "Turkey"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "3961688364",
+          "country": "Turkey"
+        },
+        {
+          "type": "Legal Entity Number",
+          "number": "789000J1YGZ3PLCXMQ38",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Astoria D:21, N: 127A Esentepe Mahallesi, Buyukdere Caddesi",
+          "address2": "Sisli",
+          "city": "Istanbul",
+          "country": "TR"
+        }
+      ]
+    }
+  ],
+  "removals": [],
+  "updates": []
+}

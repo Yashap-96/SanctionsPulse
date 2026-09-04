@@ -11,7 +11,7 @@
       "VENEZUELA-EO13850",
       "GLOMAG"
     ],
-    "daily_added": 6,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "GB": {
@@ -76,7 +76,7 @@
       "IRAN-EO13902"
     ],
     "daily_added": 0,
-    "daily_removed": 1
+    "daily_removed": 0
   },
   "ES": {
     "total": 53,
@@ -392,7 +392,7 @@
       "CUBA-EO14404"
     ],
     "daily_added": 0,
-    "daily_removed": 1
+    "daily_removed": 0
   },
   "BG": {
     "total": 92,
@@ -1068,8 +1068,8 @@
     "daily_removed": 0
   },
   "TR": {
-    "total": 376,
-    "sdn": 375,
+    "total": 379,
+    "sdn": 378,
     "consolidated": 1,
     "programs": [
       "SDGT",
@@ -1092,7 +1092,7 @@
       "IRAN-EO13902",
       "CAATSA - RUSSIA"
     ],
-    "daily_added": 0,
+    "daily_added": 3,
     "daily_removed": 0
   },
   "HR": {
