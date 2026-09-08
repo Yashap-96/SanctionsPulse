@@ -15,8 +15,8 @@
     "daily_removed": 0
   },
   "GB": {
-    "total": 191,
-    "sdn": 191,
+    "total": 192,
+    "sdn": 192,
     "consolidated": 0,
     "programs": [
       "CUBA",
@@ -45,7 +45,7 @@
       "CAATSA - RUSSIA",
       "IRAN-EO13846"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "CH": {
@@ -587,8 +587,8 @@
     "daily_removed": 0
   },
   "IR": {
-    "total": 1633,
-    "sdn": 1633,
+    "total": 1660,
+    "sdn": 1660,
     "consolidated": 0,
     "programs": [
       "IRAN",
@@ -621,7 +621,7 @@
       "ILLICIT-DRUGS-EO14059",
       "CYBER4"
     ],
-    "daily_added": 0,
+    "daily_added": 27,
     "daily_removed": 0
   },
   "AF": {
@@ -1068,8 +1068,8 @@
     "daily_removed": 0
   },
   "TR": {
-    "total": 379,
-    "sdn": 378,
+    "total": 382,
+    "sdn": 381,
     "consolidated": 1,
     "programs": [
       "SDGT",
@@ -1092,7 +1092,7 @@
       "IRAN-EO13902",
       "CAATSA - RUSSIA"
     ],
-    "daily_added": 0,
+    "daily_added": 3,
     "daily_removed": 0
   },
   "HR": {
@@ -1246,8 +1246,8 @@
     "daily_removed": 0
   },
   "MY": {
-    "total": 43,
-    "sdn": 43,
+    "total": 44,
+    "sdn": 44,
     "consolidated": 0,
     "programs": [
       "SDGT",
@@ -1261,7 +1261,7 @@
       "RUSSIA-EO14024",
       "IRAN-EO13902"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "DZ": {
@@ -1351,8 +1351,8 @@
     "daily_removed": 0
   },
   "AE": {
-    "total": 754,
-    "sdn": 754,
+    "total": 757,
+    "sdn": 757,
     "consolidated": 0,
     "programs": [
       "IRAQ2",
@@ -1390,7 +1390,7 @@
       "PAIPA",
       "CAATSA - RUSSIA"
     ],
-    "daily_added": 0,
+    "daily_added": 3,
     "daily_removed": 0
   },
   "DO": {
@@ -2308,17 +2308,18 @@
     "daily_removed": 0
   },
   "KZ": {
-    "total": 15,
-    "sdn": 13,
+    "total": 16,
+    "sdn": 14,
     "consolidated": 2,
     "programs": [
       "UKRAINE-EO13662",
       "RUSSIA-EO14024",
       "DPRK",
       "SDGT",
-      "IRAN-EO13846"
+      "IRAN-EO13846",
+      "IFSR"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "MN": {

@@ -1,0 +1,1257 @@
+{
+  "date": "2026-09-08",
+  "period": "2026-09-08",
+  "summary": {
+    "added": 36,
+    "removed": 0,
+    "updated": 0
+  },
+  "additions": [
+    {
+      "uid": 58492,
+      "name": "S Sistem Lojistik Hizmetler Anonim Sirketi",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "SDGT"
+      ],
+      "countries": [
+        "TR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "S S\u0130STEM LOJ\u0130ST\u0130K H\u0130ZMETLER\u0130 ANON\u0130M \u015e\u0130RKET\u0130",
+        "S Sistem Logistics Services Joint Stock Company"
+      ],
+      "ids": [
+        {
+          "type": "Tax ID No.",
+          "number": "7730026303",
+          "country": "Turkey"
+        },
+        {
+          "type": "Registration Number",
+          "number": "203409-0",
+          "country": "Turkey"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Nuri Demirag Caddesi No 49",
+          "address2": "Yenikoy Mahallesi",
+          "city": "Turkoba",
+          "state": "Istanbul",
+          "postal_code": "34277",
+          "country": "TR"
+        }
+      ]
+    },
+    {
+      "uid": 58494,
+      "name": "ATA Airlines Company",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "25533",
+          "country": "Iran"
+        },
+        {
+          "type": "National ID No.",
+          "number": "10200336102",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "No. 8, Corner of Yas Alley",
+          "address2": "Shahid Nafisi Boulevard, Ekbatan",
+          "address3": "Shahrak",
+          "city": "Tehran",
+          "country": "IR"
+        },
+        {
+          "address1": "Armin Building, Uphill from Negin Park",
+          "address2": "Golpark Square",
+          "address3": "North Tavanir Street",
+          "city": "Tabriz",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58495,
+      "name": "IRAN AIR TOUR",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Iran AirTour Airline",
+        "Iran AirTour Airlines",
+        "Iran Air Tours Company"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "16691",
+          "country": "Iran"
+        },
+        {
+          "type": "National ID No.",
+          "number": "10100596646",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tehran",
+          "country": "IR"
+        },
+        {
+          "city": "Mashhad",
+          "country": "IR"
+        },
+        {
+          "city": "Tabriz",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58496,
+      "name": "Icargo SDN BHD",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "SDGT"
+      ],
+      "countries": [
+        "MY"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Schedule Feeders SDN BHD"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "201101006881",
+          "country": "Malaysia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "9-7 Level 7",
+          "address2": "Jalan USJ 9/5Q",
+          "address3": "Subang Business Centre",
+          "city": "Subang Jaya",
+          "state": "Selangor",
+          "postal_code": "47620",
+          "country": "MY"
+        },
+        {
+          "address1": "Lot 202-3, 2nd Floor",
+          "address2": "Customer Services Centre",
+          "address3": "Klas Cargo Complex, Kuala Lumpur International Airport",
+          "city": "Kampung Kota Klias",
+          "state": "Selangor",
+          "postal_code": "64000",
+          "country": "MY"
+        }
+      ]
+    },
+    {
+      "uid": 58497,
+      "name": "IRAN ASEMAN AIRLINES",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Aseman Air Services"
+      ],
+      "ids": [
+        {
+          "type": "Registration ID",
+          "number": "41798",
+          "country": "Iran"
+        },
+        {
+          "type": "National ID No.",
+          "number": "10100871720",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Ground Floor, No. 0, Airport Road",
+          "address2": "Amir Sarlashghar Shahid Hossein Lashgari Highway",
+          "address3": "Airport, Central District",
+          "city": "Tehran",
+          "state": "Tehran",
+          "postal_code": "1387833731",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58498,
+      "name": "Karun Airlines Company",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Karoon Airlines"
+      ],
+      "ids": [
+        {
+          "type": "Registration ID",
+          "number": "96157",
+          "country": "Iran"
+        },
+        {
+          "type": "National ID No.",
+          "number": "10101402182",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Shahid Nafisi Boulevard, No. 11",
+          "address2": "Shahrak, Ekbatan Phase 1",
+          "city": "Tehran",
+          "country": "IR"
+        },
+        {
+          "address1": "Unit 1, First Floor, No. 11, Abdolrahman Nafisi Street",
+          "address2": "Second Alley",
+          "address3": "Bimeh",
+          "city": "Tehran",
+          "postal_code": "1393784181",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58499,
+      "name": "Tour Invest LLC",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "SDGT"
+      ],
+      "countries": [
+        "KZ"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Limited Liability Company Tour Invest",
+        "Tour Invest TOO",
+        "Tur Invest TOO"
+      ],
+      "ids": [
+        {
+          "type": "Business Number",
+          "number": "140340016400",
+          "country": "Kazakhstan"
+        },
+        {
+          "type": "Government Gazette Number",
+          "number": "52557574",
+          "country": "Kazakhstan"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "128, Kv. 1",
+          "address2": "Ulitsa Makataeva",
+          "city": "Almaty",
+          "state": "Almaty",
+          "country": "KZ"
+        }
+      ]
+    },
+    {
+      "uid": 58500,
+      "name": "Mes Cargo Transportation Tourism and Foreign Trade Limited Company",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "SDGT"
+      ],
+      "countries": [
+        "TR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "MES KARGO TA\u015eIMACILIK TUR\u0130ZM VE DI\u015e T\u0130CARET L\u0130M\u0130TED \u015e\u0130RKET\u0130",
+        "Mes Kargo Tasimacilik Turizm Ve Dis Ticaret Limited Sirketi",
+        "Mehmet Sarp Cargo"
+      ],
+      "ids": [
+        {
+          "type": "Central Registration System Number",
+          "number": "0619038513700014",
+          "country": "Turkey"
+        },
+        {
+          "type": "Chamber of Commerce Number",
+          "number": "503896",
+          "country": "Turkey"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Hera Clup A Blok K:3",
+          "address2": "Ozdemir Sokak No:45-46",
+          "address3": "Ataturk Mahallesi",
+          "city": "Esenyurt",
+          "state": "Istanbul",
+          "postal_code": "34522",
+          "country": "TR"
+        }
+      ]
+    },
+    {
+      "uid": 58505,
+      "name": "ECT Aviation Support LLC",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "SDGT"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0625\u064a \u0633\u064a \u062a\u064a \u0623\u0641\u064a\u064a\u064a\u0634\u0646 \u0633\u0627\u0628\u0648\u0631\u062a \u0630 \u0645 \u0645"
+      ],
+      "ids": [
+        {
+          "type": "License",
+          "number": "1906247",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Registration Number",
+          "number": "11599882",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Sharjah",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 58508,
+      "name": "Varesh Airlines",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902",
+        "IFSR"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Sari",
+          "country": "IR"
+        },
+        {
+          "city": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58509,
+      "name": "Air Shiraz",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Shiraz",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58510,
+      "name": "Kish Airlines",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Kish Air"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "854",
+          "country": "Iran"
+        },
+        {
+          "type": "National ID No.",
+          "number": "10861524973",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Kish Air Central Building, First Floor",
+          "address2": "Ekbatan Town, Phase I",
+          "address3": "Shahid Nafisi Boulevard",
+          "city": "Tehran",
+          "postal_code": "1393853113",
+          "country": "IR"
+        },
+        {
+          "city": "Kish Island",
+          "state": "Hormozgan",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58511,
+      "name": "Toos Airlines",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902",
+        "IFSR"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0647\u0648\u0627\u067e\u064a\u0645\u0627\u064a\u06cc \u0637\u0648\u0633",
+        "Toos Parsian Kish Airlines Company",
+        "\u0634\u0631\u06a9\u062a \u0647\u0648\u0627\u067e\u064a\u0645\u0627\u064a\u06cc \u0637\u0648\u0633 \u067e\u0627\u0631\u0633\u064a\u0627\u0646 \u06a9\u064a\u0634",
+        "Toos Airline"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Mashhad",
+          "country": "IR"
+        },
+        {
+          "city": "Kish",
+          "country": "IR"
+        },
+        {
+          "city": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58512,
+      "name": "Erwan Airline Company",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Arvan Airlines",
+        "Erwan Airlines",
+        "Air1",
+        "Air1Air Company"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "48074",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Shahid Lashkari Highway Bypass",
+          "address2": "Meraj Building, Azadi Square, Special Road",
+          "address3": "Shahid Filasfi",
+          "city": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58513,
+      "name": "Asa Jet Airline",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58514,
+      "name": "Soroush Air",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902",
+        "IFSR"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58515,
+      "name": "Atlas Aviation Group",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Atlas Air Plus"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Kish",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58516,
+      "name": "Sepehran Airlines",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902",
+        "IFSR"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0631\u06a9\u062a \u0647\u0648\u0627\u067e\u064a\u0645\u0627\u0626\u06cc \u0633\u067e\u0647\u0631\u0627\u0646",
+        "FlySepehran"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "10320623230",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Shiraz",
+          "country": "IR"
+        },
+        {
+          "address1": "No. 71, Corner of Shahid Khadem Alley, Nafisi Blvd",
+          "address2": "Ekbatan",
+          "city": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58517,
+      "name": "Qeshm Air",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Qeshm Aviation Company",
+        "Qeshm Airlines",
+        "Qeshm Air Airline"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "494",
+          "country": "Iran"
+        },
+        {
+          "type": "National ID No.",
+          "number": "10800049144",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "No. 12 Riahi Avenue",
+          "address2": "Shahid Lashkari Highway",
+          "city": "Tehran",
+          "postal_code": "1245659878",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58518,
+      "name": "Taban Airlines",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58519,
+      "name": "Saha Airlines",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902",
+        "IFSR"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Saha Airlines PJSC",
+        "Service Ertebaataat-e Havaaee Artesh",
+        "Armed Forces Air Transport Service"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "6327",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58520,
+      "name": "Sky Phoenix Hava Yollari Tasimaciligi Ticaret Limited Sirketi",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "SDGT"
+      ],
+      "countries": [
+        "TR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "SKY PHOENIX HAVA YOLLARI TA\u015eIMACILI\u011eI T\u0130CARET L\u0130M\u0130TED \u015e\u0130RKET\u0130",
+        "Sky Phoenix Airways Transportation Trading Company Limited"
+      ],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "257494",
+          "country": "Turkey"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "7721674192",
+          "country": "Turkey"
+        },
+        {
+          "type": "Registration Number",
+          "number": "2307531",
+          "country": "Turkey"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Izmir",
+          "state": "Izmir",
+          "country": "TR"
+        }
+      ]
+    },
+    {
+      "uid": 58521,
+      "name": "ECT Aviation Support LTD",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "SDGT"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "15510916",
+          "country": "United Kingdom"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "115 London Road",
+          "address2": "Morden",
+          "city": "London",
+          "postal_code": "SM4 5HP",
+          "country": "GB"
+        }
+      ]
+    },
+    {
+      "uid": 58522,
+      "name": "Mahran Ibrahim Ali Mohamed Mohamed",
+      "entry_type": "Individual",
+      "programs": [
+        "IFSR",
+        "SDGT"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": "1986-03-01",
+      "nationalities": [],
+      "aliases": [
+        "Ibrahim Mahran"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "A28699752",
+          "country": "Egypt"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58523,
+      "name": "Zagros Airlines",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Zagros Airline Co"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "1008",
+          "country": "Iran"
+        },
+        {
+          "type": "National ID No.",
+          "number": "10861921581",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "No. 1, Zagros Airlines Building",
+          "address2": "Third Alley, Riahi St",
+          "address3": "Karaj Special Road",
+          "city": "Tehran",
+          "postal_code": "1391713415",
+          "country": "IR"
+        },
+        {
+          "city": "Abadan",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58524,
+      "name": "Aerobravo Airplane Management and Operation LLC",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "SDGT"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "License",
+          "number": "1108996",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Commercial Registry Number",
+          "number": "1879178",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Chamber of Commerce Number",
+          "number": "430703",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 58526,
+      "name": "Ava Airlines",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58529,
+      "name": "Chabahar Airlines Company",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Chabahar Aviation Company",
+        "Chabahar Air",
+        "Chabahar Airlines"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "478",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Tis Complex Booth 214",
+          "address2": "Vahdat Street, North Vahdt Street",
+          "address3": "Azad Zone Neighborhood",
+          "city": "Chabahar",
+          "postal_code": "9971766162",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58530,
+      "name": "Fly Kish Airlines",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58531,
+      "name": "Fly Persia Airlines",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Fly Persia Private Joint Stock Company",
+        "Fly Persia Private Dana Airlines",
+        "Fly Persia"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "47349",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Shahid Sattari Expressway",
+          "address2": "Flypersia Building No. 2",
+          "address3": "South Parvaneh Street, West Ferdows Boulevard",
+          "city": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58532,
+      "name": "Jsky Airlines",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902",
+        "IFSR"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "J Sky"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tehran",
+          "country": "IR"
+        },
+        {
+          "city": "Isfahan",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58533,
+      "name": "Lad Airways",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Lad Airline Services"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58534,
+      "name": "Mehr Airways",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58535,
+      "name": "Nasim Air",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Esfahan",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58537,
+      "name": "Pars Oghyanous Kish Company",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Pars Airlines",
+        "Pars Air"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "12386",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Meraj Education Center Building, Azadi Square",
+          "address2": "Karaj Special Road, Corner of Philosophical Street",
+          "city": "Tehran",
+          "postal_code": "557111397",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58538,
+      "name": "Raimon Airways",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tehran",
+          "country": "IR"
+        }
+      ]
+    }
+  ],
+  "removals": [],
+  "updates": []
+}
