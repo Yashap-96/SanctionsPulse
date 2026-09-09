@@ -1,0 +1,387 @@
+{
+  "date": "2026-09-09",
+  "period": "2026-09-09",
+  "summary": {
+    "added": 4,
+    "removed": 0,
+    "updated": 5
+  },
+  "additions": [
+    {
+      "uid": 58005,
+      "name": "Los Tiguerones",
+      "entry_type": "Entity",
+      "programs": [
+        "FTO",
+        "SDGT"
+      ],
+      "countries": [
+        "EC",
+        "PE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Los Fenix",
+        "Los Igualitos"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58361,
+      "name": "Xinbi Guarantee",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "LA",
+        "MM",
+        "TH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u65b0\u5e01\u62c5\u4fdd",
+        "Xinbi"
+      ],
+      "ids": [],
+      "crypto_wallets": [
+        {
+          "currency": "TRX",
+          "address": "TW5tokvhEfrb77z98Rc8HqbkzQJ6sxYtGX"
+        },
+        {
+          "currency": "TRX",
+          "address": "TBKpozurdWLrbKkxtDqkveeq1dSB8Axj3V"
+        },
+        {
+          "currency": "TRX",
+          "address": "TWqcMjV7Wq2RHe2CSiKQHpkn6A7B2AWUPe"
+        },
+        {
+          "currency": "TRX",
+          "address": "TG83Fk56S2mycAUMYHZyZp9wMg6DCf4bUn"
+        },
+        {
+          "currency": "TRX",
+          "address": "TYkE8VwX1SGHM3Q2CA29nka5U2F2khKAj5"
+        },
+        {
+          "currency": "TRX",
+          "address": "TEECjwHqVG8sDmM3VtscjuCaRe5p351MU7"
+        },
+        {
+          "currency": "TRX",
+          "address": "TDU61o35UEe5hdB3R16c116DrPSV4kiyKz"
+        },
+        {
+          "currency": "TRX",
+          "address": "TKRNCETxbiMmyyMraCkgdXKdLr1ZkmKxV5"
+        },
+        {
+          "currency": "TRX",
+          "address": "TTWRf2MD6zJ26bS4uKCNrcp84aAr7AmTjm"
+        },
+        {
+          "currency": "TRX",
+          "address": "TYvjt4ZKfsipHjA52nzgjUjDBF622SLCih"
+        },
+        {
+          "currency": "TRX",
+          "address": "TXHX2NUvcgft4zs6MkkUtdNVERPTavHDWN"
+        },
+        {
+          "currency": "TRX",
+          "address": "TWPma8xH48AEN93x2krdukV9e1j6sPsBeS"
+        },
+        {
+          "currency": "TRX",
+          "address": "TK3n8pGHvDTcK53mpfeDAMzdwjb22qvFU3"
+        },
+        {
+          "currency": "TRX",
+          "address": "TGSGw4aUeAMNCfD8WqLRLe8ErQiJ1vqghj"
+        },
+        {
+          "currency": "TRX",
+          "address": "TBNjCi1d5Ns6ec5aMp28LpfKcX7xTpykAN"
+        },
+        {
+          "currency": "TRX",
+          "address": "THH9JJNbLDN7qs1CyTxJQEjhC9y5FnZUhU"
+        },
+        {
+          "currency": "TRX",
+          "address": "TQhT3QWAbFiy6GEYuBrbK97uP3XVmTpRD8"
+        },
+        {
+          "currency": "TRX",
+          "address": "TXka5xc6mEkcoVXR7F2TFDKernyLt3XyW4"
+        },
+        {
+          "currency": "TRX",
+          "address": "TH1yknksde3pBY3oWVhUxVTbWbLqdafqYT"
+        },
+        {
+          "currency": "TRX",
+          "address": "TLHWeZcDmXk6idnaGwsQ9CEmK24KpoGgRM"
+        },
+        {
+          "currency": "TRX",
+          "address": "TTmvr41Fa9LeWJQ8NKQ5t4wFUspgEA1mJF"
+        },
+        {
+          "currency": "TRX",
+          "address": "THifikwE6RtxYNWdcP9CWUjXS8Gh1xBCoa"
+        },
+        {
+          "currency": "TRX",
+          "address": "TR983hNyUNgrNSB1xncG9thZNhgYpbNvSh"
+        },
+        {
+          "currency": "TRX",
+          "address": "TNwe3WoEX6XrQ5NPAeWPkvpTtdaf27XYxK"
+        },
+        {
+          "currency": "TRX",
+          "address": "TGcewGsDLy7Fzc66kXXEB8Kh2b6u2XCvnV"
+        },
+        {
+          "currency": "TRX",
+          "address": "TYq3iRujcBELXX89i9JY32UmLxcyZAJe7E"
+        },
+        {
+          "currency": "TRX",
+          "address": "TRyQivSkQChryfnYnE1bUmJhnL3TvKUpvS"
+        },
+        {
+          "currency": "TRX",
+          "address": "TGjYoJLhfAiD2BRV9hwCeuHhZ54D3gLKTd"
+        },
+        {
+          "currency": "TRX",
+          "address": "TXT9atp8qBMXKbFYnRyWkM88UXYyobQNLP"
+        },
+        {
+          "currency": "TRX",
+          "address": "TThRMUSidD4gQeCnu56cFfCmqS421Nmbu7"
+        },
+        {
+          "currency": "TRX",
+          "address": "TAkpWPt2JZdiLSkG7ZX2VAQkZQsnGZ1nqh"
+        },
+        {
+          "currency": "TRX",
+          "address": "TZ8zsUe9M9tkhrFtfE7vMMmEwgVEF3n2UN"
+        },
+        {
+          "currency": "TRX",
+          "address": "TM9c5uR2UKwd5fMySgaoYSjphRyi3AjAtc"
+        },
+        {
+          "currency": "TRX",
+          "address": "TTjHn8qNVxazB3UroiekGRPuM2w2GwvNbn"
+        },
+        {
+          "currency": "TRX",
+          "address": "TWHwre81Mv4hvupNdHnsYX9FPocm29dQQQ"
+        },
+        {
+          "currency": "TRX",
+          "address": "TT4WKPQscK7fkxrPj1E9PjZp1HTVBUpoTm"
+        },
+        {
+          "currency": "TRX",
+          "address": "TYZKYK2fbvw3EAPES2daFvoV4DqPna43Jd"
+        },
+        {
+          "currency": "TRX",
+          "address": "TF7LUSoZQyDFxTFzCL11saBHAqMAyPh8dK"
+        },
+        {
+          "currency": "TRX",
+          "address": "TSmcHwvTR27Ao4NN8HhPFCVcPU5aTEqLDt"
+        },
+        {
+          "currency": "TRX",
+          "address": "TJ6NznpBV5uUpp5uZGDub9zD1999999999"
+        },
+        {
+          "currency": "TRX",
+          "address": "TPD4pmojFA2f2RvgnSDa7YCuGJ4BeS9yK2"
+        },
+        {
+          "currency": "TRX",
+          "address": "TXtH3iUipk6DZnYNu3kgjDsnSSLHLz8ZZU"
+        },
+        {
+          "currency": "TRX",
+          "address": "TBEqQGTxXRWXXeqe7ZwmSB6hc5MMMMMMMM"
+        },
+        {
+          "currency": "TRX",
+          "address": "TTYf9kcvABTSizXsdbC2E5co6jx9jvJ111"
+        },
+        {
+          "currency": "TRX",
+          "address": "TTrHak4biV5ZtNwN1K8oi7916CjmeVVeH8"
+        },
+        {
+          "currency": "TRX",
+          "address": "TCoKgVdQbSyPnJnf9oNUNQn3dWMDD9wbQL"
+        },
+        {
+          "currency": "TRX",
+          "address": "TNUQ2rZSRjZaGhtbwaFZEvuaemMj5z5Fnm"
+        },
+        {
+          "currency": "TRX",
+          "address": "TTWBrNgoooSs9HQQKMty3ZQDbS9LzgjNiH"
+        },
+        {
+          "currency": "TRX",
+          "address": "TGu8xk3u1QcA9FNCQZ4RUTvniiCjNkjXkA"
+        },
+        {
+          "currency": "TRX",
+          "address": "TAQPzv9941nVuTj4ng2vd6L11Re57r42pW"
+        },
+        {
+          "currency": "TRX",
+          "address": "TMdZfVVAsxKsbXGmV3kBnEgM69z3QHH3kz"
+        },
+        {
+          "currency": "TRX",
+          "address": "TZ42sU5kQ2n5rLZ6PhEGkmfLtmHjoi2vpr"
+        }
+      ],
+      "addresses": []
+    },
+    {
+      "uid": 58362,
+      "name": "Anwen Technology Co., Ltd.",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Tax ID No.",
+          "number": "K009-902502292",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Business Registration Number",
+          "number": "00078312",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Prince International Plaza Building No. 616",
+          "address2": "Russia Federation Boulevard, Phum Se Pe Se",
+          "city": "Phnom Penh",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 58365,
+      "name": "SafeW Technology Co., Ltd.",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "SG"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u8d5b\u65b9\u79d1\u6280\u6709\u9650\u516c\u53f8"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    }
+  ],
+  "removals": [],
+  "updates": [
+    {
+      "uid": 9936,
+      "name": "NETHERLANDS CARIBBEAN BANK N.V.",
+      "changes": {
+        "countries": {
+          "old": [
+            "AN",
+            "CU"
+          ],
+          "new": [
+            "CU"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 11500,
+      "name": "MAKLED GARCIA Walid",
+      "changes": {
+        "countries": {
+          "old": [
+            "AN",
+            "VE"
+          ],
+          "new": [
+            "VE"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 57036,
+      "name": "York Louis Celestino Herrera",
+      "changes": {
+        "name": {
+          "old": "Celestino Herrera York Louis",
+          "new": "York Louis Celestino Herrera"
+        }
+      }
+    },
+    {
+      "uid": 57468,
+      "name": "ONBOARD SHIP MANAGEMENT LIMITED",
+      "changes": {
+        "countries": {
+          "old": [],
+          "new": [
+            "CN"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 57962,
+      "name": "Boukich Abdelhakim",
+      "changes": {
+        "name": {
+          "old": "Abdelhakim Boukich",
+          "new": "Boukich Abdelhakim"
+        }
+      }
+    }
+  ]
+}
