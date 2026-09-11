@@ -520,8 +520,8 @@
     "daily_removed": 0
   },
   "LB": {
-    "total": 357,
-    "sdn": 357,
+    "total": 363,
+    "sdn": 363,
     "consolidated": 0,
     "programs": [
       "SDGT",
@@ -541,7 +541,7 @@
       "LEBANON",
       "BELARUS-EO14038"
     ],
-    "daily_added": 0,
+    "daily_added": 6,
     "daily_removed": 0
   },
   "CO": {
@@ -562,8 +562,8 @@
     "daily_removed": 0
   },
   "SY": {
-    "total": 299,
-    "sdn": 299,
+    "total": 300,
+    "sdn": 300,
     "consolidated": 0,
     "programs": [
       "SDGT",
@@ -583,7 +583,7 @@
       "TCO",
       "BELARUS-EO14038"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "IR": {
@@ -1019,8 +1019,8 @@
     "daily_removed": 0
   },
   "IQ": {
-    "total": 184,
-    "sdn": 184,
+    "total": 193,
+    "sdn": 193,
     "consolidated": 0,
     "programs": [
       "SDGT",
@@ -1036,7 +1036,7 @@
       "BELARUS-EO14038",
       "IRAN-CON-ARMS-EO"
     ],
-    "daily_added": 0,
+    "daily_added": 9,
     "daily_removed": 0
   },
   "RS": {
@@ -1068,8 +1068,8 @@
     "daily_removed": 0
   },
   "TR": {
-    "total": 382,
-    "sdn": 381,
+    "total": 383,
+    "sdn": 382,
     "consolidated": 1,
     "programs": [
       "SDGT",
@@ -1092,7 +1092,7 @@
       "IRAN-EO13902",
       "CAATSA - RUSSIA"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "HR": {
@@ -1351,8 +1351,8 @@
     "daily_removed": 0
   },
   "AE": {
-    "total": 757,
-    "sdn": 757,
+    "total": 760,
+    "sdn": 760,
     "consolidated": 0,
     "programs": [
       "IRAQ2",
@@ -1390,7 +1390,7 @@
       "PAIPA",
       "CAATSA - RUSSIA"
     ],
-    "daily_added": 0,
+    "daily_added": 3,
     "daily_removed": 0
   },
   "DO": {
