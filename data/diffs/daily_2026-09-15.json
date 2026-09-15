@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-15",
+  "period": "2026-09-15",
+  "summary": {
+    "added": 0,
+    "removed": 0,
+    "updated": 1
+  },
+  "additions": [],
+  "removals": [],
+  "updates": [
+    {
+      "uid": 17013,
+      "name": "VTB BANK PUBLIC JOINT STOCK COMPANY",
+      "changes": {
+        "programs": {
+          "old": [
+            "UKRAINE-EO13662",
+            "RUSSIA-EO14024"
+          ],
+          "new": [
+            "UKRAINE-EO13662",
+            "RUSSIA-EO14024",
+            "IRAN-EO13902"
+          ]
+        },
+        "countries": {
+          "old": [
+            "CN",
+            "IN",
+            "RU"
+          ],
+          "new": [
+            "CN",
+            "IN",
+            "IR",
+            "RU"
+          ]
+        }
+      }
+    }
+  ]
+}
