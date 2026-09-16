@@ -1,0 +1,131 @@
+{
+  "date": "2026-09-16",
+  "period": "2026-09-16",
+  "summary": {
+    "added": 0,
+    "removed": 3,
+    "updated": 0
+  },
+  "additions": [],
+  "removals": [
+    {
+      "uid": 10982,
+      "name": "VEGA SANCHEZ Jose Raul",
+      "entry_type": "Individual",
+      "programs": [
+        "SDNTK"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1956-10-19",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "VESR561019HSRGNL09",
+          "country": "Mexico"
+        },
+        {
+          "type": "C.U.R.P.",
+          "number": "VEXR561019HSRGXL05",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "c/o AGRICOLA GAXIOLA S.A. DE C.V.",
+          "city": "Hermosillo",
+          "state": "Sonora",
+          "country": "MX"
+        },
+        {
+          "address1": "c/o INMUEBLES SIERRA VISTA S.A. DE C.V.",
+          "city": "Hermosillo",
+          "state": "Sonora",
+          "country": "MX"
+        },
+        {
+          "address1": "c/o TEMPLE DEL PITIC S.A. DE C.V.",
+          "city": "Hermosillo",
+          "state": "Sonora",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 40948,
+      "name": "Bomatter Hans Peter",
+      "entry_type": "Individual",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "countries": [
+        "ES"
+      ],
+      "list_type": "SDN",
+      "dob": "1965-05-19",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "F3848406",
+          "country": "Switzerland"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "La Zubia",
+          "country": "ES"
+        }
+      ]
+    },
+    {
+      "uid": 51041,
+      "name": "MODULSAN MAKINA KESICI TAKIM VE DISLI SANAYI TICARET LIMITED SIRKETI",
+      "entry_type": "Entity",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "countries": [
+        "TR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Identification Number",
+          "number": "0334049428100019",
+          "country": "Turkey"
+        },
+        {
+          "type": "Registration Number",
+          "number": "602993",
+          "country": "Turkey"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "3340494281",
+          "country": "Turkey"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "1CA Blok, 1575. Sokak No. 1 CA/2, Akcaburgaz Mahallesi",
+          "city": "Esenyurt",
+          "postal_code": "34522",
+          "country": "TR"
+        }
+      ]
+    }
+  ],
+  "updates": []
+}

@@ -79,8 +79,8 @@
     "daily_removed": 0
   },
   "ES": {
-    "total": 53,
-    "sdn": 53,
+    "total": 52,
+    "sdn": 52,
     "consolidated": 0,
     "programs": [
       "CUBA",
@@ -97,7 +97,7 @@
       "CUBA-EO14404"
     ],
     "daily_added": 0,
-    "daily_removed": 0
+    "daily_removed": 1
   },
   "JP": {
     "total": 22,
@@ -137,8 +137,8 @@
     "daily_removed": 0
   },
   "MX": {
-    "total": 1173,
-    "sdn": 1173,
+    "total": 1172,
+    "sdn": 1172,
     "consolidated": 0,
     "programs": [
       "CUBA",
@@ -152,7 +152,7 @@
       "VENEZUELA-EO13850"
     ],
     "daily_added": 0,
-    "daily_removed": 0
+    "daily_removed": 1
   },
   "FR": {
     "total": 44,
@@ -1069,8 +1069,8 @@
     "daily_removed": 0
   },
   "TR": {
-    "total": 383,
-    "sdn": 382,
+    "total": 382,
+    "sdn": 381,
     "consolidated": 1,
     "programs": [
       "SDGT",
@@ -1094,7 +1094,7 @@
       "CAATSA - RUSSIA"
     ],
     "daily_added": 0,
-    "daily_removed": 0
+    "daily_removed": 1
   },
   "HR": {
     "total": 5,
