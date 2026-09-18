@@ -1,0 +1,768 @@
+{
+  "date": "2026-09-18",
+  "period": "2026-09-18",
+  "summary": {
+    "added": 16,
+    "removed": 8,
+    "updated": 0
+  },
+  "additions": [
+    {
+      "uid": 58614,
+      "name": "Empresa De Servicios Tecnicos De Computacion Comunicaciones Y Electronica",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Serconi",
+        "Empresa de Servicios de Computacion Comunicaciones y Electronica del Niquel Rafael Fausto Orejon Forment"
+      ],
+      "ids": [
+        {
+          "type": "Entity Code",
+          "number": "9987",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Moa",
+          "state": "Holguin",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58615,
+      "name": "EMPRESA DE INGENIERIA Y PROYECTOS DEL NIQUEL",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Ceproniquel"
+      ],
+      "ids": [
+        {
+          "type": "Entity Code",
+          "number": "12392",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Moa",
+          "state": "Holguin",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58616,
+      "name": "Centro De Investigaciones Del Niquel Capitan Alberto Fernandez Montes De Oca",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Cediniq",
+        "Ceinniq"
+      ],
+      "ids": [
+        {
+          "type": "Entity Code",
+          "number": "6681",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Moa",
+          "state": "Holguin",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58617,
+      "name": "Pinares S.A.",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Entity Code",
+          "number": "60172",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Nicaro",
+          "state": "Holguin",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58618,
+      "name": "Pishtaz Simorgh Electronic Trade Company",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902",
+        "IRAN"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0631\u06a9\u062a \u062a\u062c\u0627\u0631\u062a \u0627\u0644\u06a9\u062a\u0631\u0648\u0646\u06cc\u06a9 \u067e\u06cc\u0634\u062a\u0627\u0632 \u0633\u06cc\u0645\u0631\u063a",
+        "Pishtaz Simorgh Company",
+        "Tejarat Electronic Pishtaz Simorgh"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "14012169913",
+          "country": "Iran"
+        },
+        {
+          "type": "Registration Number",
+          "number": "611800",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "No. 2, 35th Street, Alvand Street, Argentina Square",
+          "city": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58619,
+      "name": "BitBank",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902",
+        "IRAN"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0628\u06cc\u062a\u0628\u0627\u0646\u06a9",
+        "Bitbank3"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "No. 2, 35th Street, Alvand Street, Argentina Square",
+          "city": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58620,
+      "name": "Zaker Hossein Hossein Ali",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902",
+        "IRAN"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1957-05-23",
+      "nationalities": [],
+      "aliases": [
+        "\u0630\u0627\u06a9\u0631 \u062d\u0633\u06cc\u0646 \u062d\u0633\u06cc\u0646\u200c\u0639\u0644\u06cc"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "2296622909",
+          "country": "Iran"
+        },
+        {
+          "type": "Passport",
+          "number": "B61766700",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Kish Sadaf Fazyek Kh Hananeh Shiday Yakom",
+          "city": "Kish Island",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58630,
+      "name": "Zaker Hossein Mohammad Mahdi",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN",
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1981-09-09",
+      "nationalities": [],
+      "aliases": [
+        "\u0630\u0627\u06a9\u0631 \u062d\u0633\u06cc\u0646 \u0645\u062d\u0645\u062f \u0645\u0647\u062f\u06cc",
+        "Zaker Hossein Hamed",
+        "\u0630\u0627\u06a9\u0631 \u062d\u0633\u06cc\u0646 \u062d\u0627\u0645\u062f"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "2298706875",
+          "country": "Iran"
+        },
+        {
+          "type": "Passport",
+          "number": "K61893781",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Unit 7, Building 20, Esmail, Zarafshan Southern, Veranda East, Town West",
+          "city": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58631,
+      "name": "Heidari Seyed Adel",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN",
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1974-11-22",
+      "nationalities": [],
+      "aliases": [
+        "\u062d\u06cc\u062f\u0631\u06cc \u0633\u06cc\u062f \u0639\u0627\u062f\u0644"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "4621551825",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "KH Shari'ati KH Va'zi P40 Vahda 3",
+          "city": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58647,
+      "name": "Centro De Investigacion y Desarrollo De Simuladores",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "CID-SIM",
+        "SIMPRO",
+        "Empresa De Ciencia Y Tecnologia Simuladores",
+        "ECTSIM"
+      ],
+      "ids": [
+        {
+          "type": "Entity Code",
+          "number": "14032",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Loma S/N, Entre Santa Ana Y Conill",
+          "address2": "Nuevo Vedado, Plaza De La Revolucion",
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58648,
+      "name": "Joaquin Cancio Monteagudo Francisco",
+      "entry_type": "Individual",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": "1945-09-16",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "E493203",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "58 #2906 Eyrpto",
+          "address2": "Playa",
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58649,
+      "name": "Centro De Investigacion y Desarrollo Naval",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "CIDNAV"
+      ],
+      "ids": [
+        {
+          "type": "Entity Code",
+          "number": "14034",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Estrada Palma No. 13",
+          "address2": "Casablanca, Regla",
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58650,
+      "name": "Dioglis Pedrera Arguello",
+      "entry_type": "Individual",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": "1963-06-13",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "A010659",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Calle 186 No 311531 Y 33",
+          "address2": "Playa",
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58651,
+      "name": "Centro De Investigacion y Desarrollo De Armamento De Infanteria",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "CIDAI"
+      ],
+      "ids": [
+        {
+          "type": "Entity Code",
+          "number": "14124",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Circunvalacion Norte, Km 8 \u00bd",
+          "city": "Camaguey",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58652,
+      "name": "Julio Hurtado Betancourt",
+      "entry_type": "Individual",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": "1962-11-04",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "E459994",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58653,
+      "name": "Centro De Investigacion, Desarrollo y Produccion Grito De Baire",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "CIDP-GB",
+        "Centro De Investigacion Y Desarrollo Grito De Baire",
+        "Grito De Baire Center for Research and Development and Production",
+        "Grupo de la Electronica de Comunicaciones",
+        "GELCOM",
+        "CIDP Grito De Baire"
+      ],
+      "ids": [
+        {
+          "type": "Entity Code",
+          "number": "14123",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Santa Ana S/N, Entre 47 Y Reforma",
+          "address2": "Nuevo Vedado, Plaza De La Revolucion",
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    }
+  ],
+  "removals": [
+    {
+      "uid": 10756,
+      "name": "LAKOKRASKA OAO",
+      "entry_type": "Entity",
+      "programs": [
+        "BELARUS"
+      ],
+      "countries": [
+        "BY"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "LAKOKRASKA OPEN JOINT-STOCK COMPANY"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "71 Ignatova Street",
+          "address2": "Grodnenskaya Region",
+          "city": "Lida",
+          "postal_code": "231300",
+          "country": "BY"
+        },
+        {
+          "address1": "ul. Ignatova, 71",
+          "address2": "Grodnenskaya oblast",
+          "city": "Lida",
+          "postal_code": "231300",
+          "country": "BY"
+        }
+      ]
+    },
+    {
+      "uid": 33451,
+      "name": "People's Front for Democracy and Justice",
+      "entry_type": "Entity",
+      "programs": [
+        "ETHIOPIA-EO14046"
+      ],
+      "countries": [
+        "ER"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 33534,
+      "name": "W Kidan Hagos Ghebrehiwet",
+      "entry_type": "Individual",
+      "programs": [
+        "ETHIOPIA-EO14046"
+      ],
+      "countries": [
+        "ER"
+      ],
+      "list_type": "SDN",
+      "dob": "1953-04-25",
+      "nationalities": [],
+      "aliases": [
+        "Woldekidan Hagos Ghebrehiwet",
+        "Weldekidane Hagos Ghebrehiwet"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0882109",
+          "country": "Eritrea"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Asmara",
+          "country": "ER"
+        }
+      ]
+    },
+    {
+      "uid": 33535,
+      "name": "Nemariam Abraha Kassa",
+      "entry_type": "Individual",
+      "programs": [
+        "ETHIOPIA-EO14046"
+      ],
+      "countries": [
+        "ER"
+      ],
+      "list_type": "SDN",
+      "dob": "1953-07-15",
+      "nationalities": [],
+      "aliases": [
+        "Kassa Wedi",
+        "Kassa Abraha"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "D000294",
+          "country": "Eritrea"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 33597,
+      "name": "Eritrean Defense Forces",
+      "entry_type": "Entity",
+      "programs": [
+        "ETHIOPIA-EO14046"
+      ],
+      "countries": [
+        "ER"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Eritrean Defense Force"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 33918,
+      "name": "Red Sea Trading Corporation",
+      "entry_type": "Entity",
+      "programs": [
+        "ETHIOPIA-EO14046"
+      ],
+      "countries": [
+        "AE",
+        "ER"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Felket Street",
+          "city": "Asmara",
+          "country": "ER"
+        },
+        {
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 33919,
+      "name": "Hidri Trust",
+      "entry_type": "Entity",
+      "programs": [
+        "ETHIOPIA-EO14046"
+      ],
+      "countries": [
+        "ER"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Felket Street",
+          "city": "Asmara",
+          "country": "ER"
+        }
+      ]
+    },
+    {
+      "uid": 46477,
+      "name": "BELARUSIAN PRODUCTION AND TRADE CONCERN OF TIMBER WOODWORKING AND PULP AND PAPER INDUSTRY",
+      "entry_type": "Entity",
+      "programs": [
+        "BELARUS-EO14038"
+      ],
+      "countries": [
+        "BY"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0411\u0435\u043b\u043e\u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u0422\u043e\u0440\u0433\u043e\u0432\u044b\u0439 \u041a\u043e\u043d\u0446\u0435\u0440\u043d \u041b\u0435\u0441\u043d\u043e\u0439 \u0414\u0435\u0440\u0435\u0432\u043e\u043e\u0431\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u044e\u0449\u0435\u0439 \u0438 \u0426\u0435\u043b\u043b\u044e\u043b\u043e\u0437\u043d\u043e \u0411\u0443\u043c\u0430\u0436\u043d\u043e\u0439 \u041f\u0440\u043e\u043c\u044b\u0448\u043b\u0435\u043d\u043d\u043e\u0441\u0442\u0438",
+        "Kontsern Bellesbumprom",
+        "\u041a\u043e\u043d\u0446\u0435\u0440\u043d \u0411\u0435\u043b\u043b\u0435\u0441\u0431\u0443\u043c\u043f\u0440\u043e\u043c",
+        "Bielaruski Vytvorcha Handliovy Kancern Liasnoj Drevaapracowchaj i Celiulozna Papiarovaj Pramyslovasci",
+        "\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u043a\u0456 \u0412\u044b\u0442\u0432\u043e\u0440\u0447\u0430 \u0413\u0430\u043d\u0434\u043b\u0451\u0432\u044b \u041a\u0430\u043d\u0446\u044d\u0440\u043d \u041b\u044f\u0441\u043d\u043e\u0439 \u0414\u0440\u044d\u0432\u0430\u0430\u043f\u0440\u0430\u0446\u043e\u045e\u0447\u0430\u0439 \u0456 \u0426\u044d\u043b\u044e\u043b\u043e\u0437\u043d\u0430 \u041f\u0430\u043f\u044f\u0440\u043e\u0432\u0430\u0439 \u041f\u0440\u0430\u043c\u044b\u0441\u043b\u043e\u0432\u0430\u0441\u0446\u0456"
+      ],
+      "ids": [
+        {
+          "type": "Tax ID No.",
+          "number": "100377850",
+          "country": "Belarus"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "GSP, K. Marx Street, 16",
+          "city": "Minsk",
+          "postal_code": "220030",
+          "country": "BY"
+        }
+      ]
+    }
+  ],
+  "updates": []
+}

@@ -1,7 +1,7 @@
 {
   "CU": {
-    "total": 109,
-    "sdn": 109,
+    "total": 120,
+    "sdn": 120,
     "consolidated": 0,
     "programs": [
       "CUBA",
@@ -11,7 +11,7 @@
       "VENEZUELA-EO13850",
       "GLOMAG"
     ],
-    "daily_added": 0,
+    "daily_added": 11,
     "daily_removed": 0
   },
   "GB": {
@@ -587,8 +587,8 @@
     "daily_removed": 0
   },
   "IR": {
-    "total": 1662,
-    "sdn": 1661,
+    "total": 1667,
+    "sdn": 1666,
     "consolidated": 1,
     "programs": [
       "IRAN",
@@ -622,7 +622,7 @@
       "ILLICIT-DRUGS-EO14059",
       "CYBER4"
     ],
-    "daily_added": 0,
+    "daily_added": 5,
     "daily_removed": 0
   },
   "AF": {
@@ -777,18 +777,17 @@
     "daily_removed": 0
   },
   "ER": {
-    "total": 10,
-    "sdn": 10,
+    "total": 4,
+    "sdn": 4,
     "consolidated": 0,
     "programs": [
       "SDGT",
       "SOMALIA",
       "SOUTH SUDAN",
-      "GLOMAG",
-      "ETHIOPIA-EO14046"
+      "GLOMAG"
     ],
     "daily_added": 0,
-    "daily_removed": 0
+    "daily_removed": 6
   },
   "SO": {
     "total": 68,
@@ -1352,8 +1351,8 @@
     "daily_removed": 0
   },
   "AE": {
-    "total": 760,
-    "sdn": 760,
+    "total": 759,
+    "sdn": 759,
     "consolidated": 0,
     "programs": [
       "IRAQ2",
@@ -1376,7 +1375,6 @@
       "IRAN-EO13871",
       "IRAN-EO13876",
       "IFCA",
-      "ETHIOPIA-EO14046",
       "BELARUS-EO14038",
       "DRCONGO",
       "LEBANON",
@@ -1392,7 +1390,7 @@
       "CAATSA - RUSSIA"
     ],
     "daily_added": 0,
-    "daily_removed": 0
+    "daily_removed": 1
   },
   "DO": {
     "total": 26,
@@ -1548,8 +1546,8 @@
     "daily_removed": 0
   },
   "BY": {
-    "total": 265,
-    "sdn": 262,
+    "total": 263,
+    "sdn": 260,
     "consolidated": 3,
     "programs": [
       "BELARUS",
@@ -1564,7 +1562,7 @@
       "CYBER4"
     ],
     "daily_added": 0,
-    "daily_removed": 0
+    "daily_removed": 2
   },
   "NO": {
     "total": 5,
