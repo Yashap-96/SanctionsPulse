@@ -11,7 +11,7 @@
       "VENEZUELA-EO13850",
       "GLOMAG"
     ],
-    "daily_added": 11,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "GB": {
@@ -622,7 +622,7 @@
       "ILLICIT-DRUGS-EO14059",
       "CYBER4"
     ],
-    "daily_added": 5,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "AF": {
@@ -787,7 +787,7 @@
       "GLOMAG"
     ],
     "daily_added": 0,
-    "daily_removed": 6
+    "daily_removed": 0
   },
   "SO": {
     "total": 68,
@@ -1390,7 +1390,7 @@
       "CAATSA - RUSSIA"
     ],
     "daily_added": 0,
-    "daily_removed": 1
+    "daily_removed": 0
   },
   "DO": {
     "total": 26,
@@ -1562,7 +1562,7 @@
       "CYBER4"
     ],
     "daily_added": 0,
-    "daily_removed": 2
+    "daily_removed": 0
   },
   "NO": {
     "total": 5,
