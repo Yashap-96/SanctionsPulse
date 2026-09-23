@@ -1577,8 +1577,8 @@
     "daily_removed": 0
   },
   "CD": {
-    "total": 87,
-    "sdn": 87,
+    "total": 85,
+    "sdn": 85,
     "consolidated": 0,
     "programs": [
       "DRCONGO",
@@ -1590,7 +1590,7 @@
       "SOUTH SUDAN"
     ],
     "daily_added": 0,
-    "daily_removed": 0
+    "daily_removed": 2
   },
   "RW": {
     "total": 17,

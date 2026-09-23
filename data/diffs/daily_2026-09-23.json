@@ -1,0 +1,83 @@
+{
+  "date": "2026-09-23",
+  "period": "2026-09-23",
+  "summary": {
+    "added": 0,
+    "removed": 2,
+    "updated": 0
+  },
+  "additions": [],
+  "removals": [
+    {
+      "uid": 21263,
+      "name": "Olenga Francois",
+      "entry_type": "Individual",
+      "programs": [
+        "DRCONGO"
+      ],
+      "countries": [
+        "CD"
+      ],
+      "list_type": "SDN",
+      "dob": "1948-10-09",
+      "nationalities": [],
+      "aliases": [
+        "Olenga Fran\u00e7ois",
+        "Olenga Tete Francois",
+        "Olenga Tete Fran\u00e7ois",
+        "Olenga Tate Francois",
+        "Okunji Francois",
+        "Okunji Fran\u00e7ois",
+        "Otshundi Francois",
+        "Otshundi Fran\u00e7ois"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Kinshasa",
+          "country": "CD"
+        }
+      ]
+    },
+    {
+      "uid": 21264,
+      "name": "Safari Club",
+      "entry_type": "Entity",
+      "programs": [
+        "DRCONGO"
+      ],
+      "countries": [
+        "CD"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Centre de Loisir Safari Club",
+        "Safari Beach"
+      ],
+      "ids": [
+        {
+          "type": "Registration ID",
+          "number": "1322",
+          "country": "Congo, Democratic Republic of the"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Nsele",
+          "city": "Kinshasa",
+          "country": "CD"
+        },
+        {
+          "address1": "Gombe",
+          "city": "Kinshasa",
+          "country": "CD"
+        }
+      ]
+    }
+  ],
+  "updates": []
+}
