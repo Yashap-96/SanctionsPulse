@@ -137,8 +137,8 @@
     "daily_removed": 0
   },
   "MX": {
-    "total": 1172,
-    "sdn": 1172,
+    "total": 1215,
+    "sdn": 1215,
     "consolidated": 0,
     "programs": [
       "CUBA",
@@ -151,7 +151,7 @@
       "GLOMAG",
       "VENEZUELA-EO13850"
     ],
-    "daily_added": 0,
+    "daily_added": 43,
     "daily_removed": 0
   },
   "FR": {
@@ -587,8 +587,8 @@
     "daily_removed": 0
   },
   "IR": {
-    "total": 1667,
-    "sdn": 1666,
+    "total": 1670,
+    "sdn": 1669,
     "consolidated": 1,
     "programs": [
       "IRAN",
@@ -622,7 +622,7 @@
       "ILLICIT-DRUGS-EO14059",
       "CYBER4"
     ],
-    "daily_added": 0,
+    "daily_added": 3,
     "daily_removed": 0
   },
   "AF": {
@@ -683,8 +683,8 @@
     "daily_removed": 0
   },
   "PK": {
-    "total": 169,
-    "sdn": 169,
+    "total": 171,
+    "sdn": 171,
     "consolidated": 0,
     "programs": [
       "SDGT",
@@ -697,9 +697,10 @@
       "IRAN-EO13846",
       "RUSSIA-EO14024",
       "IRAN-EO13902",
-      "NPWMD"
+      "NPWMD",
+      "IFSR"
     ],
-    "daily_added": 0,
+    "daily_added": 2,
     "daily_removed": 0
   },
   "YE": {
@@ -917,8 +918,8 @@
     "daily_removed": 0
   },
   "CN": {
-    "total": 1267,
-    "sdn": 1173,
+    "total": 1270,
+    "sdn": 1176,
     "consolidated": 94,
     "programs": [
       "SDGT",
@@ -963,7 +964,7 @@
       "HKAA",
       "CMIC-EO13959"
     ],
-    "daily_added": 0,
+    "daily_added": 3,
     "daily_removed": 0
   },
   "ET": {
@@ -1068,8 +1069,8 @@
     "daily_removed": 0
   },
   "TR": {
-    "total": 382,
-    "sdn": 381,
+    "total": 383,
+    "sdn": 382,
     "consolidated": 1,
     "programs": [
       "SDGT",
@@ -1092,7 +1093,7 @@
       "IRAN-EO13902",
       "CAATSA - RUSSIA"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "HR": {
@@ -1108,17 +1109,19 @@
     "daily_removed": 0
   },
   "SA": {
-    "total": 23,
-    "sdn": 23,
+    "total": 24,
+    "sdn": 24,
     "consolidated": 0,
     "programs": [
       "SDGT",
       "IRAQ2",
       "IRAN",
       "FTO",
-      "GLOMAG"
+      "GLOMAG",
+      "NPWMD",
+      "IFSR"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "SD": {

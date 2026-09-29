@@ -1,0 +1,1853 @@
+{
+  "date": "2026-09-29",
+  "period": "2026-09-29",
+  "summary": {
+    "added": 53,
+    "removed": 0,
+    "updated": 6
+  },
+  "additions": [
+    {
+      "uid": 58279,
+      "name": "Kavoshcom Asia R and D Group",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "NPWMD"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u06af\u0631\u0648\u0647 \u062a\u062d\u0642\u064a\u0642\u0627\u062a \u062e\u062f\u0645\u0627\u062a \u0645\u062e\u0627\u0628\u0631\u0627\u062a\u06cc \u06a9\u0627\u0648\u0634\u06a9\u0627\u0645 \u0622\u0633\u064a\u0627",
+        "Kavoshcom R and D Group"
+      ],
+      "ids": [
+        {
+          "type": "Chamber of Commerce Number",
+          "number": "117710",
+          "country": "Iran"
+        },
+        {
+          "type": "National ID No.",
+          "number": "10102875382",
+          "country": "Iran"
+        },
+        {
+          "type": "Registration Number",
+          "number": "246906",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "No. 22, 4th Alley, Qanbarzadeh Street",
+          "address2": "Shahid Beheshti Street",
+          "city": "Tehran",
+          "country": "IR"
+        },
+        {
+          "address1": "No. 281, Mottahari Ave",
+          "city": "Tehran",
+          "postal_code": "1586717911",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58280,
+      "name": "EC Mojo Technology Co Limited",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "NPWMD"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u6634\u96cb\u96fb\u8a0a\u6709\u9650\u516c\u53f8",
+        "Sunrise Electronics Co Ltd",
+        "Chengzi Trading Co Ltd"
+      ],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "2839430",
+          "country": "Hong Kong"
+        },
+        {
+          "type": "Business Registration Number",
+          "number": "70820781",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Rm 811, Beverley Commercial Centre",
+          "address2": "87-105 Chatham Rd S",
+          "address3": "Tsim Sha Tsui",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 58281,
+      "name": "Lali Parisa",
+      "entry_type": "Individual",
+      "programs": [
+        "IFSR",
+        "NPWMD"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1991-08-31",
+      "nationalities": [],
+      "aliases": [
+        "Laali Parisa",
+        "La'li Parisa"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "U48889102",
+          "country": "Iran"
+        },
+        {
+          "type": "National ID No.",
+          "number": "0013751425",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58282,
+      "name": "Li Fen",
+      "entry_type": "Individual",
+      "programs": [
+        "IFSR",
+        "NPWMD"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": "1987-04-23",
+      "nationalities": [],
+      "aliases": [
+        "\u674e \u82ac",
+        "Lee Kirah"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "362523198704231627",
+          "country": "China"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Foshan",
+          "state": "Guangdong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 58283,
+      "name": "Ahmady Ali Fotowat",
+      "entry_type": "Individual",
+      "programs": [
+        "IFSR",
+        "NPWMD"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1958-09-22",
+      "nationalities": [],
+      "aliases": [
+        "Ahmadi Ali Fotowat",
+        "Ahmadi Ali Fotovat"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0451991923",
+          "country": "Iran"
+        },
+        {
+          "type": "Passport",
+          "number": "642906027",
+          "country": "United States"
+        },
+        {
+          "type": "Passport",
+          "number": "F42549387",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58302,
+      "name": "Ismael Zambada Sicairos",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1982-03-07",
+      "nationalities": [],
+      "aliases": [
+        "Mayito Flaco",
+        "Ismael Cicairos Zambada",
+        "Fernando Sicairos Aispuro"
+      ],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "ZASI820307HSLMCS04",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "state": "Sinaloa",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58304,
+      "name": "Hildegardo Gastelum Garcia",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1972-10-29",
+      "nationalities": [],
+      "aliases": [
+        "Aldo"
+      ],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "GAGH721029HSLSRL09",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Culiacan",
+          "state": "Sinaloa",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58596,
+      "name": "Tajammal Waseem Pasha",
+      "entry_type": "Individual",
+      "programs": [
+        "NPWMD",
+        "IFSR"
+      ],
+      "countries": [
+        "PK"
+      ],
+      "list_type": "SDN",
+      "dob": "1967-12-22",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "3740563500191",
+          "country": "Pakistan"
+        },
+        {
+          "type": "Passport",
+          "number": "AA7550196",
+          "country": "Pakistan"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Rawalpindi",
+          "state": "Punjab",
+          "country": "PK"
+        }
+      ]
+    },
+    {
+      "uid": 58598,
+      "name": "Cavalier Dynamics Private Limited",
+      "entry_type": "Entity",
+      "programs": [
+        "NPWMD",
+        "IFSR"
+      ],
+      "countries": [
+        "PK"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "0188815",
+          "country": "Pakistan"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Plot 101-103, Humak Industrial Area, Sihala Road",
+          "city": "Islamabad",
+          "country": "PK"
+        }
+      ]
+    },
+    {
+      "uid": 58599,
+      "name": "Cavalier Dynamics for Technologies Company",
+      "entry_type": "Entity",
+      "programs": [
+        "NPWMD",
+        "IFSR"
+      ],
+      "countries": [
+        "SA"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0631\u0643\u0629 \u0643\u0627\u0641\u0627\u0644\u064a\u064a\u0631 \u062f\u0627\u064a\u0646\u0627\u0645\u064a\u0643\u0633 \u0644\u0644\u062a\u0642\u0646\u064a\u0627\u062a",
+        "Cavalier Dynamics Technologies Company"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "1009205388",
+          "country": "Saudi Arabia"
+        },
+        {
+          "type": "Company Number",
+          "number": "7049238244",
+          "country": "Saudi Arabia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Riyadh",
+          "state": "Riyadh",
+          "country": "SA"
+        }
+      ]
+    },
+    {
+      "uid": 58600,
+      "name": "Cavalier Dynamics Teknoloji Ticaret Anonim Sirketi",
+      "entry_type": "Entity",
+      "programs": [
+        "IFSR",
+        "NPWMD"
+      ],
+      "countries": [
+        "TR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Cavalier Dynamics Teknoloji Ticaret Anonim \u015eirketi"
+      ],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "0203089983700001",
+          "country": "Turkey"
+        },
+        {
+          "type": "Chamber of Commerce Number",
+          "number": "1587488",
+          "country": "Turkey"
+        },
+        {
+          "type": "Registration Number",
+          "number": "1086476",
+          "country": "Turkey"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Block No: 2, Aos 55th Street, 42 Maslak Neighborhood A Door No: 25, Maslak, Sariyer",
+          "city": "Istanbul",
+          "state": "Marmara",
+          "country": "TR"
+        }
+      ]
+    },
+    {
+      "uid": 58624,
+      "name": "MIA CENTRO CAMBIARIO, S.A. DE C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "38102",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Mexicali",
+          "state": "Baja California",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58654,
+      "name": "Tabatabai Seyyed Asghar Alizadeh",
+      "entry_type": "Individual",
+      "programs": [
+        "IFSR",
+        "NPWMD"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": "1978-09-21",
+      "nationalities": [],
+      "aliases": [
+        "Tabatabaei Seyed Asghar Alizadeh"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "B65348644",
+          "country": "Iran"
+        },
+        {
+          "type": "National ID No.",
+          "number": "1239538677",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Beijing",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 58693,
+      "name": "Chapotin Villalba Diosvany Samuel",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1978-01-03",
+      "nationalities": [],
+      "aliases": [
+        "Pichon Vidal Lazaro"
+      ],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "CAVD780103HNEHLS00",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Cancun",
+          "state": "Quintana Roo",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58694,
+      "name": "Martinez Rodriguez Pedro Humberto",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1989-03-02",
+      "nationalities": [],
+      "aliases": [
+        "Gordo Flubber"
+      ],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "MARP890302HSLRDD00",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tijuana",
+          "state": "Baja California",
+          "country": "MX"
+        },
+        {
+          "city": "Culiacan",
+          "state": "Sinaloa",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58695,
+      "name": "Yocupicio Yocupicio Jesus Rafael",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1988-10-24",
+      "nationalities": [],
+      "aliases": [
+        "El Cabezon"
+      ],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "YOYJ881024HSRCCS04",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tijuana",
+          "state": "Baja California",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58696,
+      "name": "Huezo Hernandez Franklin Ernesto",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1986-12-13",
+      "nationalities": [],
+      "aliases": [
+        "El Ranchero"
+      ],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "HUHF861213HCSZRR09",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tijuana",
+          "state": "Baja California",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58697,
+      "name": "Castillo Maldonado Lorenzo",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1975-12-13",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "CAML751213HCHSLR08",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58698,
+      "name": "Mendoza Uriarte Jorge Luis",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1987-12-19",
+      "nationalities": [],
+      "aliases": [
+        "Guero Chompas"
+      ],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "MEUJ871219HSLNRR19",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tijuana",
+          "state": "Baja California",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58700,
+      "name": "Mendoza Uriarte Francisco Javier",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1984-02-03",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "MEUF840203HSLNRR06",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tijuana",
+          "state": "Baja California",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58701,
+      "name": "Felix Rivera Ilia Elizabeth",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1984-06-17",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "FERI840617MSLLVL00",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tijuana",
+          "state": "Baja California",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58702,
+      "name": "Vera Ayala Jeronimo Javier",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1985-04-27",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "VEAJ850427HBCRYR16",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tijuana",
+          "state": "Baja California",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58703,
+      "name": "Vera Ayala Jorge Mario",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1985-04-27",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "VEAJ850427HBCRYR08",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tijuana",
+          "state": "Baja California",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58704,
+      "name": "Torres Torres Carlos Alberto",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1975-11-18",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "TOTC751118HBCRRR06",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tijuana",
+          "state": "Baja California",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58705,
+      "name": "Torres Torres Luis Alfonso",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1960-09-07",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "TOTL600907HBCRRS00",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tijuana",
+          "state": "Baja California",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58706,
+      "name": "Mendivil Garcia Pedro Ariel",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1972-05-28",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "MEGP720528HSRNRD06",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Mexicali",
+          "state": "Baja California",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58707,
+      "name": "Moreno Gomez Santelices Marco Antonio",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1983-02-09",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "MOGM830209HBCRMR02",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tijuana",
+          "state": "Baja California",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58708,
+      "name": "Villela Gomez Santelices Carlos",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1993-06-29",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "VIGC930629HBCLMR08",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tijuana",
+          "state": "Baja California",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58709,
+      "name": "Buenrostro Martin Rafael",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1982-12-28",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "BUMR821228HBCNRF02",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Mexicali",
+          "state": "Baja California",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58711,
+      "name": "Rivos Servicios, S.A. de C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "84179",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Culiacan",
+          "state": "Sinaloa",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58712,
+      "name": "Servicios Hoteleros Gastelum, S.A. de C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "180",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Culiacan",
+          "state": "Sinaloa",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58713,
+      "name": "Galerias Centro Cambiario, S.A. de C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Magic Casa de Cambio"
+      ],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "33511",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tijuana",
+          "state": "Baja California",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58714,
+      "name": "GRUPO GASOLINERO NUEVA ESPERANZA, S. DE R.L. DE C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "34113",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Mexicali",
+          "state": "Baja California",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58719,
+      "name": "BAJA FIXER GROUP, S.A. DE C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "N-2024074861",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tijuana",
+          "state": "Baja California",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58720,
+      "name": "INTELIPROOF EFFICIENT, S. DE R.L. DE C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "N-2020075511",
+          "country": "Mexico"
+        },
+        {
+          "type": "R.F.C.",
+          "number": "IEF201019BY7",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tijuana",
+          "state": "Baja California",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58721,
+      "name": "PRIVATE EQUITY BAJA S.A.P.I. DE C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "N-2021082072",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tijuana",
+          "state": "Baja California",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58722,
+      "name": "FESTIVALES ARTISTAS MOBILIARIO ASESORIA, S.A. DE C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Promociones CHF de Baja California, S.A. de C.V."
+      ],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "N-2021012223",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tijuana",
+          "state": "Baja California",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58723,
+      "name": "PRIVATE EQUITY BURSATIL, S.A. DE C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "N-2022069640",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tijuana",
+          "state": "Baja California",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58724,
+      "name": "CONCIERTOS Y ESPECTACULOS INHOUSE S.A.P.I. DE C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "N-2023100920",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tijuana",
+          "state": "Baja California",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58725,
+      "name": "WERMAK PUBLIRED, S.A. DE C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "N-2023089074",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tijuana",
+          "state": "Baja California",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58726,
+      "name": "HOLISTIC WELLWAVES S. DE R.L. DE C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "N-2020009462",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tijuana",
+          "state": "Baja California",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58727,
+      "name": "PROYECTO ALERTA VERDE, S.A.P.I. DE C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Hermosillo",
+          "state": "Sonora",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58729,
+      "name": "VIDEOVIGILANCIA COLABORATIVA, S.A.P.I. DE C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "N-2019000914",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Hermosillo",
+          "state": "Sonora",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58730,
+      "name": "LTHINGS MEXICO, S. DE R.L. DE C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "N-2024010343",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tijuana",
+          "state": "Baja California",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58731,
+      "name": "XOLO GAS DE BAJA CALIFORNIA, S. DE R.L. DE C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "N-2024079165",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tijuana",
+          "state": "Baja California",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58732,
+      "name": "CODESUAM, S. DE R.L. DE C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "N-2017056810",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tijuana",
+          "state": "Baja California",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58733,
+      "name": "GRUPO BAJA FIRME, S.A. DE C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "N-2021045875",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tijuana",
+          "state": "Baja California",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58734,
+      "name": "VIDA ORGANICA TIJUANA, S. DE R.L. DE C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "N-2020074577",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tijuana",
+          "state": "Baja California",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58736,
+      "name": "EDIFIKA DESARROLLOS BAJA, S. DE R.L. DE C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "N-2016019967",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tijuana",
+          "state": "Baja California",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58737,
+      "name": "THE WOODS BAR, S. DE R.L. DE C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "N-2021008881",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tijuana",
+          "state": "Baja California",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58738,
+      "name": "RAES RESTAURANTE S. DE R.L. DE C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "38467",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tijuana",
+          "state": "Baja California",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58739,
+      "name": "DISTRIBUIDORA Y COMERCIALIZADORA ATAF",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "DISTRIBUIDORA Y COMERCIALIZADORA ATAF S.A.S."
+      ],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "SAS2022499192",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Juarez",
+          "state": "Chihuahua",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58740,
+      "name": "PUBLICIDAD E IMAGEN INTEGRAL ENLA-C, S. DE R.L. DE C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "N-2024040377",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Mexicali",
+          "state": "Baja California",
+          "country": "MX"
+        }
+      ]
+    }
+  ],
+  "removals": [],
+  "updates": [
+    {
+      "uid": 37049,
+      "name": "MG-FLOT LIMITED LIABILITY COMPANY",
+      "changes": {
+        "programs": {
+          "old": [
+            "RUSSIA-EO14024"
+          ],
+          "new": [
+            "RUSSIA-EO14024",
+            "IRAN-CON-ARMS-EO"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 38496,
+      "name": "Jose Angel Rivera Zazueta",
+      "changes": {
+        "programs": {
+          "old": [
+            "ILLICIT-DRUGS-EO14059"
+          ],
+          "new": [
+            "ILLICIT-DRUGS-EO14059",
+            "SDGT"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 39162,
+      "name": "ARZATE GARCIA Alfonso",
+      "changes": {
+        "programs": {
+          "old": [
+            "ILLICIT-DRUGS-EO14059"
+          ],
+          "new": [
+            "ILLICIT-DRUGS-EO14059",
+            "SDGT"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 39163,
+      "name": "ARZATE GARCIA Rene",
+      "changes": {
+        "programs": {
+          "old": [
+            "ILLICIT-DRUGS-EO14059"
+          ],
+          "new": [
+            "ILLICIT-DRUGS-EO14059",
+            "SDGT"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 43068,
+      "name": "Joint Stock Company Experimental Design Bureau Named After A.S. Yakovlev",
+      "changes": {
+        "programs": {
+          "old": [
+            "RUSSIA-EO14024"
+          ],
+          "new": [
+            "RUSSIA-EO14024",
+            "IRAN-CON-ARMS-EO"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 58519,
+      "name": "Saha Airlines",
+      "changes": {
+        "programs": {
+          "old": [
+            "IRAN-EO13902",
+            "IFSR"
+          ],
+          "new": [
+            "IRAN-CON-ARMS-EO",
+            "IFSR",
+            "IRAN-EO13902"
+          ]
+        }
+      }
+    }
+  ]
+}
