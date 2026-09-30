@@ -1,0 +1,521 @@
+{
+  "date": "2026-09-30",
+  "period": "2026-09-30",
+  "summary": {
+    "added": 11,
+    "removed": 3,
+    "updated": 0
+  },
+  "additions": [
+    {
+      "uid": 56980,
+      "name": "Rivas Nunez Juan Gabriel",
+      "entry_type": "Individual",
+      "programs": [
+        "TCO",
+        "SDGT"
+      ],
+      "countries": [
+        "VE"
+      ],
+      "list_type": "SDN",
+      "dob": "1981-10-02",
+      "nationalities": [],
+      "aliases": [
+        "Rivas Nu\u00f1ez Juan Gabriel",
+        "Aponte Rodriguez Wilson Starling",
+        "Negro Juancho",
+        "Juancho",
+        "Aponte Rodriguez Wilson Stalyn"
+      ],
+      "ids": [
+        {
+          "type": "Cedula No.",
+          "number": "15962862",
+          "country": "Venezuela"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58161,
+      "name": "CANELON AGUIRRE Anibal Alexander",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT",
+        "TCO"
+      ],
+      "countries": [
+        "VE"
+      ],
+      "list_type": "SDN",
+      "dob": "1976-05-15",
+      "nationalities": [],
+      "aliases": [
+        "Prometheus",
+        "The Engineer"
+      ],
+      "ids": [
+        {
+          "type": "Cedula No.",
+          "number": "V-13126628",
+          "country": "Venezuela"
+        }
+      ],
+      "crypto_wallets": [
+        {
+          "currency": "TRX",
+          "address": "TJjRAn9kLiyh8h6gjBjaYjkfDkskgZfyW9"
+        }
+      ],
+      "addresses": []
+    },
+    {
+      "uid": 58254,
+      "name": "Martinez Armenta Carlos Javier",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT",
+        "TCO"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1991-03-31",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "MAAC910331HDFRRR00",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [
+        {
+          "currency": "TRX",
+          "address": "TCifMAMwst3oEJx8GaNfqZw75dkFUa8vjG"
+        }
+      ],
+      "addresses": []
+    },
+    {
+      "uid": 58255,
+      "name": "Mejia Castillo Alejandro",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT",
+        "TCO"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1970-12-03",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "MECA701203HDFJSL04",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [
+        {
+          "currency": "TRX",
+          "address": "TWJmTGhquvdp1jhBmgeGxBBwefteGZUQYW"
+        }
+      ],
+      "addresses": []
+    },
+    {
+      "uid": 58256,
+      "name": "Galeano Bazurto Jose Dario",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT",
+        "TCO"
+      ],
+      "countries": [
+        "VE"
+      ],
+      "list_type": "SDN",
+      "dob": "1993-03-26",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Cedula No.",
+          "number": "25580278",
+          "country": "Venezuela"
+        }
+      ],
+      "crypto_wallets": [
+        {
+          "currency": "TRX",
+          "address": "THwbVuBBb26abe5TrAsYUpYz9mhWnBppdz"
+        }
+      ],
+      "addresses": []
+    },
+    {
+      "uid": 58257,
+      "name": "Cardenas Arzola Eric Gabriel",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT",
+        "TCO"
+      ],
+      "countries": [
+        "VE"
+      ],
+      "list_type": "SDN",
+      "dob": "1991-02-24",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Cedula No.",
+          "number": "V-21003826",
+          "country": "Venezuela"
+        }
+      ],
+      "crypto_wallets": [
+        {
+          "currency": "TRX",
+          "address": "TCUmMCHQEbFFdGvfdg2LeS64QfzUKP2AgW"
+        }
+      ],
+      "addresses": []
+    },
+    {
+      "uid": 58260,
+      "name": "Martinez Pirona Oscar Leonardo",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT",
+        "TCO"
+      ],
+      "countries": [
+        "MX",
+        "VE"
+      ],
+      "list_type": "SDN",
+      "dob": "1984-10-26",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Cedula No.",
+          "number": "V-17531390",
+          "country": "Venezuela"
+        }
+      ],
+      "crypto_wallets": [
+        {
+          "currency": "TRX",
+          "address": "TDxZ1XTZCmqkJJW2eJT362z6omRchJyGBX"
+        }
+      ],
+      "addresses": []
+    },
+    {
+      "uid": 58261,
+      "name": "Galeano Basurto Aslhy Javier",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT",
+        "TCO"
+      ],
+      "countries": [
+        "VE"
+      ],
+      "list_type": "SDN",
+      "dob": "1984-05-09",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Cedula No.",
+          "number": "V-17599710",
+          "country": "Venezuela"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58262,
+      "name": "Hernandez Guerrero Anthony Wuiliam",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT",
+        "TCO"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1992-11-25",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "HEGA921125HNERRN08",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [
+        {
+          "currency": "TRX",
+          "address": "TBEmt7kPSwAv6NJTYKNdBVW524bUfPwJpJ"
+        }
+      ],
+      "addresses": []
+    },
+    {
+      "uid": 58263,
+      "name": "SOLUCIONES INTEGRALES TOLUCA, S.A. DE C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT",
+        "TCO"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "N-2016012368",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Toluca",
+          "state": "Mexico",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58264,
+      "name": "ENIGMA COMMUNITY, S. DE R.L. DE C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT",
+        "TCO"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Enigma Community, Sociedad de Responsabilidad Limitada de Capital Variable"
+      ],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "N-2024061521",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tlalnepantla de Baz",
+          "state": "Mexico",
+          "country": "MX"
+        }
+      ]
+    }
+  ],
+  "removals": [
+    {
+      "uid": 10640,
+      "name": "PATRACA, S.A. DE C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "SDNTK"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "BOUTIQUE PATRACA"
+      ],
+      "ids": [
+        {
+          "type": "R.F.C.",
+          "number": "PAT040318GF7",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Calle Miguel Hgo No. 302, Col. Centro",
+          "city": "Culiacan",
+          "state": "Sinaloa",
+          "country": "MX"
+        },
+        {
+          "address1": "Ave. Alvaro Obregon No. 1800, 74M, Col. Colinas de San Miguel",
+          "city": "Culiacan",
+          "state": "Sinaloa",
+          "postal_code": "80228",
+          "country": "MX"
+        },
+        {
+          "address1": "Col. Proyecto Urbano Tres Rios",
+          "city": "Culiacan",
+          "state": "Sinaloa",
+          "country": "MX"
+        },
+        {
+          "address1": "Calle Benito Juarez, No. 302, Col. Centro",
+          "city": "Culiacan",
+          "state": "Sinaloa",
+          "country": "MX"
+        },
+        {
+          "address1": "Calle Benito Juarez 302 A altos S/N, Col. Centro",
+          "city": "Culiacan",
+          "state": "Sinaloa",
+          "country": "MX"
+        },
+        {
+          "address1": "Alvaro Obregon y Cerro de Montelargo Local 74M, 75M, 76M, 7 Colinas de San Miguel",
+          "city": "Culiacan",
+          "postal_code": "80228",
+          "country": "MX"
+        },
+        {
+          "address1": "Ave Alvaro Obregon No. 1800, 74M, Col. Colinas de San Miguel",
+          "city": "Culiacan",
+          "state": "Sinaloa",
+          "postal_code": "80228",
+          "country": "MX"
+        },
+        {
+          "address1": "Cll Jose Diego Valadez Rios 16, Plaza Patraca PB-24, Proyecto Urbano Tres Rios, Culiacan Rosales",
+          "city": "Culiacan",
+          "postal_code": "80000",
+          "country": "MX"
+        },
+        {
+          "address1": "Cll Jose Diego Valadez Rios 16, Plaza Patraca PB-16, Proyecto Urbano Tres Rios, Culiacan Rosales",
+          "city": "Culiacan",
+          "postal_code": "80000",
+          "country": "MX"
+        },
+        {
+          "address1": "Cll Jose Diego Valadez Rios 16, Plaza Patraca PB-39, Proyecto Urbano Tres Rios, Culiacan Rosales",
+          "city": "Culiacan",
+          "postal_code": "80000",
+          "country": "MX"
+        },
+        {
+          "address1": "Cll Jose Diego Valadez Rios No. 1676, Col. Proyecto Urbano Tres Rios",
+          "city": "Culiacan",
+          "state": "Sinaloa",
+          "postal_code": "80000",
+          "country": "MX"
+        },
+        {
+          "address1": "Cll Jose Diego Valadez Rios No. 1676, 16, Col. Proyecto Urbano Tres Rios",
+          "city": "Culiacan",
+          "state": "Sinaloa",
+          "postal_code": "80000",
+          "country": "MX"
+        },
+        {
+          "address1": "Avenida Jose Maria Morelos 302 Pte, Local 3, Col. Sector Culiacan Centro",
+          "city": "Culiacan",
+          "state": "Sinaloa",
+          "postal_code": "80000",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 28301,
+      "name": "Maraya",
+      "entry_type": "Vessel",
+      "programs": [
+        "LIBYA3"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Med Patron"
+      ],
+      "ids": [
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 7514517",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 48385,
+      "name": "PROTOPOVICH Tatyana",
+      "entry_type": "Individual",
+      "programs": [
+        "BELARUS-EO14038"
+      ],
+      "countries": [
+        "BY"
+      ],
+      "list_type": "SDN",
+      "dob": "1996-03-24",
+      "nationalities": [],
+      "aliases": [
+        "Protopovich Tayuana"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "4240396A013PB6",
+          "country": "Belarus"
+        },
+        {
+          "type": "Passport",
+          "number": "MP4133985",
+          "country": "Belarus"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Praspiekt Dziarzynsakaha, 82",
+          "address2": "Flat 227",
+          "city": "Minsk",
+          "postal_code": "22089",
+          "country": "BY"
+        }
+      ]
+    }
+  ],
+  "updates": []
+}
