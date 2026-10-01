@@ -1,0 +1,1253 @@
+{
+  "date": "2026-10-01",
+  "period": "2026-10-01",
+  "summary": {
+    "added": 31,
+    "removed": 0,
+    "updated": 2
+  },
+  "additions": [
+    {
+      "uid": 58626,
+      "name": "A7 Network",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "KG",
+        "NG",
+        "RU",
+        "ZW"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58761,
+      "name": "Iran Khodro Company",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0631\u06a9\u062a \u0627\u06cc\u0631\u0627\u0646 \u062e\u0648\u062f\u0631\u0648 \u0633\u0647\u0627\u0645\u06cc \u0639\u0644\u0645",
+        "Iran Khodro Industrial Group Company",
+        "Iran Khodro Industrial Group Company Public Joint Stock"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "10100360794",
+          "country": "Iran"
+        },
+        {
+          "type": "Registration Number",
+          "number": "8352",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "No. 1 Door, Iran Khodro Blvd, (Kilometer 14 of Karaj Special Road), Tehran-Karaj Special Road, District 21",
+          "city": "Tehran",
+          "state": "Tehran",
+          "country": "IR"
+        },
+        {
+          "address1": "PO Box 13895-111",
+          "city": "Tehran",
+          "state": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58762,
+      "name": "Pars Khodro Company",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0631\u06a9\u062a \u067e\u0627\u0631\u0633 \u062e\u0648\u062f\u0631\u0648 \u0633\u0647\u0627\u0645\u06cc \u0639\u0644\u0645",
+        "Pars Khodro Public Joint Stock Company"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "16832",
+          "country": "Iran"
+        },
+        {
+          "type": "National ID No.",
+          "number": "10100599444",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Pars Khodro Complex, KM 9 Special Road, Tehran-Karaj Special Road, District 21",
+          "city": "Tehran",
+          "state": "Tehran",
+          "country": "IR"
+        },
+        {
+          "address1": "PO Box 13445 377",
+          "city": "Tehran",
+          "state": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58763,
+      "name": "Zamyad Company",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0631\u06a9\u062a \u0632\u0627\u0645\u06cc\u0627\u062f \u0633\u0647\u0627\u0645\u06cc \u0639\u0644\u0645",
+        "Zamyad Public Joint Stock Company"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "8682",
+          "country": "Iran"
+        },
+        {
+          "type": "National ID No.",
+          "number": "10100370594",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Km 15 Fath Expressway (Karaj Tehran Old Road), District 21",
+          "city": "Tehran",
+          "state": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58764,
+      "name": "Iran Khodro Diesel Company",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0631\u06a9\u062a \u0627\u06cc\u0631\u0627\u0646 \u062e\u0648\u062f\u0631\u0648 \u062f\u06cc\u0632\u0644 \u0633\u0647\u0627\u0645\u06cc \u0639\u0644\u0645"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "7174",
+          "country": "Iran"
+        },
+        {
+          "type": "National ID No.",
+          "number": "10100326014",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Iran Khodro Diesel Boulevard, 14th km, Azadegan Beltway, P.O. Box: 13185-736",
+          "city": "Tehran",
+          "country": "IR"
+        },
+        {
+          "address1": "Ground Floor, No 480, Sa'idi Expy (Chahardangeh City - Gol Sahra - Shohadaye Iran Khodro Diesel Blvd), Fourth Division, Eslamshahr",
+          "city": "Tehran",
+          "state": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58765,
+      "name": "ISLAMIC REPUBLIC OF IRAN RAILWAY COMPANY",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0631\u06a9\u062a \u0631\u0627\u0647 \u0622\u0647\u0646 \u062c\u0645\u0647\u0648\u0631\u064a \u0627\u0633\u0644\u0627\u0645\u064a \u0627\u064a\u0631\u0627\u0646 \u0633\u0647\u0627\u0645\u064a \u062e\u0627\u0635",
+        "The Railways of Islamic Republic of Iran Company"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "70644",
+          "country": "Iran"
+        },
+        {
+          "type": "Company Number",
+          "number": "10101155744",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Ground Floor, Railway Central Building",
+          "address2": "No. 0, Dadman Boulevard",
+          "address3": "Argentina Square, District 6",
+          "city": "Tehran",
+          "state": "Tehran Province",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58766,
+      "name": "RAJA PASSENGER TRAINS COMPANY",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0631\u06a9\u062a \u0642\u0637\u0627\u0631\u0647\u0627\u06cc \u0645\u0633\u0627\u0641\u0631\u06cc \u0631\u062c\u0627\u0621",
+        "Raja Rail Transportation Company"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "128209",
+          "country": "Iran"
+        },
+        {
+          "type": "Company Number",
+          "number": "10100029590",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "No. 159, Karim Khan Zand St.",
+          "address2": "Sanaee St. Intersection",
+          "city": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58767,
+      "name": "Sherkat-e Rah Ahan-e Khamle-o-Naghle",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0631\u06a9\u062a \u0631\u0627\u0647 \u0622\u0647\u0646 \u062d\u0645\u0644 \u0648 \u0646\u0642\u0644 \u0633\u0647\u0627\u0645\u064a \u062e\u0627\u0635",
+        "Railway Transportation Company"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "96201",
+          "country": "Iran"
+        },
+        {
+          "type": "Company Number",
+          "number": "10101402621",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "No. 124, Nosrat Street",
+          "address2": "North Kargar Street, District 6",
+          "city": "Tehran",
+          "state": "Tehran Province",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58768,
+      "name": "SAIPA Iranian Automobile Manufacturing Company",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0631\u06a9\u062a \u0627\u06cc\u0631\u0627\u0646\u06cc \u062a\u0648\u0644\u06cc\u062f \u0627\u062a\u0648\u0645\u0628\u06cc\u0644 \u0633\u0627\u06cc\u067e\u0627 \u0633\u0647\u0627\u0645\u06cc \u0639\u0627\u0645",
+        "Saipa Holding Company",
+        "Iranian Automobile Manufacturing Company Saipa Public Joint Stock"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "11331",
+          "country": "Iran"
+        },
+        {
+          "type": "National ID No.",
+          "number": "10100448712",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Ground Floor, No 0, 53rd Street (Tehran Expressway - Karaj Shahid Famideh), Vila Shahr, District 12",
+          "city": "Tehran",
+          "state": "Tehran",
+          "country": "IR"
+        },
+        {
+          "address1": "PO Box address 13445-1554",
+          "city": "Tehran",
+          "state": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58769,
+      "name": "KESHVARDOUST Ramin",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13871"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": "1983-05-20",
+      "nationalities": [],
+      "aliases": [
+        "\u06a9\u0634\u0648\u0631\u062f\u0648\u0633\u062a \u0631\u0627\u0645\u06cc\u0646"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0063416611",
+          "country": "Iran"
+        },
+        {
+          "type": "Passport",
+          "number": "W55497664",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 58770,
+      "name": "SHANGHAI RUIMI IMPORT AND EXPORT TRADE CO., LTD.",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13871"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u4e0a\u6d77\u777f\u5f25\u8fdb\u51fa\u53e3\u8d38\u6613\u6709\u9650\u516c\u53f8"
+      ],
+      "ids": [
+        {
+          "type": "Unified Social Credit Code (USCC)",
+          "number": "91310115MA1K49TG93",
+          "country": "China"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "1125, No. 35 Rijing Road",
+          "address2": "China Pilot Free Trade Zone",
+          "city": "Shanghai",
+          "postal_code": "200000",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 58771,
+      "name": "M AND R STEEL CO., LTD.",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13871"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Beijing M & R Steel Co., Ltd.",
+        "\u5317\u4eac\u6da6\u8fbe\u68ee\u8fdb\u51fa\u53e3\u8d38\u6613\u6709\u9650\u516c\u53f8"
+      ],
+      "ids": [
+        {
+          "type": "Unified Social Credit Code (USCC)",
+          "number": "91110105674279546N",
+          "country": "China"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Unit 3005, Building 5, Wanda Plaza No. 93, Jian'guo Road",
+          "address2": "Chaoyang District",
+          "city": "Beijing",
+          "postal_code": "100022",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 58772,
+      "name": "Silver Line Metal Trading LLC",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13871"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0633\u064a\u0644\u0641\u0631 \u0644\u0627\u064a\u0646 \u0644\u062a\u062c\u0627\u0631\u0629 \u0627\u0644\u0645\u0639\u0627\u062f\u0646 \u0630 \u0645 \u0645"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "1462050",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "License",
+          "number": "860601",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Chamber of Commerce Number",
+          "number": "330015",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Economic Register Number (CBLS)",
+          "number": "11429991",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Office 2813, Burj Khalifa, Bur Dubai",
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 58773,
+      "name": "FIDAR FOOLAD RADMAN",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13871"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0631\u06a9\u062a \u0641\u06cc\u062f\u0627\u0631 \u0641\u0648\u0644\u0627\u062f \u0631\u0627\u062f\u0645\u0627\u0646"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "525217",
+          "country": "Iran"
+        },
+        {
+          "type": "National ID No.",
+          "number": "14007529243",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "No. 35, 2nd Floor, Northeast Unit, Raz Boulevard, Ammar Street",
+          "address2": "Farmanieh",
+          "city": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58774,
+      "name": "Tech-Trade International Impex GMBH",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13871"
+      ],
+      "countries": [
+        "DE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Trade License No.",
+          "number": "HRB 82099",
+          "country": "Germany"
+        },
+        {
+          "type": "Registration Number",
+          "number": "DER1101.HRB82099",
+          "country": "Germany"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Engelbertstrasse 13a",
+          "city": "Hilden",
+          "postal_code": "40724",
+          "country": "DE"
+        }
+      ]
+    },
+    {
+      "uid": 58775,
+      "name": "HAMEDANI Mehnoosh Poursaraf",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13871"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": "1984-03-07",
+      "nationalities": [],
+      "aliases": [
+        "\u0647\u0645\u062f\u0627\u0646\u06cc \u0645\u0647\u0646\u0648\u0634 \u067e\u0648\u0631\u0635\u0631\u0627\u0641"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0058172041",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58776,
+      "name": "Traco International FZE",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13871"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u062a\u0631\u0627\u0643\u0648 \u0625\u0646\u062a\u0631\u0646\u0627\u0634\u0648\u0646\u0627\u0644 \u0645.\u0645.\u062d"
+      ],
+      "ids": [
+        {
+          "type": "License",
+          "number": "5024613",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Economic Register Number (CBLS)",
+          "number": "11769621",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Ras Al Khaimah",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 58777,
+      "name": "KGT TRADING LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "76093900",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Room 31, 1/F, Shing Lee Commercial Building, 8 Wing Kut Street",
+          "address2": "Central",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 58778,
+      "name": "DOMINION TRADING GROUP LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Xinyi International Development Co., Limited"
+      ],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "77222102",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Rm 40H, Blk AD, 19/F, Golden Bear Ind. Ctr., 66-82 Chai Wan Kok St.",
+          "address2": "Tsuen Wan",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 58779,
+      "name": "Integrated Auto Parts LLC",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0627\u0646\u062a\u062c\u0631\u064a\u062a\u062f \u0644\u0642\u0637\u0639 \u063a\u064a\u0627\u0631 \u0627\u0644\u0633\u064a\u0627\u0631\u0627\u062a \u0630 \u0645 \u0645"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "52576",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "License",
+          "number": "510808",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Chamber of Commerce Number",
+          "number": "53473",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Economic Register Number (CBLS)",
+          "number": "10800499",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Office No 1708",
+          "address2": "Burj Khalifa, Bur Dubai",
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 58780,
+      "name": "Heavy Equipment Production Company",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0631\u06a9\u062a \u062a\u0648\u0644\u06cc\u062f \u062a\u062c\u0647\u06cc\u0632\u0627\u062a \u0633\u0646\u06af\u06cc\u0646 \u0647\u067e\u06a9\u0648",
+        "HEPCO"
+      ],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "10100594509",
+          "country": "Iran"
+        },
+        {
+          "type": "Registration Number",
+          "number": "16584",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Ground Floor",
+          "address2": "No. 102 Somayyeh Street, Ramsar Street",
+          "address3": "Government Gate",
+          "city": "Tehran",
+          "state": "Tehran",
+          "postal_code": "1581875513",
+          "country": "IR"
+        },
+        {
+          "address1": "HEPCO Manufacturing Complex",
+          "address2": "Shahid Bakhtiari Boulevard",
+          "address3": "San'at Square",
+          "city": "Arak",
+          "state": "Markazi",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58781,
+      "name": "HEPCO Shanghai Co., Ltd.",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u8d6b\u4e16\u6d66\u4e0a\u6d77\u673a\u68b0\u8d38\u6613\u6709\u9650\u516c\u53f8",
+        "HESHIPU SHANGHAI MACHINERY TRADING CO., LTD",
+        "Shanghai Hepco Ltd."
+      ],
+      "ids": [
+        {
+          "type": "Unified Social Credit Code (USCC)",
+          "number": "913100005741324917",
+          "country": "China"
+        },
+        {
+          "type": "Registration Number",
+          "number": "310115400269442",
+          "country": "China"
+        },
+        {
+          "type": "Enterprise Number",
+          "number": "3100574132491",
+          "country": "China"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Room C-25, 6th Floor",
+          "address2": "Building 1, No. 198, Huashen Road",
+          "address3": "China (Shanghai) Pilot Free Trade Zone, Pudong New Area",
+          "city": "Shanghai",
+          "postal_code": "200135",
+          "country": "CN"
+        },
+        {
+          "address1": "Block E",
+          "address2": "16 F, Huadu Mansion",
+          "address3": "No. 858 Zhangyang Rd.",
+          "city": "Shanghai",
+          "postal_code": "200135",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 58782,
+      "name": "BONASOL GROUP CO., LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Lida Shine Group Limited"
+      ],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "75524718",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Unit 2610, 26/F, Apec Plaza, 49 Hoi Yuen Road",
+          "address2": "Kowloon",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 58783,
+      "name": "MEIZI CO., LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "77473995",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Rm 205, 2/F, Kwong On Bank Mongkok Branch Bldg Unit C, 728-730 Nathan Rd",
+          "address2": "Mongkok",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 58784,
+      "name": "EAST CONCORD DEVELOPMENT LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "77164714",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Rm 2610, 26/F, Apec Plz, 49 Hoi Yuen Rd",
+          "address2": "Kwun Tong",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 58785,
+      "name": "PT Golden Motorcycle International",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "ID"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Golden Motorcycle International Ltd"
+      ],
+      "ids": [
+        {
+          "type": "Tax ID No.",
+          "number": "0626345219017000",
+          "country": "Indonesia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "GKM Green Tower Lantai 20",
+          "address2": "Jalan TB Simatupang Kav. 89G",
+          "address3": "Kota Admin. Jakarta Selatan",
+          "state": "DKI Jakarta",
+          "postal_code": "12520",
+          "country": "ID"
+        },
+        {
+          "address1": "J1. Raya Narogong No. 22",
+          "address2": "Tlajung Udik, Kec. Klapanunggal",
+          "city": "Kabupaten Bogar",
+          "state": "Jawa Barat",
+          "postal_code": "16710",
+          "country": "ID"
+        }
+      ]
+    },
+    {
+      "uid": 58786,
+      "name": "Troy Trading Arac Parcalari Sanayi Ve Ticaret Limited Sirketi",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "TR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "TROY TRAD\u0130NG ARA\u00c7 PAR\u00c7ALARI SANAY\u0130 VE T\u0130CARET L\u0130M\u0130TED \u015e\u0130RKET\u0130"
+      ],
+      "ids": [
+        {
+          "type": "Tax ID No.",
+          "number": "8591058042",
+          "country": "Turkey"
+        },
+        {
+          "type": "Chamber of Commerce Number",
+          "number": "1175145",
+          "country": "Turkey"
+        },
+        {
+          "type": "Registration Number",
+          "number": "185360-5",
+          "country": "Turkey"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Tahtakale Mah. Firat 1",
+          "address2": "Cad. Bahce City Sitesi B Blok No: 4/1 IC Kapi N: 57",
+          "city": "Avicilar",
+          "state": "Istanbul",
+          "country": "TR"
+        }
+      ]
+    },
+    {
+      "uid": 58787,
+      "name": "Hessenberg Co., Limited",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u6d77\u68ee\u5821\u6709\u9650\u516c\u53f8",
+        "Jedburgh Co., Limited",
+        "\u5091\u5fb7\u5821\u6709\u9650\u516c\u53f8"
+      ],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "75302415",
+          "country": "Hong Kong"
+        },
+        {
+          "type": "Trade License No.",
+          "number": "3277708",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "1320, Unit A, 13/F Wing Tai Centre",
+          "address2": "12 Hing Yip Street",
+          "address3": "Kowloon",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 58788,
+      "name": "Tanex Global Trading Hong Kong Limited",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "73176480",
+          "country": "Hong Kong"
+        },
+        {
+          "type": "Company Number",
+          "number": "3066901",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Room D10 9/F, Camelpaint Building Block 2",
+          "address2": "62 Hoi Yuen Road",
+          "address3": "Kwun Tong, Kowloon",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 58789,
+      "name": "Niroo Motor Shiraz Industrial and Manufacturing Company",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0631\u06a9\u062a \u062a\u0648\u0644\u06cc\u062f\u06cc \u0648 \u0635\u0646\u0639\u062a\u06cc \u0646\u06cc\u0631\u0648 \u0645\u0648\u062a\u0648\u0631 \u0634\u06cc\u0631\u0627\u0632",
+        "Niroo Motor Company"
+      ],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "200521",
+          "country": "Iran"
+        },
+        {
+          "type": "National ID No.",
+          "number": "10102422801",
+          "country": "Iran"
+        },
+        {
+          "type": "Registration Number",
+          "number": "411134851895",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Beheshti Street, No. 69",
+          "address2": "Niroo Motor Building",
+          "city": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58790,
+      "name": "Niroo Motor Damavand Company",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0631\u06a9\u062a \u0646\u06cc\u0631\u0648 \u0645\u0648\u062a\u0648\u0631 \u062f\u0645\u0627\u0648\u0646\u062f"
+      ],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "507567",
+          "country": "Iran"
+        },
+        {
+          "type": "National ID No.",
+          "number": "14006666240",
+          "country": "Iran"
+        },
+        {
+          "type": "Registration Number",
+          "number": "411546754799",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "3rd Floor, No. 127, Khaled Islambouli Street",
+          "address2": "Shahid Masoud Ahmadian Street",
+          "address3": "Argentina-Saei",
+          "city": "Tehran",
+          "postal_code": "1513833115",
+          "country": "IR"
+        }
+      ]
+    }
+  ],
+  "removals": [],
+  "updates": [
+    {
+      "uid": 56919,
+      "name": "FLUXUS MARINE INC",
+      "changes": {
+        "countries": {
+          "old": [
+            "GE",
+            "KZ"
+          ],
+          "new": [
+            "GE"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 57761,
+      "name": "EVER SHINING LTD",
+      "changes": {
+        "name": {
+          "old": "EVER SHINING LIMITED",
+          "new": "EVER SHINING LTD"
+        }
+      }
+    }
+  ]
+}
