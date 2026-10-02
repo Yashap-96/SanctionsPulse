@@ -155,8 +155,8 @@
     "daily_removed": 0
   },
   "FR": {
-    "total": 44,
-    "sdn": 44,
+    "total": 48,
+    "sdn": 48,
     "consolidated": 0,
     "programs": [
       "CUBA",
@@ -173,7 +173,7 @@
       "LEBANON",
       "IRAN-EO13902"
     ],
-    "daily_added": 0,
+    "daily_added": 4,
     "daily_removed": 0
   },
   "IT": {
@@ -293,7 +293,7 @@
       "RUSSIA-EO14024",
       "FTO"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "GY": {
@@ -391,7 +391,7 @@
       "PAIPA",
       "CUBA-EO14404"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "BG": {
@@ -622,7 +622,7 @@
       "ILLICIT-DRUGS-EO14059",
       "CYBER4"
     ],
-    "daily_added": 12,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "AF": {
@@ -964,7 +964,7 @@
       "HKAA",
       "CMIC-EO13959"
     ],
-    "daily_added": 12,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "ET": {
@@ -1093,7 +1093,7 @@
       "IRAN-EO13902",
       "CAATSA - RUSSIA"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "HR": {
@@ -1184,7 +1184,7 @@
       "IRAN-EO13846",
       "IRAN-EO13902"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "ZW": {
@@ -1195,7 +1195,7 @@
       "GLOMAG",
       "TCO"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "DK": {
@@ -1394,7 +1394,7 @@
       "PAIPA",
       "CAATSA - RUSSIA"
     ],
-    "daily_added": 3,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "DO": {
@@ -2073,7 +2073,7 @@
       "NPWMD",
       "TCO"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "HN": {
@@ -2266,7 +2266,7 @@
       "CYBER4",
       "TCO"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "SC": {

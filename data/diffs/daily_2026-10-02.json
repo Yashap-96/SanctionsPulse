@@ -1,0 +1,209 @@
+{
+  "date": "2026-10-02",
+  "period": "2026-10-02",
+  "summary": {
+    "added": 5,
+    "removed": 0,
+    "updated": 0
+  },
+  "additions": [
+    {
+      "uid": 57717,
+      "name": "Al-Zaq Saleem Abdallah Saleem",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": "1981-05-12",
+      "nationalities": [],
+      "aliases": [
+        "\u0627\u0644\u0632\u0642 \u0633\u0644\u064a\u0645 \u0639\u0628\u062f \u0627\u0644\u0644\u0647 \u0633\u0644\u064a\u0645",
+        "Zak Salim",
+        "Alzaq Saleem A.S."
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "909097131",
+          "country": "Palestinian"
+        },
+        {
+          "type": "Passport",
+          "number": "5428093",
+          "country": "Palestinian"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "region": "Gaza",
+          "address1": "Mailbox 5151",
+          "address2": "Baghdad Street",
+          "address3": "Shujaiyyah",
+          "country": ""
+        },
+        {
+          "region": "Gaza",
+          "address1": "Mailbox 119",
+          "address2": "Baghdad Street",
+          "address3": "Shujaiyyah",
+          "country": ""
+        }
+      ]
+    },
+    {
+      "uid": 57718,
+      "name": "Barika Faouzi",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "FR"
+      ],
+      "list_type": "SDN",
+      "dob": "1991-02-13",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Driver's License No.",
+          "number": "140968401047",
+          "country": "France"
+        },
+        {
+          "type": "Passport",
+          "number": "14CV66604",
+          "country": "France"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "227 Chemin de Bois Milon",
+          "city": "St. Andrew de Cubzac",
+          "postal_code": "33240",
+          "country": "FR"
+        },
+        {
+          "address1": "6 Impasse Marie Louise Gachet",
+          "city": "St. Andrew de Cubzac",
+          "postal_code": "33240",
+          "country": "FR"
+        }
+      ]
+    },
+    {
+      "uid": 57719,
+      "name": "Oualid Amel",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "FR"
+      ],
+      "list_type": "SDN",
+      "dob": "1987-07-03",
+      "nationalities": [],
+      "aliases": [
+        "Bouchekif Amel"
+      ],
+      "ids": [
+        {
+          "type": "Driver's License No.",
+          "number": "180642351327",
+          "country": "France"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "58 rue Parmentier",
+          "city": "Saint Etienne",
+          "postal_code": "42100",
+          "country": "FR"
+        },
+        {
+          "address1": "52 BD Antonia Vivaldi",
+          "city": "Saint Etienne",
+          "postal_code": "42000",
+          "country": "FR"
+        },
+        {
+          "address1": "37 rue de Molina",
+          "city": "Saint Etienne",
+          "country": "FR"
+        }
+      ]
+    },
+    {
+      "uid": 57720,
+      "name": "Association Baraka",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "FR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registered Charity No.",
+          "number": "W331005557",
+          "country": "France"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "6 Impasse Marie Louise Gachet",
+          "city": "St. Andrew de Cubzac",
+          "postal_code": "33240",
+          "country": "FR"
+        }
+      ]
+    },
+    {
+      "uid": 57721,
+      "name": "Ensemble C Mieux",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "FR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Together It's Better"
+      ],
+      "ids": [
+        {
+          "type": "Registered Charity No.",
+          "number": "W423015492",
+          "country": "France"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "58 rue Parmentier",
+          "city": "Saint Etienne",
+          "postal_code": "42100",
+          "country": "FR"
+        }
+      ]
+    }
+  ],
+  "removals": [],
+  "updates": []
+}
