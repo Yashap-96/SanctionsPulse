@@ -46,7 +46,7 @@
       "IRAN-EO13846"
     ],
     "daily_added": 0,
-    "daily_removed": 8
+    "daily_removed": 0
   },
   "CH": {
     "total": 83,
@@ -76,7 +76,7 @@
       "IRAN-EO13902"
     ],
     "daily_added": 0,
-    "daily_removed": 1
+    "daily_removed": 0
   },
   "ES": {
     "total": 52,
@@ -133,7 +133,7 @@
       "SUDAN-EO14098"
     ],
     "daily_added": 0,
-    "daily_removed": 4
+    "daily_removed": 0
   },
   "MX": {
     "total": 1213,
@@ -150,7 +150,7 @@
       "VENEZUELA-EO13850"
     ],
     "daily_added": 0,
-    "daily_removed": 10
+    "daily_removed": 0
   },
   "FR": {
     "total": 48,
@@ -194,7 +194,7 @@
       "ILLICIT-DRUGS-EO14059"
     ],
     "daily_added": 0,
-    "daily_removed": 1
+    "daily_removed": 0
   },
   "AR": {
     "total": 19,
@@ -513,7 +513,7 @@
       "SUDAN-EO14098"
     ],
     "daily_added": 0,
-    "daily_removed": 1
+    "daily_removed": 0
   },
   "LB": {
     "total": 361,
@@ -537,7 +537,7 @@
       "BELARUS-EO14038"
     ],
     "daily_added": 0,
-    "daily_removed": 2
+    "daily_removed": 0
   },
   "CO": {
     "total": 293,
@@ -554,7 +554,7 @@
       "SUDAN-EO14098"
     ],
     "daily_added": 0,
-    "daily_removed": 65
+    "daily_removed": 0
   },
   "SY": {
     "total": 300,
@@ -770,7 +770,7 @@
       "PAARSSR-EO13894"
     ],
     "daily_added": 0,
-    "daily_removed": 11
+    "daily_removed": 0
   },
   "ER": {
     "total": 4,
@@ -829,7 +829,7 @@
       "ILLICIT-DRUGS-EO14059"
     ],
     "daily_added": 0,
-    "daily_removed": 1
+    "daily_removed": 0
   },
   "ZA": {
     "total": 48,
@@ -958,7 +958,7 @@
       "CMIC-EO13959"
     ],
     "daily_added": 0,
-    "daily_removed": 1
+    "daily_removed": 0
   },
   "ET": {
     "total": 5,
@@ -1031,7 +1031,7 @@
       "IRAN-CON-ARMS-EO"
     ],
     "daily_added": 0,
-    "daily_removed": 21
+    "daily_removed": 0
   },
   "RS": {
     "total": 50,
@@ -1114,7 +1114,7 @@
       "IFSR"
     ],
     "daily_added": 0,
-    "daily_removed": 1
+    "daily_removed": 0
   },
   "SD": {
     "total": 46,
@@ -1345,7 +1345,7 @@
       "ILLICIT-DRUGS-EO14059"
     ],
     "daily_added": 0,
-    "daily_removed": 3
+    "daily_removed": 0
   },
   "AE": {
     "total": 762,
@@ -1534,7 +1534,7 @@
       "CYBER4"
     ],
     "daily_added": 0,
-    "daily_removed": 1
+    "daily_removed": 0
   },
   "NO": {
     "total": 5,
@@ -1651,7 +1651,7 @@
       "ILLICIT-DRUGS-EO14059"
     ],
     "daily_added": 0,
-    "daily_removed": 2
+    "daily_removed": 0
   },
   "AU": {
     "total": 6,
@@ -2396,7 +2396,7 @@
       "CMIC-EO13959"
     ],
     "daily_added": 0,
-    "daily_removed": 2
+    "daily_removed": 0
   },
   "GQ": {
     "total": 2,
@@ -2721,13 +2721,5 @@
     ],
     "daily_added": 0,
     "daily_removed": 0
-  },
-  "VU": {
-    "total": 0,
-    "sdn": 0,
-    "consolidated": 0,
-    "programs": [],
-    "daily_added": 0,
-    "daily_removed": 2
   }
 }
