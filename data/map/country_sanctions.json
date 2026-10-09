@@ -45,7 +45,7 @@
       "CAATSA - RUSSIA",
       "IRAN-EO13846"
     ],
-    "daily_added": 2,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "CH": {
@@ -425,8 +425,8 @@
     "daily_removed": 0
   },
   "NL": {
-    "total": 64,
-    "sdn": 62,
+    "total": 65,
+    "sdn": 63,
     "consolidated": 2,
     "programs": [
       "CUBA",
@@ -443,7 +443,7 @@
       "IRAN-CON-ARMS-EO",
       "UKRAINE-EO13662"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "PL": {
@@ -617,7 +617,7 @@
       "ILLICIT-DRUGS-EO14059",
       "CYBER4"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "AF": {
@@ -638,8 +638,8 @@
     "daily_removed": 0
   },
   "MM": {
-    "total": 189,
-    "sdn": 188,
+    "total": 188,
+    "sdn": 187,
     "consolidated": 1,
     "programs": [
       "SDNTK",
@@ -651,7 +651,7 @@
       "CYBER4"
     ],
     "daily_added": 0,
-    "daily_removed": 0
+    "daily_removed": 1
   },
   "IE": {
     "total": 8,
@@ -957,7 +957,7 @@
       "HKAA",
       "CMIC-EO13959"
     ],
-    "daily_added": 5,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "ET": {
@@ -1009,7 +1009,7 @@
       "NPWMD",
       "SUDAN-EO14098"
     ],
-    "daily_added": 7,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "IQ": {
@@ -1086,7 +1086,7 @@
       "IRAN-EO13902",
       "CAATSA - RUSSIA"
     ],
-    "daily_added": 4,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "HR": {
@@ -1386,7 +1386,7 @@
       "PAIPA",
       "CAATSA - RUSSIA"
     ],
-    "daily_added": 3,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "DO": {
@@ -1438,7 +1438,7 @@
       "VENEZUELA-EO13850",
       "CMIC-EO13959"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "BR": {
@@ -2186,7 +2186,7 @@
       "UKRAINE-EO13662",
       "VENEZUELA-EO13850"
     ],
-    "daily_added": 10,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "LR": {
