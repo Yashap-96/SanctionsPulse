@@ -443,7 +443,7 @@
       "IRAN-CON-ARMS-EO",
       "UKRAINE-EO13662"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "PL": {
@@ -651,7 +651,7 @@
       "CYBER4"
     ],
     "daily_added": 0,
-    "daily_removed": 1
+    "daily_removed": 0
   },
   "IE": {
     "total": 8,
