@@ -1,0 +1,473 @@
+{
+  "date": "2026-10-13",
+  "period": "2026-10-13",
+  "summary": {
+    "added": 15,
+    "removed": 0,
+    "updated": 0
+  },
+  "additions": [
+    {
+      "uid": 58416,
+      "name": "Tamex Logistics",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Tamex Leasing"
+      ],
+      "ids": [
+        {
+          "type": "Codigo Alfanumerico Armonizado del Transportista (CAAT)",
+          "number": "7547",
+          "country": "Mexico"
+        },
+        {
+          "type": "Standard Carrier Alpha Code (SCAC)",
+          "number": "TLOJ",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Villa de Hidalgo 239",
+          "address2": "Granjas Guzman",
+          "city": "Nuevo Laredo",
+          "state": "Tamaulipas",
+          "postal_code": "88293",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58417,
+      "name": "Inzunza Francisco Javier Partida",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1986-11-21",
+      "nationalities": [],
+      "aliases": [
+        "Amador Inzunza Francisco",
+        "Pancho Amador"
+      ],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "IUPF861121HCLNRR09",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58418,
+      "name": "Distribuidora de Gas Economico, S.A. de C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "N-2025031155",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Nuevo Laredo",
+          "state": "Tamaulipas",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58419,
+      "name": "Garza Gamaliel Garcia",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1974-10-23",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "GAGG741023HNLRRM06",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Anahuac",
+          "state": "Nuevo Leon",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58420,
+      "name": "Elias Gamaliel Garza",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1997-07-10",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "GAEG970710HTSRLM04",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Anahuac",
+          "state": "Nuevo Leon",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58421,
+      "name": "Construcciones y Edificaciones Garza Elias, S.A. de C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "CEGESA S.A. de C.V.",
+        "CEGESA"
+      ],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "5576",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Anahuac",
+          "state": "Nuevo Leon",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58422,
+      "name": "Cuadra San Dibanh",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Anahuac",
+          "state": "Nuevo Leon",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58423,
+      "name": "Club La Molienda",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "La Molienda Race Track",
+        "Restaurant Bar La Molienda"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Nuevo Laredo",
+          "state": "Tamaulipas",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58424,
+      "name": "Pablo Cesar Alvarez Guajardo",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": "1998-12-29",
+      "nationalities": [],
+      "aliases": [
+        "El Takia"
+      ],
+      "ids": [
+        {
+          "type": "C.U.R.P.",
+          "number": "GUAP981229HTSJLB08",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58425,
+      "name": "Construaceros del Fuerte, S.A. de C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "N-2024028434",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Nuevo Laredo",
+          "state": "Tamaulipas",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58426,
+      "name": "Gas Energia Confiable, S.A. de C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "N-2025036516",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Nuevo Laredo",
+          "state": "Tamaulipas",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58427,
+      "name": "Inova NLD Desarrollos Inmobilarios, S.A. de C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "N-2024082509",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Nuevo Laredo",
+          "state": "Tamaulipas",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58428,
+      "name": "Propane Trading Group, S.A. de C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "N-2025031199",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Nuevo Laredo",
+          "state": "Tamaulipas",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58429,
+      "name": "Transportadora de Gas de Nuevo Laredo, S.A. de C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "N-2025031250",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Nuevo Laredo",
+          "state": "Tamaulipas",
+          "country": "MX"
+        }
+      ]
+    },
+    {
+      "uid": 58430,
+      "name": "Concretos y Productos Asfalticos del Norte, S.A. de C.V.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Folio Mercantil No.",
+          "number": "N-2024024028",
+          "country": "Mexico"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Nuevo Laredo",
+          "state": "Tamaulipas",
+          "country": "MX"
+        }
+      ]
+    }
+  ],
+  "removals": [],
+  "updates": []
+}

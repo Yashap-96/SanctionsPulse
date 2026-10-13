@@ -136,8 +136,8 @@
     "daily_removed": 0
   },
   "MX": {
-    "total": 1213,
-    "sdn": 1213,
+    "total": 1228,
+    "sdn": 1228,
     "consolidated": 0,
     "programs": [
       "CUBA",
@@ -149,7 +149,7 @@
       "GLOMAG",
       "VENEZUELA-EO13850"
     ],
-    "daily_added": 0,
+    "daily_added": 15,
     "daily_removed": 0
   },
   "FR": {
