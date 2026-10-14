@@ -149,7 +149,7 @@
       "GLOMAG",
       "VENEZUELA-EO13850"
     ],
-    "daily_added": 15,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "FR": {
@@ -1325,8 +1325,8 @@
     "daily_removed": 0
   },
   "VE": {
-    "total": 255,
-    "sdn": 255,
+    "total": 254,
+    "sdn": 254,
     "consolidated": 0,
     "programs": [
       "SDGT",
@@ -1345,7 +1345,7 @@
       "ILLICIT-DRUGS-EO14059"
     ],
     "daily_added": 0,
-    "daily_removed": 0
+    "daily_removed": 1
   },
   "AE": {
     "total": 765,
