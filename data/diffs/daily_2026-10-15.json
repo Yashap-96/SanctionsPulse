@@ -1,0 +1,887 @@
+{
+  "date": "2026-10-15",
+  "period": "2026-10-15",
+  "summary": {
+    "added": 27,
+    "removed": 0,
+    "updated": 0
+  },
+  "additions": [
+    {
+      "uid": 58571,
+      "name": "International Development Bank for Investment and Finance",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IQ"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0645\u0635\u0631\u0641 \u0627\u0644\u062a\u0646\u0645\u064a\u0629 \u0627\u0644\u062f\u0648\u0644\u064a \u0644\u0644\u0627\u0633\u062a\u062b\u0645\u0627\u0631 \u0648\u0627\u0644\u062a\u0645\u0648\u064a\u0644",
+        "International Development Bank",
+        "Iraq Development Bank"
+      ],
+      "ids": [
+        {
+          "type": "Legal Entity Number",
+          "number": "2549001T72VRU0W37E62",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Arasat Ave, Karada",
+          "city": "Baghdad",
+          "country": "IQ"
+        },
+        {
+          "address1": "Karrada, Hay Babil Dist. 929, Arasat Ave., St No. 21, Building 1",
+          "city": "Baghdad",
+          "postal_code": "10069",
+          "country": "IQ"
+        }
+      ]
+    },
+    {
+      "uid": 58930,
+      "name": "Mohammadi Zhila",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1991-06-28",
+      "nationalities": [],
+      "aliases": [
+        "\u0645\u062d\u0645\u062f\u06cc \u0698\u06cc\u0644\u0627",
+        "Mohamadi Jela",
+        "Mohammadi Aliabad Zhila",
+        "\u0645\u062d\u0645\u062f\u06cc \u0639\u0644\u06cc \u0622\u0628\u0627\u062f \u0698\u06cc\u0644\u0627"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "5660004288",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58934,
+      "name": "Elitesphere Trading Co., Limited",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "76961842",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Rm 9042, 9/F, Block B",
+          "address2": "Chung Mei Centre",
+          "address3": "15-17 Hong Yip Street, Kwun Tong",
+          "city": "Hong Kong",
+          "country": "CN"
+        },
+        {
+          "address1": "Unit 11, 9/F, The Cloud",
+          "address2": "No. 111 Tuang Chau Street",
+          "address3": "Tai Koktsui, Kowloon",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 58935,
+      "name": "Seyyed Abbas Hosseini Parsa and Partners Qeshm General Partnership Company",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0631\u06a9\u062a \u062a\u0636\u0627\u0645\u0646\u06cc \u0633\u06cc\u062f \u0639\u0628\u0627\u0633 \u062d\u0633\u06cc\u0646\u06cc \u067e\u0627\u0631\u0633\u0627 \u0648 \u0634\u0631\u06a9\u0627 \u0642\u0634\u0645"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "5549",
+          "country": "Iran"
+        },
+        {
+          "type": "National ID No.",
+          "number": "14005927381",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Unit 2078, Ground Floor, Atta, Ferdowsi Qeshm Commercial Complex Passage, No. 0, Vali Asr Boulevard, Main Street",
+          "address2": "Sina Desert",
+          "address3": "Central District",
+          "city": "Qeshm",
+          "state": "Hormozgan",
+          "postal_code": "7951919639",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58936,
+      "name": "Mohiesnejad Khaled",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1982-09-21",
+      "nationalities": [],
+      "aliases": [
+        "\u0645\u062d\u06cc\u0633\u0646 \u0646\u0698\u0627\u062f \u062e\u0627\u0644\u062f"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "1754430317",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58937,
+      "name": "Hosseini Parsa Seyyed Abbas",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1956-07-15",
+      "nationalities": [],
+      "aliases": [
+        "\u062d\u0633\u06cc\u0646\u06cc \u067e\u0627\u0631\u0633\u0627 \u0633\u06cc\u062f \u0639\u0628\u0627\u0633"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0083131019",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58938,
+      "name": "Bavi Sadegh",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": "1964-03-21",
+      "nationalities": [],
+      "aliases": [
+        "\u0628\u0627\u0648\u06cc \u0635\u0627\u062f\u0642"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "N97128850",
+          "country": "Iran"
+        },
+        {
+          "type": "Passport",
+          "number": "RA045652",
+          "country": "Dominica"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 58939,
+      "name": "Bavi and Partners Exchange Company",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0631\u06a9\u062a \u0635\u0631\u0627\u0641\u06cc \u0628\u0627\u0648\u06cc \u0648 \u0634\u0631\u06a9\u0627\u0621"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "14013961908",
+          "country": "Iran"
+        },
+        {
+          "type": "Registration Number",
+          "number": "641804",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Unit 3, Floor 2, No. 114, Karim Khan Zand Boulevard, Mahshahr Street",
+          "address2": "Iranshahr",
+          "city": "Tehran",
+          "postal_code": "1584773815",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58940,
+      "name": "ABOLHASAN JALALI AND PARTNERS EXCHANGE COMPANY",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0631\u06a9\u062a \u0635\u0631\u0627\u0641\u06cc \u0627\u0628\u0648\u0627\u0644\u062d\u0633\u0646 \u062c\u0644\u0627\u0644\u06cc \u0648 \u0634\u0631\u06a9\u0627",
+        "Jalali and Partners General Partnership Company"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "14150",
+          "country": "Iran"
+        },
+        {
+          "type": "National ID No.",
+          "number": "14005814280",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Ground Floor",
+          "address2": "Salarieh Commercial Complex, No. 0, Mohammad Amin Boulevard",
+          "address3": "Iran Marinos Street, Salarieh",
+          "city": "Qom, Central District",
+          "state": "Qom Province",
+          "postal_code": "3716975454",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58941,
+      "name": "Jalali Abolhasan",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1966-09-01",
+      "nationalities": [],
+      "aliases": [
+        "\u062c\u0644\u0627\u0644\u06cc \u0627\u0628\u0648\u0627\u0644\u062d\u0633\u0646"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "1550929674",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58942,
+      "name": "Katebi Milad",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1989-12-31",
+      "nationalities": [],
+      "aliases": [
+        "\u06a9\u0627\u062a\u0628\u06cc \u0645\u06cc\u0644\u0627\u062f"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0011436913",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58943,
+      "name": "Sabeti Amir",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1981-08-30",
+      "nationalities": [],
+      "aliases": [
+        "\u062b\u0627\u0628\u062a\u06cc \u0627\u0645\u06cc\u0631"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0451397711",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58944,
+      "name": "Mullah Mohammadi Ensiyeh",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1976-05-18",
+      "nationalities": [],
+      "aliases": [
+        "\u0645\u0644\u0627\u0645\u062d\u0645\u062f\u06cc \u0627\u0646\u0633\u06cc\u0647"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0381750760",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58945,
+      "name": "Borji Nazanin",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1996-06-10",
+      "nationalities": [],
+      "aliases": [
+        "\u0628\u0631\u062c\u06cc \u0646\u0627\u0632\u0646\u06cc\u0646"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0019123337",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58946,
+      "name": "Allahyar Farzad",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "2001-08-12",
+      "nationalities": [],
+      "aliases": [
+        "\u0627\u0644\u0647\u06cc\u0627\u0631 \u0641\u0631\u0632\u0627\u062f"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0024557455",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58947,
+      "name": "Vasighi Meraji Fatemeh",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1987-08-21",
+      "nationalities": [],
+      "aliases": [
+        "\u0648\u062b\u06cc\u0642\u06cc \u0645\u0639\u0631\u0627\u062c\u06cc \u0641\u0627\u0637\u0645\u0647",
+        "Vasighi Fatemeh"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0386128804",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58948,
+      "name": "SOHEIL AND SORUSH NAJAFZADEH AND PARTNERS COMPANY",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0631\u06a9\u062a \u0633\u0647\u06cc\u0644 \u0648 \u0633\u0631\u0648\u0634 \u0646\u062c\u0641 \u0632\u0627\u062f\u0647 \u0648 \u0634\u0631\u06a9\u0627"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "14004832696",
+          "country": "Iran"
+        },
+        {
+          "type": "Registration Number",
+          "number": "470601",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Ground Floor, No. 149, Sarv Sharghi Boulevard, Majd Street",
+          "address2": "Saadat Abad, Tehran, Central District",
+          "city": "Tehran",
+          "postal_code": "1998644341",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58949,
+      "name": "Abdolalipur Azadeh",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1988-09-11",
+      "nationalities": [],
+      "aliases": [
+        "\u0639\u0628\u062f\u0627\u0644\u0639\u0644\u06cc \u067e\u0648\u0631 \u0622\u0632\u0627\u062f\u0647",
+        "Alipur Azadeh"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "2300151421",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58950,
+      "name": "Najafzadeh Sorush",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1982-08-27",
+      "nationalities": [],
+      "aliases": [
+        "\u0646\u062c\u0641 \u0632\u0627\u062f\u0647 \u0633\u0631\u0648\u0634",
+        "Najafzadeh Sorosh"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0069940177",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58951,
+      "name": "Najafzadeh Soheil",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1976-04-12",
+      "nationalities": [],
+      "aliases": [
+        "\u0646\u062c\u0641 \u0632\u0627\u062f\u0647 \u0633\u0647\u06cc\u0644",
+        "Najafzadeh Suhail"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0069004250",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58952,
+      "name": "Mirmohammadi Mansureh",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1982-05-13",
+      "nationalities": [],
+      "aliases": [
+        "\u0645\u06cc\u0631\u0645\u062d\u0645\u062f\u06cc \u0645\u0646\u0635\u0648\u0631\u0647"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "1219437239",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58953,
+      "name": "Jazireh International Bank Company",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0628\u0627\u0646\u06a9 \u0628\u06cc\u0646 \u0627\u0644\u0645\u0644\u0644\u06cc \u062c\u0632\u06cc\u0631\u0647",
+        "Bank-E Beinamelali Jazireh"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "14010665053",
+          "country": "Iran"
+        },
+        {
+          "type": "Registration Number",
+          "number": "14485",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Ground Floor, NBO-9, No. 0, Andisheh Boulevard",
+          "address2": "Sanai Boulevard, Bank Complex",
+          "address3": "Kish District, Bandar-e Lengeh County",
+          "city": "Kish",
+          "state": "Hormozgan",
+          "postal_code": "7941773662",
+          "country": "IR"
+        },
+        {
+          "city": "Kish",
+          "state": "Hormozgan",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58954,
+      "name": "CHABAHAR INTERNATIONAL BANK OVERSEAS COMPANY",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0631\u06a9\u062a \u0628\u0627\u0646\u06a9 \u0628\u06cc\u0646 \u0627\u0644\u0645\u0644\u0644\u06cc \u0686\u0627\u0628\u0647\u0627\u0631 \u0628\u0631\u0648\u0646 \u0645\u0631\u0632\u06cc"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "14010705831",
+          "country": "Iran"
+        },
+        {
+          "type": "Registration Number",
+          "number": "4060",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Unit 173, Second Floor, Booth 303",
+          "address2": "Salehyar Complex, No. 0, Vahdat Street",
+          "address3": "Imam Khomeini Boulevard, Free Zone Neighborhood, Central District, Chabahar Country",
+          "city": "Chabahar City",
+          "state": "Sistan and Baluchestan Province",
+          "postal_code": "9971768361",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58990,
+      "name": "Razavi Sayyed Ruhollah",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE",
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1981-09-19",
+      "nationalities": [],
+      "aliases": [
+        "\u0631\u0636\u0648\u06cc \u0633\u06cc\u062f \u0631\u0648\u062d \u0627\u0644\u0647",
+        "Roohullah Razavi Seyed",
+        "Razavi Rouhollah",
+        "Razavi Ruhollah"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0381818969",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 58991,
+      "name": "Tejarat Gostar Atlas Parsian Kish Company",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0631\u06a9\u062a \u062a\u062c\u0627\u0631\u062a \u06af\u0633\u062a\u0631\u0627\u0637\u0644\u0633 \u067e\u0627\u0631\u0633\u06cc\u0627\u0646 \u06a9\u06cc\u0634"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "14004757110",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Unit 208, Second Floor, Plot EX20, Sepehr Building, Eghtesad Square, Iran Boulevard",
+          "address2": "Kish Industrial Phase 2",
+          "city": "Kish",
+          "state": "Hormozgan",
+          "postal_code": "7941658112",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58992,
+      "name": "Farzanegan Energy Pars Company",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0631\u06a9\u062a \u0641\u0631\u0632\u0627\u0646\u06af\u0627\u0646 \u0627\u0646\u0631\u0698\u06cc \u067e\u0627\u0631\u0633"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "14005314445",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "North Unit, First Floor, No. 14",
+          "address2": "Shahid Davoud Jahanbaksh Nejad Street, Farmanieh",
+          "city": "Tajrish",
+          "state": "Tehran",
+          "postal_code": "1957944813",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 58997,
+      "name": "BANCO INTERNACIONAL DE COMERCIO S.A.",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "BICSA"
+      ],
+      "ids": [
+        {
+          "type": "Entity Code",
+          "number": "60290",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Oficina 506, Edificio Santa Clara",
+          "address2": "Centro de Negocios Miramar, Calle 3 entre 76 y 78, Miramar",
+          "address3": "Playa",
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    }
+  ],
+  "removals": [],
+  "updates": []
+}

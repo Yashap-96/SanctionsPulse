@@ -1,7 +1,7 @@
 {
   "CU": {
-    "total": 120,
-    "sdn": 120,
+    "total": 121,
+    "sdn": 121,
     "consolidated": 0,
     "programs": [
       "CUBA",
@@ -11,7 +11,7 @@
       "VENEZUELA-EO13850",
       "GLOMAG"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "GB": {
@@ -582,8 +582,8 @@
     "daily_removed": 0
   },
   "IR": {
-    "total": 1683,
-    "sdn": 1682,
+    "total": 1706,
+    "sdn": 1705,
     "consolidated": 1,
     "programs": [
       "IRAN",
@@ -617,7 +617,7 @@
       "ILLICIT-DRUGS-EO14059",
       "CYBER4"
     ],
-    "daily_added": 0,
+    "daily_added": 23,
     "daily_removed": 0
   },
   "AF": {
@@ -912,8 +912,8 @@
     "daily_removed": 0
   },
   "CN": {
-    "total": 1286,
-    "sdn": 1192,
+    "total": 1287,
+    "sdn": 1193,
     "consolidated": 94,
     "programs": [
       "SDGT",
@@ -957,7 +957,7 @@
       "HKAA",
       "CMIC-EO13959"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "ET": {
@@ -1013,8 +1013,8 @@
     "daily_removed": 0
   },
   "IQ": {
-    "total": 172,
-    "sdn": 172,
+    "total": 173,
+    "sdn": 173,
     "consolidated": 0,
     "programs": [
       "SDGT",
@@ -1030,7 +1030,7 @@
       "BELARUS-EO14038",
       "IRAN-CON-ARMS-EO"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "RS": {
@@ -1345,11 +1345,11 @@
       "ILLICIT-DRUGS-EO14059"
     ],
     "daily_added": 0,
-    "daily_removed": 1
+    "daily_removed": 0
   },
   "AE": {
-    "total": 765,
-    "sdn": 765,
+    "total": 767,
+    "sdn": 767,
     "consolidated": 0,
     "programs": [
       "IRAQ2",
@@ -1386,7 +1386,7 @@
       "PAIPA",
       "CAATSA - RUSSIA"
     ],
-    "daily_added": 0,
+    "daily_added": 2,
     "daily_removed": 0
   },
   "DO": {
