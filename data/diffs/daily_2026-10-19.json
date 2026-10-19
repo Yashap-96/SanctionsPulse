@@ -1,0 +1,183 @@
+{
+  "date": "2026-10-19",
+  "period": "2026-10-19",
+  "summary": {
+    "added": 5,
+    "removed": 0,
+    "updated": 0
+  },
+  "additions": [
+    {
+      "uid": 58455,
+      "name": "Qiji Chuangtan Beijing Investment Management Co Ltd",
+      "entry_type": "Entity",
+      "programs": [
+        "PAIPA"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "Consolidated",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u5947\u7ee9\u521b\u575b \u5317\u4eac \u6295\u8d44\u7ba1\u7406\u6709\u9650\u8d23\u4efb\u516c\u53f8",
+        "MiraclePlus",
+        "Mengxi Chuangtan Beijing Investment Management Co Ltd"
+      ],
+      "ids": [
+        {
+          "type": "Unified Social Credit Code (USCC)",
+          "number": "91110108MA01HHAHXF",
+          "country": "China"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "No. 601, 6th Floor, No. 28 Chengfu Road, Haidian District",
+          "city": "Beijing",
+          "postal_code": "100000",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 58456,
+      "name": "Beijing Qiji Chuangtan Phase I Venture Capital Center Limited Partnership",
+      "entry_type": "Entity",
+      "programs": [
+        "PAIPA"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "Consolidated",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u5317\u4eac\u5947\u7ee9\u521b\u575b\u4e00\u671f\u521b\u4e1a\u6295\u8d44\u4e2d\u5fc3 \u6709\u9650\u5408\u4f19",
+        "Miracle Plus RMB Fund I"
+      ],
+      "ids": [
+        {
+          "type": "Unified Social Credit Code (USCC)",
+          "number": "91110108MA01QB5K5M",
+          "country": "China"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "No. 601, 6th Floor, No. 28 Chengfu Road, Haidian District",
+          "city": "Beijing",
+          "postal_code": "100000",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 58457,
+      "name": "Beijing Qiji Chuangtan Phase II Venture Capital Center Limited Partnership",
+      "entry_type": "Entity",
+      "programs": [
+        "PAIPA"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "Consolidated",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u5317\u4eac\u5947\u7ee9\u521b\u575b\u4e8c\u671f\u521b\u4e1a\u6295\u8d44\u4e2d\u5fc3 \u6709\u9650\u5408\u4f19",
+        "Miracle Plus RMB Fund II",
+        "Beijing Qijichuangtanerqi Chuangye Investment Center (Limited Partnership)"
+      ],
+      "ids": [
+        {
+          "type": "Unified Social Credit Code (USCC)",
+          "number": "91110108MABQAUYK7G",
+          "country": "China"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "No. 601, 6th Floor, No. 28 Chengfu Road, Haidian District",
+          "city": "Beijing",
+          "postal_code": "100000",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 58458,
+      "name": "Beijing Qiji Chuangtan Zhiyuan Enterprise Management Center Limited Partnership",
+      "entry_type": "Entity",
+      "programs": [
+        "PAIPA"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "Consolidated",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u5317\u4eac\u5947\u7ee9\u521b\u575b\u81f4\u8fdc\u4f01\u4e1a\u7ba1\u7406\u4e2d\u5fc3 \u6709\u9650\u5408\u4f19"
+      ],
+      "ids": [
+        {
+          "type": "Unified Social Credit Code (USCC)",
+          "number": "91110108MA01NK6F9X",
+          "country": "China"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "No. 601, 6th Floor, No. 28 Chengfu Road, Haidian District",
+          "city": "Beijing",
+          "postal_code": "100000",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 58459,
+      "name": "Shanghai Zhisuan Technology Co Ltd",
+      "entry_type": "Entity",
+      "programs": [
+        "PAIPA"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "Consolidated",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u4e0a\u6d77\u81f3\u7b97\u79d1\u6280\u6709\u9650\u516c\u53f8"
+      ],
+      "ids": [
+        {
+          "type": "Unified Social Credit Code (USCC)",
+          "number": "91310104MAD3LXU92B",
+          "country": "China"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "44 Gongwei, Floor 1, Building 27, No. 487, Tianlin Road, Xuhui District",
+          "city": "Shanghai",
+          "postal_code": "200000",
+          "country": "CN"
+        }
+      ]
+    }
+  ],
+  "removals": [],
+  "updates": []
+}

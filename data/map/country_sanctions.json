@@ -912,9 +912,9 @@
     "daily_removed": 0
   },
   "CN": {
-    "total": 1287,
+    "total": 1292,
     "sdn": 1193,
-    "consolidated": 94,
+    "consolidated": 99,
     "programs": [
       "SDGT",
       "SDNTK",
@@ -955,9 +955,10 @@
       "CUBA-EO14404",
       "561-Related",
       "HKAA",
-      "CMIC-EO13959"
+      "CMIC-EO13959",
+      "PAIPA"
     ],
-    "daily_added": 0,
+    "daily_added": 5,
     "daily_removed": 0
   },
   "ET": {
