@@ -112,8 +112,8 @@
     "daily_removed": 0
   },
   "PA": {
-    "total": 147,
-    "sdn": 147,
+    "total": 154,
+    "sdn": 154,
     "consolidated": 0,
     "programs": [
       "CUBA",
@@ -132,7 +132,7 @@
       "IRAN-EO13902",
       "SUDAN-EO14098"
     ],
-    "daily_added": 0,
+    "daily_added": 7,
     "daily_removed": 0
   },
   "MX": {
@@ -476,8 +476,8 @@
     "daily_removed": 0
   },
   "GR": {
-    "total": 21,
-    "sdn": 21,
+    "total": 23,
+    "sdn": 23,
     "consolidated": 0,
     "programs": [
       "CUBA",
@@ -492,7 +492,7 @@
       "IRAN-EO13902",
       "NPWMD"
     ],
-    "daily_added": 0,
+    "daily_added": 2,
     "daily_removed": 0
   },
   "EG": {
@@ -912,8 +912,8 @@
     "daily_removed": 0
   },
   "CN": {
-    "total": 1292,
-    "sdn": 1193,
+    "total": 1289,
+    "sdn": 1190,
     "consolidated": 99,
     "programs": [
       "SDGT",
@@ -959,7 +959,7 @@
       "PAIPA"
     ],
     "daily_added": 0,
-    "daily_removed": 0
+    "daily_removed": 3
   },
   "ET": {
     "total": 5,
@@ -1349,8 +1349,8 @@
     "daily_removed": 0
   },
   "AE": {
-    "total": 767,
-    "sdn": 767,
+    "total": 768,
+    "sdn": 768,
     "consolidated": 0,
     "programs": [
       "IRAQ2",
@@ -1387,7 +1387,7 @@
       "PAIPA",
       "CAATSA - RUSSIA"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "DO": {
@@ -1519,8 +1519,8 @@
     "daily_removed": 0
   },
   "BY": {
-    "total": 261,
-    "sdn": 258,
+    "total": 260,
+    "sdn": 257,
     "consolidated": 3,
     "programs": [
       "BELARUS",
@@ -1535,7 +1535,7 @@
       "CYBER4"
     ],
     "daily_added": 0,
-    "daily_removed": 0
+    "daily_removed": 1
   },
   "NO": {
     "total": 5,
@@ -1851,8 +1851,8 @@
     "daily_removed": 0
   },
   "SG": {
-    "total": 122,
-    "sdn": 122,
+    "total": 123,
+    "sdn": 123,
     "consolidated": 0,
     "programs": [
       "SDNTK",
@@ -1873,7 +1873,7 @@
       "IRAN-EO13902",
       "TCO"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "HK": {

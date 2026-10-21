@@ -1,0 +1,726 @@
+{
+  "date": "2026-10-21",
+  "period": "2026-10-21",
+  "summary": {
+    "added": 18,
+    "removed": 4,
+    "updated": 0
+  },
+  "additions": [
+    {
+      "uid": 58810,
+      "name": "Whales Shipping Line LLC",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0648\u0627\u064a\u0644\u0633 \u0634\u064a\u0628\u064a\u0646\u063a \u0644\u0627\u064a\u0646 \u0630 \u0645 \u0645"
+      ],
+      "ids": [
+        {
+          "type": "License",
+          "number": "681649",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Chamber of Commerce Number",
+          "number": "213388",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Identification Number",
+          "number": "IMO 6417176",
+          "country": ""
+        },
+        {
+          "type": "Registration Number",
+          "number": "1107940",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Business Registration Number",
+          "number": "10889096",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Office 412, Parcel 243-210",
+          "address2": "Al Qusais Industrial Second, Deira",
+          "city": "Dubai",
+          "country": "AE"
+        },
+        {
+          "address1": "405 Al Mansour Building",
+          "address2": "Damascus Road",
+          "address3": "Al Qusais",
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 58811,
+      "name": "Amigoz Singapore PTE. LTD.",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "SG"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Business Number",
+          "number": "201940121Z",
+          "country": "Singapore"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "2 Leng Kee Road, #02-10",
+          "address2": "Thye Hong Centre",
+          "city": "Singapore",
+          "postal_code": "159086",
+          "country": "SG"
+        }
+      ]
+    },
+    {
+      "uid": 58873,
+      "name": "Whales Diamond",
+      "entry_type": "Vessel",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "MMSI",
+          "number": "470132000",
+          "country": ""
+        },
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 9375032",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58874,
+      "name": "Whales Pearl",
+      "entry_type": "Vessel",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 9483114",
+          "country": ""
+        },
+        {
+          "type": "MMSI",
+          "number": "470034000",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58931,
+      "name": "Roxette Maritime Shipping and Trading S.A.",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "GR",
+        "PA"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "RUC #",
+          "number": "155731846-2-2023",
+          "country": "Panama"
+        },
+        {
+          "type": "Identification Number",
+          "number": "IMO 6385886",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "5th Floor",
+          "address2": "90 Iroon Politechneiou Avenue",
+          "city": "Piraeus",
+          "postal_code": "185 36",
+          "country": "GR"
+        }
+      ]
+    },
+    {
+      "uid": 58932,
+      "name": "Karnakis and Karnakis",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "GR",
+        "PA"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "RUC #",
+          "number": "921299-2-23411",
+          "country": "Panama"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Global Plaza Building",
+          "address2": "Calle 50",
+          "address3": "Floor 21",
+          "city": "Panama City",
+          "country": "PA"
+        },
+        {
+          "address1": "158 II Merachias and Alkiviadou",
+          "city": "Piraeus",
+          "postal_code": "185 35",
+          "country": "GR"
+        }
+      ]
+    },
+    {
+      "uid": 58955,
+      "name": "ANEMOS",
+      "entry_type": "Vessel",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "MMSI",
+          "number": "352898798",
+          "country": ""
+        },
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 9205952",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58956,
+      "name": "GLORIS",
+      "entry_type": "Vessel",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 9449510",
+          "country": ""
+        },
+        {
+          "type": "MMSI",
+          "number": "352003155",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58957,
+      "name": "PRIDE",
+      "entry_type": "Vessel",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 9487407",
+          "country": ""
+        },
+        {
+          "type": "MMSI",
+          "number": "352003589",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58958,
+      "name": "Sofianos Kosmas Karnakis",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "PA"
+      ],
+      "list_type": "SDN",
+      "dob": "1975-01-06",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Cedula No.",
+          "number": "8-708-550",
+          "country": "Panama"
+        },
+        {
+          "type": "Passport",
+          "number": "PA1335856",
+          "country": "Panama"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Panama City",
+          "country": "PA"
+        }
+      ]
+    },
+    {
+      "uid": 58959,
+      "name": "Konstantinos Kosmas Karnakis",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "PA"
+      ],
+      "list_type": "SDN",
+      "dob": "1981-02-22",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Cedula No.",
+          "number": "8-744-805",
+          "country": "Panama"
+        },
+        {
+          "type": "Passport",
+          "number": "PA1035491",
+          "country": "Panama"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58960,
+      "name": "Ioanis Kosmas Karnakis",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "PA"
+      ],
+      "list_type": "SDN",
+      "dob": "1982-08-20",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "PA1335855",
+          "country": "Panama"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Panama City",
+          "country": "PA"
+        }
+      ]
+    },
+    {
+      "uid": 58961,
+      "name": "Pedro Jones Ortega",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "PA"
+      ],
+      "list_type": "SDN",
+      "dob": "1976-01-31",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Cedula No.",
+          "number": "8-505-139",
+          "country": "Panama"
+        },
+        {
+          "type": "Passport",
+          "number": "PA0865191",
+          "country": "Panama"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Panama City",
+          "country": "PA"
+        }
+      ]
+    },
+    {
+      "uid": 58962,
+      "name": "Roberto Jones Ortega",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "PA"
+      ],
+      "list_type": "SDN",
+      "dob": "1972-12-24",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Identification Number",
+          "number": "PE-7-925",
+          "country": "Panama"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Panama City",
+          "country": "PA"
+        }
+      ]
+    },
+    {
+      "uid": 58963,
+      "name": "DESTINY",
+      "entry_type": "Vessel",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 9385491",
+          "country": ""
+        },
+        {
+          "type": "MMSI",
+          "number": "370662000",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58964,
+      "name": "FLAMINGO 1",
+      "entry_type": "Vessel",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 9474199",
+          "country": ""
+        },
+        {
+          "type": "MMSI",
+          "number": "352002503",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58965,
+      "name": "HARMONY",
+      "entry_type": "Vessel",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 9449522",
+          "country": ""
+        },
+        {
+          "type": "MMSI",
+          "number": "352003307",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58966,
+      "name": "PRINCE",
+      "entry_type": "Vessel",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 9548316",
+          "country": ""
+        },
+        {
+          "type": "MMSI",
+          "number": "352005105",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    }
+  ],
+  "removals": [
+    {
+      "uid": 31042,
+      "name": "Moxing Cartoon",
+      "entry_type": "Entity",
+      "programs": [
+        "DPRK3"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Shanghai Moxing Cultural Media Co Ltd",
+        "\u4e0a\u6d77\u58a8\u661f\u2f42\u5316\u4f20\u64ad\u6709\u9650\u516c\u53f8"
+      ],
+      "ids": [
+        {
+          "type": "Unified Social Credit Code (USCC)",
+          "number": "913101040936933514",
+          "country": "China"
+        },
+        {
+          "type": "Registration Number",
+          "number": "310104000572013",
+          "country": "China"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "901-7",
+          "address2": "No. 439 Yishan Road",
+          "address3": "Xuhui District",
+          "city": "Shanghai",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 32711,
+      "name": "Rybakov Andrei Alekseevich",
+      "entry_type": "Individual",
+      "programs": [
+        "BELARUS"
+      ],
+      "countries": [
+        "BY"
+      ],
+      "list_type": "SDN",
+      "dob": "1976-07-11",
+      "nationalities": [],
+      "aliases": [
+        "\u0420\u044b\u0431\u0430\u043a\u043e\u0432 \u0410\u043d\u0434\u0440\u0435\u0439 \u0410\u043b\u0435\u043a\u0441\u0435\u0435\u0432\u0438\u0447",
+        "Rybakou Andrei Aliakseevich",
+        "\u0420\u044b\u0431\u0430\u043a\u043e\u045e \u0410\u043d\u0434\u0440\u044d\u0439 \u0410\u043b\u044f\u043a\u0441\u0435\u0435\u0432\u0456\u0447",
+        "Rybakou Andrei"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Minsk",
+          "country": "BY"
+        }
+      ]
+    },
+    {
+      "uid": 34024,
+      "name": "Lu Hezheng",
+      "entry_type": "Individual",
+      "programs": [
+        "DPRK3"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": "1974-04-06",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "31010619740406283X",
+          "country": "China"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Room 810, No. 760",
+          "address2": "Qinzhou Road",
+          "address3": "Xuhui District",
+          "city": "Shanghai",
+          "country": "CN"
+        },
+        {
+          "city": "Guangzhou",
+          "state": "Guangdong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 34025,
+      "name": "Shanghai Hongman Cartoon and Animation Design Studio",
+      "entry_type": "Entity",
+      "programs": [
+        "DPRK3"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Shanghai Hongman Animation Design Studio",
+        "\u4e0a\u6d77\u5f18\u6f2b\u52a8\u6f2b\u8bbe\u8ba1\u5de5\u4f5c\u5ba4"
+      ],
+      "ids": [
+        {
+          "type": "Unified Social Credit Code (USCC)",
+          "number": "91310104093794515H",
+          "country": "China"
+        },
+        {
+          "type": "Registration Number",
+          "number": "310104000570122",
+          "country": "China"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Room 705, Floor 7, Building 1",
+          "address2": "No. 1919 Zhongshan West Road",
+          "address3": "Xuhui District",
+          "city": "Shanghai",
+          "country": "CN"
+        }
+      ]
+    }
+  ],
+  "updates": []
+}
