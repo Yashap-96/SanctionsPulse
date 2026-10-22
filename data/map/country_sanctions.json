@@ -132,7 +132,7 @@
       "IRAN-EO13902",
       "SUDAN-EO14098"
     ],
-    "daily_added": 7,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "MX": {
@@ -492,7 +492,7 @@
       "IRAN-EO13902",
       "NPWMD"
     ],
-    "daily_added": 2,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "EG": {
@@ -959,7 +959,7 @@
       "PAIPA"
     ],
     "daily_added": 0,
-    "daily_removed": 3
+    "daily_removed": 0
   },
   "ET": {
     "total": 5,
@@ -1387,7 +1387,7 @@
       "PAIPA",
       "CAATSA - RUSSIA"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "DO": {
@@ -1535,7 +1535,7 @@
       "CYBER4"
     ],
     "daily_added": 0,
-    "daily_removed": 1
+    "daily_removed": 0
   },
   "NO": {
     "total": 5,
@@ -1873,7 +1873,7 @@
       "IRAN-EO13902",
       "TCO"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "HK": {
