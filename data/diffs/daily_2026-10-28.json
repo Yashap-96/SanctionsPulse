@@ -1,0 +1,396 @@
+{
+  "date": "2026-10-28",
+  "period": "2026-10-28",
+  "summary": {
+    "added": 13,
+    "removed": 0,
+    "updated": 0
+  },
+  "additions": [
+    {
+      "uid": 58407,
+      "name": "ZIGAMA CREDIT AND SAVINGS SOCIETY",
+      "entry_type": "Entity",
+      "programs": [
+        "DRCONGO"
+      ],
+      "countries": [
+        "RW"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Zigama Credit and Savings Bank",
+        "Zigama CSS"
+      ],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "RCA/546/2010",
+          "country": "Rwanda"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "KG 178 Street 3",
+          "address2": "P.O. Box 4772",
+          "city": "Kigali",
+          "country": "RW"
+        }
+      ]
+    },
+    {
+      "uid": 58879,
+      "name": "FIRST FINANCIAL AND TECHNICAL DEVELOPMENT CENTER",
+      "entry_type": "Entity",
+      "programs": [
+        "DPRK3"
+      ],
+      "countries": [
+        "KP",
+        "RU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Vladivostok",
+          "country": "RU"
+        }
+      ]
+    },
+    {
+      "uid": 58880,
+      "name": "Kim Kyong Ju",
+      "entry_type": "Individual",
+      "programs": [
+        "DPRK3"
+      ],
+      "countries": [
+        "RU"
+      ],
+      "list_type": "SDN",
+      "dob": "2001-01-02",
+      "nationalities": [],
+      "aliases": [
+        "Kim Kyo'ng-chu"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "845349260",
+          "country": "Korea, North"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58881,
+      "name": "Ri Thae Chol",
+      "entry_type": "Individual",
+      "programs": [
+        "DPRK3"
+      ],
+      "countries": [
+        "RU"
+      ],
+      "list_type": "SDN",
+      "dob": "1999-02-24",
+      "nationalities": [],
+      "aliases": [
+        "Ri T'ae-ch'o'l"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "845349262",
+          "country": "Korea, North"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58882,
+      "name": "So Hyong Jin",
+      "entry_type": "Individual",
+      "programs": [
+        "DPRK3"
+      ],
+      "countries": [
+        "RU"
+      ],
+      "list_type": "SDN",
+      "dob": "2002-02-03",
+      "nationalities": [],
+      "aliases": [
+        "So' Hyo'n-chin"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "845136771",
+          "country": "Korea, North"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58883,
+      "name": "Han Yu Song",
+      "entry_type": "Individual",
+      "programs": [
+        "DPRK3"
+      ],
+      "countries": [
+        "RU"
+      ],
+      "list_type": "SDN",
+      "dob": "2000-05-20",
+      "nationalities": [],
+      "aliases": [
+        "Han Yu-so'ng"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "845349261",
+          "country": "Korea, North"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58884,
+      "name": "Kim Sung Gwan",
+      "entry_type": "Individual",
+      "programs": [
+        "DPRK3"
+      ],
+      "countries": [
+        "RU"
+      ],
+      "list_type": "SDN",
+      "dob": "1999-01-07",
+      "nationalities": [],
+      "aliases": [
+        "Kim Su'ng-kwan"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "845136774",
+          "country": "Korea, North"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58885,
+      "name": "Hyon Se Il",
+      "entry_type": "Individual",
+      "programs": [
+        "DPRK3"
+      ],
+      "countries": [
+        "RU"
+      ],
+      "list_type": "SDN",
+      "dob": "2002-09-08",
+      "nationalities": [],
+      "aliases": [
+        "Hyo'n Se-il"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "845349266",
+          "country": "Korea, North"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58886,
+      "name": "Boykov Ilya Aleksandrovich",
+      "entry_type": "Individual",
+      "programs": [
+        "DPRK2"
+      ],
+      "countries": [
+        "RU"
+      ],
+      "list_type": "SDN",
+      "dob": "1994-05-30",
+      "nationalities": [],
+      "aliases": [
+        "\u0411\u043e\u0439\u043a\u043e\u0432 \u0418\u043b\u044c\u044f \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u0438\u0447"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "620645580",
+          "country": "Russia"
+        }
+      ],
+      "crypto_wallets": [
+        {
+          "currency": "ETH",
+          "address": "0x12Ea80238C7d805D003ce793594e92d84A6f4E8d"
+        },
+        {
+          "currency": "ETH",
+          "address": "0x761edd5e4546229a0bd35ae99b4d3d01cf4a3510"
+        },
+        {
+          "currency": "TRX",
+          "address": "TQKoDq5aCrWAciiNtete5pDYVN38i4qFN1"
+        },
+        {
+          "currency": "TRX",
+          "address": "TXmrnVgsqCMJncYHTXchuJ5z111BXSj4g3"
+        }
+      ],
+      "addresses": []
+    },
+    {
+      "uid": 58887,
+      "name": "Kim Ki Hyok",
+      "entry_type": "Individual",
+      "programs": [
+        "DPRK2"
+      ],
+      "countries": [
+        "RU"
+      ],
+      "list_type": "SDN",
+      "dob": "1980-05-30",
+      "nationalities": [],
+      "aliases": [
+        "\uae40 \uae30\ud601",
+        "Kim Ki-hyo'k"
+      ],
+      "ids": [],
+      "crypto_wallets": [
+        {
+          "currency": "ETH",
+          "address": "0xE4C9a7F68B1EbA4508f54f07f7378847318dD1A3"
+        }
+      ],
+      "addresses": []
+    },
+    {
+      "uid": 58888,
+      "name": "Kim Hyo Dong",
+      "entry_type": "Individual",
+      "programs": [
+        "DPRK2"
+      ],
+      "countries": [
+        "LA",
+        "RU"
+      ],
+      "list_type": "SDN",
+      "dob": "1989-12-28",
+      "nationalities": [],
+      "aliases": [
+        "\uae40 \ud6a8\ub3d9",
+        "Kim Hyo-tong"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "108130286",
+          "country": "Korea, North"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58889,
+      "name": "Obertas Vitold Viktorovich",
+      "entry_type": "Individual",
+      "programs": [
+        "DPRK2"
+      ],
+      "countries": [
+        "RU"
+      ],
+      "list_type": "SDN",
+      "dob": "1968-11-18",
+      "nationalities": [],
+      "aliases": [
+        "\u041e\u0431\u0435\u0440\u0442\u0430\u0441 \u0412\u0438\u0442\u043e\u043b\u044c\u0434 \u0412\u0438\u043a\u0442\u043e\u0440\u043e\u0432\u0438\u0447"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "4613339474",
+          "country": "Russia"
+        }
+      ],
+      "crypto_wallets": [
+        {
+          "currency": "TRX",
+          "address": "TCV4qdpTxoMyqkn7sSPeRrXmhH5JFxMvmT"
+        },
+        {
+          "currency": "TRX",
+          "address": "TQCBdU4K92oxLAkzwexZpqVZJhmPbtLYMm"
+        },
+        {
+          "currency": "TRX",
+          "address": "TFksjBcHPYqgAax2USheQuaT1ydRKyZRdg"
+        },
+        {
+          "currency": "ETH",
+          "address": "0x761edd5e4546229a0bd35ae99b4d3d01cf4a3510"
+        }
+      ],
+      "addresses": []
+    },
+    {
+      "uid": 59069,
+      "name": "Ministry of Defence of the Republic of Rwanda",
+      "entry_type": "Entity",
+      "programs": [
+        "DRCONGO"
+      ],
+      "countries": [
+        "RW"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Rwandan Ministry of Defence",
+        "MOD of the Republic of Rwanda",
+        "MINADEF of the Republic of Rwanda"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Ministry of Defence",
+          "address2": "KG 1 Roundabout",
+          "city": "Kigali",
+          "country": "RW"
+        }
+      ]
+    }
+  ],
+  "removals": [],
+  "updates": []
+}
