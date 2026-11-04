@@ -1,0 +1,569 @@
+{
+  "date": "2026-11-04",
+  "period": "2026-11-04",
+  "summary": {
+    "added": 15,
+    "removed": 0,
+    "updated": 2
+  },
+  "additions": [
+    {
+      "uid": 59050,
+      "name": "Fugo Ground Services Inc",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "TR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "FUGO YER H\u0130ZMETLER\u0130 ANON\u0130M \u015e\u0130RKET\u0130",
+        "Fugo Aviation"
+      ],
+      "ids": [
+        {
+          "type": "Tax ID No.",
+          "number": "3881357595",
+          "country": "Turkey"
+        },
+        {
+          "type": "Registration Number",
+          "number": "220631-5",
+          "country": "Turkey"
+        },
+        {
+          "type": "Chamber of Commerce Number",
+          "number": "1210423",
+          "country": "Turkey"
+        },
+        {
+          "type": "Central Registration System Number",
+          "number": "0388135759500001",
+          "country": "Turkey"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Gayrettepe Mh. Vefabey Sk. No: 16 Inner Door No: 4",
+          "address2": "Besiktas",
+          "city": "Istanbul",
+          "country": "TR"
+        }
+      ]
+    },
+    {
+      "uid": 59053,
+      "name": "SHARMA Suniel Kumar",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IN"
+      ],
+      "list_type": "SDN",
+      "dob": "1979-10-07",
+      "nationalities": [],
+      "aliases": [
+        "Sharma Suniel",
+        "Kumar Suniel"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "Z5925452",
+          "country": "India"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Chandigarh",
+          "country": "IN"
+        }
+      ]
+    },
+    {
+      "uid": 59054,
+      "name": "SHAHID Jaspreet Preeti",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IN"
+      ],
+      "list_type": "SDN",
+      "dob": "1980-08-22",
+      "nationalities": [],
+      "aliases": [
+        "Kaur Jaspreet"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "03563403",
+          "country": "India"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Chandigarh",
+          "country": "IN"
+        }
+      ]
+    },
+    {
+      "uid": 59055,
+      "name": "OCEANIEK TECHNOLOGIES INDIA",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "UDYAM-CH-01-0023384",
+          "country": "India"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "AAIFO2899P",
+          "country": "India"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "S.C.O. 86, Sector 44C",
+          "city": "Chandigarh",
+          "postal_code": "160047",
+          "country": "IN"
+        },
+        {
+          "address1": "Plot No. C-205, SM Heights",
+          "city": "Mohali",
+          "state": "Punjab",
+          "postal_code": "160055",
+          "country": "IN"
+        }
+      ]
+    },
+    {
+      "uid": 59056,
+      "name": "DHIMAN Ashwani Kumar",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IN"
+      ],
+      "list_type": "SDN",
+      "dob": "1980-03-01",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "08188219",
+          "country": "India"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Chandigarh",
+          "country": "IN"
+        }
+      ]
+    },
+    {
+      "uid": 59057,
+      "name": "SINGH Ishwinder",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IN"
+      ],
+      "list_type": "SDN",
+      "dob": "1992-04-01",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "08409602",
+          "country": "India"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Chandigarh",
+          "country": "IN"
+        }
+      ]
+    },
+    {
+      "uid": 59058,
+      "name": "ESWATINI MARITIME AFFAIRS AND INTERNATIONAL SHIP REGISTRY PTE. LTD.",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "SG"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "202338388W",
+          "country": "Singapore"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "10 Jalan Besar, #07-06 Sim Lim Tower",
+          "postal_code": "208787",
+          "country": "SG"
+        }
+      ]
+    },
+    {
+      "uid": 59059,
+      "name": "PRECEPT TRENDS PRIVATE LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "U18100CH2022PTC044314",
+          "country": "India"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "AAMCP8147L",
+          "country": "India"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "S.C.O. 86 First Floor, Sector 44C",
+          "city": "Chandigarh",
+          "postal_code": "160047",
+          "country": "IN"
+        }
+      ]
+    },
+    {
+      "uid": 59060,
+      "name": "POLYNESIA MARITIME PRIVATE LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "U74900CH2015PTC035391",
+          "country": "India"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "AAICP0398K",
+          "country": "India"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "H No 3335 CHD Police Society, Sector 51 D",
+          "city": "Chandigarh",
+          "postal_code": "160047",
+          "country": "IN"
+        }
+      ]
+    },
+    {
+      "uid": 59061,
+      "name": "ALEXARYA FINSERV PRIVATE LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "U67100CH2018PTC042186",
+          "country": "India"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "AARCA3945Q",
+          "country": "India"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "SCO-318, 2nd Floor Sector 38D",
+          "city": "Chandigarh",
+          "postal_code": "160036",
+          "country": "IN"
+        }
+      ]
+    },
+    {
+      "uid": 59062,
+      "name": "ALEXARYA MEDIA AND ENTERTAINMENT PRIVATE LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "U93000CH2018PTC041837",
+          "country": "India"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "AAQCA4372G",
+          "country": "India"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "SCO-318, Sector 38-D",
+          "city": "Chandigarh",
+          "postal_code": "160036",
+          "country": "IN"
+        }
+      ]
+    },
+    {
+      "uid": 59063,
+      "name": "ARYAVART SHIP MANAGEMENT PRIVATE LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "U74900CH2011PTC033139",
+          "country": "India"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "AAJCA7074N",
+          "country": "India"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "SCO-318, 1st Floor Sector 38-D",
+          "city": "Chandigarh",
+          "postal_code": "160036",
+          "country": "IN"
+        }
+      ]
+    },
+    {
+      "uid": 59064,
+      "name": "VIHARABOATING PRIVATE LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "U55101KL2026PTC100900",
+          "country": "India"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Building No 4, Pallippuram P O, Pallippuram",
+          "address2": "Cherthala",
+          "city": "Alappuzha",
+          "state": "Kerala",
+          "postal_code": "688541",
+          "country": "IN"
+        }
+      ]
+    },
+    {
+      "uid": 59065,
+      "name": "ARYAVART MARITIME AND EDUCATIONAL TRUST",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "CH/2024/0406033",
+          "country": "India"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "SCO 373, Sector 37 D",
+          "city": "Chandigarh",
+          "country": "IN"
+        }
+      ]
+    },
+    {
+      "uid": 59090,
+      "name": "Domullodzhanov Alisher",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-CON-ARMS-EO"
+      ],
+      "countries": [
+        "RU"
+      ],
+      "list_type": "SDN",
+      "dob": "1989-11-29",
+      "nationalities": [],
+      "aliases": [
+        "Domullodzhanov Alisher Hairulloevich"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "769612269",
+          "country": "Russia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Str. 5, Bld. 6",
+          "address2": "Khripan Village",
+          "address3": "Ramenskiy Rayon",
+          "state": "Moscow Oblast",
+          "postal_code": "140163",
+          "country": "RU"
+        }
+      ]
+    }
+  ],
+  "removals": [],
+  "updates": [
+    {
+      "uid": 57613,
+      "name": "Tolibov Mohammed Ali",
+      "changes": {
+        "programs": {
+          "old": [
+            "IFSR",
+            "NPWMD"
+          ],
+          "new": [
+            "IFSR",
+            "NPWMD",
+            "IRAN-CON-ARMS-EO"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 58145,
+      "name": "Vanguard Tactical Supply Limited",
+      "changes": {
+        "programs": {
+          "old": [
+            "IFSR",
+            "NPWMD"
+          ],
+          "new": [
+            "IFSR",
+            "NPWMD",
+            "IRAN-CON-ARMS-EO"
+          ]
+        }
+      }
+    }
+  ]
+}

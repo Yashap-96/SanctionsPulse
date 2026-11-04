@@ -347,8 +347,8 @@
     "daily_removed": 0
   },
   "RU": {
-    "total": 5474,
-    "sdn": 5217,
+    "total": 5475,
+    "sdn": 5218,
     "consolidated": 257,
     "programs": [
       "CUBA",
@@ -388,7 +388,7 @@
       "PAIPA",
       "CUBA-EO14404"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "BG": {
@@ -991,8 +991,8 @@
     "daily_removed": 0
   },
   "IN": {
-    "total": 167,
-    "sdn": 163,
+    "total": 179,
+    "sdn": 175,
     "consolidated": 4,
     "programs": [
       "SDGT",
@@ -1010,7 +1010,7 @@
       "NPWMD",
       "SUDAN-EO14098"
     ],
-    "daily_added": 0,
+    "daily_added": 12,
     "daily_removed": 0
   },
   "IQ": {
@@ -1063,8 +1063,8 @@
     "daily_removed": 0
   },
   "TR": {
-    "total": 388,
-    "sdn": 387,
+    "total": 389,
+    "sdn": 388,
     "consolidated": 1,
     "programs": [
       "SDGT",
@@ -1087,7 +1087,7 @@
       "IRAN-EO13902",
       "CAATSA - RUSSIA"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "HR": {
@@ -1851,8 +1851,8 @@
     "daily_removed": 0
   },
   "SG": {
-    "total": 123,
-    "sdn": 123,
+    "total": 124,
+    "sdn": 124,
     "consolidated": 0,
     "programs": [
       "SDNTK",
@@ -1873,7 +1873,7 @@
       "IRAN-EO13902",
       "TCO"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "HK": {
@@ -2038,6 +2038,7 @@
       "FTO",
       "CYBER2",
       "NPWMD",
+      "IRAN-CON-ARMS-EO",
       "TCO"
     ],
     "daily_added": 0,
