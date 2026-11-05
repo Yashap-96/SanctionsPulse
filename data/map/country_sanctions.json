@@ -1,7 +1,7 @@
 {
   "CU": {
-    "total": 121,
-    "sdn": 121,
+    "total": 127,
+    "sdn": 127,
     "consolidated": 0,
     "programs": [
       "CUBA",
@@ -11,7 +11,7 @@
       "VENEZUELA-EO13850",
       "GLOMAG"
     ],
-    "daily_added": 0,
+    "daily_added": 5,
     "daily_removed": 0
   },
   "GB": {
@@ -112,8 +112,8 @@
     "daily_removed": 0
   },
   "PA": {
-    "total": 154,
-    "sdn": 154,
+    "total": 156,
+    "sdn": 156,
     "consolidated": 0,
     "programs": [
       "CUBA",
@@ -130,9 +130,10 @@
       "RUSSIA-EO14024",
       "IRAN-EO13846",
       "IRAN-EO13902",
-      "SUDAN-EO14098"
+      "SUDAN-EO14098",
+      "CUBA-EO14404"
     ],
-    "daily_added": 0,
+    "daily_added": 2,
     "daily_removed": 0
   },
   "MX": {
@@ -388,7 +389,7 @@
       "PAIPA",
       "CUBA-EO14404"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "BG": {
@@ -912,8 +913,8 @@
     "daily_removed": 0
   },
   "CN": {
-    "total": 1289,
-    "sdn": 1190,
+    "total": 1297,
+    "sdn": 1198,
     "consolidated": 99,
     "programs": [
       "SDGT",
@@ -942,6 +943,7 @@
       "UKRAINE-EO13661",
       "ILLICIT-DRUGS-EO14059",
       "VENEZUELA",
+      "CUBA-EO14404",
       "UHRPA",
       "IRAN-CON-ARMS-EO",
       "IRGC",
@@ -952,13 +954,12 @@
       "DRCONGO",
       "VENEZUELA-EO13850",
       "NICARAGUA",
-      "CUBA-EO14404",
       "561-Related",
       "HKAA",
       "CMIC-EO13959",
       "PAIPA"
     ],
-    "daily_added": 0,
+    "daily_added": 8,
     "daily_removed": 0
   },
   "ET": {
@@ -1010,7 +1011,7 @@
       "NPWMD",
       "SUDAN-EO14098"
     ],
-    "daily_added": 12,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "IQ": {
@@ -1087,7 +1088,7 @@
       "IRAN-EO13902",
       "CAATSA - RUSSIA"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "HR": {
@@ -1244,8 +1245,8 @@
     "daily_removed": 0
   },
   "MY": {
-    "total": 44,
-    "sdn": 44,
+    "total": 45,
+    "sdn": 45,
     "consolidated": 0,
     "programs": [
       "SDGT",
@@ -1259,7 +1260,7 @@
       "RUSSIA-EO14024",
       "IRAN-EO13902"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "DZ": {
@@ -1341,6 +1342,7 @@
       "TCO",
       "VENEZUELA-EO13850",
       "VENEZUELA-EO13884",
+      "CUBA-EO14404",
       "FTO",
       "IRAN-HR",
       "ILLICIT-DRUGS-EO14059"
@@ -1418,8 +1420,8 @@
     "daily_removed": 0
   },
   "VG": {
-    "total": 58,
-    "sdn": 54,
+    "total": 66,
+    "sdn": 62,
     "consolidated": 4,
     "programs": [
       "SDNTK",
@@ -1439,7 +1441,7 @@
       "VENEZUELA-EO13850",
       "CMIC-EO13959"
     ],
-    "daily_added": 0,
+    "daily_added": 8,
     "daily_removed": 0
   },
   "BR": {
@@ -1766,8 +1768,8 @@
     "daily_removed": 0
   },
   "KH": {
-    "total": 155,
-    "sdn": 155,
+    "total": 181,
+    "sdn": 181,
     "consolidated": 0,
     "programs": [
       "SDGT",
@@ -1775,7 +1777,7 @@
       "TCO",
       "CYBER4"
     ],
-    "daily_added": 0,
+    "daily_added": 26,
     "daily_removed": 0
   },
   "XK": {
@@ -1851,8 +1853,8 @@
     "daily_removed": 0
   },
   "SG": {
-    "total": 124,
-    "sdn": 124,
+    "total": 126,
+    "sdn": 126,
     "consolidated": 0,
     "programs": [
       "SDNTK",
@@ -1873,7 +1875,7 @@
       "IRAN-EO13902",
       "TCO"
     ],
-    "daily_added": 1,
+    "daily_added": 2,
     "daily_removed": 0
   },
   "HK": {
@@ -2115,6 +2117,7 @@
       "UKRAINE-EO13662",
       "RUSSIA-EO14024",
       "GLOMAG",
+      "CUBA-EO14404",
       "VENEZUELA-EO13850",
       "LIBYA3",
       "PEESA-EO14039",
@@ -2702,13 +2705,14 @@
     "daily_removed": 0
   },
   "MU": {
-    "total": 1,
-    "sdn": 1,
+    "total": 2,
+    "sdn": 2,
     "consolidated": 0,
     "programs": [
-      "SDGT"
+      "SDGT",
+      "TCO"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "PT": {

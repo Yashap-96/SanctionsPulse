@@ -1,0 +1,1925 @@
+{
+  "date": "2026-11-05",
+  "period": "2026-11-05",
+  "summary": {
+    "added": 56,
+    "removed": 0,
+    "updated": 5
+  },
+  "additions": [
+    {
+      "uid": 58563,
+      "name": "ASIAN WELFARE LOTTERIES CO LTD",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "00024286",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "L001-901704384",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Phnom Penh",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 58564,
+      "name": "CB GENERAL INSURANCE PLC",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "00038998",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "L001-901900322",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Phnom Penh",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 58565,
+      "name": "CAMBODIAN RESOURCE ENERGY DEVELOPMENT CO LTD",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "00025007",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "K002-901702518",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Phnom Penh",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 58566,
+      "name": "CAMBODIAN UNITE WEI YE INVESTMENT CO LTD",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "00004119",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Phnom Penh",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 58567,
+      "name": "DT ZHI ZAO CO LTD",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "00056042",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "K006-902101174",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Phnom Penh",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 58568,
+      "name": "FIRST AQUATIC INDUSTRIAL CO LTD",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "00003257",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "K002-901636552",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "state": "Kandal Province",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 58569,
+      "name": "MO NET BEAUTY CO LTD",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "00057803",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "K002-902102067",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Phnom Penh",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 58570,
+      "name": "PRINCE INTERNATIONAL AIRLINES CO LTD",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "00025370",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "L001-901702994",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Phnom Penh",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 58572,
+      "name": "RICHENG PROPERTY DEVELOPER CO LTD",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "00021677",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "K002-901700530",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Phnom Penh",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 58573,
+      "name": "TIAN XU INTERNATIONAL TECHNOLOGY PLC",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "00021503",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "K002-901700553",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Phnom Penh",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 58574,
+      "name": "ZHX PRINTING EQUIPMENT CAMBODIA CO LTD",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "00043863",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "K010-901904856",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Phnom Penh",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 58575,
+      "name": "Qiu Yong",
+      "entry_type": "Individual",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": "1987-10-09",
+      "nationalities": [],
+      "aliases": [
+        "\u90b1 \u7528"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "N01612777",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Passport",
+          "number": "R229687",
+          "country": "Saint Lucia"
+        },
+        {
+          "type": "Passport",
+          "number": "U24268399",
+          "country": "Turkey"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58595,
+      "name": "He Yujing",
+      "entry_type": "Individual",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": "1992-07-11",
+      "nationalities": [],
+      "aliases": [
+        "\u4f55 \u96e8\u9759"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "511302199207112546",
+          "country": "China"
+        },
+        {
+          "type": "Passport",
+          "number": "RV102799",
+          "country": "Vanuatu"
+        },
+        {
+          "type": "Passport",
+          "number": "ED1721149",
+          "country": "China"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58597,
+      "name": "Super Light Speed Kh Technology Co., Ltd.",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "00075728",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Phum 2, Boeng Keng Kang Muoy, Chamkar Mon",
+          "city": "Phnom Penh",
+          "postal_code": "12302",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 58625,
+      "name": "Pang Visal",
+      "entry_type": "Individual",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": "1978-02-20",
+      "nationalities": [],
+      "aliases": [
+        "Pang Weizhi",
+        "\u5e9e \u4f1f\u5fd7",
+        "Pang Wei Zei"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "E31455389",
+          "country": "China"
+        },
+        {
+          "type": "Passport",
+          "number": "N01124709",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58627,
+      "name": "Cambodia First Unite Construction Group Co., Ltd.",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "00004152",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "K002-901502842",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Phum 2, Boeng Keng Kang Muoy, Chamkar Mon",
+          "city": "Phnom Penh",
+          "postal_code": "12302",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 58628,
+      "name": "First Unite International Logistics Co., Ltd.",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "00037569",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "L001-901805589",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Phum 2, Boeng Keng Kang Muoy, Chamkar Mon",
+          "city": "Phnom Penh",
+          "postal_code": "12302",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 58629,
+      "name": "First Unite Networks Entertainment Co., Ltd.",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "00051144",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "K002-902001071",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Boeng Kak Pir, Tuol Kouk",
+          "city": "Phnom Penh",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 58632,
+      "name": "First Unite Property Co., Ltd.",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "00034544",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "L001-901803704",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Boeng Kak Pir, Tuol Kouk",
+          "city": "Phnom Penh",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 58636,
+      "name": "First Unite Decoration Cambodia Co., Ltd.",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "00045698",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "K005-901908793",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Boeng Kak Pir, Tuol Kouk",
+          "city": "Phnom Penh",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 58637,
+      "name": "Cambodian First Unite Construction machinery Co., Ltd.",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "00039309",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "K009-901903197",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Chongthnal Khang Kaeut, Teuk Thla, Sen Sok",
+          "city": "Phnom Penh",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 58638,
+      "name": "Linkedus Technology Co., Ltd.",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "00052642",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "K002-902003055",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Tonle Basak, Chamkar Mon",
+          "city": "Phnom Penh",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 58639,
+      "name": "Cambo Duty Free Merchandise Co., Ltd.",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "00048573",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "K004-901908471",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Veal Vong, Prampi Makara",
+          "city": "Phnom Penh",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 58640,
+      "name": "Marco Polo Hotel Co. Ltd.",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "00047857",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "K004-901908024",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Boeng Prolit, Prampi Makara",
+          "city": "Phnom Penh",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 58641,
+      "name": "U-Life Go Now Co., Ltd.",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "00075287",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Phum 2, Boeng Keng Kang Muoy, Chamkar Mon",
+          "city": "Phnom Penh",
+          "postal_code": "12302",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 58642,
+      "name": "U-Life Kh Super App Co., Ltd.",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "00052105",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "K002-902002355",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Phum 2, Boeng Keng Kang Muoy, Chamkar Mon",
+          "city": "Phnom Penh",
+          "postal_code": "12302",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 58644,
+      "name": "MERITWISE GROUP PUBLIC LTD",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "MU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "C157715",
+          "country": "Mauritius"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Sir Virgil Naz Street, Citadelle Mall",
+          "city": "Port Louis",
+          "country": "MU"
+        }
+      ]
+    },
+    {
+      "uid": 58645,
+      "name": "CHEN HUA HOLDINGS PTE LTD",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "SG"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "201842358M",
+          "country": "Singapore"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "3 Wallich Street, 41-07",
+          "address2": "Wallich Residence",
+          "city": "Singapore",
+          "postal_code": "078882",
+          "country": "SG"
+        }
+      ]
+    },
+    {
+      "uid": 58646,
+      "name": "GREENMEADOWS PROPERTIES SDN BHD",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "MY"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "201801044010",
+          "country": "Malaysia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "14A, Jalan Tun Mohd Fuad",
+          "address2": "Taman Tun Dr Ismail",
+          "city": "Kuala Lumpur",
+          "postal_code": "60000",
+          "country": "MY"
+        }
+      ]
+    },
+    {
+      "uid": 58655,
+      "name": "Zhao Mengyao",
+      "entry_type": "Individual",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": "1991-05-26",
+      "nationalities": [],
+      "aliases": [
+        "\u8d99 \u68a6\u7476",
+        "Zhao Amy"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "HJ2100621",
+          "country": "Hong Kong"
+        },
+        {
+          "type": "National ID No.",
+          "number": "M2640517",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 58656,
+      "name": "GREENBAY MULTI MEDIA PTE LTD",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "SG"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "201721913W",
+          "country": "Singapore"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "2 Jalan Kilang Barat, #08-01",
+          "city": "Singapore",
+          "postal_code": "159346",
+          "country": "SG"
+        }
+      ]
+    },
+    {
+      "uid": 58657,
+      "name": "SUN SPEED HOLDINGS LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "VG"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "1877249",
+          "country": "Virgin Islands, British"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58658,
+      "name": "PREMIUM FINANCIAL LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u6c38\u5bf6\u7269\u696d\u6309\u63ed\u6709\u9650\u516c\u53f8"
+      ],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "60323090",
+          "country": "Hong Kong"
+        },
+        {
+          "type": "Company Number",
+          "number": "1796525",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Room D17, 5/F. Mai Gar Industrial Building",
+          "address2": "146 Wai Yip Street, Kwun Tong",
+          "address3": "Kowloon",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 58659,
+      "name": "GLAD VAST LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u6b23\u8c41\u6709\u9650\u516c\u53f8"
+      ],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "70766842",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Room D17, 5/F. Mai Gar Industrial Building",
+          "address2": "146 Wai Yip Street, Kwun Tong",
+          "address3": "Kowloon",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 58660,
+      "name": "GLAD SPARKLE LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u6b23\u9583\u6709\u9650\u516c\u53f8"
+      ],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "70766957",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Room D17, 5/F. Mai Gar Industrial Building",
+          "address2": "146 Wai Yip Street, Kwun Tong",
+          "address3": "Kowloon",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 58661,
+      "name": "GLAD HARVEST LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u6b23\u5be6\u6709\u9650\u516c\u53f8"
+      ],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "70766761",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Room D17, 5/F. Mai Gar Industrial Building",
+          "address2": "146 Wai Yip Street, Kwun Tong",
+          "address3": "Kowloon",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 58662,
+      "name": "GLAD GLORY LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "VG"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "1999170",
+          "country": "Virgin Islands, British"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Wickhams Cay II",
+          "city": "Road Town",
+          "state": "Tortola",
+          "postal_code": "VG1110",
+          "country": "VG"
+        }
+      ]
+    },
+    {
+      "uid": 58663,
+      "name": "DIRECT ASTUTE HK LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "71868279",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Room D17, 5/F. Mai Gar Industrial Building",
+          "address2": "146 Wai Yip Street, Kwun Tong",
+          "address3": "Kowloon",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 58664,
+      "name": "DIRECT ASTUTE LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "VG"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "1998307",
+          "country": "Virgin Islands, British"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Wickhams Cay II",
+          "city": "Road Town",
+          "state": "Tortola",
+          "postal_code": "VG1110",
+          "country": "VG"
+        }
+      ]
+    },
+    {
+      "uid": 58665,
+      "name": "SOLAR SCAPE FINANCE LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u967d\u666f\u8ca1\u52d9\u6709\u9650\u516c\u53f8"
+      ],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "70507210",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Unit 802, 8/F, 68 Kimberley Road",
+          "address2": "Tsim Sha Tsui, Kowloon",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 58666,
+      "name": "SOLAR SCAPE LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "VG"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "1998349",
+          "country": "Virgin Islands, British"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Wickhams Cay II",
+          "city": "Road Town",
+          "state": "Tortola",
+          "postal_code": "VG1110",
+          "country": "VG"
+        }
+      ]
+    },
+    {
+      "uid": 58667,
+      "name": "VICTORY FLORA LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "VG"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "1999147",
+          "country": "Virgin Islands, British"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58668,
+      "name": "WIN APPLAUSE LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "VG"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "2039220",
+          "country": "Virgin Islands, British"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58669,
+      "name": "CELESTIAL DRIVE LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "VG"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "2036541",
+          "country": "Virgin Islands, British"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58670,
+      "name": "SINO SAGACIOUS LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "TCO"
+      ],
+      "countries": [
+        "VG"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Company Number",
+          "number": "1998339",
+          "country": "Virgin Islands, British"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58890,
+      "name": "Guillermo Faustino Rodriguez Lopez Calleja",
+      "entry_type": "Individual",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": "1958-01-31",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58910,
+      "name": "Gloria C",
+      "entry_type": "Vessel",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 9540273",
+          "country": ""
+        },
+        {
+          "type": "MMSI",
+          "number": "323145000",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58911,
+      "name": "TENTACOOL COMMERCIAL INC",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "PA"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Identification Number",
+          "number": "IMO 5998471",
+          "country": ""
+        },
+        {
+          "type": "RUC #",
+          "number": "155647283-2-2017",
+          "country": "Panama"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Panama City",
+          "country": "PA"
+        }
+      ]
+    },
+    {
+      "uid": 58912,
+      "name": "Rodriguez Any Lastres",
+      "entry_type": "Individual",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "PA"
+      ],
+      "list_type": "SDN",
+      "dob": "1991-10-07",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "L930596",
+          "country": "Cuba"
+        },
+        {
+          "type": "National ID No.",
+          "number": "91100730013",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Panama City",
+          "country": "PA"
+        }
+      ]
+    },
+    {
+      "uid": 58913,
+      "name": "EMPRESA IMPORTADORA Y EXPORTADORA DE PRODUCTOS DE LA ELECTRONICA Y LAS COMUNICACIONES",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "CUBAELECTRONICA"
+      ],
+      "ids": [
+        {
+          "type": "Entity Code",
+          "number": "14047",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58915,
+      "name": "EMPRESA COMERCIALIZADORA DE SERVICIOS TECNICOS Y TECNOLOGICOS",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "TECNOSIME"
+      ],
+      "ids": [
+        {
+          "type": "Entity Code",
+          "number": "6047",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Havana",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 58917,
+      "name": "BEIJING H AND C TECHNOLOGIES CO., LTD",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Beijing Huacheng Haopu Technology Co, Ltd",
+        "\u5317\u4eac\u534e\u6210\u660a\u666e\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "Beijing H&C Technologies Co., LTD"
+      ],
+      "ids": [
+        {
+          "type": "Unified Social Credit Code (USCC)",
+          "number": "9111010275603610XH",
+          "country": "China"
+        },
+        {
+          "type": "Business Registration Number",
+          "number": "110000006206075",
+          "country": "China"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Room 624, Building 2, No. 5, Tongbei Street",
+          "address2": "Wulu Road (Desheng Park), Xicheng District",
+          "city": "Beijing",
+          "postal_code": "100032",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 59052,
+      "name": "Chui Kok Wa",
+      "entry_type": "Individual",
+      "programs": [
+        "CYBER4"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": "1976-01-12",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "760112055295",
+          "country": "Malaysia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "state": "Antananarivo",
+          "country": ""
+        }
+      ]
+    },
+    {
+      "uid": 59066,
+      "name": "INTERNACIONAL MARITIMA SA",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Identification Number",
+          "number": "IMO 6100721",
+          "country": ""
+        },
+        {
+          "type": "Entity Code",
+          "number": "60393",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Miramar",
+          "state": "Havana",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 59067,
+      "name": "PETROLEOS MARITIMOS DEL CARIBE S.A.",
+      "entry_type": "Entity",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [
+        "CU"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "PETROMARCA S.A."
+      ],
+      "ids": [
+        {
+          "type": "Identification Number",
+          "number": "IMO 6140351",
+          "country": ""
+        },
+        {
+          "type": "Entity Code",
+          "number": "60633",
+          "country": "Cuba"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "state": "Havana",
+          "country": "CU"
+        }
+      ]
+    },
+    {
+      "uid": 59068,
+      "name": "EMILIA",
+      "entry_type": "Vessel",
+      "programs": [
+        "CUBA-EO14404"
+      ],
+      "countries": [],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Vessel Registration Identification",
+          "number": "IMO 9242209",
+          "country": ""
+        },
+        {
+          "type": "MMSI",
+          "number": "323150000",
+          "country": ""
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    }
+  ],
+  "removals": [],
+  "updates": [
+    {
+      "uid": 26704,
+      "name": "ESPERANZA",
+      "changes": {
+        "programs": {
+          "old": [
+            "VENEZUELA-EO13850"
+          ],
+          "new": [
+            "VENEZUELA-EO13850",
+            "CUBA-EO14404"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 27425,
+      "name": "LOURDES",
+      "changes": {
+        "name": {
+          "old": "GIRALT",
+          "new": "LOURDES"
+        },
+        "programs": {
+          "old": [
+            "VENEZUELA-EO13850"
+          ],
+          "new": [
+            "VENEZUELA-EO13850",
+            "CUBA-EO14404"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 27426,
+      "name": "CAROIL TRANSPORT MARINE LTD",
+      "changes": {
+        "programs": {
+          "old": [
+            "VENEZUELA-EO13850"
+          ],
+          "new": [
+            "CUBA-EO14404",
+            "VENEZUELA-EO13850"
+          ]
+        },
+        "countries": {
+          "old": [
+            "CY"
+          ],
+          "new": [
+            "CU",
+            "CY"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 27431,
+      "name": "Maria Cristina",
+      "changes": {
+        "name": {
+          "old": "Carlota C",
+          "new": "Maria Cristina"
+        },
+        "programs": {
+          "old": [
+            "VENEZUELA-EO13850"
+          ],
+          "new": [
+            "VENEZUELA-EO13850",
+            "CUBA-EO14404"
+          ]
+        }
+      }
+    },
+    {
+      "uid": 30502,
+      "name": "CEIEC",
+      "changes": {
+        "programs": {
+          "old": [
+            "VENEZUELA"
+          ],
+          "new": [
+            "VENEZUELA",
+            "CUBA-EO14404"
+          ]
+        }
+      }
+    }
+  ]
+}
