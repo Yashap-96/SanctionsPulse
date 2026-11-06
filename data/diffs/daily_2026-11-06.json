@@ -1,0 +1,450 @@
+{
+  "date": "2026-11-06",
+  "period": "2026-11-06",
+  "summary": {
+    "added": 8,
+    "removed": 0,
+    "updated": 0
+  },
+  "additions": [
+    {
+      "uid": 59091,
+      "name": "Diverse Trade Inc",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "CA"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Million Exchange",
+        "Millionex",
+        "Million Money Exchange"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "2634119",
+          "country": "Canada"
+        },
+        {
+          "type": "Business Registration Number",
+          "number": "755878287",
+          "country": "Canada"
+        },
+        {
+          "type": "MSB Registration Number",
+          "number": "M19315656",
+          "country": "Canada"
+        }
+      ],
+      "crypto_wallets": [
+        {
+          "currency": "TRX",
+          "address": "TJHZswisiMgjioAVpmpMSWXCeQGCPjcTMK"
+        }
+      ],
+      "addresses": [
+        {
+          "address1": "2-10097 Yonge St",
+          "city": "Richmond Hill",
+          "state": "Ontario",
+          "postal_code": "L4C 1T7",
+          "country": "CA"
+        },
+        {
+          "address1": "65 Wellesley Street East, Unit 200",
+          "city": "Toronto",
+          "state": "Ontario",
+          "postal_code": "M4Y 1G7",
+          "country": "CA"
+        },
+        {
+          "address1": "1405 Blvd De Maisonneuve Ouest",
+          "city": "Montreal",
+          "state": "Quebec",
+          "postal_code": "H3G 1M6",
+          "country": "CA"
+        }
+      ]
+    },
+    {
+      "uid": 59092,
+      "name": "NIA Nations Currency Ltd",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "CA"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "NIA Exchange",
+        "NIA Nations Exchange",
+        "NIA Nations Currency Exchange"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "BC1226308",
+          "country": "Canada"
+        },
+        {
+          "type": "Business Registration Number",
+          "number": "766820930",
+          "country": "Canada"
+        },
+        {
+          "type": "MSB Registration Number",
+          "number": "M21153461",
+          "country": "Canada"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "806 W Hastings St",
+          "city": "Vancouver",
+          "state": "British Columbia",
+          "postal_code": "V6C 3L3",
+          "country": "CA"
+        },
+        {
+          "address1": "2-987 Marine Dr",
+          "city": "North Vancouver",
+          "state": "British Columbia",
+          "postal_code": "V7P 1S4",
+          "country": "CA"
+        },
+        {
+          "address1": "905-158 13th St W",
+          "city": "North Vancouver",
+          "state": "British Columbia",
+          "postal_code": "V7M 0A7",
+          "country": "CA"
+        }
+      ]
+    },
+    {
+      "uid": 59093,
+      "name": "CCC Inc",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "CA"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "CCurrency Exchange",
+        "Sarafi C",
+        "C Exchange",
+        "Cryptoyal",
+        "Parsis Exchange",
+        "Salam Exchange",
+        "Sarafi Capital"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "2756992",
+          "country": "Canada"
+        },
+        {
+          "type": "MSB Registration Number",
+          "number": "N300000785",
+          "country": "Canada"
+        }
+      ],
+      "crypto_wallets": [
+        {
+          "currency": "TRX",
+          "address": "TCreRMzGspdHNEkqkasejS6xTzqXNkYJJZ"
+        }
+      ],
+      "addresses": [
+        {
+          "address1": "6118 Yonge Street, Unit B",
+          "city": "North York",
+          "state": "Ontario",
+          "postal_code": "M2M 3W7",
+          "country": "CA"
+        }
+      ]
+    },
+    {
+      "uid": 59094,
+      "name": "B Galaxy Inc",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "CA"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "C Exchange",
+        "C Exchaneg",
+        "Cryptoyal"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "2711268",
+          "country": "Canada"
+        },
+        {
+          "type": "MSB Registration Number",
+          "number": "N300001022",
+          "country": "Canada"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "6118 Yonge Street, Unit B",
+          "city": "North York",
+          "state": "Ontario",
+          "postal_code": "M2M 3W7",
+          "country": "CA"
+        },
+        {
+          "address1": "3118 Yonge Street, Unit B",
+          "city": "North York",
+          "state": "Ontario",
+          "postal_code": "M2M 3W7",
+          "country": "CA"
+        },
+        {
+          "address1": "7181 Yonge Street, Unit 4",
+          "city": "Thornhill",
+          "state": "Ontario",
+          "postal_code": "L3T 0C7",
+          "country": "CA"
+        }
+      ]
+    },
+    {
+      "uid": 59095,
+      "name": "2397639 Ontario Ltd",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "CA"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Farah Exchange"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "2397639",
+          "country": "Canada"
+        },
+        {
+          "type": "MSB Registration Number",
+          "number": "M19648033",
+          "country": "Canada"
+        }
+      ],
+      "crypto_wallets": [
+        {
+          "currency": "TRX",
+          "address": "TW5NEaaoPHXC1rt5PaYgG474gQ49oiZ2F5"
+        }
+      ],
+      "addresses": [
+        {
+          "address1": "6039 Yonge St",
+          "city": "North York",
+          "state": "Ontario",
+          "postal_code": "M2M 3W2",
+          "country": "CA"
+        }
+      ]
+    },
+    {
+      "uid": 59096,
+      "name": "1380079 BC Ltd",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "CA"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Amin Exchange Vancouver",
+        "Sarafi Amin"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "BC1380079",
+          "country": "Canada"
+        },
+        {
+          "type": "Business Registration Number",
+          "number": "700268402",
+          "country": "Canada"
+        },
+        {
+          "type": "MSB Registration Number",
+          "number": "M23258996",
+          "country": "Canada"
+        }
+      ],
+      "crypto_wallets": [
+        {
+          "currency": "TRX",
+          "address": "TLyRLCNwBhaXkYak1bTFUYTj72crbgN5Vy"
+        },
+        {
+          "currency": "TRX",
+          "address": "THauYJJEaFGLpEknoKnYmXmT5TCeQGKjDE"
+        },
+        {
+          "currency": "TRX",
+          "address": "TJT3JZKJWVHVkKRKSmWmg5UYHhAqBM7mfP"
+        }
+      ],
+      "addresses": [
+        {
+          "address1": "104-1700 Marine Drive",
+          "city": "North Vancouver",
+          "state": "British Columbia",
+          "postal_code": "V7P 2Z8",
+          "country": "CA"
+        },
+        {
+          "city": "Montreal",
+          "state": "Quebec",
+          "country": "CA"
+        }
+      ]
+    },
+    {
+      "uid": 59097,
+      "name": "Top PC Technician Inc",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "CA"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "2840711 Ontario Inc",
+        "Aminex Toronto",
+        "Amin Exchange Toronto"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "2840711",
+          "country": "Canada"
+        },
+        {
+          "type": "MSB Registration Number",
+          "number": "M21487848",
+          "country": "Canada"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "A1-6174 Yonge Street",
+          "city": "North York",
+          "state": "Ontario",
+          "postal_code": "M2M 3X1",
+          "country": "CA"
+        },
+        {
+          "address1": "7181 Yonge St, Unit 164",
+          "city": "Thornhill",
+          "state": "Ontario",
+          "postal_code": "L3T 0C7",
+          "country": "CA"
+        }
+      ]
+    },
+    {
+      "uid": 59099,
+      "name": "Darvish Exchange",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "CA"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Canada Exchange",
+        "Kanata MD Inc"
+      ],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "729493502",
+          "country": "Canada"
+        },
+        {
+          "type": "Registration Number",
+          "number": "1400801-4",
+          "country": "Canada"
+        },
+        {
+          "type": "MSB Registration Number",
+          "number": "N300000169",
+          "country": "Canada"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "10144 Yonge Street",
+          "city": "Richmond Hill",
+          "state": "Ontario",
+          "postal_code": "L4C 1T6",
+          "country": "CA"
+        },
+        {
+          "address1": "6093 Yonge Street",
+          "city": "North York",
+          "state": "Ontario",
+          "postal_code": "M2M 3W2",
+          "country": "CA"
+        }
+      ]
+    }
+  ],
+  "removals": [],
+  "updates": []
+}

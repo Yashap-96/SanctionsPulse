@@ -11,7 +11,7 @@
       "VENEZUELA-EO13850",
       "GLOMAG"
     ],
-    "daily_added": 5,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "GB": {
@@ -133,7 +133,7 @@
       "SUDAN-EO14098",
       "CUBA-EO14404"
     ],
-    "daily_added": 2,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "MX": {
@@ -235,8 +235,8 @@
     "daily_removed": 0
   },
   "CA": {
-    "total": 41,
-    "sdn": 41,
+    "total": 49,
+    "sdn": 49,
     "consolidated": 0,
     "programs": [
       "CUBA",
@@ -248,9 +248,10 @@
       "RUSSIA-EO14024",
       "ILLICIT-DRUGS-EO14059",
       "IRAN-HR",
-      "FTO"
+      "FTO",
+      "IRAN-EO13902"
     ],
-    "daily_added": 0,
+    "daily_added": 8,
     "daily_removed": 0
   },
   "CZ": {
@@ -959,7 +960,7 @@
       "CMIC-EO13959",
       "PAIPA"
     ],
-    "daily_added": 8,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "ET": {
@@ -1260,7 +1261,7 @@
       "RUSSIA-EO14024",
       "IRAN-EO13902"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "DZ": {
@@ -1441,7 +1442,7 @@
       "VENEZUELA-EO13850",
       "CMIC-EO13959"
     ],
-    "daily_added": 8,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "BR": {
@@ -1777,7 +1778,7 @@
       "TCO",
       "CYBER4"
     ],
-    "daily_added": 26,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "XK": {
@@ -1875,7 +1876,7 @@
       "IRAN-EO13902",
       "TCO"
     ],
-    "daily_added": 2,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "HK": {
@@ -2712,7 +2713,7 @@
       "SDGT",
       "TCO"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "PT": {
