@@ -1,0 +1,73 @@
+{
+  "date": "2026-11-13",
+  "period": "2026-11-13",
+  "summary": {
+    "added": 2,
+    "removed": 0,
+    "updated": 1
+  },
+  "additions": [
+    {
+      "uid": 59031,
+      "name": "Los Mendoza Drug Trafficking Organization",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "countries": [
+        "BZ",
+        "GT",
+        "HN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 59070,
+      "name": "Los Lorenzanas",
+      "entry_type": "Entity",
+      "programs": [
+        "FTO",
+        "SDGT"
+      ],
+      "countries": [
+        "GT"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Lorenzana Drug Trafficking Organization",
+        "The Lorenzana Family",
+        "The Lorenzana Clan"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    }
+  ],
+  "removals": [],
+  "updates": [
+    {
+      "uid": 32452,
+      "name": "Los Huistas Drug Trafficking Organization",
+      "changes": {
+        "programs": {
+          "old": [
+            "ILLICIT-DRUGS-EO14059"
+          ],
+          "new": [
+            "ILLICIT-DRUGS-EO14059",
+            "SDGT"
+          ]
+        }
+      }
+    }
+  ]
+}

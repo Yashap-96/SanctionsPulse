@@ -1643,8 +1643,8 @@
     "daily_removed": 0
   },
   "GT": {
-    "total": 63,
-    "sdn": 63,
+    "total": 65,
+    "sdn": 65,
     "consolidated": 0,
     "programs": [
       "SDNTK",
@@ -1654,7 +1654,7 @@
       "GLOMAG",
       "ILLICIT-DRUGS-EO14059"
     ],
-    "daily_added": 0,
+    "daily_added": 2,
     "daily_removed": 0
   },
   "AU": {
@@ -2048,16 +2048,17 @@
     "daily_removed": 0
   },
   "HN": {
-    "total": 28,
-    "sdn": 28,
+    "total": 29,
+    "sdn": 29,
     "consolidated": 0,
     "programs": [
       "SDNTK",
       "TCO",
       "SDGT",
-      "FTO"
+      "FTO",
+      "ILLICIT-DRUGS-EO14059"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "IL": {
@@ -2097,15 +2098,17 @@
     "daily_removed": 0
   },
   "BZ": {
-    "total": 6,
-    "sdn": 6,
+    "total": 7,
+    "sdn": 7,
     "consolidated": 0,
     "programs": [
       "SDNTK",
       "PAARSSR-EO13894",
-      "RUSSIA-EO14024"
+      "RUSSIA-EO14024",
+      "ILLICIT-DRUGS-EO14059",
+      "SDGT"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "CY": {
