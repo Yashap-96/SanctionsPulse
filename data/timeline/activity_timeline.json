@@ -1,17 +1,11 @@
 {
-  "period_start": "2026-10-30",
-  "period_end": "2026-11-13",
+  "period_start": "2026-10-31",
+  "period_end": "2026-11-14",
   "window_days": 15,
   "total_additions": 81,
   "total_removals": 0,
   "total_updates": 8,
   "days": [
-    {
-      "date": "2026-10-30",
-      "additions": 0,
-      "removals": 0,
-      "updates": 0
-    },
     {
       "date": "2026-10-31",
       "additions": 0,
@@ -95,6 +89,12 @@
       "additions": 2,
       "removals": 0,
       "updates": 1
+    },
+    {
+      "date": "2026-11-14",
+      "additions": 0,
+      "removals": 0,
+      "updates": 0
     }
   ]
 }
