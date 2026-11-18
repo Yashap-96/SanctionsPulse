@@ -1,0 +1,241 @@
+{
+  "date": "2026-11-18",
+  "period": "2026-11-18",
+  "summary": {
+    "added": 6,
+    "removed": 0,
+    "updated": 0
+  },
+  "additions": [
+    {
+      "uid": 59173,
+      "name": "Khechen Hassan",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "LB"
+      ],
+      "list_type": "SDN",
+      "dob": "1986-07-19",
+      "nationalities": [],
+      "aliases": [
+        "\u062e\u0634\u0646 \u062d\u0633\u0646",
+        "Khashan Hassan Muhammad",
+        "Khashan Hassan"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "LR3765421",
+          "country": "Lebanon"
+        },
+        {
+          "type": "National ID No.",
+          "number": "000050415869",
+          "country": "Lebanon"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 59174,
+      "name": "Khechen Ibrahim",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "LB"
+      ],
+      "list_type": "SDN",
+      "dob": "1992-06-10",
+      "nationalities": [],
+      "aliases": [
+        "\u062e\u0634\u0646 \u0627\u0628\u0631\u0627\u0647\u064a\u0645"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "1352745",
+          "country": "Lebanon"
+        },
+        {
+          "type": "National ID No.",
+          "number": "000040505200",
+          "country": "Lebanon"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 59175,
+      "name": "Gold Global Company",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "LB"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Gold Global Company Hassan Mohamad Khechen and His Partners"
+      ],
+      "ids": [
+        {
+          "type": "Commercial Registry Number",
+          "number": "5009969",
+          "country": "Lebanon"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Jnah. Centro Mall, Office Bldg.",
+          "address2": "Floor 3",
+          "address3": "Office 44",
+          "city": "Sidon",
+          "country": "LB"
+        }
+      ]
+    },
+    {
+      "uid": 59176,
+      "name": "Sankari Gold Kuyumculuk Ticaret Limited Sirketi",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "TR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "SANKAR\u0130 GOLD KUYUMCULUK T\u0130CARET L\u0130M\u0130TED \u015e\u0130RKET\u0130",
+        "Sankari Gold Jewelry Trade Limited Company"
+      ],
+      "ids": [
+        {
+          "type": "Central Registration System Number",
+          "number": "0744096767700001",
+          "country": "Turkey"
+        },
+        {
+          "type": "Registration Number",
+          "number": "233645-5",
+          "country": "Turkey"
+        },
+        {
+          "type": "Chamber of Commerce Number",
+          "number": "1223407",
+          "country": "Turkey"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "7440967677",
+          "country": "Turkey"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Yenibosna Merkez Mah. Kuyumcukent No: 4m ic Kapi No: Z132 Bahcelievler",
+          "city": "Istanbul",
+          "country": "TR"
+        }
+      ]
+    },
+    {
+      "uid": 59188,
+      "name": "Wa Ta'awanu Association",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "LB"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u062c\u0645\u0639\u064a\u0629 \u0648\u062a\u0639\u0627\u0648\u0646\u0648\u0627",
+        "Wa Taawanou"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "387/2021",
+          "country": "Lebanon"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Zefta",
+          "state": "Nabatieh",
+          "country": "LB"
+        }
+      ]
+    },
+    {
+      "uid": 59189,
+      "name": "Chouman Afif Abdel Rida",
+      "entry_type": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "countries": [
+        "LB"
+      ],
+      "list_type": "SDN",
+      "dob": "1983-04-21",
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0648\u0645\u0627\u0646 \u0639\u0641\u064a\u0641 \u0639\u0628\u062f \u0627\u0644\u0631\u0636\u0627",
+        "Shuman Afif Abd-Al-Rida",
+        "al-Fadl Abu"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "LR2501382",
+          "country": "Lebanon"
+        },
+        {
+          "type": "Passport",
+          "number": "LR0248911",
+          "country": "Lebanon"
+        },
+        {
+          "type": "National ID No.",
+          "number": "000013479394",
+          "country": "Lebanon"
+        },
+        {
+          "type": "Identification Number",
+          "number": "4285034",
+          "country": "Lebanon"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Zefta",
+          "state": "Nabatieh",
+          "country": "LB"
+        }
+      ]
+    }
+  ],
+  "removals": [],
+  "updates": []
+}

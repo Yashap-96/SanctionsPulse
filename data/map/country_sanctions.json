@@ -518,8 +518,8 @@
     "daily_removed": 0
   },
   "LB": {
-    "total": 361,
-    "sdn": 361,
+    "total": 366,
+    "sdn": 366,
     "consolidated": 0,
     "programs": [
       "SDGT",
@@ -538,7 +538,7 @@
       "LEBANON",
       "BELARUS-EO14038"
     ],
-    "daily_added": 0,
+    "daily_added": 5,
     "daily_removed": 0
   },
   "CO": {
@@ -1065,8 +1065,8 @@
     "daily_removed": 0
   },
   "TR": {
-    "total": 389,
-    "sdn": 388,
+    "total": 390,
+    "sdn": 389,
     "consolidated": 1,
     "programs": [
       "SDGT",
@@ -1089,7 +1089,7 @@
       "IRAN-EO13902",
       "CAATSA - RUSSIA"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "HR": {
