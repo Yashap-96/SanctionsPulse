@@ -79,8 +79,8 @@
     "daily_removed": 0
   },
   "ES": {
-    "total": 52,
-    "sdn": 52,
+    "total": 54,
+    "sdn": 54,
     "consolidated": 0,
     "programs": [
       "CUBA",
@@ -96,19 +96,20 @@
       "DPRK4",
       "CUBA-EO14404"
     ],
-    "daily_added": 0,
+    "daily_added": 2,
     "daily_removed": 0
   },
   "JP": {
-    "total": 22,
-    "sdn": 22,
+    "total": 23,
+    "sdn": 23,
     "consolidated": 0,
     "programs": [
       "CUBA",
       "IRAN",
-      "TCO"
+      "TCO",
+      "CYBER4"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "PA": {
@@ -176,13 +177,14 @@
     "daily_removed": 0
   },
   "IT": {
-    "total": 80,
-    "sdn": 80,
+    "total": 82,
+    "sdn": 82,
     "consolidated": 0,
     "programs": [
       "CUBA",
       "SDGT",
       "SDNTK",
+      "ILLICIT-DRUGS-EO14059",
       "IRAN",
       "TCO",
       "LIBYA3",
@@ -191,10 +193,9 @@
       "VENEZUELA-EO13850",
       "RUSSIA-EO14024",
       "IRAN-EO13902",
-      "FTO",
-      "ILLICIT-DRUGS-EO14059"
+      "FTO"
     ],
-    "daily_added": 0,
+    "daily_added": 2,
     "daily_removed": 0
   },
   "AR": {
@@ -235,8 +236,8 @@
     "daily_removed": 0
   },
   "CA": {
-    "total": 49,
-    "sdn": 49,
+    "total": 62,
+    "sdn": 62,
     "consolidated": 0,
     "programs": [
       "CUBA",
@@ -251,7 +252,7 @@
       "FTO",
       "IRAN-EO13902"
     ],
-    "daily_added": 0,
+    "daily_added": 13,
     "daily_removed": 0
   },
   "CZ": {
@@ -270,8 +271,8 @@
     "daily_removed": 0
   },
   "DE": {
-    "total": 131,
-    "sdn": 131,
+    "total": 132,
+    "sdn": 132,
     "consolidated": 0,
     "programs": [
       "CUBA",
@@ -290,9 +291,10 @@
       "ELECTION-EO13848",
       "PEESA-EO14039",
       "RUSSIA-EO14024",
-      "FTO"
+      "FTO",
+      "ILLICIT-DRUGS-EO14059"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "GY": {
@@ -538,7 +540,7 @@
       "LEBANON",
       "BELARUS-EO14038"
     ],
-    "daily_added": 5,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "CO": {
@@ -640,8 +642,8 @@
     "daily_removed": 0
   },
   "MM": {
-    "total": 188,
-    "sdn": 187,
+    "total": 190,
+    "sdn": 189,
     "consolidated": 1,
     "programs": [
       "SDNTK",
@@ -652,7 +654,7 @@
       "DPRK",
       "CYBER4"
     ],
-    "daily_added": 0,
+    "daily_added": 2,
     "daily_removed": 0
   },
   "IE": {
@@ -849,8 +851,8 @@
     "daily_removed": 0
   },
   "BA": {
-    "total": 26,
-    "sdn": 26,
+    "total": 27,
+    "sdn": 27,
     "consolidated": 0,
     "programs": [
       "SDGT",
@@ -860,7 +862,7 @@
       "ILLICIT-DRUGS-EO14059",
       "RUSSIA-EO14024"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "MA": {
@@ -1089,7 +1091,7 @@
       "IRAN-EO13902",
       "CAATSA - RUSSIA"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "HR": {
@@ -1352,8 +1354,8 @@
     "daily_removed": 0
   },
   "AE": {
-    "total": 768,
-    "sdn": 768,
+    "total": 769,
+    "sdn": 769,
     "consolidated": 0,
     "programs": [
       "IRAQ2",
@@ -1390,7 +1392,7 @@
       "PAIPA",
       "CAATSA - RUSSIA"
     ],
-    "daily_added": 0,
+    "daily_added": 1,
     "daily_removed": 0
   },
   "DO": {
@@ -1658,15 +1660,15 @@
     "daily_removed": 0
   },
   "AU": {
-    "total": 6,
-    "sdn": 6,
+    "total": 8,
+    "sdn": 8,
     "consolidated": 0,
     "programs": [
       "SDGT",
       "TCO",
       "ILLICIT-DRUGS-EO14059"
     ],
-    "daily_added": 0,
+    "daily_added": 2,
     "daily_removed": 0
   },
   "FI": {
@@ -1694,15 +1696,15 @@
     "daily_removed": 0
   },
   "NZ": {
-    "total": 5,
-    "sdn": 5,
+    "total": 8,
+    "sdn": 8,
     "consolidated": 0,
     "programs": [
       "SDGT",
       "SDNTK",
       "ILLICIT-DRUGS-EO14059"
     ],
-    "daily_added": 0,
+    "daily_added": 3,
     "daily_removed": 0
   },
   "LV": {
@@ -1769,8 +1771,8 @@
     "daily_removed": 0
   },
   "KH": {
-    "total": 181,
-    "sdn": 181,
+    "total": 183,
+    "sdn": 183,
     "consolidated": 0,
     "programs": [
       "SDGT",
@@ -1778,7 +1780,7 @@
       "TCO",
       "CYBER4"
     ],
-    "daily_added": 0,
+    "daily_added": 2,
     "daily_removed": 0
   },
   "XK": {

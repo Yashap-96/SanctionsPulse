@@ -1,0 +1,744 @@
+{
+  "date": "2026-11-19",
+  "period": "2026-11-19",
+  "summary": {
+    "added": 24,
+    "removed": 0,
+    "updated": 1
+  },
+  "additions": [
+    {
+      "uid": 58791,
+      "name": "Figliomeni Angelo",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "CA"
+      ],
+      "list_type": "SDN",
+      "dob": "1962-09-30",
+      "nationalities": [],
+      "aliases": [
+        "Don Angelino"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Vaughan",
+          "state": "Ontario",
+          "country": "CA"
+        }
+      ]
+    },
+    {
+      "uid": 58792,
+      "name": "Figliomeni Cosimo",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "CA"
+      ],
+      "list_type": "SDN",
+      "dob": "1965-02-06",
+      "nationalities": [],
+      "aliases": [
+        "Mino",
+        "Cosimino"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "state": "Ontario",
+          "country": "CA"
+        }
+      ]
+    },
+    {
+      "uid": 58793,
+      "name": "Commisso Francesco",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "CA",
+        "IT"
+      ],
+      "list_type": "SDN",
+      "dob": "1956-10-03",
+      "nationalities": [],
+      "aliases": [
+        "U Scelto"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "state": "Ontario",
+          "country": "CA"
+        },
+        {
+          "city": "Siderno",
+          "state": "Calabria",
+          "country": "IT"
+        }
+      ]
+    },
+    {
+      "uid": 58794,
+      "name": "Commisso Rocco Remo",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "CA"
+      ],
+      "list_type": "SDN",
+      "dob": "1946-06-29",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "state": "Ontario",
+          "country": "CA"
+        }
+      ]
+    },
+    {
+      "uid": 58795,
+      "name": "Vescio Sr. Luigi",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "CA"
+      ],
+      "list_type": "SDN",
+      "dob": "1971-07-08",
+      "nationalities": [],
+      "aliases": [
+        "Vescio Lui",
+        "The Undertaker"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "state": "Ontario",
+          "country": "CA"
+        }
+      ]
+    },
+    {
+      "uid": 58796,
+      "name": "DeMaria Vincenzo",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "CA"
+      ],
+      "list_type": "SDN",
+      "dob": "1954-04-16",
+      "nationalities": [],
+      "aliases": [
+        "DeMaria Jimmy"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "state": "Ontario",
+          "country": "CA"
+        }
+      ]
+    },
+    {
+      "uid": 58797,
+      "name": "FRATELLI VESCIO FUNERAL HOMES LTD.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "CA"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Business Number",
+          "number": "852592732",
+          "country": "Canada"
+        },
+        {
+          "type": "Registration Number",
+          "number": "1519713",
+          "country": "Canada"
+        },
+        {
+          "type": "License",
+          "number": "FE1-729",
+          "country": "Canada"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Woodbridge",
+          "state": "Ontario",
+          "country": "CA"
+        }
+      ]
+    },
+    {
+      "uid": 58798,
+      "name": "VESCIO FUNERAL HOMES INC.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "CA"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Business Number",
+          "number": "846519916",
+          "country": "Canada"
+        },
+        {
+          "type": "Registration ID",
+          "number": "2261014",
+          "country": "Canada"
+        },
+        {
+          "type": "License",
+          "number": "FE1-1065",
+          "country": "Canada"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Toronto",
+          "state": "Ontario",
+          "country": "CA"
+        }
+      ]
+    },
+    {
+      "uid": 58799,
+      "name": "VESCIO FUNERAL HOME MAPLE INC.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "CA"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Business Number",
+          "number": "722473089",
+          "country": "Canada"
+        },
+        {
+          "type": "Registration ID",
+          "number": "2669016",
+          "country": "Canada"
+        },
+        {
+          "type": "License",
+          "number": "FE1-1444",
+          "country": "Canada"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Maple",
+          "state": "Ontario",
+          "country": "CA"
+        }
+      ]
+    },
+    {
+      "uid": 58800,
+      "name": "Vescio Rose",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "CA"
+      ],
+      "list_type": "SDN",
+      "dob": "1970-06-24",
+      "nationalities": [],
+      "aliases": [
+        "Vescio Rosa Maria"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "state": "Ontario",
+          "country": "CA"
+        }
+      ]
+    },
+    {
+      "uid": 58801,
+      "name": "Vescio Jr. Luigi",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "CA"
+      ],
+      "list_type": "SDN",
+      "dob": "1999-12-14",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "state": "Ontario",
+          "country": "CA"
+        }
+      ]
+    },
+    {
+      "uid": 58802,
+      "name": "Vescio Laura",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "CA"
+      ],
+      "list_type": "SDN",
+      "dob": "1997-09-30",
+      "nationalities": [],
+      "aliases": [
+        "Vescio-Sacco Laura"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "state": "Ontario",
+          "country": "CA"
+        }
+      ]
+    },
+    {
+      "uid": 58803,
+      "name": "PHANTOM LIMOUSINE SERVICES INC.",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "CA"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Business Number",
+          "number": "771830627",
+          "country": "Canada"
+        },
+        {
+          "type": "Registration ID",
+          "number": "1000901864",
+          "country": "Canada"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Woodbridge",
+          "state": "Ontario",
+          "country": "CA"
+        }
+      ]
+    },
+    {
+      "uid": 58804,
+      "name": "Comanchero Outlaw Motorcycle Gang",
+      "entry_type": "Entity",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "AU",
+        "BA",
+        "DE",
+        "ES",
+        "NZ"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "Comanchero Motorcycle Club",
+        "Comanchero MC"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58805,
+      "name": "Coffen Marco Francis",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "AE",
+        "IT"
+      ],
+      "list_type": "SDN",
+      "dob": "1982-09-06",
+      "nationalities": [],
+      "aliases": [
+        "de Bernardo Marco Sullivan"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "G41266131",
+          "country": "Mexico"
+        },
+        {
+          "type": "Passport",
+          "number": "RV0122253",
+          "country": "Vanuatu"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58806,
+      "name": "Alexandre Varela Villar",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "ES"
+      ],
+      "list_type": "SDN",
+      "dob": "1991-11-19",
+      "nationalities": [],
+      "aliases": [
+        "Vare Alex",
+        "Varela Alex"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "36176177Y",
+          "country": "Spain"
+        }
+      ],
+      "crypto_wallets": [
+        {
+          "currency": "TRX",
+          "address": "TVwLtgUXyDhmcSoQ9x2z9QSua41f8mDFvU"
+        }
+      ],
+      "addresses": []
+    },
+    {
+      "uid": 58807,
+      "name": "Meehan Allan John Norman",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "AU"
+      ],
+      "list_type": "SDN",
+      "dob": "1987-03-19",
+      "nationalities": [],
+      "aliases": [
+        "Meehan Allan"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "PA7606808",
+          "country": "Australia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58808,
+      "name": "Naufahu Pasilika",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "NZ"
+      ],
+      "list_type": "SDN",
+      "dob": "1987-07-22",
+      "nationalities": [],
+      "aliases": [
+        "Lika"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "LK010539",
+          "country": "New Zealand"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58809,
+      "name": "Naufahu Vetekina",
+      "entry_type": "Individual",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "countries": [
+        "NZ"
+      ],
+      "list_type": "SDN",
+      "dob": "1985-02-05",
+      "nationalities": [],
+      "aliases": [
+        "Kina"
+      ],
+      "ids": [
+        {
+          "type": "Passport",
+          "number": "N5608183",
+          "country": "Australia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 58850,
+      "name": "Wah Saw Shwe",
+      "entry_type": "Individual",
+      "programs": [
+        "CYBER4"
+      ],
+      "countries": [
+        "MM"
+      ],
+      "list_type": "SDN",
+      "dob": "1971-10-25",
+      "nationalities": [],
+      "aliases": [
+        "Wah Maung Shwe",
+        "Wah Swe",
+        "Wa Saw Shwe"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "state": "Kayin State",
+          "country": "MM"
+        }
+      ]
+    },
+    {
+      "uid": 58851,
+      "name": "One Saw A",
+      "entry_type": "Individual",
+      "programs": [
+        "CYBER4"
+      ],
+      "countries": [
+        "MM"
+      ],
+      "list_type": "SDN",
+      "dob": "1979-01-01",
+      "nationalities": [],
+      "aliases": [
+        "Wah Saw Ew",
+        "One Saw Eh"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Kyain Chaung Village",
+          "address2": "Payathonzu Township",
+          "state": "Karen State",
+          "country": "MM"
+        }
+      ]
+    },
+    {
+      "uid": 58870,
+      "name": "Zhao Hui",
+      "entry_type": "Individual",
+      "programs": [
+        "CYBER4"
+      ],
+      "countries": [
+        "JP"
+      ],
+      "list_type": "SDN",
+      "dob": "1991-04-25",
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "23210119910425461X",
+          "country": "China"
+        },
+        {
+          "type": "Passport",
+          "number": "N01749414",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Tokyo",
+          "country": "JP"
+        }
+      ]
+    },
+    {
+      "uid": 58871,
+      "name": "Bei Fang Bo Lin Construction Decoration Co., Ltd.",
+      "entry_type": "Entity",
+      "programs": [
+        "CYBER4"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "00035002",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "K005-901804544",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "55B, Street 369, Sk. Prek Pra, Kh. Chbar Ampov District",
+          "city": "Phnom Penh",
+          "country": "KH"
+        }
+      ]
+    },
+    {
+      "uid": 58872,
+      "name": "ZHZ Investment Consulting Co., Ltd.",
+      "entry_type": "Entity",
+      "programs": [
+        "CYBER4"
+      ],
+      "countries": [
+        "KH"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "00030982",
+          "country": "Cambodia"
+        },
+        {
+          "type": "Tax ID No.",
+          "number": "K005-901803243",
+          "country": "Cambodia"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Tuek L'ak Muoy, Tuol Kuok",
+          "city": "Phnom Penh",
+          "country": "KH"
+        }
+      ]
+    }
+  ],
+  "removals": [],
+  "updates": [
+    {
+      "uid": 10902,
+      "name": "'NDRANGHETA",
+      "changes": {
+        "name": {
+          "old": "'NDRANGHETA ORGANIZATION",
+          "new": "'NDRANGHETA"
+        },
+        "programs": {
+          "old": [
+            "SDNTK"
+          ],
+          "new": [
+            "SDNTK",
+            "ILLICIT-DRUGS-EO14059"
+          ]
+        }
+      }
+    }
+  ]
+}
