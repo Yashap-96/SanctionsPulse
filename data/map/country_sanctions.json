@@ -96,7 +96,7 @@
       "DPRK4",
       "CUBA-EO14404"
     ],
-    "daily_added": 2,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "JP": {
@@ -109,7 +109,7 @@
       "TCO",
       "CYBER4"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "PA": {
@@ -195,7 +195,7 @@
       "IRAN-EO13902",
       "FTO"
     ],
-    "daily_added": 2,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "AR": {
@@ -252,7 +252,7 @@
       "FTO",
       "IRAN-EO13902"
     ],
-    "daily_added": 13,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "CZ": {
@@ -294,7 +294,7 @@
       "FTO",
       "ILLICIT-DRUGS-EO14059"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "GY": {
@@ -586,8 +586,8 @@
     "daily_removed": 0
   },
   "IR": {
-    "total": 1706,
-    "sdn": 1705,
+    "total": 1710,
+    "sdn": 1709,
     "consolidated": 1,
     "programs": [
       "IRAN",
@@ -621,7 +621,7 @@
       "ILLICIT-DRUGS-EO14059",
       "CYBER4"
     ],
-    "daily_added": 0,
+    "daily_added": 4,
     "daily_removed": 0
   },
   "AF": {
@@ -654,7 +654,7 @@
       "DPRK",
       "CYBER4"
     ],
-    "daily_added": 2,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "IE": {
@@ -862,7 +862,7 @@
       "ILLICIT-DRUGS-EO14059",
       "RUSSIA-EO14024"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "MA": {
@@ -1392,7 +1392,7 @@
       "PAIPA",
       "CAATSA - RUSSIA"
     ],
-    "daily_added": 1,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "DO": {
@@ -1668,7 +1668,7 @@
       "TCO",
       "ILLICIT-DRUGS-EO14059"
     ],
-    "daily_added": 2,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "FI": {
@@ -1704,7 +1704,7 @@
       "SDNTK",
       "ILLICIT-DRUGS-EO14059"
     ],
-    "daily_added": 3,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "LV": {
@@ -1780,7 +1780,7 @@
       "TCO",
       "CYBER4"
     ],
-    "daily_added": 2,
+    "daily_added": 0,
     "daily_removed": 0
   },
   "XK": {
