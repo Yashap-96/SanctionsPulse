@@ -2,7 +2,7 @@
   "period_start": "2026-11-10",
   "period_end": "2026-11-24",
   "window_days": 15,
-  "total_additions": 66,
+  "total_additions": 36,
   "total_removals": 0,
   "total_updates": 2,
   "days": [
@@ -92,7 +92,7 @@
     },
     {
       "date": "2026-11-24",
-      "additions": 30,
+      "additions": 0,
       "removals": 0,
       "updates": 0
     }

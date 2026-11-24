@@ -16,7 +16,7 @@
       "entry_count_sdn": 3372,
       "entry_count_consolidated": 3,
       "last_updated": "2026-11-24",
-      "daily_added": 1,
+      "daily_added": 0,
       "daily_removed": 0,
       "description": "Targets individuals and entities that commit, threaten, or support terrorism designated under Executive Order 13224."
     },
@@ -26,7 +26,7 @@
       "entry_count_sdn": 1623,
       "entry_count_consolidated": 0,
       "last_updated": "2026-11-24",
-      "daily_added": 1,
+      "daily_added": 0,
       "daily_removed": 0,
       "description": "Targets foreign financial institutions that facilitate transactions for sanctioned Iranian entities."
     },
@@ -56,7 +56,7 @@
       "entry_count_sdn": 1130,
       "entry_count_consolidated": 1,
       "last_updated": "2026-11-24",
-      "daily_added": 28,
+      "daily_added": 0,
       "daily_removed": 0,
       "description": "Targets additional sectors of Iran's economy including construction and manufacturing."
     },
@@ -436,7 +436,7 @@
       "entry_count_sdn": 60,
       "entry_count_consolidated": 0,
       "last_updated": "2026-11-24",
-      "daily_added": 1,
+      "daily_added": 0,
       "daily_removed": 0,
       "description": "Targets Iran's metals, mining, textiles, construction, and manufacturing sectors."
     },
