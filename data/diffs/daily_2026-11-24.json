@@ -1,0 +1,1066 @@
+{
+  "date": "2026-11-24",
+  "period": "2026-11-24",
+  "summary": {
+    "added": 30,
+    "removed": 0,
+    "updated": 0
+  },
+  "additions": [
+    {
+      "uid": 59110,
+      "name": "H N B TRADING CO LLC",
+      "entry_type": "Entity",
+      "programs": [
+        "SDGT",
+        "IFSR"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "License",
+          "number": "1202024",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Office 0541, Al Karama",
+          "address2": "PO Box 12",
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 59111,
+      "name": "GRAND TARGET HEAVY EQUIPMENT AND MACHINERY SPARE PARTS TRADING L.L.C",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u062c\u0631\u0627\u0646\u062f \u062a\u0627\u0631\u062c\u06cc\u062a \u0644\u062a\u062c\u0627\u0631\u0629 \u0642\u0637\u0639 \u063a\u06cc\u0627\u0631 \u0627\u0644\u0622\u0644\u0627\u062a \u0648 \u0627\u0644\u0645\u0639\u062f\u0627\u062a \u0627\u0644\u062b\u0642\u06cc\u0644\u0629 \u0630 \u0645 \u0645"
+      ],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "1297357",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "License",
+          "number": "787212",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 59112,
+      "name": "RECAZ STAR GENERAL TRADING LLC",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0631\u064a\u0643\u0627\u0632 \u0633\u062a\u0627\u0631 \u0644\u0644\u062a\u062c\u0627\u0631\u0629 \u0627\u0644\u0639\u0627\u0645\u0629 \u0630 \u0645 \u0645"
+      ],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "56867",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "License",
+          "number": "527117",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Office No. 701/703A/702C/702B/702A, 7th Floor, Al Shoala Building",
+          "address2": "Port Saeed",
+          "address3": "Deira",
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 59113,
+      "name": "Rahbar Bazargani Nesim Baharan Qeshm Company",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0631\u06a9\u062a \u0631\u0627\u0647\u0628\u0631 \u0628\u0627\u0632\u0631\u06af\u0627\u0646\u06cc \u0646\u0633\u06cc\u0645 \u0628\u0647\u0627\u0631\u0627\u0646 \u0642\u0634\u0645"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "14013131445",
+          "country": "Iran"
+        },
+        {
+          "type": "Registration Number",
+          "number": "7663",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Unit 48A, Floor 1, Golyol Line, Pardis Commercial Complex, No. 0, Main Street, Valiasr Boulevard, West Golzar",
+          "city": "Qeshm",
+          "state": "Hormozgan",
+          "postal_code": "7951633985",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 59114,
+      "name": "HEMRAJ TRADING L.L.C",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "License",
+          "number": "1064958",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 59116,
+      "name": "Mina Fashki and Partners Exchange Company",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0631\u06a9\u062a \u0635\u0631\u0627\u0641\u06cc \u0645\u06cc\u0646\u0627 \u0641\u0634\u06a9\u06cc \u0648 \u0634\u0631\u06a9\u0627",
+        "Mina Fashki and Partners General Partnership Company",
+        "\u0634\u0631\u06a9\u062a \u062a\u0636\u0627\u0645\u0646\u06cc \u0635\u0631\u0627\u0641\u06cc \u0645\u06cc\u0646\u0627 \u0641\u0634\u06a9\u06cc \u0648 \u0634\u0631\u06a9\u0627"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "14012121110",
+          "country": "Iran"
+        },
+        {
+          "type": "Registration Number",
+          "number": "611031",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Ground Floor, Soraya Building, No. 6, Pardis Street, East Zayandeh Rood Street, Kavusiyeh",
+          "city": "Tehran",
+          "state": "Tehran",
+          "postal_code": "1991915616",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 59117,
+      "name": "OGA GLOBAL GENERAL TRADING L.L.C",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0627\u0648 \u062c\u064a \u0627\u064a\u0647 \u062c\u0644\u0648\u0628\u0627\u0644 \u0644\u0644\u062a\u062c\u0627\u0631\u0629 \u0627\u0644\u0639\u0627\u0645\u0629 \u0630.\u0645.\u0645"
+      ],
+      "ids": [
+        {
+          "type": "License",
+          "number": "1542471",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Commercial Registry Number",
+          "number": "2680881",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Chamber of Commerce Number",
+          "number": "635676",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Office F1-0370",
+          "address2": "Dubai Investment Park",
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 59118,
+      "name": "EWAN AL MADEENA GENERAL TRADING LLC",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0627\u064a\u0648\u0627\u0646 \u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0644\u0644\u062a\u062c\u0627\u0631\u0629 \u0627\u0644\u0639\u0627\u0645\u0629 \u0630 \u0645 \u0645"
+      ],
+      "ids": [
+        {
+          "type": "License",
+          "number": "707276",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Office No 1009",
+          "address2": "Al Buteen",
+          "address3": "Deira",
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 59119,
+      "name": "DEXTEROUS GLOBAL DMCC",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u062f\u064a\u0643\u0633\u062a\u0631\u0648\u0633 \u063a\u0644\u0648\u0628\u0627\u0644 \u0645 \u062f \u0645 \u0633",
+        "Zana International DMCC"
+      ],
+      "ids": [
+        {
+          "type": "License",
+          "number": "DMCC-762188",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Registration Number",
+          "number": "DMCC183812",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Mazaya Business Avenue AA1",
+          "address2": "Jumeirah Lake Towers",
+          "city": "Dubai",
+          "country": "AE"
+        },
+        {
+          "address1": "Unit No: 226, Level No 8, Jewellery and Gemplex 2, DMCC Business Centre",
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 59120,
+      "name": "Kalhor Ali",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1963-10-08",
+      "nationalities": [],
+      "aliases": [
+        "\u06a9\u0644\u0647\u0631 \u0639\u0644\u06cc"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0045764190",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 59121,
+      "name": "GESPL INTERNATIONAL GENERAL TRADING LLC",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u062c\u0633\u0628\u0644 \u0627\u0646\u062a\u0631\u0646\u0627\u0634\u0648\u0646\u0627\u0644 \u0644\u0644\u062a\u062c\u0627\u0631\u0629 \u0627\u0644\u0639\u0627\u0645\u0629 \u0634. \u0630 \u0645 \u0645"
+      ],
+      "ids": [
+        {
+          "type": "Business Registration Number",
+          "number": "1077605",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "License",
+          "number": "655012",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Office No 606",
+          "address2": "Burj Khalifa",
+          "address3": "Bur Dubai",
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 59122,
+      "name": "MEETHALE RAW MATERIALS TRADING COMPANY LLC",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0645\u064a\u0637\u064a\u0644 \u0644\u062a\u062c\u0627\u0631\u0629 \u0627\u0644\u062e\u0627\u0645\u0627\u062a \u0648\u0627\u0644\u0645\u0648\u0627\u062f \u0627\u0644\u0627\u0648\u0644\u064a\u0629 \u0634\u0631\u0643\u0629 \u0627\u0644\u0634\u062e\u0635 \u0627\u0644\u0648\u0627\u062d\u062f \u0630 \u0645 \u0645"
+      ],
+      "ids": [
+        {
+          "type": "License",
+          "number": "1470106",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Office No. M21",
+          "address2": "Port Saeed",
+          "address3": "Deira",
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 59123,
+      "name": "Hemmati Valiollah",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1972-06-20",
+      "nationalities": [],
+      "aliases": [
+        "\u0647\u0645\u062a\u06cc \u0648\u0644\u06cc \u0627\u0644\u0647"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0057267448",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 59124,
+      "name": "Jalali Sayyed Mohammad",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1966-09-28",
+      "nationalities": [],
+      "aliases": [
+        "\u062c\u0644\u0627\u0644\u06cc \u0633\u06cc\u062f \u0645\u062d\u0645\u062f"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0049070614",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 59125,
+      "name": "Fashki Mina",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1986-07-29",
+      "nationalities": [],
+      "aliases": [
+        "\u0641\u0634\u06a9\u06cc \u0645\u06cc\u0646\u0627",
+        "Feshki Mina"
+      ],
+      "ids": [],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 59126,
+      "name": "Fashki Farzad",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1990-12-10",
+      "nationalities": [],
+      "aliases": [
+        "\u0641\u0634\u06a9\u06cc \u0641\u0631\u0632\u0627\u062f",
+        "Feshki Farzad"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0012841870",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 59127,
+      "name": "BOGAZICI GUMRUKLEME ITHALAT IHRACAT TURIZM PETROL URUNLERI SANAYI VE TICARET LIMITED SIRKETI",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "TR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "BO\u011eAZ\u0130\u00c7\u0130 G\u00dcMR\u00dcKLEME \u0130THALAT \u0130HRACAT TUR\u0130ZM PETROL \u00dcR\u00dcNLER\u0130 SANAY\u0130 VE T\u0130CARET L\u0130M\u0130TED \u015e\u0130RKET\u0130"
+      ],
+      "ids": [
+        {
+          "type": "Tax ID No.",
+          "number": "1790653867",
+          "country": "Turkey"
+        },
+        {
+          "type": "Central Registration System Number",
+          "number": "0179065386700013",
+          "country": "Turkey"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Inegol Caddesi No: 32-5",
+          "address2": "Ciftepinar Mahallesi",
+          "city": "Dogubayazit",
+          "country": "TR"
+        }
+      ]
+    },
+    {
+      "uid": 59128,
+      "name": "GRANDEZ TRADING LIMITED",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "CN"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "C.R. No.",
+          "number": "2389243",
+          "country": "Hong Kong"
+        },
+        {
+          "type": "Business Registration Number",
+          "number": "66284852",
+          "country": "Hong Kong"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "10E, 10th Level, Wang Cheong Building",
+          "address2": "No. 125 Reclamation Street, Kowloon",
+          "city": "Hong Kong",
+          "country": "CN"
+        }
+      ]
+    },
+    {
+      "uid": 59130,
+      "name": "KHORE AL HILAL GOODS WHOLESALERS TRADING LLC",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u062e\u0648\u0631 \u0627\u0644\u0647\u0644\u0627\u0644 \u0644\u062a\u062c\u0627\u0631\u0629 \u0627\u0644\u0633\u0644\u0639 \u0628\u0627\u0644\u062c\u0645\u0644\u0629 \u0630.\u0645.\u0645"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "11583638",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "License",
+          "number": "918481",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 59178,
+      "name": "Royah Altahabia Trading L.L.C",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [],
+      "ids": [
+        {
+          "type": "License",
+          "number": "CI4204",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "License",
+          "number": "1216968",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Al Karama, Bur Dubai",
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 59180,
+      "name": "Nordic International Trading LLC",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0646\u0648\u0631\u062f\u06cc\u0643 \u0627\u0646\u062a\u0631\u0646\u0627\u0634\u064a\u0648\u0646\u0627\u0644 \u0644\u0644\u062a\u062c\u0627\u0631\u0629 \u0630 \u0645 \u0645"
+      ],
+      "ids": [
+        {
+          "type": "License",
+          "number": "BX1257",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "License",
+          "number": "1066766",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Al Murar, Deira",
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 59183,
+      "name": "Alam Al Sahra Building Materials Trading Co. L.L.C",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0639\u0627\u0644\u0645 \u0627\u0644\u0635\u062d\u0631\u0627\u0621 \u0644\u062a\u062c\u0627\u0631\u0629 \u0645\u0648\u0627\u062f \u0627\u0644\u0628\u0646\u0627\u0621 \u0634\u0631\u06a9\u0629 \u0627\u0644\u0634\u062e\u0635 \u0627\u0644\u0648\u0627\u062d\u062f \u0630.\u0645.\u0645"
+      ],
+      "ids": [
+        {
+          "type": "License",
+          "number": "1277558",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "License",
+          "number": "CU6117",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Commercial Registry Number",
+          "number": "2162998",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Chamber of Commerce Number",
+          "number": "505588",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Office 43-44",
+          "address2": "Al Fahedy",
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 59184,
+      "name": "Berkeley Trading LLC",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0628\u06cc\u0631\u06a9\u0644\u06cc \u0644\u0644\u062a\u062c\u0627\u0631\u0629 \u0630 \u0645 \u0645"
+      ],
+      "ids": [
+        {
+          "type": "License",
+          "number": "949125",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Registration Number",
+          "number": "11652580",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Chamber of Commerce Number",
+          "number": "360137",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Office No. 2103",
+          "address2": "Parcel 346-6876",
+          "address3": "Business Bay, Bur Dubai",
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 59185,
+      "name": "Integral Petro Energy Trading LLC",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0627\u0646\u062a\u062c\u0631\u0627\u0644 \u0628\u062a\u0631\u0648 \u0627\u0646\u0631\u062c\u06cc \u0644\u0644\u062a\u062c\u0627\u0631\u0629 \u0630 \u0645 \u0645",
+        "Integral Petro Energy Company",
+        "Integral Petro Energy Trading EST"
+      ],
+      "ids": [
+        {
+          "type": "Registration Number",
+          "number": "11835924",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "License",
+          "number": "1040124",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Chamber of Commerce Number",
+          "number": "391671",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Office No. 1010, 10th Floor, Citadel Tower",
+          "address2": "Business Bay",
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 59186,
+      "name": "Robust Trading LLC",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13871"
+      ],
+      "countries": [
+        "AE"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0631\u0648\u0628\u0633\u062a \u0644\u0644\u062a\u062c\u0627\u0631\u0629 \u0630 \u0645 \u0645"
+      ],
+      "ids": [
+        {
+          "type": "License",
+          "number": "EE4941",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "License",
+          "number": "1475337",
+          "country": "United Arab Emirates"
+        },
+        {
+          "type": "Chamber of Commerce Number",
+          "number": "597927",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Office No. 654, Al Barshaa 1",
+          "address2": "Bur Dubai",
+          "city": "Dubai",
+          "country": "AE"
+        }
+      ]
+    },
+    {
+      "uid": 59187,
+      "name": "Iran Center for Exchange of Currency and Gold",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0631\u06a9\u062a \u0645\u0631\u06a9\u0632 \u0645\u0628\u0627\u062f\u0644\u0647 \u0627\u0631\u0632 \u0648 \u0637\u0644\u0627\u06cc \u0627\u06cc\u0631\u0627\u0646"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "14012122602",
+          "country": "Iran"
+        },
+        {
+          "type": "Registration Number",
+          "number": "611059",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "Floor 2, No. 70, Shahid Khaled Islambouli Street",
+          "address2": "30th Alley, Argentina-Saei",
+          "city": "Tehran",
+          "state": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 59230,
+      "name": "Mellat Exchange Company",
+      "entry_type": "Entity",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": null,
+      "nationalities": [],
+      "aliases": [
+        "\u0634\u0631\u06a9\u062a \u0635\u0631\u0627\u0641\u06cc \u0645\u0644\u062a"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "10103581206",
+          "country": "Iran"
+        },
+        {
+          "type": "Registration Number",
+          "number": "321010",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": [
+        {
+          "address1": "No. 54, Corner of 19th Alley, Nelson Mandela Boulevard (Africa Street)",
+          "city": "Tehran",
+          "state": "Tehran",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "uid": 59231,
+      "name": "Akhlaghi Mahmoud",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1967-09-24",
+      "nationalities": [],
+      "aliases": [
+        "\u0627\u062e\u0644\u0627\u0642\u06cc \u0645\u062d\u0645\u0648\u062f"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "4569381731",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 59232,
+      "name": "Fazlju Parviz",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1979-03-16",
+      "nationalities": [],
+      "aliases": [
+        "\u0641\u0636\u0644\u062c\u0648 \u067e\u0631\u0648\u06cc\u0632"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "2850187267",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    },
+    {
+      "uid": 59233,
+      "name": "Abbasi Mohammad Hossein",
+      "entry_type": "Individual",
+      "programs": [
+        "IRAN-EO13902"
+      ],
+      "countries": [
+        "IR"
+      ],
+      "list_type": "SDN",
+      "dob": "1977-08-23",
+      "nationalities": [],
+      "aliases": [
+        "\u0639\u0628\u0627\u0633\u06cc \u0645\u062d\u0645\u062f \u062d\u0633\u06cc\u0646"
+      ],
+      "ids": [
+        {
+          "type": "National ID No.",
+          "number": "0058581758",
+          "country": "Iran"
+        }
+      ],
+      "crypto_wallets": [],
+      "addresses": []
+    }
+  ],
+  "removals": [],
+  "updates": []
+}
